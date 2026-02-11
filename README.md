@@ -266,7 +266,55 @@ Model, ktorý skúma faktory ovplyvňujúce výšku nájomného bytov, je relat�
   - **Reality Alpia sa vyhýbajú celému oravskému regiónu**. Silnú prítomnosť majú **na Liptove, v Turci a Žiline**.
   - **Realitné kancelárie SR nepôsobia na severnej Orave a v okrese Ružomberok**. **Silné postavenie*- majú najmä **v Turci, okrese Žilina** a jej okolí.
   - **Realitná kancelária RED** pôsobí takmer **výhradne v Žiline** a okolí.
-  - **BeMi sa orientuje na Považie, Kysuce, Oravu** a v menšej miere na Liptov. **V Turci nepôsobí vôbec**.
+  - **BeMi sa orientuje na Považie, Kysuce, Oravu** a v menšej miere na Liptov. **V Turci nepôsobí vôbec**. <br>
+
+<img width="1149" height="643" alt="11" src="https://github.com/user-attachments/assets/f6b120eb-0812-4509-8dc4-322547f0788f" /> <br>
+
+### 9.4 Top 12 realitných kancelárií podľa typu nehnuteľností
+  - Z pohľadu stratégie sa jednotlivé realitné kancelárie odlišujú aj v tom, do akej miery sa zameriavajú na jednotlivé typy nehnuteľností (byty, domy, pozemky).
+    - **Vyvážené portfólio:** MGM reality, B10 Slovensko, RE/MAX Slovakia, RIEŠIME BÝVANIE
+    - **Orientácia na byty a domy**: TUreality, Reality Alpia, Realitná kancelária RED
+    - **Orientácia na domy a pozemky**: Realitné kancelárie SR, BeMi, TARGETreal, 1. Reality Rent
+  - Dve **najväčšie realitné kancelárie v kraji** (TUreality a Reality Alpia) **spolu s najväčšou realitnou kanceláriou v Žiline** (Realitná kancelária RED) **majú stratégiu zameranú na byty a domy**. Zrejme to súvisí s tým, že:
+    - **Oceňovanie bytov a domov je presnejšie a spoľahlivejšie** (vidno to aj na presnosti mojich modelov). Oceňovanie pozemkov je z tohto pohľadu riskantnejšie;
+    - **Byty a domy sa predávajú častejšie**, čo zvyšuje istotu predaja a zároveň umožňuje ľahšie porovnávanie cien;
+    - **Taktiež sa ľahšie štandardizujú firemné procesy** vďaka repetitívnosti, ktorú prináša podobnosť jednotlivých predajov bytov a domov.
+### 9.5 Top 12 realitných kancelárií podľa typu ponúk
+  - V Žilinskom kraji predstavujú nájomné ponuky približne 12% zo všetkých ponúk.
+  - **Nadpriemerný podiel nájomných ponúk** majú **Reality Alpia** (19%), **Realitná kancelária RED** (15%) a **Realitné kancelárie SR** (15%).
+  - TUreality sa napriek silnej orientácii na byty nájomným ponukám vyhýba.
+  - Na druhú stranu Realitné kancelárie SR, ktoré majú v protfóliu menší podiel bytov, majú pomerne silnú orietnáciu na prenájom (50% ich bytov sú nájomné).
+### 9.6 Top 12 realitných kancelárií podľa stavu nehnuteľností
+  - Kategórie:
+    - **Vyvážené portfólio:** MGM reality, RE/MAX Slovakia, Realitné kancelárie SR, TARGETreal
+    - **Orientácia na pôvodný stav a rekonštrukciu:** 1. Reality Rent, B10 Slovakia, BeMi, Reality Alpia, RIEŠIME BÝVANIE, TUreality
+    - **Orientácia na kompl. rekonštrukciu a novostavby:** Realitná kancelária RED
+  - **Realitná kancelária RED** sa silne orientuje na **nehnuteľnosti v dobrom stave** (kompletná rekonštrukcia, novostavba).
+  - **TUreality** sa primárne orientuje na **čiastočne zrekonštruované nehnuteľnosti**.
+  - Z doterajšej analýzy je vidno, že **realitné kancelárie s najväčším počtom ponúk** (napríklad TUreality, RED) majú tendenciu byť **úzko špecializované**. <br> <br>
+
+## 10. Vplyv cenovej politiky na počet ponúk 
+<img width="1148" height="644" alt="12" src="https://github.com/user-attachments/assets/f5403309-56ef-4b71-a2e5-b6765782c450" /> <br>
+### 10.1 Podľa kategórie nehnuteľností
+  - Spomedzi kategórií nehnuteľností **trh najmenej odpúšťa chybné ocenenie bytov**. Ak chce realitná kancelária zaujať popredné miesto v tomto segment, **môže sa cenovo odchýliť o nanajvýš 4-5%**. Absolútnym **lídrom predajných bytových ponúk** je realitná kancelária **TUreality** (64 ponúk), ktorá sa v priemere takmer vôbec cenovo neodchyľuje od skutočnej hodnoty bytov (-0,06%). Ďalšími významnými hráčmi v tomto segmente sú **RED, Reality Alpia, RESIDENCE či B10 Slovensko**, ktoré spravujú do 40 ponúk.
+  - **V prípade domov je trh o niečo zhovievavejší** (od -12% do 5%). **Ideálne** je však oceňovať domy **v rozmedzí od -3% do 5%** oproti ich priemernej hodnote. Podľa analýzy zvyknú mať vyšší počet ponúk najmä tie realitné agentúry, ktoré ceny domov jemne nadhodnocujú. V tomto segmente **jednoznačného lídra nevidíme**, medzi významné realitné kancelárie však patria **TUreality** (60 ponúk), **Reality Alpia** (57 ponúk) či **Realitné kancelárie SR** (52 ponúk). 
+  - **Najzhovievavejším je trh voči nepresnému oceňovaniu pozemkov**. Viac však odpúšťa podhodnocovanie (až do -13%, resp. v prípade B10 Slovensko až do -20%) než nadhodnocovanie (maximálne +6%). Podobne ako v prípade bytov tu **nevidíme jasného lídra segmentu**, avšak najvýznamnejšími realitnými kanceláriami vo vzťahu k pozemkom sú **Realitné kancelárie SR** (46 ponúk), **BeMi** (41 ponúk) či **1. Reality Rent** (36 ponúk).
+  - Uvedené závery do veľkej miery vyplývajú zo skutočnosti, že správne **oceňovanie nehnuteľností je v prípade bytov najľahšie** kvôli vzájomnej podobnosti bytov a obmedzeného množstva faktorov, ktoré ovplyvňujú výslednú cenu. Na druhú stranu **oceňovanie domov a najmä pozemkov býva spravidla ťažšie uchopiteľné**, čoho výsledkom je, že trh v ich prípade ľahšie stoleruje prípadné odchýlky. **Nedá sa preto povedať, že by bol nejaký zo segmentov priaznivejší pre realitnú kanceláriu, ktorá vstupuje na trh**. **Najlepšou stratégiou je zrejme čo najviac zdokonaliť presnosť oceňovania nehnuteľností**, čo sa najjednoduchšie dosiahne tým, že sa realitná kancelária zameria na jednu kategóriu nehnuteľností, a následne môže experimentovať s jemnými odchýlkami v medziach uvedených percentuálnych intervalov. <br> <br>
+
+<img width="1147" height="643" alt="13" src="https://github.com/user-attachments/assets/c1f9d52e-90e9-4c1e-8b87-51a1161bb03f" /> <br>
+### 10.2 Podľa typu bytov
+  - **Pri bytoch s tromi a menej izbami nie je vidieť zásadný rozdiel naprieč bytmi jednotlivých typov** v tom, ako oceňovanie nehnuteľností ovplyvňuje počet ponúk, ktoré jednotlivé realitné kancelárie spravujú. Ak je v záujme realitnej kancelárie patriť medzi top 10% hráčov v tom-ktorom segment, **je potrebné, aby prípadná cenová nepresnosť nebola väčšia než 2-4%**. Ojedinelou výnimkou je realitná kancelária FINREA, ktorá sa v priemere odchyľuje až o takmer -10%, no napriek tomu patrí medzi realitné kancelárie s najvyšším počtom ponúk predaja trojizbových bytov. 
+  - **Pri väčších bytoch** (štyri a viac izbových) vidíme medzi najúspešnejšími hráčmi  podstatne **výraznejšie odchýlky v cenovej politike**, a to v rozsahu od -9% (RED) do 12% (Reality Alpia). Zdá sa však, že **trh preferuje podhodnocovanie**, keďže jedinou poprednou realitnou kanceláriou s pozitívnym cenovým indexom v tomto segmente sú Reality Alpia.
+  - Pre realitnú kanceláriu, ktorá začína na tomto trhu pôsobiť, je to signál, že **priestor na experimentovanie s cenovou politikou je v prípade bytov relatívne úzky**.
+  - Zaujímavosťou je, že **pri jednotlivých typoch bytov je vidieť jednoznačných lídrov** v danom segmente: garsónky/jednoizbové byty – WFG (13 ponúk), dvojizbové byty – RED (18 ponúk), trojizbové byty – TUreality (38 ponúk). <br> <br>
+
+<img width="1149" height="643" alt="14" src="https://github.com/user-attachments/assets/c3457361-ddc7-4c17-9791-0accf7c6ad43" /> <br>
+### 10.3 Podľa veľkosti domov
+  - **Pri malých** (do 150 m²) **aj veľkých domoch** (nad 150 m²) **môžeme pozorovať veľmi podobný percentuálny rozsah cenovej odchýlky** (13% a 14%), ktorý dovoľuje realitným kanceláriám zaradiť sa medzi 10% kancelárií s najvyšším počtom ponúk. 
+  - Rozdielom však je, že **pri menších domoch trh toleruje viac nadhodnocovanie**, zatiaľ čo **pri väčších domoch toleruje viac podhodnocovanie**, a to **v oboch prípadoch až do 10%**.
+  - **V segmente menších domov sú absolútnym lídrom Romantické Chalupy** s 30 ponukami. S odstupom až 14 ponúk nasledujú zvyšné realitné kancelárie.
+  - **Pri veľkých domoch nemá žiadna realitná kancelária až natoľko dominantné postavenie** ako v prípade menších domov, avšak **je tu viacero výrazných hráčov**, ktorí majú medzi sebou relatívne veľké rozostupy – Reality Alpia (57 ponúk), TUreality (46 ponúk), Realitné kancelárie SR (37 ponúk), RIEŠIME BÝVANIE (25 ponúk) či realitná kancelária RED (21 ponúk). Vo všetkých prípadoch však ide o relatívne presné oceňovanie domov (maximálne 3-percentná odchýlka). Zároveň z toho vyplýva **vysoká trhová koncentrácia** najväčších hráčov.
+
 
 
 
