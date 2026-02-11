@@ -363,4 +363,91 @@ Jednotlivé segmenty trhu boli zadefinované na základe typu ponuky (predaj/pre
   4. **Domy - novostavby** (v okresoch Martin a Žilina)
   5. **Domy - pôvodný stav** (v okresoch Žilina a Martin)
   6. **Byty - rekonštrukcia** (v okresoch Martin a Žilina)
+<br> <br>
+
+<img width="1150" height="646" alt="21" src="https://github.com/user-attachments/assets/2c465a12-59c0-4eb7-adac-045524154c27" /> <br>
+## 11. Okres Bytča
+Ide o relatívne malý okres, ktorý sa vďaka svojej polohe blízko Žiliny a dobrej dopravnej infraštruktúre radí medzi atraktívnejšie okresy z pohľadu nehnuteľností. Okres je silne zameraný na nájomné ponuky. Z pohľadu investičných bytov je potenciál okresu obmedzený. Oplatiť sa môže azda len kompletne zrekonštruovaný dvojizbový byt v centre Bytče, pokiaľ by bol za výhodnú cenu. Silné zastúpenie v okrese majú dve lokálne realitné kancelárie – TOCA a Fortio Popper, ktoré majú úzke zameranie, v rámci ktorého dominujú na bytčianskom trhu, čo zároveň môže sťažovať vstup na trh novým potenciálnym hráčom. Keďže však ide o malý okres, súčasný stav trhu sa môže rýchlo zmeniť, pretože aj drobné zmeny tu majú veľký význam.
+### 11.1 Prehľad
+  - **Jemne nadpriemerný počet ponúk** (51 na 10-tisíc obyvateľov)
+  - **Priemerný podiel novostavieb** (36%)
+  - **Jemne podpriemerný počet novostavieb** (12 na 10-tisíc obyvateľov)
+  - **Najnižší priemerný vek nehnuteľností** spomedzi okresov (21 rokov)
+  - **Stredná úroveň cien** spomedzi okresov (cenový index -10%)
+  - **Druhý najdrahší okres z pohľadu nájmu** (nájomný index 6,6%)
+### 11.2 Byty podľa typu
+  - **Prevládajú dvojizbové byty** na rozdiel od zvyšku okresov, kde ide zväčša o  trojizbové byty.
+  - **Veľmi silná orientácia na prenájom** (63% ponúk). V ostatných okresoch je to naopak – výrazne prevláda predaj. Toto môže zároveň vysvetľovať, prečo je tu viac dvojizbových bytov, sú totiž spravidla najvhodnejšie na prenájom.
+### 11.3 Počet ponúk podľa stavu nehnuteľnosti
+  - **Prevažujú nehnuteľnosti v dobrom stave** (kompletná rekonštrukcia – 30% ponúk, novostavba – 31% ponúk).
+  - **Na prenájom** sú ponúkané **len kompletne zrekonštruované** nehnuteľnosti **a novostavby**.
+### 11.4 Počet ponúk podľa kategórie
+  - Veľmi **vyrovnaná ponuka typov nehnuteľností** (byty – 30%, domy – 36%, pozemky – 34%).
+### 11.5 Pomer ceny a ročného nájomného (PTR)
+  - Napriek priaznivému rozdielu medzi cenovým a nájomným indexom **sa okres Bytča zdá byť nie veľmi výhodný z pohľadu investičných bytov**.
+  - **Výnimkou** môže byť **kompletne zrekonštruovaný dvojizbový byt vo Veľkej Bytči**, ale len pri cene **do 2 340 € za m2**, čo by bolo výrazne pod priemerom okresu. <br> <br>
+
+<img width="1149" height="646" alt="22" src="https://github.com/user-attachments/assets/613103a5-6793-438d-94cf-42c0356a99bc" /> <br>
+### 11.6 Cenový index
+  - **Ceny bytov** (-15%) predstavujú **nižšiu strednú hodnotu** spomedzi okresov.
+  - **Ceny domov** (0%) predstavujú **priemer cien v Žilinskom kraji**.
+  - Cenový index pozemkov (-5%) ukazuje, že pozemky sa predávajú pod priemernou cenou kraja, ale napriek tomu má okres Bytča **tretie najdrahšie pozemky v kraji**. Priemer výrazne posúva dohora okres Žilina.
+### 11.7 Nájomný index
+  - Celkový **nájomný index tlačia dohora** najmä **ceny nájomných domov** (nájomný index = 26%), pri ktorých vychádza Bytča ako **najdrahší okres**. Treba to však brať s rezervou, keďže domy sa zvyknú prenajímať málo.
+  - O niečo **výpovednejší je nájomný index bytov** (3,4%), podľa ktorého je Bytča **druhý najdrahší okres** hneď po Žiline (11%).
+### 11.8 Ponuka obytných bytov na predaj
+  - Okres Bytča je relatívne malý, a tak je v ňom prirodzene aj **nízky počet bytov na predaj** (najmä garsónok a jednoizbových bytov), na základe ktorých by bolo možné spoľahlivo určiť celkový stav cenovej ponuky.
+  - **Z pohľadu dvojizbových bytov** (2 900 € za m2) vychádza **okres Bytča ako stredne drahý**.
+  - **Z pohľadu trojizbových bytov** (1 800 € za m2) však **Bytča patrí medzi najlacnejšie okresy**.
+### 11.9 Ponuka obytných bytov na prenájom
+  - **Z hľadiska prenájmu dvojizbových bytov** je okres Bytča **na štvrtom mieste** (11,2 € na m²). V porovnaní so Žilinou (11,9 € /na m²) pri byte s veľkosťou 50 m² by bol rozdiel v mesačnom nájomnom 35 € (Bytča 560 €, Žilina 595 €), čo nie je taký závratný rozdiel.
+  - **Prenájom trojizbového bytu** je dokonca v okrese Bytča (10,8 € na m²) v porovnaní so Žilinou (10,1 € na m²) **drahší** .
+### 11.10 Lokality podľa cenového indexu
+  - **Najviac bytov sa predáva vo Veľkom Rovnom** (6) **a Veľkej Bytči** (3). Celkovo je však počet bytov na predaj pomerne nízky, čo zároveň znemožňuje jednoznačne zadefinovať lokality z pohľadu ceny.
+### 11.11 Lokality podľa cenového indexu domov
+  - Ponúk domov na predaj je o niečo viac, a teda vieme presnejšie určiť, ktoré lokality sú z pohľadu bývania zaujímavé.
+  - Medzi **najdrahšie lokality** z pohľadu domov patria:
+    - **Hliník nad Váhom** (cenový index = 17%, 16 ponúk)
+    - **Kotešová** (cenový index = 39%, 6 ponúk)
+    - **Kolárovice** (cenový index = 10%, 5 ponúk)
+    - **Veľká Bytča** (cenový index = 34%, 3 ponuky)
+  - Medzi **lokality s lacnými domami** patria:
+    - **Veľké Rovné** (cenový index = -20%, 9 ponúk),
+    - **Bytča-sever** (cenový index = -12%, 3 ponuky)
+    - **Hlboké nad Váhom** (cenový index = -14%, 3 ponuky)
+### 11.12 Lokality podľa nájomného indexu
+  - V okrese Bytča sa nehnuteľnosti prenajímajú **len v troch lokalitách** – **Veľká Bytča**, **Thurzove sady** a **Veľké Rovné**.
+  - **Drvivá väčšina ponúk** (90%) **sa nachádza vo Veľkej Bytči**, kde je zároveň aj **vysoký nájomný index** (12%).
+  - **V Turzových sadoch sa nachádza developerský projekt Jablone**. **Nájomných ponúk tam je však málo** (2) a nájomný index (6%) majú nižší ako byty vo Veľkej Bytči.
+<br> <br>
+
+<img width="1147" height="643" alt="23" src="https://github.com/user-attachments/assets/9a86c0f8-457c-49d0-996a-7c4be7c07d9f" /> <br>
+### 11.13 Popredné realitné kancelárie podľa počtu ponúk
+  - Realitné kancelárie s najväčším počtom ponúk sú **TOCA** (30), **Fortio Popper** (24), **RIEŠIME BÝVANIE** (8) a **Realitné kancelárie SR** (7).
+  - Vyzerá to akoby mali TOCA a Fortio Popper rozdelené pôsobenie. Zatiaľ čo **TOCA spravuje väčšinu ponúk domov a pozemkov**, **Fortio Popper sa zameriava čisto len na byty**, pričom **spravuje až takmer 50% bytových ponúk** v okrese.
+### 11.14 Stav ponúk spravovaných top 4 realitnými kanceláriami
+  - Spoločnosť **Fortio Popper sa orientuje čisto na kompletne zrekonštruované byty**, pričom **spravuje 73% percent ponúk** s kompletnou rekonštrukciou v okrese Bytča.
+  - Na druhú stranu najväčšia kancelária **TOCA nespravuje žiadne kompletne zrekonštruované nehnuteľnosti**, hoci jej portfólio je v ostatných ohľadoch viac-menej vyvážené.
+### 11.15 Ponuky spravované top 4 realitnými kanceláriami podľa typu
+  - Realitná kancelária **TOCA** sa zameriava **čisto len na predajné ponuky**.
+  - **Fortio Popper** sa na druhú stranu zameriava **len na nájomné ponuky**, pričom **spravuje až 77% z nich**, čo môže čiastočne vysvetľovať aj nadštandardnú cenu nájomných bytov.
+### 11.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **Aj z pohľadu lokality je vidieť jednoznačnú demarkáciu medzi pôsobením jednotlivých realitných kancelárií**, čo však môže byť spôsobené portfóliom ich vzájomných ponúk.
+  - Zatiaľ, čo **Fortio Popper pôsobí výhradne vo Veľkej Bytči** (centrum Bytče), **TOCA dominuje vo väčšine priľahlých lokalít**.
+### 11.17 Popredné realitné kancelárie podľa trhového podielu
+  - **Najväčšie dve realitné kancelárie ovládajú 36% bytčianskeho trhu** – TOCA (20%), Fortio Popper (16%).
+  - **Päť najväčších realitných kancelárií ovláda viac ako polovicu trhu**.
+  - **Počet ponúk na realitnú kanceláriu je približne 4**, čo je pomerne nízke číslo.
+  - Z toho vyplýva, že ide o **silne konkurenčný trh s pomerne významnými hráčmi**. **Príležitostí pre nových hráčov** sa v okrese Bytča preto javí byť **málo**.
+<br> <br>
+
+<img width="1148" height="645" alt="24" src="https://github.com/user-attachments/assets/a3e5084c-8fc8-4c89-8270-108bc14fea67" /> <br>
+## 12. Okres Žilina
+Okres Žilina predstavuje centrum Žilinského kraja. Je to okres s vysokou úrovňou realitného rozvoja. Zároveň ide o najdrahší okres v kraji, ako z pohľadu predaja, tak aj nájmu, pričom najdrahšími nehnuteľnosťami sú byty a pozemky. Podobne ako v iných okresoch aj tu sa trh orientuje viac na predaj než na prenájom. Ponuka typov nehnuteľností je vyvážená a zväčša ide o nehnuteľnosti v dobrom stave. Novostavby sa ponúkajú takmer výhradne na predaj, zatiaľ čo zrekonštruované nehnuteľnosti sa často ponúkajú aj na prenájom. 
+<br> <br>
+Najlepší investičný výnos ponúkajú zrekonštruované dvojizbové byty v Starom meste. Ale solídny výnos môžu mať z pohľadu typu aj trojizbové byty; z pohľadu stavu – novostavby; a z pohľadu lokality – nehnuteľnosti na sídliskách Hliny a Vlčince. 
+<br> <br>
+V okrese Žilina je taktiež možné pozorovať vysoký dopyt po malých bytoch – garsónkach a jednoizbových bytoch (na predaj aj na prenájom), čo svedčí o výbornej prenajímateľnosti. Najdrahšie byty sú na sídliskách a v centrálnych štvrtiach mesta Žilina. Najdrahšie domy sú v centre Žiliny a v priľahlých obciach s novou domovou výstavbou. Z pohľadu prenájmu sú atraktívnejšie sídliská než centrum mesta. 
+<br> <br>
+Z hľadiska pôsobenia realitných kancelárii ide o okres s výraznou konkurenciou. Pôsobí tu viac než sto realitných kancelárií, pričom viaceré z nich sú silne orientované práve na žilinský okres a často sú úzko špecializované. Najvýraznejším realitným kanceláriám (Realitná kancelária RED, MGM reality, WFG reality) sa darí získavať atraktívne ponuky z pohľadu rizika a výšky provízie, t. j. byty a domy vo výbornom stave. Stav konkurencie je jedným najpriaznivejších v celom kraji z pohľadu vstupu nových hráčov na trh, hoci ide vo všeobecnosti stále o pomerne saturovaný trh.
 
