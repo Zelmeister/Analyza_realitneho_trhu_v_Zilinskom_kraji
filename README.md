@@ -250,4 +250,23 @@ Model, ktorý skúma faktory ovplyvňujúce výšku nájomného bytov, je relat�
   - Podobne ako pri bytoch na predaj aj v prípade nájomných bytov je viditeľný **pozitívny účinok vylepšeného stavu bytu na cenu nájmu**.
   - Avšak **na rozdiel od bytov na predaj**, pri ktorých **sa priaznivý vplyv zdvojnásoboval s každým vylepšením stavu**, v prípade nájomných bytov **tento trend nevidieť**.
   - Na druhej strane pri nájomných bytoch **majú najväčší vplyv najnižšie úrovne vylepšenia stavu**. Napríklad **čiastočná rekonštrukcia má pomerne veľký vplyv** na výslednú cenu (+18% zo základnej ceny). V prípade bytov zvýšila čiastočná rekonštrukcia cenu bytu len o 5% zo základnej ceny. Ak hovoríme o kompletnej rekonštrukcii, je to +26% pri nájomných bytoch a +13% pri bytoch na predaj. Pri novostavbách sa už tento rozdiel takmer stráca (nájomné byty +30%, byty na predaj +26%).
-  - Z toho vyplýva, že **ak je cieľom byt prenajímať**, môže byť **výhodnejšie kúpiť byt s menej rozsiahlou rekonštrukciou**, pretože taký byt bude výrazne lacnejší než novostavba a zároveň bude relatívne podobne prenajímateľný z pohľadu ceny ako byty v lepšom stave. Tento záver zároveň potvrdzuje pomer ceny voči ročnému nájmu, podľa ktorého bývajú najvýhodnejšími tie byty, ktoré sú kompletne zrekonštruované.
+  - Z toho vyplýva, že **ak je cieľom byt prenajímať**, môže byť **výhodnejšie kúpiť byt s menej rozsiahlou rekonštrukciou**, pretože taký byt bude výrazne lacnejší než novostavba a zároveň bude relatívne podobne prenajímateľný z pohľadu ceny ako byty v lepšom stave. Tento záver zároveň potvrdzuje pomer ceny voči ročnému nájmu, podľa ktorého bývajú najvýhodnejšími tie byty, ktoré sú kompletne zrekonštruované. <br> <br>
+
+<img width="1149" height="643" alt="10" src="https://github.com/user-attachments/assets/d5ea28de-9817-4d4f-9b13-77dbdfcb50b6" /> <br>
+## 9 Analýza konkurencie
+### 9.1 Top 12 realitných kancelárií v kraji podľa počtu ponúk
+  - Z pohľadu počtu ponúk **nevidieť, že by niektorá z realitných kancelárií** v Žilinskom kraji **mala jednoznačné dominantné postavenie** oproti konkurencii.
+  - S viditeľným, nie však zásadným odstupom je **na čele rebríčka** počtu ponúk trojica realitných kancelárií – **TUreality, Reality Alpia a Realitné kancelárie SR**.
+### 9.2 Hodnotenie okresov podľa príležitostí pre nových hráčov
+  - Príležitosti pre nových hráčov v jednotlivých okresoch boli posudzované z pohľadu priemerného počtu ponúk pripadajúcich na jednu realitnú kanceláriu. Čím je tento údaj vyšší, tým je väčší priestor pre nových hráčov. **Celý Žilinský kraj má však veľmi nízky počet ponúk na realitnú kanceláriu**, čo do veľkej miery hovorí o **saturácii trhu** realitnými kanceláriami.
+  - Druhý faktor, ktorý bol braný do úvahy, je, aký veľký podiel trhu predstavuje päť najväčších realitných kancelárií v okrese. Tu je princíp opačný – čím nižší je ich podiel, tým je trh viac fragmentovaný, a teda tým je väčší priestor pre nových hráčov.
+  - Na základe uvedeného vychádza, že **najperspektívnejšími trhmi pre vstup nových hráčov sú okresy Žilina a Martin**. **Uvažovať sa prípadne dá ešte o okrese Liptovský Mikuláš**. Na druhú stranu **nízky potenciál** pre nových hráčov **majú oravské okresy** (Dolný Kubín, Námestovo a Tvrdošín) **a okres Bytča**.
+### 9.3 Lokality, v ktorých pôsobí top 5 realitných kancelárií
+  - **TUreality** sú aktívni **v celom Žilinskom kraji** s výnimkou okresu Čadca.
+  - **Reality Alpia sa vyhýbajú celému oravskému regiónu**. Silnú prítomnosť majú **na Liptove, v Turci a Žiline**.
+  - **Realitné kancelárie SR nepôsobia na severnej Orave a v okrese Ružomberok**. **Silné postavenie*- majú najmä **v Turci, okrese Žilina** a jej okolí.
+  - **Realitná kancelária RED** pôsobí takmer **výhradne v Žiline** a okolí.
+  - **BeMi sa orientuje na Považie, Kysuce, Oravu** a v menšej miere na Liptov. **V Turci nepôsobí vôbec**.
+
+
+
