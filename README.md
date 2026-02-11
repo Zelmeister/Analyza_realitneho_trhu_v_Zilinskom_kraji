@@ -230,9 +230,24 @@ Spomedzi hedonických modelov je model ceny pozemkov najmenej presný – R kvad
   - Lokalita **môže znížiť cenu pozemku o takmer 80 € na m²** (Bodorová, okres Turčianske Teplice) a **zvýšiť ju o viac než 200 € na m²** (Rosinky, Žilina).
   - **Vplyv lokality na cenu pozemku kopíruje vplyv lokality na cenu domu**. **Negatívne** ovplyvňujú cenu pozemku **odľahlé alebo vidiecke oblasti Kysúc, Oravy či okresov Turčianske Teplice a Ružomberok**. V menšej miere sú to aj niektoré lokality v okresoch Bytča, Martin či Liptovský Mikuláš.
   - **Okres Žilina** je jediným okresom **bez negatívneho vplyvu lokality na cenu** pozemku.
-### 7.4
+### 7.4 Terén
   - **Ohľadom vplyvu terénu na cenu pozemku nie je možné vytvoriť jednoznačný záver**. 
-  - V modeli pracujem s dvoma kategóriami terénu – rovinatý a svahovitý. Obe kategórie podľa modelu mierne znižujú cenu pozemku, a paradoxne rovinatý terén väčšmi než svahovitý terén. Inými slovami, cena pozemku je mierne vyššia, ak nie je **terén špecifikovaný vôbec, čo je v prípade inzerátov častý jav**.
+  - V modeli pracujem s dvoma kategóriami terénu – rovinatý a svahovitý. Obe kategórie podľa modelu mierne znižujú cenu pozemku, a paradoxne rovinatý terén väčšmi než svahovitý terén. Inými slovami, cena pozemku je mierne vyššia, ak nie je **terén špecifikovaný vôbec, čo je v prípade inzerátov častý jav**. <br> <br>
 
-
-
+<img width="1149" height="609" alt="09" src="https://github.com/user-attachments/assets/95d5ea4c-3a53-4903-a4ae-7662d87ba9be" /> <br>
+## 8. Hedonický model: Faktory ceny nájmu bytov
+Model, ktorý skúma faktory ovplyvňujúce výšku nájomného bytov, je relatívne presný. Jeho R kvadrát je 0.636, čiže model vysvetľuje 64% variability cien.
+### 8.1 Základná výška nájomného
+  - **Základná cena mesačného nájmu** fiktívneho bytu bez rozlohy, izieb a iných špecifikácií bola stanovená na **13,51 € na m²**.
+### 8.2 Veľkosť bytu
+  - Cena mesačného nájmu **sa znižuje o 0,41 € za každých 10 m²** bytu a **o 1,18 € za každú izbu**.
+### 8.3 Lokalita
+  - Lokalita môže **negatívne ovplyvniť cenu** mesačného nájmu **o bezmála 3€ na m²** (Partizánska Ľupča, okres Liptovský Mikuláš) a **pozitívne takmer o 5€ na m²** (Turčianska Štiavnička, okres Martin).
+  - **Priemerná lokalita zvyšuje cenu** mesačného nájmu **o 0.63 € na m²**.
+  - **Väčšina lokalít má pozitívny vplyv na cenu** mesačného nájmu.
+  - **Významné lokality, ktoré znižujú cenu** mesačného nájmu sú: **Rajec, Čadca, Ružomberok a Námestovo**
+### 8.4 Stav
+  - Podobne ako pri bytoch na predaj aj v prípade nájomných bytov je viditeľný **pozitívny účinok vylepšeného stavu bytu na cenu nájmu**.
+  - Avšak **na rozdiel od bytov na predaj**, pri ktorých **sa priaznivý vplyv zdvojnásoboval s každým vylepšením stavu**, v prípade nájomných bytov **tento trend nevidieť**.
+  - Na druhej strane pri nájomných bytoch **majú najväčší vplyv najnižšie úrovne vylepšenia stavu**. Napríklad **čiastočná rekonštrukcia má pomerne veľký vplyv** na výslednú cenu (+18% zo základnej ceny). V prípade bytov zvýšila čiastočná rekonštrukcia cenu bytu len o 5% zo základnej ceny. Ak hovoríme o kompletnej rekonštrukcii, je to +26% pri nájomných bytoch a +13% pri bytoch na predaj. Pri novostavbách sa už tento rozdiel takmer stráca (nájomné byty +30%, byty na predaj +26%).
+  - Z toho vyplýva, že **ak je cieľom byt prenajímať**, môže byť **výhodnejšie kúpiť byt s menej rozsiahlou rekonštrukciou**, pretože taký byt bude výrazne lacnejší než novostavba a zároveň bude relatívne podobne prenajímateľný z pohľadu ceny ako byty v lepšom stave. Tento záver zároveň potvrdzuje pomer ceny voči ročnému nájmu, podľa ktorého bývajú najvýhodnejšími tie byty, ktoré sú kompletne zrekonštruované.
