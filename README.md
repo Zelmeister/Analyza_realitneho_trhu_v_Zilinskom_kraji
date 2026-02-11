@@ -34,7 +34,7 @@ Analýza bola spracovaná **na základe dát z 3 872 inzerátov**, ktoré boli z
 
 ## Odporúčania
   - **Najvhodnejšími okresmi** pre vstup novej realitnej kancelárie na trh sa javia byť **okresy Martin a Žilina** z dôvodu toho, že ide o susediace okresy s vysokou úrovňou realitného rozvoja, ktoré zároveň ponúkajú relatívne nenáročný vstup do viacerých trhových segmentov.
-  - **Začínajúca realitná kancelárie by sa** na danom trhu **mala veľmi úzko profilovať**. Najmenej zaplneným priestorom sú v tomto ohľade pozemky, hoci proces ich oceňovania býva náročnejší a výnosy z predaja sú spravidla nižšie. Portfólio zamerané na byty alebo domy môže byť vhodnejšie z pohľadu nastavenia procesov. Odlíšiť sa však od významných konkurentov v tomto segmente, ako realitná kancelária RED, TUreality alebo WFG reality, môže byť náročnejšie.
+  - **Začínajúca realitná kancelárie by sa** na danom trhu **mala veľmi úzko profilovať**. Najmenej zaplneným priestorom sú v tomto ohľade pozemky, hoci proces ich oceňovania býva náročnejší a výnosy z predaja sú spravidla nižšie. Portfólio zamerané na byty alebo domy môže byť vhodnejšie z pohľadu nastavenia procesov. Odlíšiť sa však od významných konkurentov v tomto segmente, ako realitná kancelária RED, TUreality alebo WFG reality, môže byť náročnejšie. Zlatou cestou by mohlo byť portfólio zamerané na pozemky a domy, keďže pre okresy Martin a Žilina sa práve domy javia byť pomerne vhodným segmentom.
   - **Vysoká presnosť oceňovania nehnuteľností** je nevyhnutným predpokladom získavania ponúk. Hoci rôzne typy nehnuteľností podmieňujú presnosť oceňovania, platí, že realitná kancelária by sa mala usilovať o čo najvyššiu presnosť v rámci možností daného segmentu. Pri bytoch a domoch je žiadúce, aby odchýlka nepresiahla 4%. Pri pozemkoch je to zložitejšie, avšak realistickým všeobecným cieľom by mohla byť odchýlka do 8% s tým, že opatrnejšie treba pristúpiť k nadhodnocovaniu.
   - Investičné aktivity je vhodné smerovať na **dvojizbové kompletne zrekonštruované byty v Žiline** (Bôrik, Hliny, Staré mesto), **Martine** (Ľadoveň, Sever) alebo v **Liptovskom Mikuláši** (Staré mesto, Vrbica-Nábrežie). Cenová úroveň, do ktorej sú jednotlivé kombinácie výhodné, je uvedená v príslušnej časti analýzy.
 
@@ -313,8 +313,54 @@ Model, ktorý skúma faktory ovplyvňujúce výšku nájomného bytov, je relat�
   - **Pri malých** (do 150 m²) **aj veľkých domoch** (nad 150 m²) **môžeme pozorovať veľmi podobný percentuálny rozsah cenovej odchýlky** (13% a 14%), ktorý dovoľuje realitným kanceláriám zaradiť sa medzi 10% kancelárií s najvyšším počtom ponúk. 
   - Rozdielom však je, že **pri menších domoch trh toleruje viac nadhodnocovanie**, zatiaľ čo **pri väčších domoch toleruje viac podhodnocovanie**, a to **v oboch prípadoch až do 10%**.
   - **V segmente menších domov sú absolútnym lídrom Romantické Chalupy** s 30 ponukami. S odstupom až 14 ponúk nasledujú zvyšné realitné kancelárie.
-  - **Pri veľkých domoch nemá žiadna realitná kancelária až natoľko dominantné postavenie** ako v prípade menších domov, avšak **je tu viacero výrazných hráčov**, ktorí majú medzi sebou relatívne veľké rozostupy – Reality Alpia (57 ponúk), TUreality (46 ponúk), Realitné kancelárie SR (37 ponúk), RIEŠIME BÝVANIE (25 ponúk) či realitná kancelária RED (21 ponúk). Vo všetkých prípadoch však ide o relatívne presné oceňovanie domov (maximálne 3-percentná odchýlka). Zároveň z toho vyplýva **vysoká trhová koncentrácia** najväčších hráčov.
+  - **Pri veľkých domoch nemá žiadna realitná kancelária až natoľko dominantné postavenie** ako v prípade menších domov, avšak **je tu viacero výrazných hráčov**, ktorí majú medzi sebou relatívne veľké rozostupy – Reality Alpia (57 ponúk), TUreality (46 ponúk), Realitné kancelárie SR (37 ponúk), RIEŠIME BÝVANIE (25 ponúk) či realitná kancelária RED (21 ponúk). Vo všetkých prípadoch však ide o relatívne presné oceňovanie domov (maximálne 3-percentná odchýlka). Zároveň z toho vyplýva **vysoká trhová koncentrácia** najväčších hráčov. <br> <br>
 
+<img width="1148" height="642" alt="15" src="https://github.com/user-attachments/assets/91cec96e-1d6d-4e00-8876-602d9f1fadf3" /> <br>
+### 10.4 Podľa veľkosti pozemkov
+  - Pri jednotlivých kategóriách veľkosti pozemkov **nevidíme jednoznačný trend**, ktorý by svedčil napríklad o tom, že čím väčší je pozemok, tým viac trh toleruje nepresnosť ocenenia nehnuteľnosti.
+  - Pri všetkých kategóriách vidíme **relatívne veľký rozsah tolerancie odchýlky** od reálnej ceny. Paradoxne najnižší rozsah je vidieť pri nadštandardne veľkých pozemkoch, čo však môže byť výsledkom ich nižšieho počtu, čo môže spôsobiť, že sú v jednotlivých lokalitách jedinými reprezentantmi svojho druhu, a teda sa ako jediné podieľajú na výpočte priemernej ceny v danom segmente. 
+  - Ďalším záverom je, že **pozemkový segment trhu toleruje viac podhodnocovanie** než nadhodnocovanie. Významnou výnimkou je však spoločnosť Real Estate Group4U, ktorá má tendenciu výrazne nadhodnocovať ceny stredne veľkých pozemkov v okolí Žiliny (v priemere až o 70%) a napriek tomu patrí medzi špičku realitných kancelárií z pohľadu počtu ponúk.
+  - Ďalším pozorovaním je, že **pri pozemkoch nevidíme žiadnu realitnú kanceláriu s monopolným alebo dominantným postavením**. Najvýraznejším sa javí postavenie spoločnosti BALAŽI REAL ESTATE v segmente nadštandardne veľkých pozemkov (13 ponúk). Konkrétne ide o pozemky v okrese Martin. <br> <br>
 
+<img width="1148" height="645" alt="16" src="https://github.com/user-attachments/assets/d4a90c03-b081-40f3-bbf3-9207cb93f056" /> <br>
+### 10.5 Podľa stavu nehnuteľností
+  - **Naprieč všetkými stavmi nehnuteľností platí podobný percentuálny rozsah odklonenia sa od priemernej ceny nehnuteľností** (od -6% do 4%), ktorý umožňuje zaradiť sa medzi 10% realitných kancelárií s najvyšším počtom ponúk. 
+  - Pri nehnuteľnosti v pôvodnom stave je horná hranica až 11% (1. Reality Rent), tá však tvorí odchýlku od celkového trendu podobne ako 7% (RESIDENCE) v prípade novostavieb.
+  - Platí teda záver, že **presnosť oceňovania je dôležitá naprieč všetkými stavmi nehnuteľností** a priestor na odchýlky je relatívne malý. <br> <br>
 
+<img width="1148" height="643" alt="17" src="https://github.com/user-attachments/assets/64382397-31da-44e1-91d7-84e1aa14f619" /> <br>
+### 10.6 Podľa cenovej úrovne lokalít
+  - **Pri stredne drahých lokalitách** (napríklad sídliská Martina alebo Ružomberka) sa môže realitná kancelária pri oceňovaní nehnuteľností odchýliť **nanajvýš o 7% od priemernej ceny**, ak je v jej záujme patriť medzi 10% realitných kancelárií s najvyšším počtom ponúk v tomto segmente.
+  - **V prípade lacnejších lokalít** (napríklad obce na Kysuciach, Orave, Turci či v okolí Ružomberka) **aj drahších lokalít** (napríklad najatraktívnejšie lokality Žiliny, Liptovského Mikuláša, Dolného Kubína či Námestova) **je možné nehnuteľnosť podhodnotiť až o 9-10%, avšak nadhodnotiť nie viac ako o 6%**.
+  - V jednotlivých segmentoch **nie je vidieť monopolné či dominantné postavenie konkrétnej realitnej kancelárie**. <br> <br>
+
+<img width="1148" height="644" alt="18" src="https://github.com/user-attachments/assets/191ea847-5479-45d7-a337-14aefff46421" /> <br> <br>
+<img width="1148" height="643" alt="19" src="https://github.com/user-attachments/assets/f183ef93-bfc7-4161-b7e7-27aeb92efcd8" /> <br>
+### 10.7 Podľa regiónu
+  - **V regiónoch Horné Považie, Kysuce, Turiec a Liptov sa stav ponúk vo vzťahu k priemernému cenovému indexu realitných kancelárií správa relatívne podobne** – trh toleruje **podhodnocovanie o 5-8% a nadhodnocovanie o 3-5%** (pri pohľade na 10% spoločností s najvyšším počtom ponúk).
+  - **V prípade Oravy je tento rozsah o polovicu menší** (od -2% do 3%), čo naznačuje, že **presnosť určovania cien nehnuteľností tu zohráva významnejšiu rolu**. <br> <br>
+
+<img width="1147" height="641" alt="20" src="https://github.com/user-attachments/assets/0303f0a5-93ab-4c57-a2e9-3ebad44dd4b7" /> <br>
+## 11. Príležitosti vstupu do trhových segmentov
+Jednotlivé segmenty trhu boli zadefinované na základe typu ponuky (predaj/prenájom), kategórie nehnuteľnosti, stavu nehnuteľnosti a okresu. Hodnotenie týchto segmentov z pohľadu perspektívnosti pre vstup novej realitnej kancelárie na trh bolo založené na troch ukazovateľoch – **(1) trhová koncentrácia troch najväčších hráčov**, **(2) počet ponúk na realitnú kanceláriu** a **(3) počet ponúk na 10-tisíc obyvateľov**. Tieto ukazovatele posudzujú jednotlivé segmenty z pohľadu náročnosti prieniku na trh, intenzity konkurencie a množstva príležitostí. Výsledkom je hodnotenie segmentov známkou od 0 do 100.
+### 11.1 Typ ponuky
+  - Podľa priemerného skóre sa javia byť **výrazne perspektívnejšími predajné ponuky** než nájomné ponuky, čo je zrejme výsledkom nižšieho počtu nájomných ponúk. Ich podiel je v jednotlivých okresoch od 0% do 21%, čo znamená, že ide o segmenty s nedostatkom príležitostí pre úzko zameranú realitnú kanceláriu.
+### 11.2 Kategórie nehnuteľností
+  -	Asi nie je prekvapením, že **najväčší priestor pre vstup novej realitnej kancelárie na trh predstavujú pozemky**, ktoré majú oproti domom a bytom takmer dvakrát lepšie skóre. Dôvodom zrejme je, že oceňovanie pozemkov je odborne náročnejšie, sprostredkovanie predaja je spravidla pomalšie a zároveň neponúkajú takú vysokú províziu ako iné kategórie nehnuteľností.
+  - Ak však hodnotíme prísne len možnosť vstupu na trh, je to **vynikajúca príležitosť pre spoločnosť s kvalitným odborným zázemím** z hľadiska hodnotenia pozemkov.
+  - V našom hodnotení vychádzajú pozemky zároveň o niečo lepšie kvôli tomu, že ich nekategorizujeme podľa stavu, ako je to v prípade bytov a domov, a teda sa javí, že počet ponúk v segmente je vyšší.
+### 11.3 Stav nehnuteľností
+  - **Pôvodný stav, rekonštrukcia či novostavba sú všetko relatívne vhodné segmenty** z pohľadu vstupu novej realitnej kancelárie na trh. **Horšie skóre majú developerské projekty a nehnuteľnosti vo výstavbe**, ktorých je spravidla menej a sú dominantne spravované silnými hráčmi.
+### 11.4 Okresy
+  - **Najperspektívnejšími okresmi sú Martin** (42), **Liptovský Mikuláš** (42) a **Žilina** (41) na základe priemerného hodnotenia všetkých typov nehnuteľností. Ide o okresy, kde jednotlivé segmenty sú najmenej skonsolidované veľkými hráčmi a zároveň ponúkajú relatívne veľké množstvo príležitostí.
+  - **O čosi horšie hodnotenie**, hoci nie výrazne, majú okresy **Turčianske Teplice** (38), **Ružomberok** (37) **a Čadca** (36). 
+  - **O úroveň nižšie** sú okresy **Kysucké Nové Mesto** (25), **Námestovo** (25), **Dolný Kubín** (24) a **Bytča** (22).
+  - **Najnevhodnejší okres** pre vstup novej realitnej kancelárie na trh je s výrazným odstupom okres **Tvrdošín**, a to vo všetkých ohľadoch – je to silne skonsolidovaný trh s nízkym počtom príležitostí, pričom aj o to malé množstvo ponúk, ktoré je k dispozícii, by sa prípadná realitná kancelária musela deliť s veľkými množstvom konkurentov.
+### 11.5 Najperspektívnejšie segmenty z pohľadu vstupu na trh
+  1. **Pozemky** (najmä v okresoch Martin, Žilina, Litpovský Mikuláš, Turčianske Teplice a Čadca)
+  2. **Byty - novostavby** (v okresoch Liptovský Mikuláš a Žilina)
+  3. **Domy - čiastočná rekonštrukcia** (v okresoch Turčianske Teplice, Martin a Žilina)
+  4. **Domy - novostavby** (v okresoch Martin a Žilina)
+  5. **Domy - pôvodný stav** (v okresoch Žilina a Martin)
+  6. **Byty - rekonštrukcia** (v okresoch Martin a Žilina)
 
