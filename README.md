@@ -160,3 +160,79 @@ Tento model bol vytvorený s cieľom určiť, aký dopad majú jednotlivé vlast
   - **Väčšina lokalít má pozitívny vplyv na cenu bytu**. Priemerná lokalita zvyšuje cenu bytu o 223 € na m².
   - **Lokalita bude mať v zásade pozitívny vplyv na cenu bytu**, ak sa nachádza **v okresoch Žilina, Dolný Kubín alebo Liptovský Mikuláš**. Niektoré lokality miest ako Martin, Čadca či Námestovo majú tiež pozitívny vplyv na cenu.
   - **Lokality, ktoré znižujú cenu bytu sú vidiecke oblasti okresov Čadca, Martin, Turčianske Teplice a Námestovo**.
+### 5.4 Stav
+  - **Faktor s potenciálne druhým najväčším vplyvom** na cenu bytu je jeho stav.
+  - **Pozitívny efekt stavu bytu na cenu sa zdvojnásobuje s každou úrovňou zlepšenia stavu:**
+    - čiastočná rekonštrukcia: +131 €
+    - kompletná rekonštrukcia +340 €
+    - novostavba: + 659€
+    - v príprave: + 1 243€
+  - Dôsledkom toho je, že **novostavby a byty vo výstavbe môžu byť výrazne drahšie ako zrekonštruované byty**, čo môže byť dôvodom prečo **kompletne zrekonštruované byty majú vyšší investičný potenciál z pohľadu pomeru ceny a nájomného (PTR)** než novostavby.
+### 5.5 Poloha
+  - Model nevysvetľuje dostatočne presne, ktoré svetové strany ovplyvňujú ceny bytov pozitívne a ktoré negatívne. **Relatívne spoľahlivo vieme povedať len toľko, že ak je byt orientovaný na sever, zníži to jeho cenu až o 168 € na m²**.
+  - **Z pohľadu výškového umiestnenia platí „čím vyššie, tým lepšie“**. Každé dodatočné poschodie totiž zvyšuje cenu bytu **o 57 € na m²**.
+  - **Pozitívne ovplyvňuje cenu bytu aj dostupnosť výťahu**, a to konkrétne **o 171 € na m²**, čo znamená, že výťah má väčší vplyv na cenu než čiastočná rekonštrukcia.
+  - **Vo väčšine prípadov nemá poloha na cenu bytu taký zásadný vplyv ako lokalita a stav**. Avšak ak kúpite byt v pôvodnom stave na ôsmom poschodí v dome s výťahom, je to akoby ste kúpili byt na prízemí v novostavbe bez výťahu.
+### 5.6 Vek
+  - **Vek nehnuteľnosti nemá na cenu bytu významný vplyv**.
+  - **Za každých 10 rokov** sa cena bytu znižuje o **23 € na m²**. 
+  - Pri väčšine bytových domov ide o povojnovú výstavbu, pri ktorej vek nehnuteľnosti môže znížiť cenu bytu **maximálne o 180 € na m²**.
+  - Veku nehnuteľnosti má zmysel venovať vyššiu pozornosť, najmä ak ide o historické budovy v centrách miest.
+### 5.7 Apartmán
+  - Samostatnou kategóriou sú apartmánové byty, ktoré sú predávané **výrazne drahšie než obytné byty**, a to až **o 845 € na m²**. <br> <br>
+
+<img width="1149" height="644" alt="07" src="https://github.com/user-attachments/assets/2dc7b3d8-b348-4f70-832d-2d143abe99e3" /> <br>
+## 6. Hedonický model: Faktory ceny domov
+Tento model bol vytvorený s cieľom určiť, aký dopad majú jednotlivé vlastnosti domu na jeho cenu na m². R kvadrát modelu je 0.640, čo znamená, že model vysvetľuje 64% variability cien, čo ho robí trochu nepresnejším v porovnaní s bytovým modelom, avšak stále je relatívne spoľahlivým.
+### 6.1 Základná cena na m²
+  - **Základná cena** fiktívneho domu v pôvodnom stave, ktorý nemá žiadnu rozlohu ani iné špecifikácie je **3 874 € na m²**.
+  - Cena sa počíta na m² domu (nie pozemku).
+### 6.2 Veľkosť domu
+  - Podobne ako v prípade bytov – čím väčší je dom, tým je cena na m² nižšia.
+  - V prípade domov je **vzťah ceny a veľkosti domu jednoznačne logaritmický**. Inými slovami, pri menších domoch sa každý rozdiel vo veľkosti výrazne prejaví na cene na m², zatiaľ čo pri veľkých domoch nemá rozdiel vo veľkosti na cenu taký veľký vplyv.
+### 6.3 Veľkosť pozemku
+  - Veľkosť pozemku **pôsobí na cenu na m² domu priaznivo, ale len minimálne** (+13 € na 100 m²).
+  - To však vyplýva najmä z toho, že cena sa počíta na m² domu, a nie pozemku.
+  - **V skutočnosti môže pozemok tvoriť od 28%** (novostavba) až **do 68%** (pôvodný stav) **celkovej ceny** v závislosti od stavu domu:
+
+| Stav                    | 🟩 Hodnota pozemku | 🏠 Hodnota domu |
+| ----------------------- | --------------------| ---------------- |
+| pôvodný stav            | 68%                 | 32%              |
+| čiastočná rekonštrukcia | 46%                 | 54%              |
+| kompletná rekonštrukcia | 35%                 | 65%              |
+| novostavba              | 28%                 | 72%              |
+| vo výstavbe             | 34%                 | 66%              |
+| developerský projekt    | 53%                 | 47%              |
+
+  - Z uvedenej tabuľky vidno **dva faktory, ktoré ovplyvňujú pomer hodnoty pozemku a domu** – **stav nehnuteľnosti** a **jej dostupnosť v reálnom čase**. Čím je dom v lepšom stave, tým väčšiu hodnotu voči pozemku bude mať. Ak však dom nie je ešte k dispozícií kvôli výstavbe, hoci v budúcnosti pôjde o novostavbu, jeho hodnota voči pozemku bude nižšia.
+### 6.4
+  - Ak sa pozrieme na cenu celej nehnuteľnosti, t. j. domu a pozemku, rovnako môžeme pozorovať, že čím je dom v lepšom stave, tým je jeho cena vyššia (pokiaľ nejde o dom vo výstavbe).
+  -	**Dom, ktorý nie je ešte dostavaný, je na rovnakej cenovej úrovni ako dom s kompletnou rekonštrukciou**.
+  - **Ide o iný trend ako v prípade bytov**. To, že je byt v príprave, má dvojnásobne taký priaznivý dopad na cenu v porovnaní s tým, ak ide o byt-novostavbu. Inými slovami to, že bude byt k dispozícii až v budúcnosti zvyšuje jeho cenu. Na druhej strane ak bude dom k dispozícii až v budúcnosti, jeho cena bude v porovnaní s novostavbou, ktorá je k dispozícii už dnes, nižšia.
+### 6.5 Lokalita  
+  - Podobne ako v prípade bytov aj v prípade domov má lokalita **významný vplyv na cenu**. Avšak pri domoch je rozsah vplyvu lokality na cenu na m² približne o polovicu menší.
+  - To však neznamená, že sa to výrazne neprejaví na celkovej cene nehnuteľnosti, ktorá je v prípade domov z podstaty veci vyššia.
+  - Lokality môže **zvýšiť cenu domu o viac ako 1 000 € na m²** (Malá Praha, Žilina) alebo **znížiť cenu takmer o 600 € na m²** (Diaková, okres Martin).
+  - Drvivá **väčšina lokalít má pozitívny vplyv na cenu**. Priemerná lokalita zvyšuje cenu domu približne o 250 € na m².
+  - Jediné **lokality, ktoré majú negatívny vplyv** na cenu domov sú **odľahlé oblasti okresu Čadca**, **vidiecke oblasti okresu Bytča**, prevažná časť **okresu Turčianske Teplice** a **ojedinelé lokality** v okresoch **Martin a Ružomberok a na Orave.**
+### 6.6 Vek
+  - Podobne ako v prípade bytov, **vek nehnuteľnosti nemá výrazný negatívny vplyv** na cenu domu na m² (len **-35 € za každých 10 rokov** veku nehnuteľnosti). <br> <br>
+  
+<img width="1150" height="645" alt="08" src="https://github.com/user-attachments/assets/8e2c1f49-b42f-40e0-8007-709d2d24c87e" /> <br>
+## 7. Hedonický model: Faktory ceny pozemkov
+Spomedzi hedonických modelov je model ceny pozemkov najmenej presný – R kvadrát modelu je 0.415, čo znamená, že model vysvetľuje len približne 42% cenovej variability. Súvisí to pravdepodobne s tým, že k dispozícii nie je také veľké množstvo údajov ohľadom vlastností pozemkov, ako je tomu v prípade bytov a domov. Pozemky sú zároveň z pohľadu oceňovania spravidla najnáročnejšie.
+### 7.1 Základná cena
+  - **Základná cena** pozemku bez žiadnej rozlohy ani iných špecifikácií je **266 € na m²**.
+### 7.2 Veľkosť pozemku
+  - Rovnako ako v prípade domov, **vzťah ceny a veľkosti pozemku má logaritmický charakter**, čo znamená, že m² malého pozemku bude výrazne drahší než m² veľkého pozemku.
+### 7.3 Lokalita
+  - V prípade pozemkov má lokalita opäť **významný vplyv na cenu**.
+  - Lokalita **môže znížiť cenu pozemku o takmer 80 € na m²** (Bodorová, okres Turčianske Teplice) a **zvýšiť ju o viac než 200 € na m²** (Rosinky, Žilina).
+  - **Vplyv lokality na cenu pozemku kopíruje vplyv lokality na cenu domu**. **Negatívne** ovplyvňujú cenu pozemku **odľahlé alebo vidiecke oblasti Kysúc, Oravy či okresov Turčianske Teplice a Ružomberok**. V menšej miere sú to aj niektoré lokality v okresoch Bytča, Martin či Liptovský Mikuláš.
+  - **Okres Žilina** je jediným okresom **bez negatívneho vplyvu lokality na cenu** pozemku.
+### 7.4
+  - **Ohľadom vplyvu terénu na cenu pozemku nie je možné vytvoriť jednoznačný záver**. 
+  - V modeli pracujem s dvoma kategóriami terénu – rovinatý a svahovitý. Obe kategórie podľa modelu mierne znižujú cenu pozemku, a paradoxne rovinatý terén väčšmi než svahovitý terén. Inými slovami, cena pozemku je mierne vyššia, ak nie je **terén špecifikovaný vôbec, čo je v prípade inzerátov častý jav**.
+
+
+
