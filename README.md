@@ -839,3 +839,65 @@ Okres Martin má **najdrahšie domy v celom Žilinskom kraji**, pričom **najdra
   - **Päť najväčších realitných kancelárií** v okrese Martin **spravuje len 29% ponúk**, čo svedčí o tom, že okres Martin je **najviac fragmentovaným okresom z pohľadu konkurencie** v Žilinskom kraji.
   - Je tu zároveň **druhý najvyšší počet ponúk na jednu realitnú kanceláriu v kraji** (8).
   - Kombinácia týchto dvoch ukazovateľov naznačuje, že **spolu s okresom Žilina ide o okres s najväčším potenciálom pre vstup nových realitných kancelárií na trh**.
+<br> <br>
+
+<img width="1148" height="644" alt="36" src="https://github.com/user-attachments/assets/edff1e71-03fc-4204-b37e-538fab119802" /> <br>
+## 17. Okres Turčianske Teplice
+Okres Turčianske Teplice predstavuje **najmenší okres** v Žilinskom kraji. **Má výrazne vidiecky charakter**, čo sa odzrkadľuje na **nízkom podiele bytových ponúk a vysokom podiele domových ponúk**. Pre okres je charakterná **nízka úroveň rozvoja nehnuteľností** – **nízky počet novostavieb** a **vysoký podiel starých nehnuteľností v horšom stave**.
+<br> <br>
+Zároveň ide o **najlacnejší okres** v kraji, čo svedčí o **nízkom dopyte po nehnuteľnostiach**, pričom ponuka nehnuteľností je najpočetnejšia v kraji v prepočte na počet obyvateľov. Na základe uvedeného sa javí, že **majitelia nehnuteľností sú málo motivovaní investovať do rekonštrukcia** a skôr **majú snahu sa svojich nehnuteľností zbaviť**.
+<br> <br>
+Vo všeobecnosti platí, že **obce bližšie k Turčianskym Tepliciam sú drahšie** než odľahlejšie obce. Vstupujú však do toho aj faktory ako prítomnosť novej domovej výstavby, občianska vybavenosť či charakter zástavby.
+<br> <br>
+Z pohľadu konkurencie ide o **veľmi fragmentovaný trh s absenciou dominantných hráčov**.  Avšak **počet ponúk pripadajúcich na jednu realitnú kanceláriu je veľmi nízky**, čo poukazuje na **nízke množstvo príležitostí pre nových hráčov**. 
+### 17.1 Prehľad
+  - **Najväčší počet realitných ponúk** v kraji (95 na 10-tisíc obyvateľov)
+  - **Druhý najmenší podiel novostavieb** (23%)
+  - **Počet novostavieb je jemne nadpriemerný** (17 na 10-tisíc obyvateľov ) – Súvisí to vysokým počtom ponúk vo všeobecnosti.
+  - O**kres s najstaršími nehnuteľnosťami** (v priemere 47 rokov)
+  - **Najlacnejší okres z pohľadu predaja** (cenový index -25%)
+  - **Najlacnejší okres z pohľadu nájmu** (nájomný index 39%)
+### 17.2 Byty podľa typu
+  - Podiel jednotlivých typov bytov nezodpovedá podielu bytov na celokrajskej úrovni – **nadpriemerne veľkú časť bytov tvoria trojizbové byty** (53% oproti 37% na celokrajskej úrovni). Môže to vyplývať z celkovo veľmi nízkeho počtu bytov v okrese.
+  - **Z ponúkaných bytov je 94% percent na predaj**. Môžeme teda konštatovať, že prenájom bytov nie je v okrese Turčianske Teplice rozšírený jav a je tu naopak veľmi **silná orientácia na predaj**.
+### 17.3 Počet ponúk podľa stavu nehnuteľnosti
+  - Oproti celému kraju je **výrazne vyššie zastúpenie nehnuteľností v horšom stave** – pôvodný stav (+8%), čiastočná rekonštrukcia (+15%), kompletná rekonštrukcia (-10%), novostavba (-13%).
+### 17.4 Počet ponúk podľa kategórie
+  - V okrese Turčianske Teplice výrazne **prevládajú ponuky domov** oproti iným nehnuteľnostiam.
+  - Pri porovnaní s celokrajským podielom nehnuteľností – byty -29%, **domy +28%**, pozemky +2%.
+  - Z doterajšej analýzy sa javí, že **okres Turčianske teplice je plný starých domov v horšom stave, ktorých sa majitelia snažia zbaviť**.
+<br> <br>
+
+<img width="1148" height="645" alt="37" src="https://github.com/user-attachments/assets/30b98b91-39f7-40ae-993e-3c506f140361" /> <br>
+### 17.5 Cenový index
+  - **Najlacnejšie byty** v kraji (-25%).
+  - **Druhé najlacnejšie domy** v kraji (-21%).
+  - **Najlacnejšie pozemky** v kraji (-52%).
+  - Uvedené hodnoty naznačujú **veľmi nízky dopyt po nehnuteľnostiach** v tomto okrese, pričom najviac je to vidieť na nízkych cenách pozemkov.
+### 17.6 Nájomný index
+  - Nájomný index je potrebné brať s rezervou, pretože máme **k dispozícii len jen referenčný údaj** – neprerobený štvorizbový byt. Ak však porovnáme výšku jeho nájomného s rovnako veľkými bytmi v rovnakom stave vo zvyšku Žilinského kraja, vyjde nám najlacnejší nájom bytov spomedzi všetkých okresov (-39%).
+  - **O niečo dôveryhodnejšou robí túto hodnotu aj nízky cenový index**. Bolo by preto prekvapením, ak by to bolo v prípade nájomného indexu výrazne inak.
+### 17.7 Ponuka obytných bytov na predaj
+  - Cenová úroveň jednotlivých typov bytov môže byť náročnejšia na interpretáciu pre **nízky počet bytov**, čo môže spôsobiť nepresnosť výsledkov. 
+  - **Medzi dvojizbovými a trojizbovými bytmi vidíme dramatický rozdiel v cene** na m² (1 483 €), ktorý je pravdepodobne spôsobený nižšou ponukou dvojizbových bytov oproti trojizbovým bytom, ktoré sú v okrese nadpriemerne zastúpené. Zatiaľ čo cena trojizbových bytov (1 687 € na m²) je v priemere najnižšia v kraji, cena dvojizbových bytov (3 170 € na m²) je na podobnej úrovni ako v najdrahších okresoch (Liptovský Mikuláš, Žilina).
+### 17.8 Lokality podľa ceny bytov
+  - Lokalitami z pohľadu ceny bytov nemá zmysel sa hlbšie zaoberať kvôli malému množstvu ponúk, ktoré sa takmer aj tak výhradne nachádzajú priamo v Turčianskych Tepliciach, keďže iné sídla mestského typu v okrese nie sú.
+### 17.9 Lokality podľa indexu domov
+  - Vo všeobecnosti platí, že **lokality bližšie k Turčianskym Tepliciam majú vyšší cenový index** – Turčiansky Michal (3%), Turčianske Teplice - Stred (-8%),  Diviaky (-9%), Mošovce (-13%). Turčianskemu Michalovi zrejme zlepšuje cenový index nová domová štvrť.
+  - **Veľmi nízky cenový index majú vzdialenejšie obce** – Budiš (-44%), Čremošné (-44%), Brieštie (-46%).
+  - **Vzdialenosť však dostatočne nevysvetľuje variabilitu cien**. Napríklad Sklené (1%) je relatívne vzdialené od Turčianskych Teplíc, ale má nadpriemerný cenový index. Na druhú stranu obec Háj sa nachádza blízko mesta, ale cenový index má najnižší v okrese (-65%). **Zrejme do toho vstupujú ešte faktory ako občianska vybavenosť či charakter obce**. Napríklad obec Háj má pri pohľad na satelitné snímky vysokú koncentráciu dlhých domov s úzkou fasádou priliehajúcou k ceste a dlhými pozemkami zastavanými hospodárskymi budovami, čo nemusí byť pre každého atraktívne.
+<br> <br>
+
+<img width="1147" height="645" alt="38" src="https://github.com/user-attachments/assets/1b2b37d7-9a7e-4eba-926e-fa467e2c0621" /> <br>
+### 17.10 Popredné realitné kancelárie podľa počtu ponúk
+  - Okres Turčianske Teplice predstavuje pomerne **fragmentovaný trh**. **Najväčší hráči tu nemajú výrazný náskok**. **Realitné kancelárie s najväčším počtom ponúk sú TARGETreal** (14 ponúk), **Romantické Chalupy** (10 ponúk), **Reality MT** (9 ponúk) a opäť **Realitná kancelária** (8 ponúk), ktoré je zrejme skôr generickou kategóriou portálu Nehnuteľnosti.sk než reálnou spoločnosťou.
+  - **TARGETreal sa** na rozdiel od zvyšných realitných kancelárií (ktoré sa prirodzene orientujú kvôli stavu trhu na domy a pozemky) **orientuje vo zvýšenej miere na bytové ponuky** (36%). **Podobne** na tom je ešte **TUreality**, ktorá tú má však menšie zastúpenie. 
+  - **Romantické Chalupy**, ako už z názvu vyplýva, **sa orientujú takmer výhradne na ponuky domov** (90%).
+
+### 17.11 Stav ponúk spravovaných top 4 realitnými kanceláriami
+  - **Na dobrom stave nehnuteľností** vo zvýšenej miere **záleží realitným kanceláriám TARGETreal** (64% ponuky) **a Reality MT** (75% ponuky), pričom **Reality MT sa orientujú na novostavby a nehnuteľnosti vo výstavbe**.
+•	**Zvyšok realitných kancelárií viac-menej vychádza z prirodzeného zastúpenia nehnuteľností v okrese**, čoho výsledkom je, že ponúkajú vysoký podiel nehnuteľností v horšom stave.
+
+### 17.12 Popredné realitné kancelárie podľa trhového podielu
+  - **Päť najväčších spoločností zodpovedá len za 34% ponúk v okrese**, čo je **druhý najnižší podiel** spomedzi všetkých okresov v kraji. Ide teda o **veľmi fragmentovaný trh** s relatívne veľkým množstvom realitných kancelárií.
+  - **Počet ponúk na realitnú kanceláriu je tu však druhý najnižší v kraji** (3 ponuky na kanceláriu), čo zase hovorí o tom, že okres Turčianske Teplice poskytuje **veľmi málo príležitostí pre nové realitné kancelárie**.
