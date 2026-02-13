@@ -367,7 +367,7 @@ Jednotlivé segmenty trhu boli zadefinované na základe typu ponuky (predaj/pre
 
 <img width="1150" height="646" alt="21" src="https://github.com/user-attachments/assets/2c465a12-59c0-4eb7-adac-045524154c27" /> <br>
 ## 12. Okres Bytča
-Ide o relatívne malý okres, ktorý sa vďaka svojej polohe blízko Žiliny a dobrej dopravnej infraštruktúre radí medzi atraktívnejšie okresy z pohľadu nehnuteľností. Okres je silne zameraný na nájomné ponuky. Z pohľadu investičných bytov je potenciál okresu obmedzený. Oplatiť sa môže azda len kompletne zrekonštruovaný dvojizbový byt v centre Bytče, pokiaľ by bol za výhodnú cenu. Silné zastúpenie v okrese majú dve lokálne realitné kancelárie – TOCA a Fortio Popper, ktoré majú úzke zameranie, v rámci ktorého dominujú na bytčianskom trhu, čo zároveň môže sťažovať vstup na trh novým potenciálnym hráčom. Keďže však ide o malý okres, súčasný stav trhu sa môže rýchlo zmeniť, pretože aj drobné zmeny tu majú veľký význam.
+Ide o relatívne malý okres, ktorý sa vďaka svojej polohe blízko Žiliny a dobrej dopravnej infraštruktúre radí medzi **atraktívnejšie okresy z pohľadu nehnuteľností**. Okres je silne **zameraný na nájomné ponuky**. **Z pohľadu investičných bytov je potenciál okresu obmedzený**. Oplatiť sa môže azda len kompletne zrekonštruovaný dvojizbový byt v centre Bytče, pokiaľ by bol za výhodnú cenu. Silné zastúpenie v okrese majú **dve lokálne realitné kancelárie** – TOCA a Fortio Popper, ktoré majú úzke zameranie, v rámci ktorého **dominujú na bytčianskom trhu**, čo zároveň môže sťažovať vstup na trh novým potenciálnym hráčom. Keďže však ide o malý okres, súčasný stav trhu sa môže rýchlo zmeniť, pretože aj drobné zmeny tu majú veľký význam.
 ### 12.1 Prehľad
   - **Jemne nadpriemerný počet ponúk** (51 na 10-tisíc obyvateľov)
   - **Priemerný podiel novostavieb** (36%)
@@ -443,13 +443,13 @@ Ide o relatívne malý okres, ktorý sa vďaka svojej polohe blízko Žiliny a d
 
 <img width="1148" height="645" alt="24" src="https://github.com/user-attachments/assets/a3e5084c-8fc8-4c89-8270-108bc14fea67" /> <br>
 ## 13. Okres Žilina
-Okres Žilina predstavuje centrum Žilinského kraja. Je to okres s vysokou úrovňou realitného rozvoja. Zároveň ide o najdrahší okres v kraji, ako z pohľadu predaja, tak aj nájmu, pričom najdrahšími nehnuteľnosťami sú byty a pozemky. Podobne ako v iných okresoch aj tu sa trh orientuje viac na predaj než na prenájom. Ponuka typov nehnuteľností je vyvážená a zväčša ide o nehnuteľnosti v dobrom stave. Novostavby sa ponúkajú takmer výhradne na predaj, zatiaľ čo zrekonštruované nehnuteľnosti sa často ponúkajú aj na prenájom. 
+Okres Žilina predstavuje centrum Žilinského kraja. Je to okres **s vysokou úrovňou realitného rozvoja**. Zároveň ide o **najdrahší okres v kraji**, ako z pohľadu predaja, tak aj nájmu, pričom najdrahšími nehnuteľnosťami sú byty a pozemky. Podobne ako v iných okresoch aj tu sa trh **orientuje viac na predaj než na prenájom**. **Ponuka typov nehnuteľností je vyvážená** a zväčša ide o **nehnuteľnosti v dobrom stave**. Novostavby sa ponúkajú takmer výhradne na predaj, zatiaľ čo zrekonštruované nehnuteľnosti sa často ponúkajú aj na prenájom. 
 <br> <br>
-Najlepší investičný výnos ponúkajú zrekonštruované dvojizbové byty v Starom meste. Ale solídny výnos môžu mať z pohľadu typu aj trojizbové byty; z pohľadu stavu – novostavby; a z pohľadu lokality – nehnuteľnosti na sídliskách Hliny a Vlčince. 
+**Najlepší investičný výnos** ponúkajú **zrekonštruované dvojizbové byty v Starom meste**. Ale solídny výnos môžu mať z pohľadu typu aj trojizbové byty; z pohľadu stavu – novostavby; a z pohľadu lokality – nehnuteľnosti na sídliskách Hliny a Vlčince. 
 <br> <br>
-V okrese Žilina je taktiež možné pozorovať vysoký dopyt po malých bytoch – garsónkach a jednoizbových bytoch (na predaj aj na prenájom), čo svedčí o výbornej prenajímateľnosti. Najdrahšie byty sú na sídliskách a v centrálnych štvrtiach mesta Žilina. Najdrahšie domy sú v centre Žiliny a v priľahlých obciach s novou domovou výstavbou. Z pohľadu prenájmu sú atraktívnejšie sídliská než centrum mesta. 
+V okrese Žilina je taktiež možné pozorovať **vysoký dopyt po malých bytoch** – garsónkach a jednoizbových bytoch (na predaj aj na prenájom), čo svedčí o výbornej prenajímateľnosti. **Najdrahšie byty sú na sídliskách a v centrálnych štvrtiach** mesta Žilina. **Najdrahšie domy sú v centre Žiliny a v priľahlých obciach** s novou domovou výstavbou. **Z pohľadu prenájmu sú atraktívnejšie sídliská** než centrum mesta. 
 <br> <br>
-Z hľadiska pôsobenia realitných kancelárii ide o okres s výraznou konkurenciou. Pôsobí tu viac než sto realitných kancelárií, pričom viaceré z nich sú silne orientované práve na žilinský okres a často sú úzko špecializované. Najvýraznejším realitným kanceláriám (Realitná kancelária RED, MGM reality, WFG reality) sa darí získavať atraktívne ponuky z pohľadu rizika a výšky provízie, t. j. byty a domy vo výbornom stave. Stav konkurencie je jedným najpriaznivejších v celom kraji z pohľadu vstupu nových hráčov na trh, hoci ide vo všeobecnosti stále o pomerne saturovaný trh. 
+Z hľadiska pôsobenia realitných kancelárii ide o **okres s výraznou konkurenciou**. Pôsobí tu **viac než sto realitných kancelárií**, pričom viaceré z nich sú **silne orientované práve na žilinský okres** a často sú úzko špecializované. Najvýraznejším realitným kanceláriám (Realitná kancelária RED, MGM reality, WFG reality) sa darí získavať atraktívne ponuky z pohľadu rizika a výšky provízie, t. j. byty a domy vo výbornom stave. **Stav konkurencie je jedným najpriaznivejších** v celom kraji **z pohľadu vstupu nových hráčov na trh**, hoci ide vo všeobecnosti stále o pomerne saturovaný trh. 
 ### 13.1 Prehľad
   - **Jemne nadpriemerný počet ponúk** (65 na 10-tisíc obyvateľov)
   - **Tretí najväčší podiel novostavieb** (42%)
@@ -516,10 +516,140 @@ Z hľadiska pôsobenia realitných kancelárii ide o okres s výraznou konkurenc
   - Najväčšia ponuka nehnuteľností na prenájom je v **Starom meste** (51 ponúk), na **Vlčincoch** (31 ponúk) a na **Hlinách** (24). Najväčší záujem o prenájom je však zrejme na Hlinách, pretože spomedzi uvedených majú najvyšší nájomný index (18%). 
   - Ďalšie dve žilinské sídliská – **Hájik a Solinky** – majú pomerne vysoký nájomný index (21% a 17%), avšak relatívne málo ponúk, čo môže svedčiť o vyššom dopyte.
   - Prekvapením je, že **centrálne žilinské štvrte Staré mesto a Bôrik** majú pomerne **nízky nájomný index** (7% a -2%). Ponúkajú sa dve možné interpretácie. Možno je väčší záujem o bývanie na sídliskách z dôvodu občianskej vybavenosti a pokojnejšiemu prostrediu. Alebo to môže súvisieť s dostupnosťou parkovania, ktoré bolo až donedávna regulované len v centre v Žiliny.
-  - Spomedzi priľahlých obcí treba spomenúť **Dolný Hričov**, ktorý má mimoriadne vysoký nájomný index (35%) z pohľadu celého žilinského kraja, a Terchovú (11%). V prípade Dolného Hričova ide zrejme o kombináciu blízkosti k Žiline a dobrých pracovných príležitostí. Terchová je zase obľúbenou turistickou destináciou.
+  - Spomedzi priľahlých obcí treba spomenúť **Dolný Hričov**, ktorý má mimoriadne vysoký nájomný index (35%) z pohľadu celého žilinského kraja, a **Terchovú** (11%). V prípade Dolného Hričova ide zrejme o kombináciu blízkosti k Žiline a dobrých pracovných príležitostí. Terchová je zase obľúbenou turistickou destináciou.
 <br> <br>
 
-<img width="1148" height="643" alt="26" src="https://github.com/user-attachments/assets/13e729af-6b3a-4b36-a7b4-3a1938d7b43e" />
+<img width="1148" height="643" alt="26" src="https://github.com/user-attachments/assets/13e729af-6b3a-4b36-a7b4-3a1938d7b43e" /> <br>
+### 13.13 Popredné realitné kancelárie podľa počtu ponúk
+1. **Realitná kancelária RED** (82 ponúk) 
+    - Orientácia na **byty** (56%) a **domy** (44%). 
+    - Pozemkové ponuky nemajú vôbec. 
+2. **MGM reality** (69 ponúk)
+    - **Vyvážené portfólio** podľa typu nehnuteľností – portfólio kopíruje podiel bytových, domových a pozemkových ponúk v okrese Žilina. 
+3. **Realitné kancelárie SR** (63 ponúk)
+    - Relatívne **vyvážené portfólio**.
+    - Podpriemerný počet bytových ponúk (30%).
+    - Nadpriemerný počet pozemkových ponúk (37%).
+4. **WFG reality** (44 ponúk)
+    - Silná **orientácia na bytové ponuky** (64%).
+    - Podpriemerný počet domových ponúk (14%).
+5. **RIEŠIME BÝVANIE** (43 ponúk)
+    - Orientácia na **byty** (44%) a **domy** (42%).
+    - Pozemky riešia minimálne (14%).
+6. **TUreality** (39 ponúk)
+    - Orientácia na **byty** (44%) a **domy** (51%).
+    - Pozemky riešia minimálne (5%)
+### 13.14 Stav ponúk spravovaných top 6 realitnými kanceláriami
+  - **Realitná kancelária RED**
+    - Silná orientácia na **novostavby** (46%) a **kompletne zrekonštruované** nehnuteľnosti (37%).
+    - Zdá sa, že sa vyhýbajú nehnuteľnostiam v horšom stave (17%).
+  - **MGM reality**
+    - Podobný trend vidieť aj v tomto prípade: **novostavby** (44%), **kompletná rekonštrukcia** (25%).
+    - V zásade kopíruje prirodzený podiel jednotlivých stavov v okrese Žilina.
+  - **Realitné kancelárie SR**
+    - **Vyvážené portfólio** – kopíruje prirodzený podiel stavov v okrese Žilina.
+  - **TUreality**
+    - Zvýšená orientácia na **čiastočne zrekonštruované** nehnuteľnosti (38%) a nehnuteľnosti v **pôvodnom stave** (22%).
+  - **WFG reality**
+    - Jednoznačná orientácia na **novostavby** (71%).
+### 13.15 Ponuky spravované top 6 realitnými kanceláriami podľa typu
+  - Väčšina veľkých realitných kancelárií ponúka podobný podiel nájomných nehnuteľností, ako je ich skutočný podiel v rámci okresu (okolo 18%).
+  - Výnimkou tomu sú realitné kancelárie **RIEŠIME BÝVANIE** (9%) a najmä **TUreality** (3%), ktoré vyzerá, že **sa nájomným ponukám vyhýba** takmer úplne.
+### 13.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - Z celkového pôsobenia v kraji **sústreďuje MGM reality takmer 80% svojich aktivít do okresu Žilina**. **Zvyšok** ich ponúk nájdeme takmer výhradne **na Kysuciach**. V rámci okresu Žilina sa im darí presadzovať sa rovnomerne priamo **v meste Žilina** (55%) ako **aj vo zvyšku okresu** (45%).
+  - **Ešte výraznejšiu orientáciu na okres Žilina má Realitná kancelárie RED** (takmer 90%). **Ojedinele** môže spravovať ponuky aj **v priľahlých okresoch**. Okrem silného zamerania na okres Žilina vidíme aj relatívne **silnú orientáciu priamo na mesto Žilina** (68%), v ktorom sú najvýraznejšou realitnou kanceláriou.
+  - **Realitné kancelárie SR** majú z pohľadu kraja **46% ponúk v okrese Žilina**. V menšej, ale stále viditeľnej miere, **pôsobia v okresoch Martin** (17%) **a Liptovský Mikuláš** (11%). **Na Orave** nepôsobia takmer **vôbec**. **Pôsobia rovnomerne naprieč celým okresom Žilina** s jemne silnejšou orientáciou na oblasti mimo mesta Žiliny.
+  - **WFG reality pôsobia na 70% v okrese Žilina**. **Zvyšok** svojich aktivít majú predovšetkým **na Kysuciach** (24%). **V okrese Žilina** ide najmä o ponuky **priamo v meste Žilina** (80%).
+  - **RIEŠIME BÝVANIE** majú takmer **60% ponúk v okrese Žilina**. V rôznej miere **pôsobia takmer vo všetkých zvyšných okresoch** kraja, a to **najviac v okrese Bytča** (11%).
+  - V prípade **TUreality** už **nevidíme takmer výhradnú orientáciu na okres Žilina**, hoci tu majú s malých náskokom najviac ponúk. Najvýraznejšie **pôsobia v okresoch Žilina** (27%), **Liptovský Mikuláš** (22%) a **Martin** (19%), čo sú zároveň jedny najdynamickejších okresov. **Takmer vôbec** nepôsobia **na Kysuciach**.
+### 13.17 Popredné realitné kancelárie podľa trhového podielu
+  - Okres Žilina predstavuje pomerne **fragmentovaný trh**. **Päť najväčších kancelárií** spravuje len približne **tretinu trhu** (32%). 
+  - V okrese Žilina pôsobí **viac ako 100 realitných kancelárií**, čoho výsledkom je v priemere približne **9 ponúk na realitnú kanceláriu**.
+  - Hoci je žilinský trh do veľkej miery saturovaný realitnými kanceláriami, ide zároveň o **okres s najväčším**, hoci obmedzeným, **priestorom pre vstup nových hráčov**.
+<br> <br>
+
+<img width="1149" height="645" alt="27" src="https://github.com/user-attachments/assets/0bd54171-abee-425a-879e-a812a3cfd29f" /> <br>
+## 14. Okres Kysucké Nové Mesto
+Ide o menší okres **s nadpriemernou úrovňou rozvoja**. **Patrí medzi priemerne drahé okresy** ako z pohľadu predaja, tak aj nájmu. **Pozemky** sú tu však **jedny z najlacnejších v kraji**. Typická je pre okres Kysucké Nové Mesto zároveň **nízka variabilita cien na m² naprieč bytmi rôznych veľkostí**. **Ponuka** nehnuteľností je na slovenské pomery **štandardná** aj z pohľadu typov nehnuteľností, aj z pohľadu ich stavu.
+<br> <br>
+**Investičné príležitosti zodpovedajú veľkosti okresu** – jediné kombinácie, ktoré prichádzajú do úvahy, sú **3-izbový byt-novostavba v Kamencoch** a **čiastočne zrekonštruovaný 2-izbový byt na Nábreží**. 
+<br> <br>
+**Najdrahšie byty** nájdeme, ako obvykle, **na sídliskách**, a to najmä v novej štvrti Kamence, ktorá je sčasti ešte vo výstavbe, hoci byty sú už v ponuke. Zaujímavosťou je, že domy bývajú spravidla drahšie na východ od hlavného ťahu smerom na Čadcu.
+<br> <br>
+V okrese Kysucké Nové Mesto nepôsobia realitné kancelárie, ktoré by sa úzko špecializovali práve na tento okres, čo súvisí najmä s jeho veľkosťou. Jedinou výnimkou je spoločnosť Istrofinal, ktorá tu realizuje svoj jediný projekt – Kamence. Z pohľadu konkurencie tu **nenájdeme spoločnosti, ktoré by mali na trhu silne dominantné postavanie**, avšak **počet ponúk** v okrese Kysucké Nové Mesto je **príliš malý** na to, aby bol osobitne zaujímavým pre nových hráčov.
+### 14.1 Prehľad
+  - **Priemerný počet ponúk** (50 na 10-tisíc obyvateľov)
+  - **Jemne nadpriemerný podiel novostavieb** (40%)
+  - **Priemerný počet novostavieb** (15 na 10-tisíc obyvateľov)
+  - **Druhý najnižší priemerný vek nehnuteľností** (24 rokov)
+  - **Stredná úroveň cien** spomedzi okresov (cenový index -5%)
+  - **Stredná úroveň nájomného** spomedzi okresov (nájomný index -3%)
+### 14.2 Byty podľa typu
+  - **Bežná distribúcia typov bytov** – najviac je v ponuke dvojizbových a trojizbových bytov.
+  - Zároveň sú to byty, ktoré sú najčastejšie ponúkané na prenájom.
+  - **Veľké byty** (najmä štvorizbové) sa ponúkajú takmer **výhradne na predaj**.
+  - Podiel nájomných bytov je 28%, čo opäť znamená **trh orientovaný na predaj**.
+  - Ide teda o **štandardnú slovenskú ponuku** bytov podľa typu.
+### 14.3 Počet ponúk podľa stavu nehnuteľnosti
+  - Veľmi **vyrovnaný podiel nehnuteľností podľa stavu** – každý typ nehnuteľnosti predstavuje zhruba 20% z ponuky.
+### 14.4 Počet ponúk podľa kategórie
+  - Rovnako **štandardný je aj počet ponúk podľa kategórie** (byty, domy, pozemky). Byty tvoria 43% ponuky ako vo väčšine okresov.
+### 14.5 Pomer ceny a nájomného (PTR)
+  - Z pohľadu pomeru ceny a ročného nájomného, ktoré naznačuje, do akej miery je výhodné zaobstarať si investičnú nehnuteľnosť s cieľom jej prenájmu, vychádzajú **relatívne výhodne len dve kombinácie** – **novopostavený trojizbový byt v Kamencoch** (PTR = 15)  alebo **čiastočne zrekonštruovaný dvojizbový byt na Nábreží** (PTR = 19).
+<br> <br>
+<img width="1150" height="644" alt="28" src="https://github.com/user-attachments/assets/8bcb86ee-a820-4bfe-9fe5-829095a5c618" /> <br>
+### 14.6 Cenový index
+  - **Cenovo** okres Kysucké Nové Mesto predstavuje **jemný nadpriemer** z pohľadu okresov, **ak hovoríme o bytoch** (-7%) **a domoch** (6%).
+  - **Pozemky však patria medzi jedny z najlačnejších v celom kraji** (-35%). Lacnejšie pozemky sú už len v okresoch Čadca (-43%) a Turčianske Teplice (-52%).
+### 14.7 Nájomný index
+  - **Z pohľadu prenájmu** bytov **patrí** okres Kysucké Nové Mesto (-3%) **medzi stredne drahé okresy**.
+  - **Domy sa** tu **neprenajímajú**.
+### 14.8 Ponuka obytných bytov na predaj
+  - **Cenovo sa jednotlivé typy bytov** podľa počtu izieb **veľmi neodlišujú**. Najväčší cenový rozdiel je medzi jednoizbovým (3 020 € na m²) a dvojizbovým bytom (2 550 € na m²). Inými slovami **prudko klesavý cenový trend voči počtu izieb**, ktorý bolo možné pozorovať napríklad v okrese Žilina, **tu nie je prítomný**. **Počet izieb tu nemá významný vplyv na cenu bytu na m²**.
+### 14.9 Ponuka bytov na prenájom
+  - Pri pohľade na ponuku bytov na prenájom sa javí, že **cena nájmu sa významne odvíja od toho, či je daný typ bytu dostupný alebo nedostatkový** – typy bytov, ktorých je menej, sú drahšie. Platí to až do tej miery, že trojizbové byty vychádzajú paradoxne drahšie než dvojizbové byty.
+  - Uvedený záver však treba brať s rezervou kvôli nižšiemu počtu bytov, ktorý môže skresliť výsledok.
+### 14.10 Lokality podľa cenového indexu bytov
+  - **Najdrahšie lokality** v okrese sú **časti Kysuckého Nového Mesta, ktoré majú sídliskový charakter**, t. j. poschodové bytové domy s dobrou občianskou vybavenosťou – Kamence, Sídlisko (juhozápadná časť mesta), Nábrežie.  
+  - **Byty v historickej časti sú o čosi lacnejšie** (-16%).
+  - Najlacnejšie byty sú v obci Horný Vadičov (-19%), čo zrejme priamo súvisí s horšou dopravnou dostupnosťou a nižšou občianskou vybavenosťou.
+  - **Najväčšia ponuka bytov je v Kamencoch** (30 ponúk), kde nedávno vyrástla nová moderná štvrť. 
+### 14.11 Lokality podľa cenového indexu domov
+  - **V prípade lokalít z pohľadu ponuky domov je ťažké jednoznačne identifikovať vzorce**. Čiastočne platí, že v lokalitách s nižšou ponukou (Snežnica, Lopušné Pažite, Radoľa), sú ceny o trochu vyššie, ale vidno to aj pri iných lokalitách, ktoré majú väčšie množstvo ponúk (Horný Vadičov).
+  - Taktiež čiastočne platí, že lokality bližšie ku Kysuckému Novému Mesto (Budatínska Lehota, Povina, Radoľa) sú drahšie. Rovnako by sme však našli blízke lokality ako napríklad Suľkov či Nesluša, ktoré sú naopak lacnejšie.
+  - Zdá sa, že **lokality na východ od hlavného ťahu na Čadcu majú tendenciu byť drahšie** (celá Vadičovská dolina, Snežnica, Povina), zatiaľ čo lokality na západ od hlavného ťahu sú skôr lacnejšie (Suľkov, Nesluša, Rudinská, Ochodnica).
+### 14.12 Lokality podľa nájomného indexu
+  - **Suverénne najdrahšou lokalitou z pohľadu nájomného indexu sú Kamence** (29%), a to nie len v okrese Kysucké Nové Mesto, ale aj **v celom kraji**.
+  - **Ostatné časti Kysuckého nového sú výrazne lacnejšie** – Sídlisko (-14%), Stred (-12%), Suľkov (1%), Nábrežie (9%).
+<br> <br>
+<img width="1149" height="643" alt="29" src="https://github.com/user-attachments/assets/f1df944f-f659-4a0c-9bee-685807f299ef" /> <br>
+### 14.13 Popredné realitné kancelárie podľa počtu ponúk
+  - Najväčšími realitnými kanceláriami z pohľadu počtu ponúk sú **Istrofinal** (21 ponúk), **Realitné kancelárie SR** (10 ponúk), **WFG reality** (10 ponúk), **Safe reality** (9 ponúk) a **BeMi** (8 ponúk).
+  - **Istrofinal** je zamerané **výhradne na bytové ponuky**.
+  - **Safe reality** dáva **dôraz na bytové ponuky**, ale nie výhradne.
+  - **Realitné kancelárie SR, WFG reality a BeMi** majú z pohľadu typov nehnuteľností **namiešané portfóliá**.
+  - Zaujímavosťou je, že WFG reality sa v okrese Kysucké Nové Mesto neorientuje primárne na byty, ako je to v okrese Žilina.
+### 14.14 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - **Ponuka Istrofinalu** pozostáva **výhradne z bytov vo výstavbe**.
+  - **Safe reality, BeMi a Realitná kancelária SR** majú **namiešané portfóliá z pohľadu stavu** nehnuteľností.
+  - **WFG reality** majú prekvapivo **vysoký podiel nehnuteľností v pôvodnom stave**, zatiaľ čo v okrese Žilina sa im evidentne vyhýbajú.
+### 14.15 Ponuky spravované top 5 realitnými kanceláriami podľa typu
+  - Spoločnosť **Istrofinal** ponúka **len byty na predaj**.
+  - **Zvyšné realitné kancelárie** majú v ponuke **nejaký podiel nájomných nehnuteľností**, avšak v ich portfóliách **prevládajú nehnuteľnosti na predaj**.
+  - **Najväčší podiel nájomných ponúk** majú **Realitné kancelárie SR** (50%).
+### 14.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - Ponuka spoločnosti **Istrofinal** pozostáva **výhradne z bytov vo výstavbe v modernej bytovej štvrti v Kamencoch**, z čoho vyplýva, že ich momentálne zameranie je čisto developerské.
+  - Okolo 50% aktivít **Realitných kancelárií SR** v okrese Kysucké Nové Mesto sa odohráva priamo v Kysuckom Novom Meste. **Ponuky z tohto okresu zodpovedajú približne 7% všetkých ponúk**, ktoré Realitné kancelárie SR v Žilinskom kraji spravujú.
+  - **Safe reality** pôsobia **primárne v okrese Žilina (56%)**, hoci tam nepatria medzi najdominantnejšie realitné kancelárie. V okrese Kysucké Nové Mesto **sa silne orientujú na reality priamo v Kysuckom Novom Meste** (67%).
+  - WFG reality taktiež pôsobia primárne v okrese Žilina (70%).  V okrese Kysucké Nové Mesto sa odohráva približne 16% z ich celkových aktivít. Na rozdiel od okresu Žilina, kde pôsobia najmä priamo v meste Žilina, v okrese Kysucké Nové Mesto ide vo väčšej miere o okolité obce – Lodno, Rudina, Snežnica, Oškerda.
+  - **BeMi** je realitná kancelária so sídlom v Nitre. V rámci Žilinského kraja **pôsobí najmä v jeho severných okresoch** – **Čadca** (41%), **Námestovo** (21%), **Žilina** (15%), **Liptovský Mikuláš** (8%), **Kysucké Nové Mesto** (8%). V okrese Kysucké Nové Mesto pôsobí naprieč celým okresom.
+### 14.17 Popredné realitné kancelárie podľa trhového podielu
+  - Hoci je okres Kysucké Nové Mesto pomerne malý, **nie je tu vidieť dominanciu trhu hŕstkou realitných kancelárií**. Uvedených **päť spoločností spravuje zhruba 38% ponúk** v okrese.
+  - **Počet ponúk na realitnú kanceláriu je približne 4**, čo znamená, že v okrese už je relatívne veľké množstvo realitných kancelárií.
+  - Ide teda o **fragmentovaný trh s pomerne silnou konkurenciou a relatívne nízkym priestorom pre nových hráčov**.
+
+
+
 
 
 
