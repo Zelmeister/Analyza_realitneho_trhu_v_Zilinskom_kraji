@@ -737,3 +737,105 @@ Okres Čadca môže byť **relatívne zaujímavý z pohľadu investičných byto
   - **JPE. Reality - Jozef Pajer** je taktiež miestna realitná kancelária, ktorá **pôsobí výhradne v okrese Čadca**. Orientuje sa primárne na mesto Čadca (42%).
 ### 15.18 Popredné realitné kancelárie podľa trhového podielu
   - Na čadčianskom realitnom trhu je **veľké zastúpenie silných hráčov** – **päť najväčších realitných kancelárií ovláda až 54% trhu**, čo je pomerne vysoké percento vzhľadom na to, že sa Čadca radí medzi väčšie okresy v Žilinskom kraji.
+<br> <br>
+
+<img width="1148" height="644" alt="33" src="https://github.com/user-attachments/assets/fe773bc7-b6a3-4d2c-a38a-266ab38d122e" /> <br>
+## 16. Okres Martin
+Okres Martin je druhým najväčším okresom v Žilinskom kraji. Ide o **okres s vyššou úrovňou rozvoja nehnuteľností**, čoho výsledkom je aj to, že ide o **tretí najdrahší okres v kraji**. **Týka sa to však predovšetkým domov**. **Ceny bytov a pozemkov** sa pohybujú **bližšie k priemeru**. Je tu **stredne drahý prenájom bytov a lacný prenájom domov**. 
+<br> <br>
+Pri pohľade na rozloženie ponúk **je vidieť výrazne vyššiu koncentráciu ponúk v Martine a vo Vrútkach** oproti zvyšku okresu. Je tu relatívny **veľká ponuka dvojizbových bytov**, ktoré môžu byť vhodnými investičnými bytmi aj vzhľadom na to, že **pomer ceny a nájomného dvojizbových a trojizbových bytov na martinských sídliskách a v centre mesta patrí medzi najvýhodnejšie v kraji**. Dáta naznačujú **zvýšený dopyt po menších bytoch** (garsónky a jednoizbové byty), ktorých sa nachádza v ponuke pomenej. Vysoký dopyt sa prejavuje dobrou prenajímateľnosťou aj vysokou cenou nájmu. Rovnako sa to však prejavuje aj na ich predajnej cene.
+<br> <br>
+Okres Martin má **najdrahšie domy v celom Žilinskom kraji**, pričom **najdrahšími lokalitami sú zväčša tie, ktoré sa nachádzajú v Martine a jeho blízkosti**. Aj v rámci Martina však môžu byť medzi lokalitami veľké rozdiely. Drahými lokalitami sú napríklad Priekopa, Tomčany a Jahodníky. Na druhú stranu mimoriadne lacnými lokalitami sú Kolónia Hviezda či Karvaša a Bláhovca.
+<br> <br>
+**Z pohľadu konkurencie** ide o **najviac fragmentovaný trh**, v ktorom zároveň pripadá **na jednu realitnú kanceláriu druhý najväčší počet ponúk v kraji**, čo **svedčí o relatívne vhodných podmienkach pre vstup nových hráčov na trh**.
+### 16.1 Prehľad
+  - **Tretí najväčší počet ponúk** (82 na 10-tisíc obyvateľov)
+  - **Nadpriemerný podiel novostavieb** (28%)
+  - **Tretí najväčší počet novostavieb** (18 na 10-tisíc obyvateľov)
+  - **Stredne staré nehnuteľnosti** (v priemere 35 rokov)
+  - **Tretí najdrahší okres** (cenový index 0%, čo zodpovedá priemeru celého kraja)
+  - **Podpriemerne drahý prenájom** (nájomný index -9%)
+### 16.2 Byty podľa typu
+  - **Ide o štandardnú ponuku bytov**. Najviac sa ponúkajú trojizbové (40%) a dvojizbové byty (37%). Na predaj je však viac trojizbových bytov než dvojizbových.
+  - **Je vidieť jemne nadpriemernú ponuky menších nájomných bytov** – garsónok, jednoizbových a najmä dvojizbových bytov. V okrese Martin je v ponuke približne o 8% viac dvojizbových nájomných bytov než v celom kraji. Trojizbových bytov na prenájom je o polovicu menej než dvojizbových. 
+  - Nájomné byty tvoria 32% všetkých bytových ponúk. Ide teda opäť o **trh orientovaný na predaj**.
+### 16.3 Počet ponúk podľa stavu nehnuteľnosti
+  - Počet ponúk podľa stavu nehnuteľnosti je **relatívne rovnomerný**, avšak **najväčší počet ponúk tvoria kompletne zrekonštruované nehnuteľnosti** (30%).
+  - Ešte vyrovnanejšou je ponuka nehnuteľností určených na predaj. **V prípade nájomných nehnuteľností však opäť dominuje kompletná rekonštrukcia** (56%).
+### 16.4 Počet ponúk podľa kategórie
+  - Martin je **okres s tretím najvyšším zastúpením bytových ponúk** (47%).
+  - Počet domových ponúk je tu na priemernej úrovni (32%).
+  - **Pozemky sa** v okrese Martin **ponúkajú relatívne málo** (21%).
+### 16.5 Pomer ceny a nájomného (najvýhodnejšie kombinácie)
+  - Okres Martin ponúka **viaceré príležitosti z pohľadu investičných nehnuteľností** s cieľom následného prenájmu. Ak je v záujme investora dosiahnuť **pomer ceny a ročného nájomného menší ako 15**, do úvahy pripadajú tieto kombinácie:
+
+| nehnuteľnosť | stav                    | lokalita        | výhodné do    |
+| ------------ | ----------------------- | --------------- | --------------|
+| 3-izbový byt | čiastočná rekonštrukcia | Ľadoveň         | 1 535 € za m² |
+| 3-izbový byt | kompletná rekonštrukcia | Priekopa        | 1 922 € za m² |
+| 2-izbový byt | čiastočná rekonštrukcia | Sever           | 1 697 € za m² |
+| 2-izbový byt | kompletná rekonštrukcia | Martin - Stred  | 2 332 € za m² |
+| 2-izbový byt | novostavba              | Martin - Stred  | 2 500 € za m² |
+| dom          | novostavba              | Sučany          | 1 499 € za m² |
+
+  - Ak je investor ochotný prijať o čosi vyšší pomer ceny a nájomného (**PTR < 20**), môže zvážiť ešte **zrekonštruované dvojizbové alebo trojizbové byty v Košútoch, Podháji, Turanoch alebo Záturčí**.
+<br> <br>
+
+<img width="1150" height="646" alt="34" src="https://github.com/user-attachments/assets/49466fc7-b310-4f9d-904e-5ec10a4c30a1" /> <br>
+### 16.6 Cenový index
+  - **Nadpriemerne drahé byty** (-5%).
+  - **Najdrahšie domy v kraji** (27%).
+  - **Stredne drahé pozemky** (-6%).
+### 16.7 Nájomný index
+  - **Stredne drahý prenájom bytov** (-5%).
+  - **Najlacnejší prenájom domov v kraji** (-47%). Tento ukazovateľ je potrebné brať s rezervou kvôli zriedkavosti prenajímania domov.
+### 16.8 Ponuka obytných bytov na predaj
+  - Najväčší prepad cien na m² je medzi jednoizbovými (3 147 €) a dvojizbovými bytmi (2 384 €), čo poukazuje na možný **vysoký dopyt po garsónkach a jednoizbových bytoch**, ktoré sú výrazne menej dostupné ako dvojizbové byty.
+  - Pomerne veľký rozdiel je aj medzi dvojizbovými a trojizbovými bytmi (2 028 €), kde vidno vysokú dostupnosť trojizbových bytov na predaj, čoho výsledkom je ich nižšia cena.
+  - Štvorizbové byty sa podobne ako malé byty ponúkajú nie veľmi často, čo môže mať za výsledok, že sú v priemere drahšie na m² (2 095 €) ako trojizbové byty.
+### 16.9 Ponuka obytných bytov na prenájom
+ - Z pohľadu prenájmu môžeme pozorovať relatívne **štandardné klesanie cien na m² s každou dodatočnou izbou** v byte.
+ - Opäť je však viditeľná **vyššia hodnota malých bytov** – garsónok (14,4 € na m²) a jednoizbových bytov (13,1%). Potom cena výrazne klesne – až na 10,2 € na m² pri dvojizbových bytoch.
+ - Na základe toho môžeme usúdiť, že v okrese Martin je **dobrá prenajímateľnosť malých bytov**, pretaviť to však do nadštandardného výnosu môže byť náročné kvôli ich vysokým predajným cenám.
+### 16.10 Najvychytenejšie lokality podľa cenového indexu bytov
+  - **Najdrahšie byty** nájdeme **v lokalitách s dobrou dostupnosťou do centra Martina** – Podháj (0%), Stred (-2%), Košúty (-4%), Ľadoveň (-5%), Jahodníky (-5%), Záturčie (-6%), Sever (-6%), Tomčany (-6%). Aj v týchto lokalitách sa však ceny pohybujú jemne pod krajským priemerom.
+  - **O niečo lacnejšie** byty nájdeme **vo Vrútkach** (-10%) **a priľahlom sídlisku Priekopa** (-13%).
+  - **Najlacnejšie byty** v okrese sú prirodzene **v menších mestách a obciach** – Sučany (-21%), Turany (-22%) a Košťany nad Turcom (-25%).
+### 16.11 Najvychytenejšie lokality podľa cenového indexu domov
+  - Okres Martin má **najdrahšie domy** z celého Žilinského kraja. 
+  - Vo všeobecnosti platí, že **nadpriemerne drahé domy sa nachádzajú v Martine a jeho** bezprostrednom **okolí**.
+    - **Drahé martinské štvrte:** Priekopa (40%), Tomčany (33%), Jahodníky (27%), Stred (17%)
+    - **Drahé lokality v blízkom okolí Martina:** Turčianske Kľačany (30%), Turčiansky Peter (20%), Žabokreky (10%), Dolné Vrútky (8%).
+  - **Vo zvyšku okresu sú ceny domov buď priemerné, alebo podpriemerné**, pričom je vidieť určitý vplyv vzdialenosti od Martina.
+  - Zaujímavosťou je, že mimoriadne lacnými sú lokality na okraji Malej Fatry – Karvaša a Bláhovca (-25%) a Kolónia Hviezda (-51%). Súvisieť to môže so slabšou občianskou vybavenosťou a dopravnou dostupnosťou.
+### 16.12 Najvychytenejšie lokality podľa nájomného indexu
+  - V prípade lokalít podľa nájomného indexu **nie je vidno konkrétne vzorce** ani podľa vzdialenosti od centra, ani podľa toho, či ide o sídlisko alebo tradičnú zástavbu. 
+  - **Najdrahší nájom je na Severe** (2%) **a v Priekope** (2%).
+  - Jemne podpriemerná výška nájomného je v Košútoch (-5%), na Ľadovni (-6%), v Jahodníkoch (-7%) a centre Martina (-8%).
+  - Najlacnejší nájom ja vo Vrútkach (-11%), na Podháji (-12%) a v Záturčí (-14%).
+<br> <br>
+
+<img width="1149" height="645" alt="35" src="https://github.com/user-attachments/assets/13f6c7e3-1585-4c00-9dc9-6138acff67f0" /> <br>
+### 16.13 Popredné realitné kancelárie podľa počtu ponúk
+  - **Najväčšími realitnými kanceláriami** v okrese Martin podľa počtu ponúk **sú B10 Slovensko** (47 ponúk), **Realitná kancelária** (46 ponúk), **Reality Alpia** (43 ponúk) a **Reality Astoria** (39 ponúk). Ďalej nasleduje viacero realitných kancelárie s podobným počtom ponúk.
+  - **„Realitná kancelária“ je zrejme chybná kategória**, ktorá je výsledkom nepresnosti dát priamo na portáli Nehnuteľnosti.sk. Pravdepodobne nejde o skutočnú realitnú kancelária, ale nejakú generickú kategóriu. Zaujímavé však je, že sa najčastejšie vyskytuje práve v okrese Martin (53% ponúk).
+  - **Ponuka nehnuteľností najväčších realitných kancelárií** v okrese podľa typu **viac-menej kopíruje celkový podiel** bytov, domov a pozemkov v okrese. U **Reality ASTORIA** je vidieť trochu **silnejšiu orientáciu na domy** (46%). Ponuka kategorizovaná pod „Realitnou kanceláriou“ má zase zvýšený podiel bytov (60%).
+  - **Silnejšiu orientáciu na byty** môžeme nájsť **medzi realitnými kancelárie s menším počtom ponúk** – **FINREA** (72%), **TUreality** (71%), **Like Reality** (62%).
+### 16.14 Stav ponúk spravovaných top 4 realitnými kanceláriami
+  - Z pohľadu stavu nehnuteľností sa nezdá, že by niektorá z najväčších realitných kancelárií v okrese mala jednoznačné zameranie na nehnuteľnosti v nejakom konkrétnom stave. **U všetkých posudzovaných realitných kancelárií kopíruje podiel jednotlivých stavov nehnuteľností ich reálny výskyt v okrese**. 
+  - **Výnimky** nájdeme **u trochu menších realitných kancelárií**:
+    - **Silné zameranie na novostavby/vo výstavbe:** Buby reality (86%), CANGURU (100%)
+    - **Silné zameranie na ponuky v dobrom stave:** ALT REAL (79%), Realitné kancelárie SR (72%), TARGETreal (82%).
+    - **Silné zameranie na ponuky v zlom stave:** Like Reality (79%)
+  - Z doterajšej analýzy vyplýva, že **užšiu špecializáciu v okrese Martin zvyknúť mať skôr stredne veľké realitné kancelárie**.
+### 16.15 Ponuky spravované top 4 realitnými kanceláriami podľa typu
+  - V okrese Martin tvoria nájomné ponuky 20% zo všetkých ponúk.
+  - Medzi **realitné kancelárie so silným zameraním na nájomné ponuky** patria: **Reality Alpia** (40%), **Reality ASTORIA** (33%), **FINREA** (50%).
+### 16.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **B10 Slovensko sa orientujú primárne na okres Martin** (58%). **Okrajovo pôsobia aj v iných okresoch**. Druhý najväčší podiel ponúk majú v okrese Žilina (17%).  Takmer 50% ponúk v martinskom okrese majú priamo v Martine. Silné zastúpenie však majú aj v okolitých obciach.
+  - **Reality Alpia nie sú výrazne orientovaní na jeden konkrétny okres**, hoci je pravdou, že **v okrese Martin**, kde zároveň sídlia, **majú najviac ponúk** (31%). Výraznú časť ponúk však majú aj v okresoch Ružomberok (24%), Žilina (18%) a Liptovský Mikuláš (17%). **V rámci martinského okresu sa silne orientujú na mesto Martin** (74%), zvyšok okresu pokrývajú okrajovo.
+  - **Reality ASTORIA** sú taktiež martinskou realitnou kanceláriou. **Pôsobia takmer výhradne v okrese Martin** (98%), v ktorom sa **rovnomerne** zameriavajú **na celý okres**.
+### 16.17 Popredné realitné kancelárie podľa trhového podielu
+  - **Päť najväčších realitných kancelárií** v okrese Martin **spravuje len 29% ponúk**, čo svedčí o tom, že okres Martin je **najviac fragmentovaným okresom z pohľadu konkurencie** v Žilinskom kraji.
+  - Je tu zároveň **druhý najvyšší počet ponúk na jednu realitnú kanceláriu v kraji** (8).
+  - Kombinácia týchto dvoch ukazovateľov naznačuje, že **spolu s okresom Žilina ide o okres s najväčším potenciálom pre vstup nových realitných kancelárií na trh**.
