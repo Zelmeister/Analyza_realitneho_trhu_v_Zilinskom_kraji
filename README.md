@@ -647,12 +647,93 @@ V okrese Kysucké Nové Mesto nepôsobia realitné kancelárie, ktoré by sa úz
   - Hoci je okres Kysucké Nové Mesto pomerne malý, **nie je tu vidieť dominanciu trhu hŕstkou realitných kancelárií**. Uvedených **päť spoločností spravuje zhruba 38% ponúk** v okrese.
   - **Počet ponúk na realitnú kanceláriu je približne 4**, čo znamená, že v okrese už je relatívne veľké množstvo realitných kancelárií.
   - Ide teda o **fragmentovaný trh s pomerne silnou konkurenciou a relatívne nízkym priestorom pre nových hráčov**.
+<br> <br>
 
+<img width="1150" height="645" alt="30" src="https://github.com/user-attachments/assets/428d0618-dfee-4cf0-aa1e-6971163ff9f2" /> <br>
+## 15. Okres Čadca
+Okres Čadca patrí medzi najväčšie okresy v kraji podľa počtu obyvateľov. Je tu však **nízka úroveň rozvoja nehnuteľností**. V ponuke je **množstvo starých nehnuteľností v horšom stave**, pričom **nových nehnuteľností je tu v ponuke najmenej z celého kraja**. Ide o **jeden z najlacnejších okresov z pohľadu predaja s výnimkou domov, ktoré naopak patria medzi najdrahšie**.  Výška nájomného je na strednej úrovni. V okrese sa nachádza málo bytov, **ponuke vládnu pozemky a domy**.
+<br> <br>
+Pre okres Čadca sú typické **roztrúsené lokality** s pomerne vysokým podielom svahovitého terénu. **Lokality majú častokrát charakter osád**. **Najdrahšie lokality z pohľadu bytov sú čadčianske sídliská** – Žarec, Kyčerka, Sídlisko 3, hoci aj tie sú na pomery kraja relatívne cenovo dostupné. **Najdrahšie nájomné lokality sú centrá miest Čadca a Krásno nad Kysucou**. **Najdrahšie domy** nájdeme v centre Čadce a v mestskej štvrti **Podzávoz**.
+<br> <br>
+**Trh ovládajú veľkí hráči**, z ktorých mnohí **sa špecializujú práve na okres Čadca**. **Počet ponúk** je zároveň **relatívne nízky** na okres takého rozmeru, čo znamená, že **príležitostí pre nové realitné kancelárie tu je málo**.
+<br> <br>
+Okres Čadca môže byť **relatívne zaujímavý z pohľadu investičných bytov** kvôli lacným nehnuteľnostiam a relatívne drahému nájmu. Výhodne vychádzajú najmä zrekonštruované **trojizbové byty v centrách miest Čadca a Krásno nad Kysucou a taktiež v Kalinove, Kyčerke a Žarci**.
+### 15.1 Prehľad
+  - **Jemne podpriemerný počet ponúk** (46 na 10-tisíc obyvateľov)
+  - **Najmenší podiel novostavieb** (21%)
+  - **Tretí najmenší počet novostavieb** (6 na 10-tisíc obyvateľov)
+  - **Druhý najvyšší priemerný vek nehnuteľností** (39 rokov)
+  - **Druhý najlacnejší okres** (cenový index = -24%)
+  - **Priemerne drahý okres z pohľadu nájmu** (nájomný index = -2%)
+### 15.2 Byty podľa typu
+  - **Ponuka bytov je v zásade štandardná**, vyzerá však, že je tu **deficit veľkých bytov** (4 a viac izieb).
+  - Nájomné byty predstavujú 33% ponuky bytov, čo znamená, že okres Čadca je **viac orientovaný na predaj ako väčšina okresov**.
+  - Zároveň je tu **v ponuke viacero apartmánov** na predaj, a to konkrétne v Makove a Oščadnici, ktoré sú zaujímavé napríklad z pohľadu zimnej rekreácie.
+### 15.3 Počet ponúk podľa stavu nehnuteľnosti
+  - V okrese **prevládajú nehnuteľnosti v horšom stave** – viac ako polovica nehnuteľností (55%) je buď v pôvodnom stave, alebo len čiastočne zrekonštruovaná.
+  - Kompletne zrekonštruovaných je 24% nehnuteľností.
+  - **Podiel novostavieb je najnižší v celom kraji** (21%).
+### 15.4 Počet ponúk podľa kategórie
+  - V ponuke je **veľmi malý podiel bytov** (25%) – druhý najmenší v kraji po okrese Turčianske Teplice (13%).
+  - **Prevládajú domy** (42%) **a pozemky** (33%).
+### 15.5 Štruktúra terénu
+  - V porovnaní s inými okresmi je tu **pomerne vysoký podiel svahovitého terénu** – 25% ponúk.
+### 15.6 Pomer ceny a nájomného (PTR)
+  - Okres Čadca ponúka **niekoľko výhodných kombinácií** pre investorov z pohľadu pomeru ceny a ročného nájomného. Ak je cieľom dosiahnuť pomer menší než 15, prichádzajú do úvahy tieto kombinácie:
 
+| nehnuteľnosť | stav                    | lokalita        | výhodné do    |
+| ------------ | ----------------------- | --------------- | --------------|
+| 2-izbový byt | čiastočná rekonštrukcia | Čadca - Centrum | všetky ponuky |
+| 3-izbový byt | kompletná rekonštrukcia | Čadca - Centrum | 1 368 € za m² |
+| 2-izbový byt | novostavba              | Kalinov         | všetky ponuky |
 
+  - Okrem uvedených kombinácií môžu predstavovať relatívne dobrú investíciu (PTR < 20) aj **kompletne alebo čiastočne zrekonštruované 3-izbové byty v lokalitách Kyčerka, Krásno nad Kysucou – Stred a Žarec**.
+  - Vyplýva to z toho, že **nájomný index je okrese Čadca výrazne vyšší ako cenový index**.
+<br> <br>
 
+<img width="1150" height="643" alt="31" src="https://github.com/user-attachments/assets/aec230c1-d2cc-4bc9-bbc5-404437849ab3" /> <br>
+### 15.7 Cenový index
+  - Hoci ide o druhý najlacnejší okres, neplatí to pre všetky kategórie nehnuteľností.
+  - **Z pohľadu bytov** (-24%) **a pozemkov** (-43%) je Čadca skutočne **druhý najlacnejší okres**.
+  - Avšak prekvapivo **z pohľadu domov ide u druhý najdrahší okres** (19%).
+### 15.8 Nájomný index
+  - V niečom podobný trend je možné pozorovať aj v prípade nájmu – **výška nájomného bytov je podpriemerná** (-7%), zatiaľ čo **prenájom domov** (22%) **je v okrese Čadca druhý najdrahší**.
+### 15.9 Ponuka obytných bytov na predaj
+  - **Takmer všetky typy bytov** patria medzi **najlacnejšie v okrese**.
+  - Výnimkou sú **jednoizbové byty, ktoré sú výrazne drahšie** a zodpovedajú nižšiemu priemeru okresov (2 700 € na m²), čo môže svedčiť o zvýšenom záujme o tento typ nehnuteľnosti.
+### 15.10 Ponuka bytov na prenájom
+  - V okrese Čadca vidno pomerne **štandardný pokles výšky nájomného na m² s každou dodatočnou izbou**.
+  - Kuriozitou je, že **výška nájomného na m² sa pri jednoizbovom** (11,3 €) **a dvojizbovom byte** (11,0 €) **moc nelíši**.
+### 15.11 Lokality podľa cenového indexu bytov
+  - **Najdrahšie sú** z pohľadu ceny bytov **čadčianske sídliská** – Sídlisko 3 (-7%), Žarec (-9%) a Kyčerka (-15%), hoci sú cenovo pod krajským priemerom.
+### 15.12 Lokality podľa nájomného indexu
+  - Jednotlivé **lokality sa z pohľadu nájomného veľmi nelíšia**. Vidíme, že oproti sídliskám (Kyčerka -3%, Žarec -12%) je zrejme **o trochu väčší záujem o centrá miest** Čadca (-1%) a Krásno nad Kysucou (-2%).
+  - Zároveň je potrebné brať výsledok s rezervou kvôli nízkemu počtu ponúk v jednotlivých lokalitách.
+  - **Najdrahšími lokalitami **z pohľadu nájmu sú mestská časť Krásna nad Kysucou – **Kalinov** (7%) a mestská časť Čadce – **Podzávoz** (22%). V prípade Podzávozu môžu vyniknúť pochybnosti kvôli nízkemu počtu ponúk, ale vyššiu hodnotu tejto lokality potvrdzuje aj cenový index domov (48%).
+### 15.13 Lokality podľa cenového indexu domov
+  - V okrese Čadca evidujeme **až 34 lokalít s ponukami domov**. Vyplýva to z toho, že sa tu nachádza **veľké množstvo malých osád**, ktoré sú od seba príliš vzdialené na to, aby sa dali zaradiť do širších kategórií.
+  - **Najdrahšími lokalitami sú Podzávoz** (48%), **centrum Čadce** (2%) **a Stará Bystrica** (-3%).
+  - **Zvyšok okresu** je v rôznej miere **cenovo podpriemerný**. Cenový index sa tu pohybuje od -3% (Čadca - Kyzkovci) až po približne -40% pre lokality najvzdialenejšie od Čadce (Makov,  Vysoká nad Kysucou, Klokočov, Skalité či Radôstka). V priemere je to -27%.
+<br> <br>
 
-
-
-
-
+<img width="1149" height="644" alt="32" src="https://github.com/user-attachments/assets/8207ceb5-6eb9-45cb-89e3-570874f6b5c0" /> <br>
+### 15.14 Popredné realitné kancelárie podľa počtu ponúk
+  - Najväčšími realitnými kanceláriami sú **SLNOVRAT** (61 ponúk), **1. Reality Rent** (56 ponúk), **BeMi** (39 ponúk), **HOLESTIAK.sk reality** (28 ponúk) a **JPE.Reality - Jozef Pajer** (19 ponúk).
+  - V okrese Čadca majú **najväčší podiel ponuky domov a pozemkov, orientujú sa na ne aj štyri najväčšie realitné kancelárie**.
+  - **Silnú orientáciou na ponuky domov má HOLESTIAK.sk reality** (68%).
+  - **Relatívne úspešnými kanceláriami**, čo sa týka **bytových ponúk**, sú **SLNOVRAT** (30%) a **JPE. Reality - Jozef Pajer** (42%).
+### 15.15 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - **Podiel ponúk v dobrom stave** (t. j. kompletná rekonštrukcia, novostavba alebo vo výstavbe) **je v okrese Čadca 45**%.
+  - **Nadpriemerne vysoký počet ponúk v dobrom stave** majú spoločnosti **SLNOVRAT** (71%) a **JPE. Reality - Jozef Pajer** (60%). **SLNOVRAT** napríklad **ponuky v pôvodnom stave nemá takmer vôbec**.
+  - Naopak **veľký podiel ponúk v horšom stave má spoločnosť HOLESTIAK.sk reality** (81%).
+### 15.16 Ponuky spravované top 5 realitnými kanceláriami podľa typu
+  - **Nájomných ponúk nie je v okrese vo všeobecnosti veľmi veľa**, takže prirodzene netvoria ani veľkú časť portfólií realitných kancelárií.
+### 15.17 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **Najväčšie realitné kancelárie** majú v okrese Čadca **relatívne rovnomerne rozložené pôsobenie naprieč celým okresom**. Nie je vidieť výraznú dominanciu niektorej z nich v nejakej časti okresu.
+  - **SLNOVRAT pôsobí na 95% v okrese Čadca**. Nadpriemerný počet ponúk majú v Staškove a Turzovke (časť Predmier). Ide o lokálnu realitnú kanceláriu so sídlom v Olešnej.
+  - **1. Reality Rent sa taktiež orientuje primárne na okres Čadca** (72%). V menšej miere však pôsobí aj v okresoch Žilina (14%) a Kysucké Nové Mesto (9%). Najviac ponúk majú v Makove, Rakovej a Oščadnici.
+  - **BeMi** je nitrianska realitná kancelária s viacerými pobočkami po celom Slovensku. V Žilinskom kraji majú pobočku v Žiline, ale **najväčší podiel ich realitných aktivít sa odohráva práve v okrese Čadca** (41%). Najviac ponúk tu spravujú v Skalitom, Čadci a Klokočove.
+  - **HOLESTIAK.sk reality** je ďalšou miestnou realitnou kanceláriou. **V okrese Čadca sa nachádza 82% z ich ponúk.** Ďalších 15% sa nachádza v okrese Kysucké Nové Mesto. Najviac ponúk spravujú v Čadci, Skalitom a Oščadnici.
+  - **JPE. Reality - Jozef Pajer** je taktiež miestna realitná kancelária, ktorá **pôsobí výhradne v okrese Čadca**. Orientuje sa primárne na mesto Čadca (42%).
+### 15.18 Popredné realitné kancelárie podľa trhového podielu
+  - Na čadčianskom realitnom trhu je **veľké zastúpenie silných hráčov** – **päť najväčších realitných kancelárií ovláda až 54% trhu**, čo je pomerne vysoké percento vzhľadom na to, že sa Čadca radí medzi väčšie okresy v Žilinskom kraji.
