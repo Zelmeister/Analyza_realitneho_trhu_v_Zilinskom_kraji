@@ -898,6 +898,81 @@ Z pohľadu konkurencie ide o **veľmi fragmentovaný trh s absenciou dominantný
   - **Na dobrom stave nehnuteľností** vo zvýšenej miere **záleží realitným kanceláriám TARGETreal** (64% ponuky) **a Reality MT** (75% ponuky), pričom **Reality MT sa orientujú na novostavby a nehnuteľnosti vo výstavbe**.
 •	**Zvyšok realitných kancelárií viac-menej vychádza z prirodzeného zastúpenia nehnuteľností v okrese**, čoho výsledkom je, že ponúkajú vysoký podiel nehnuteľností v horšom stave.
 
-### 17.12 Popredné realitné kancelárie podľa trhového podielu
+### 17.12 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **V meste** Turčianske Teplice **dominujú TARGETreal** (Turčianske Tepice - Stred, Háj) **a Reality MT** (Diviaky, Turčiansky Michal).
+  - Zdá sa, že **Reality MT sa vyhýbajú južnejším obciam**.
+  - Až **37% realitných kancelárií** pôsobiacich **v okrese Turčianske Teplice sa** primárne **orientuje na okres Martin**, čo vypovedá o prepojenosti trhov.
+
+### 17.13 Popredné realitné kancelárie podľa trhového podielu
   - **Päť najväčších spoločností zodpovedá len za 34% ponúk v okrese**, čo je **druhý najnižší podiel** spomedzi všetkých okresov v kraji. Ide teda o **veľmi fragmentovaný trh** s relatívne veľkým množstvom realitných kancelárií.
   - **Počet ponúk na realitnú kanceláriu je tu však druhý najnižší v kraji** (3 ponuky na kanceláriu), čo zase hovorí o tom, že okres Turčianske Teplice poskytuje **veľmi málo príležitostí pre nové realitné kancelárie**.
+<br> <br>
+
+<img width="1149" height="645" alt="39" src="https://github.com/user-attachments/assets/865c8185-16c0-4155-96e7-ba40e9980fb1" /> <br>
+## 18. Okres Dolný Kubín
+Okres Dolný Kubín **patrí medzi menšie okresy** v rámci Žilinského kraja. Ide v zásade o **priemerný okres z pohľadu úrovne rozvoja nehnuteľností či ceny**. **Ponuka nehnuteľností** je na pomery Žilinského kraja **štandardná** podľa typu aj stavu nehnuteľností. 
+<br> <br>
+**Pre investorov** so záujmom o kúpy investičného bytu môžu pripadať do úvahy **menšie bytové novostavby na sídlisku Brezovec**, hoci **príjem z prenájmu** v pomere k cene **nepatrí medzi najvýhodnejšie** v kraji. Prekvapivo **drahou lokalitou je Mokraď**, a to z pohľadu prenájmu bytov aj ceny domov.
+<br> <br>
+**Na trhu dominujú veľmi silní hráči**, čo robí okres Dolný Kubín nie veľmi vhodným z pohľadu vstupu nových realitných kancelárií.
+### 18.1 Prehľad
+  - **Tretí najmenší počet ponúk** (43 na 10-tisíc obyvateľov) – ide však o výrazne vyšší počet ponúk ako v prípade ostatných oravských okresov
+  - **Priemerný podiel novostavieb** (36%)
+  - **Jemne podpriemerný počet novostavieb** (10 na 10-tisíc obyvateľov)
+  - **Stredne staré nehnuteľnosti** (v priemere 32 rokov)
+  - **Stredne drahý okres** (cenový index -4%)
+  - **Tretí najdrahší okres z pohľadu nájmu** (nájomný index 2,5%)
+### 18.2 Byty podľa typu
+  - **Distribúcia jednotlivých typov bytov** viac-menej **zodpovedá celokrajskej distribúcii**.
+  - Podiel nájomných bytov predstavuje 35% všetkých ponúkaných bytov, čo opäť svedčí o tom, že **trh je orientovaný na predaj**.
+  - V rámci jednotlivých typov bytov je **najväčší podiel predajných ponúk u väčších bytov** – dvojizbových, trojizbových a štvorizbových.
+### 18.3 Počet ponúk podľa stavu nehnuteľnosti
+  - **Podiel nehnuteľností jednotlivých stavov** v okrese Dolný Kubín zhruba **zodpovedá ich celkovému podielu na celokrajskej úrovni**.
+  - **Medzi nájomnými ponukami** je vidieť n**ajväčší podiel kompletne zrekonštruovaných nehnuteľností** (60%).
+  - Taktiež vidieť trend, že **pokiaľ ide o nehnuteľnosť v pôdnom stave alebo novostavbu, zámerom majiteľa je takmer vždy nehnuteľnosť predať**. **Ak však ide o zrekonštruovanú nehnuteľnosť, vidieť vyšší záujem o jej prenajatie**.
+### 18.4 Počet ponúk podľa kategórie
+  - **Pomer bytových, domových a pozemkových ponúk sa výrazne nelíši od celokrajského pomeru** jednotlivých kategórií ponúk. Je však vidieť **mierne vyšší podiel pozemkových ponúk** (+11%) a na druhej strane **nižší podiel domových ponúk** (-13%).
+### 18.5 Štruktúra terénu
+  - Oproti zvyšku kraja vidieť **zvýšený podiel ponúk so svahovitým terénom** (26% ponúk), podobne ako v okrese Čadca.
+### 18.6 Pomer ceny a nájomného (PTR)
+  - Vhodných **príležitostí na kúpu investičného bytu** s cieľom jeho následného prenájmu **je v okrese Dolný Kubín len pár** a aj to len s PTR menším ako 20:
+
+| nehnuteľnosť | stav       | lokalita | výhodné do    |
+| ------------ | ---------- | ---------| --------------|
+| garsónka     | novostavba | Brezovec | všetky ponuky |
+| 2-izbový byt | novostavba | Brezovec | 2 568 € za m² |
+
+<br> 
+
+<img width="1148" height="644" alt="40" src="https://github.com/user-attachments/assets/74c52646-4fae-49f1-911c-916a81e864ef" /> <br>
+### 18.7 Cenový index
+  - Okres Dolný Kubín má **nadpriemerne drahé byty** (-2%) **a pozemky** (-5%) v porovnaní s inými okresmi.
+  - **Cena domov** je oproti iným okresom **podpriemerná** (-10%).
+### 18.8 Nájomný index
+  - **Cena nájmu bytov je tretia najvyššia v kraji** (3%).
+  - **Domy sa** v okrese Dolný Kubín **neprenajímajú**.
+### 18.9 Ponuka obytných bytov na predaj
+  - Ceny garsónok, jednoizbových a štvorizbových bytov je ťažké interpretovať kvôli nízkemu počtu ponúk.
+  - **Dvojizbové a trojizbové byty** sú oproti iným okresom **nadpriemerne drahé**.
+  - Podľa krivky zobrazujúcej cenu jednotlivých typov bytov sa zdá, že **v okrese Dolný Kubín sa pomerne prudko znižuje cena na m² s každou dodatočnou izbou** (podobne ako v okrese Žilina).
+### 18.10 Ponuka obytných bytov na prenájom
+  - **Podobne prudké klesanie cien** ako v prípade bytov na predaj **vidíme aj v prípade nájomných bytov**, čím sa opäť okres Dolný Kubín podobá okresu Žilina, hoci úroveň cien je v ňom samozrejme nižšia.
+  - **Cena nájmu všetkých typov bytov je** oproti iným okresom **nadpriemerná**.
+### 18.11 Lokality podľa cenového indexu bytov
+  - **Najviac ponúk bytov** je prirodzene **na sídliskách** – Brezovec (17 ponúk), Veľký Bysterec (9 ponúk). **Drahším sídliskom** spomedzi uvedených je **Veľký Bysterec** (8%). **Brezovec** má cenový index **na úrovni krajského priemeru** – 0%.
+  - V **iných lokalitách sa byty ponúkajú zriedkavejšie**, preto je potrebné byť pri interpretácii cien zdržanlivejší. Najdrahšou lokalitou sa však zdá byť Kubínska hoľa (40%), čo nie je vôbec prekvapivé, keďže ide o zrejme najvychytenejšiu turistickú lokalitu v okrese.
+### 18.12 Lokality podľa nájomného indexu
+  - **Najdrahšou lokalitou z pohľadu nájmu je Mokraď** (10%). Ide zároveň o šiestu najdrahšiu lokalitu z pohľadu nájmu v rámci celého kraja.
+  - Za Mokraďou **nasledujú dolnokubínske sídliská** Veľký Bysterec (4%) a Brezovec (2%).
+### 18.13 Lokality podľa cenového indexu domov
+  - **Najdrahšie domy** sú opäť **v lokalite Mokraď** (98%).
+  - Cenový vplyv lokality zrejme opäť výrazne ovplyvňujú faktory ako **občianska vybavenosť či charakter zástavby**.
+  - **Blízkosť k okresnému mestu Dolný Kubín, respektíve k hlavnému ťahu medzi Martinom a Ružomberkom**, vo všeobecnosti zvyšuje cenu lokality – Istebné (43%), Kraľovany (17%), Zázrivá (-9%).
+  - Najnižšiu cenu majú domy v obci Malatiná (-40%), ktorá ja asi najodľahlejšou obcou v okrese.
+<br> <br>
+
+<img width="1147" height="644" alt="41" src="https://github.com/user-attachments/assets/f2d3f5eb-0fa3-4681-8744-d7a7e4607688" /> <br>
+
+
+
+
