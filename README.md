@@ -972,7 +972,137 @@ Okres Dolný Kubín **patrí medzi menšie okresy** v rámci Žilinského kraja.
 <br> <br>
 
 <img width="1147" height="644" alt="41" src="https://github.com/user-attachments/assets/f2d3f5eb-0fa3-4681-8744-d7a7e4607688" /> <br>
+### 18.14 Popredné realitné kancelárie podľa počtu ponúk
+  - **Najväčšími realitnými kanceláriami** v okrese z pohľadu počtu ponúk sú **OREA** (39 ponúk), **FINREA** (27 ponúk), **Dalmia** (23 ponúk), **RE/MAX Slovakia** (10 ponúk) a **TU reality** (10 ponúk). Z uvedeného je vidieť **silné postavenie prvých troch** najväčších realitných kancelárií.
+  - Podiel jednotlivých typov nehnuteľností v ponuke realitnej kancelárie **OREA zodpovedá podielu všetkých typov nehnuteľností v okrese**.
+  - **FINREA sa silnejšie orientuje na bytové ponuky** (67%), zatiaľ čo **pozemky ponúka minimálne** (11%).
+  - **Realitná kancelária Dalmia** má na druhú stranu **nižší podiel bytov** (26%) a **vyšší podiel pozemkov** (52%).
+  - **Ponuka RE/MAX Slovakia kopíruje reálny výskyt nehnuteľností v okrese**.
+  - V ponuke nehnuteľností **TUreality silne dominujú byty** (70%), pričom p**ozemky neponúkajú v okrese Dolný Kubín vôbec**. Minimálny záujem o pozemky je u TUreality vidieť aj v iných okresoch – Žilina, Liptovský Mikuláš.
+### 18.15 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - Realitná kancelária **OREA sa špecializuje na ponuky v dobrom stave** – novostavby (44%) a kompletne zrekonštruované nehnuteľnosti (44%).
+  - **FINREA má** oproti realitnej kancelárii OREA **rozšírenú ponuku ešte o čiastočne zrekonštruované nehnuteľnosti**, ale ponuky v pôvodnom stave spravuje minimálne (8%).
+  - **Stav ponúk RK Dalmia zhruba zodpovedá reálnemu stavu nehnuteľností v okrese**.
+  - **TUreality sa** podobne ako FINREA **vyhýbajú nehnuteľnostiam v pôvodnom stave**.
+  - **RE/MAX Slovakia sa orientuje výhradne na ponuky v dobrom stave** – novostavby (83%) a kompletne zrekonštruované nehnuteľnosti (17%).
+  - **AstonRreal**, realitná kancelária so šiestym najväčším počtom ponúk (6), **sa špecializuje na nehnuteľnosti v pôvodnom stave** (83%).
+### 18.16 Ponuky spravované top 5 realitnými kanceláriami podľa typu
+  - **Všetky realitné kancelária sa orientujú výhradne na predaj s výnimkou dvoch najväčších**. V prípade realitnej kancelárie **OREA tvoria nájomné ponuky 26% portfólia**, zatiaľ čo **realitná kancelária FINREA ich má 33%**.
+### 18.17 Lokality, v ktorých popredné realitné kancelárie patria medzi prvé tri
+  - **Najväčšie realitné kancelárie pôsobia viac-menej rovnomerne naprieč celým okresom**, čo môže súvisieť s tým, že nejde o veľký okres.
+  - **OREA** je miestnou realitnou kanceláriou. **V okrese Dolný Kubín realizuje až 70% svojich aktivít**. Zvyšok ponúk sa nachádza najmä v okrese Ružomberok (13%) a v okrese Námestovo (11%). V rámci okresu Dolný Kubín **sa silne orientuje priamo na mesto Dolný Kubín (66%)**, v ktorom má najviac ponúk v lokalitách Mokraď (18%), Brezovec (18%) a Veľký Bysterec (10%).
+  - **Realitná kancelária FINREA pôsobí prevažne v dvoch okresoch – Martin** (47%) **a Dolný Kubín** (40%). V okrese Martin je ôsmou najväčšou realitnou kanceláriou podľa počtu ponúk. V okrese Dolný Kubín má najviac ponúk v lokalitách Brezovec (30%), Veľký Bysterec (15%), Istebné (15%) a Leštiny (11%).
+  - **RE/MAX Slovakia pôsobí vo väčšine okresov Žilinského kraja**, avšak najviac v okresoch Liptovský Mikuláš (29%), Martin (26%), Námestovo (14%) a Dolný Kubín (13%). **Kvôli orientácii na pozemkové ponuky pôsobia najmä v okolitých obciach**.
+  - **RK Dalmia** je ďalšou miestnou realitnou kanceláriou. **V okrese Dolný Kubín realizuje 70% aktivít**. Ďalších 18% ponúk má v okrese Námestovo. Opäť môžeme vidieť silnú orientáciu na významné lokality Dolného Kubína – Brezovec (22%), Mokraď (18%) či Malý Bysterec (9%). Viacero ponúk sa však nachádza aj v odľahlejšej obci Malatiná (13%).
+  - **TUreality** patrí medzi najväčšie realitné kancelárie v Žilinskom kraji, **v okrese Dolný Kubín však majú len 7% zo svojich ponúk**, pričom najviac ponúk majú na sídlisku Veľký Bysterec (33%).
+### 18.18 Popredné realitné kancelárie podľa trhového podielu
+  - V okrese Dolný Kubín **spravuje päť najväčších realitných kancelárií až 71% ponúk**, pričom 60% ponúk pripadá len na prvé tri realitné kancelárie. **Ide teda o najskonsolidovanejší trh v celom Žilinskom kraji**.
+  - **Z pohľadu počtu ponúk na realitnú kanceláriu** (približne 6) **ide o priemerný okres**.
+  - **Okres Dolný Kubín** preto vo výsledku **patrí** spolu so zvyšnými oravskými okresmi **medzi okresy s najhoršími vyhliadkami pre vstup nových hráčov na trh**.
+<br> <br>
 
+<img width="1148" height="643" alt="42" src="https://github.com/user-attachments/assets/ee5d8a3d-0374-4c84-93d9-2768565f5b8c" /> <br>
+## 19. Okres Námestovo
+Okres Námestovo **patrí medzi stredne veľké okresy** Žilinského kraja, ktorý má skôr **rurálny charakter**. Ide o **málo aktívny trh s relatívne nízkou úrovňou rozvoja nehnuteľností**, čo ilustruje najmä ich **skromná ponuka**. Zároveň ide o **jeden z najlacnejších okresoch** ako z pohľadu predaja, tak aj nájmu. Kombinácia týchto faktorov vytvára **nie veľmi vhodné podmienky pre kúpu investičných bytov**.
+<br> <br>
+Do určitej miery platí, že **lokality v blízkosti Námestova sú drahšie**. Avšak Námestovo nie je natoľko výrazným okresným centrom ako v prípade iných okresov, aby spôsobilo zásadnú disproporciu cien. Viacero miestnych obcí za ním navyše výrazne nezaostáva počtom obyvateľov. Zdá sa, že **významnejší vplyv majú faktory ako občianska vybavenosti či veľkosť obce**. Jednoznačnú kategorizáciu obcí podľa cenového indexu navyše komplikuje nízka koncentrácia ponúk v jednotlivých lokalitách.
+<br> <br>
+**Pre realitnú spoločnosť**, ktorá zvažuje prípadný vstup na tento trh, **je okres Námestovo málo zaujímavý a navyše ťažko dostupný z pohľadu konkurencie**. Ide totiž o **silne skonsolidovaný trh** ovládaný hŕstkou silných hráčov, ktorí sa delia o už aj tak **nízky počet ponúk**.
+### 19.1 Prehľad
+  - **Druhý najmenší počet ponúk** (13 na 10-tisíc obyvateľov)
+  - **Najvyšší podiel novostavieb** (53%). Vysoký podiel môže byť **spôsobený malým množstvom ponúk**. Pri prepočte na počet obyvateľov je vidieť, že okres Námestovo má málo nových nehnuteľností. 
+  - **Druhý najmenší počet novostavieb** (5 na 10-tisíc obyvateľov)
+  - **Stredne staré nehnuteľnosti** (priemerný vek 30 rokov)
+  - **Tretí najlacnejší okres z pohľadu predaja** (cenový index -20%)
+  - **Druhý najlacnejší okres z pohľadu nájmu** (nájomný index -27%)
+### 19.2 Byty podľa typu
+  - Podiel jednotlivých typov bytov **zodpovedá ich celokrajskej distribúcii**. Ide teda v tomto ohľade o **štandardnú ponuku**.
+  - **Nájomné byty tvoria až 50%** všetkých bytových ponúk, čo **svedčí o vyváženom trhu**, ktorý nemá výraznú orientáciu na predaj či prenájom.
+### 19.3 Počet ponúk podľa stavu nehnuteľnosti
+  - Okres Námestovo má **výrazný podiel novostavieb**, čo môže byť **trochu zavádzajúce**, **pretože celkový počet ponúk v okrese je veľmi malý**, a to sa týka aj novostavieb, hoci tie tvoria viac ako polovicu celkovej ponuky. 
+  - V okrese je zároveň **nižší podiel zrekonštruovaných nehnuteľností** oproti krajskému priemeru – čiastočná rekonštrukcia (14%; kraj 22%), kompletná rekonštrukcia (10%; kraj 24%).
+### 19.4 Počet ponúk podľa kategórie
+  - Oproti celému kraju tu vidíme **nižší podiel bytov a vyšší podiel pozemkov**, nie však výrazne.
+### 19.5 Pomer ceny a nájomného (PTR)
+  - Z analýzy vyplýva, že **okres Námestovo neposkytuje vhodné príležitosti pre investičné byty**. Môže to však byť spôsobené malým množstvom dát, ktoré vyplýva z malej ponuky.
+  - Ak nebudeme brať do úvahy konkrétnu lokalitu, ale celý okres, **najperspektívnejšou investíciou je zrejme dvojizbový kompletne zrekonštruovaný byt**, ktorý vykazuje najnižšie priemerné PTR.
+<br> <br>
 
+<img width="1148" height="645" alt="43" src="https://github.com/user-attachments/assets/54eff81e-a3ac-4276-866f-bccb128fc014" /> <br>
+### 19.6 Cenový index
+  - **Tretie najlacnejšie byty** v kraji (-16%)
+  - **Najlacnejšie domy** v kraji (-29%)
+  - **Priemerne drahé pozemky** (-10%). Zrejme je tu vyšší záujem o stavbu vlastného domu než kupovať už postavený dom.
+### 19.7 Nájomný index
+  - **Druhé najlacnejšie nájomné byty** (-28%)
+  - **Podpriemerná cena nájmu domov** (-19%). Túto hodnotu je však ťažké porovnávať, keďže domy sa prenajímajú málo a v niektorých okresoch sa neprenajímajú vôbec.
+### 19.8 Ponuka obytných domov na predaj
+  - **Interpretáciu opäť sťažuje nižší počet bytov**. Vidíme však **relatívne štandardné klesanie ceny s pribúdajúcim počtom izieb** v byte s tým, že vyššia cena pri štvorizbových bytoch zrejme znamená anomáliu spôsobnú lepším stavom bytov v ponuke.
+  - **Ceny ostatných typov bytov** však **patria medzi najnižšie v kraji**.
+### 19.9 Ponuka bytov na prenájom
+  - Pri nájomných bytoch je opäť vidieť **pomerne štandardné klesanie ceny s pribúdajúcim počtom izieb**. 
+  - Vysoká cena a nízky počet jednoizbových bytov môžu naznačovať **zvýšený dojem po tomto type nehnuteľnosti**. Opäť nám však chýba väčšie množstvo dát, pri ktorých by bol záver dôveryhodnejší.
+### 19.10 Lokality podľa cenového indexu bytov
+  - V okrese Námestovo **sa nenachádza veľa bytových lokalít**.
+  - **Jediné sídlisko** v okrese (sídlisko Brehy v Námestove) je najdrahšou bytovou lokalitou (-10%). 
+  -Za Brehmi nasledujú obce Zubrohlava (-32%) a Oravské Veselé (-39%). 
+### 19.11 Lokality podľa nájomného indexu
+  - Lokality sa z pohľadu nájomného indexu hodnotia ťažšie kvôli **nízkej koncentrácii ponúk v jednotlivých lokalitách**.
+  - Vidíme však, že **prenájom je drahší v blízkosti Námestova** – Brehy (-25%), Vavrečka (-18%), a naopak **lacnejší v odľahlejších lokalitách** – Rabčice (-41%), Mútne (-44%), Oravská Polhora (-51%).
+### 19.12 Lokality podľa cenového indexu domov
+  - Podobný trend vidíme ja pri lokalitách podľa cenového indexu domov. **Najdrahšími sú lokality v blízkosti Námestova** – Vavrečka (46%), Slanická Osada (35%).
+  - **Naopak najlacnejšie domy nájdeme vo vzdialenejších obciach** – Oravská Polhora (-49%), Bobrov (-51%), Lomná (-53%) či Oravské Veselé (-93%).
+  - **Neplatí to však vo všeobecnosti**. Podobne ako v iných okresoch do toho vstupuje aj **veľkosť obce, občianska vybavenosť, doprava** či **charakter zástavby**.
+<br> <br>
 
+<img width="1149" height="642" alt="44" src="https://github.com/user-attachments/assets/801d5884-2924-45b1-b520-8e4a144a9bdd" /> <br>
+### 19.13 Popredné realitné kancelárie podľa počtu ponúk
+  - Nízky počet ponúk v okres taktiež sťažuje presné určenie najväčších realitných kancelárií.
+  - Na základe dát, ktoré sú nám k dispozícii, sa zdá, že **najväčšími realitnými kanceláriami** v okrese sú **BeMi** (20 ponúk), **RE/MAX Slovakia** (11 ponúk), **OREA** (6 ponúk) a **Dalmia** (6 ponúk), za ktorými ešte nasleduje **TUreality** (5 ponúk). Ide do veľkej miery o **rovnaké spoločnosti ako v okrese Dolný Kubín**, čo naznačuje **prepojenosť trhov**.
+  - U realitnej kancelárie **BeMi** je vidieť **silnejšiu orientáciu na byty** (60%) než na iné typy nehnuteľností, čím sa v okrese Námestovo líši oproti svojim aktivitám na Kysuciach, kde bola orientácia na byty skôr okrajová.
+  - **RE/MAX Slovakia sa** na druhej strane **vo zvýšenej miere orientuje na pozemky** (55%).
+  - Zvyšné realitné kancelárie majú primalý počet ponúk na to, aby vedeli presne identifikovať ich zameranie.
+### 19.14 Stav ponúk spravovaných top 4 realitnými kanceláriami
+  - **U popredných realitných kancelárií** je vidieť **vysoký podiel novostavieb**, čo vyplýva z ich vysokého prirodzeného zastúpenia v okrese.
+### 19.15 Ponuky spravované top 4 realitnými kanceláriami podľa typu
+  - **Nájomné ponuky sú takmer výhradnou doménou najväčších realitných kancelárií** v okrese, pričom najviac ich spravuje práve spoločnosť BeMi (7 ponúk).
+### 19.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - Realitná kancelária **BeMi** pôsobí najviac v okresoch Čadca (41%), **Námestovo (21%)** a Žilina (15%). **V rámci okresu Námestovo má 40% ponúk priamo v Námestove**, pričom sa jej darí dominovať vo všetkých lokalitách mesta. Druhý najväčší počet ponúk priamo v Námestove má s výrazným odstupom spoločnosť TUreality (3 ponuky).
+  - **RE/MAX Slovakia pôsobí** takmer **po celom Žilinskom kraji**. Najviac ponúk však má v okresoch Liptovský Mikuláš (28%), Martin (26%), **Námestovo (14%)** a Dolný Kubín (13%). **V okrese Námestovo pôsobia mimo okresného mesta**, a to najviac v obci Oravská Jasenica (37%).
+  - **Realitná kancelária OREA sa orientuje najmä na okres Dolný Kubín** (70%), avšak zastúpenie má aj v okresoch Ružomberok (13%), **Námestovo (11%)** či Tvrdošín (5%). **V okrese Námestovo pôsobia v odľahlejších obciach**, pričom najviac Oravskom Veselom (50%).
+  - Veľmi **podobné zameranie z pohľadu okresov má spoločnosť Dalmia**, ktorá sa tiež orientuje **primárne na okres Dolný Kubín** (70%). Pôsobí však aj v okresoch **Námestovo (18%)**, Tvrdošín (6%) a Ružomberok (6%). V okrese Námestovo majú najviac ponúk v obci Vasiľov (33%).
+### 19.17 Popredné realitné kancelárie podľa trhového podielu
+  - Z pohľadu konkurencie sa okres Námestovo **podobá zvyšným oravským okresom**. 
+  - Ide o **vysoko skonsolidovaný trh**, kde päť najväčších realitných kancelárií spravuje 68% ponúk.
+  - **Počet ponúk pripadajúcich na jednu realitnú kanceláriu** (približne 4) je zároveň **tretí najnižší** v kraji. 
+  - Z uvedeného vyplýva, že **nová realitná kancelária by mohla mať veľký problém sa na tomto trhu presadiť.**
+<br> <br>
 
+<img width="1149" height="643" alt="45" src="https://github.com/user-attachments/assets/038cb532-6ed2-4540-a470-bc7608e40552" /> <br>
+## 20. Okres Tvrdošín
+Okres Tvrdošín **patrí medzi menšie okresy** Žilinského kraja. Podobne ako okres Námestovo má skôr **rurálny charakter**. Z pohľadu predaja a rozvoja nehnuteľností ide o **málo aktívny trh** – je tu veľmi **nízky počet novostavieb** ako **aj celkový počet ponúk**. Na druhej strane **vysoký podiel tu majú staršie nehnuteľnosti v horšom stave**.
+<br> <br>
+Z hľadiska ceny však patrí okres Tvrdošín skôr medzi **stredne drahé okresy**, pričom **najdrahším typom nehnuteľnosti sú byty**, ktoré sú **zároveň aj najpočetnejším typom nehnuteľnosti**. **Raritnými sú** na druhej strane **ponuky pozemkov**. Okrem toho v okrese **chýbajú nájomné ponuky** s výnimkou apartmánov. 
+<br> <br>
+**Z pohľadu ceny bytov sa jednotlivé lokality moc nelíšia**.** Väčšia rôznorodosť cien** v rámci lokalít je **pri ponukách domov**. Ja však náročné identifikovať, čo presne ju spôsobuje.
+<br> <br>
+**Trh je plne saturovaný realitnými kanceláriami a značne skonsolidovaný**, čo ho robí **neperspektívnym z pohľadu nových hráčov**, ktorí zvažujú vstup na trh.
+### 20.1 Prehľad
+  - **Najmenší počet ponúk** v kraji (11 na 10-tisíc obyvateľov)
+  - **Tretí najmenší podiel novostavieb** (25%)
+  - **Najmenší počet novostavieb** v kraji (3 na 10 000 obyvateľov)
+  - **Tretie najstaršie nehnuteľnosti** (priemerný vek 36 rokov)
+  - **Stredne drahý okres z pohľadu predaja** (cenový index -12%)
+  - **Stredne drahý okres z pohľadu nájmu** (nájomný index 0%). Nájomných ponúk je však veľmi málo a navyše ide výhradne o apartmány, čo môže výrazne skresľovať výslednú hodnotu.
+### 20.2 Byty podľa typu
+  - **Celková ponuka bytov je veľmi malá**, čo môže skresľovať závery.
+  - Ide však o viac-menej **štandardnú distribúciu bytov podľa typu** s jemne vyšším podielom jednoizbových bytov.
+  - Nezanedbateľný je aj **podiel apartmánov** (12% bytovej ponuky). Zároveň je to **jediný typ nehnuteľnosti, ktorý sa v okrese ponúka na prenájom**.
+  - **Prenájom obytných bytov je v okrese neexistujúci**.
+### 20.3 Počet ponúk podľa stavu
+  - V okrese Tvrdošín je **vysoký podiel nehnuteľností v horšom stave** (64%) – pôvodný stav (22%), čiastočná rekonštrukcia (42%), čím sa podobá na okres Turčianske Teplice.
+### 20.4 Počet ponúk podľa kategórie
+  - **Okres Tvrdošín je okresom extrémov** – má **najnižší podiel pozemkových ponúk** v kraji (8%) a zároveň **najvyšší podiel bytových ponúk** (56%).
+<br> <br>
+
+<img width="1149" height="647" alt="46" src="https://github.com/user-attachments/assets/58d15a4d-921a-4478-b959-9dc7cd602c63" /> <br>
