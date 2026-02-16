@@ -1,0 +1,301 @@
+offer_id,position,floor,total_floors,elevator,built_in,energy_certificate,north,south,east,west
+JuLecgRv95A,"upper floor",19,24,yes,NULL,NULL,NULL,yes,yes,NULL
+JuzjcjA88fI,"upper floor",3,6,NULL,2025,A,NULL,NULL,NULL,yes
+JuR9IQwr1DX,NULL,NULL,NULL,NULL,2008,"not available",NULL,NULL,NULL,NULL
+JueQeTeryjC,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JufbBHYx-coz,"ground floor",NULL,NULL,NULL,2022,A,NULL,NULL,NULL,NULL
+JusEglMU0v8,"top floor",4,4,NULL,1979,"not available",NULL,yes,NULL,yes
+JuHU9WStTAs,"upper floor",NULL,NULL,NULL,1980,NULL,NULL,NULL,NULL,NULL
+Ju-48631_aJ,"top floor",10,10,NULL,1973,"not available",NULL,NULL,NULL,NULL
+JujzGN4k6bn,"upper floor",8,NULL,yes,2025,"not available",NULL,NULL,NULL,NULL
+JuyUZh4v08L,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju9d7v-lee8,"top floor",4,4,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuvALHP6cN9,"upper floor",3,4,NULL,1980,"not available",NULL,NULL,NULL,NULL
+Ju8a3kcGYvG,"ground floor",1,5,yes,NULL,A,NULL,NULL,NULL,NULL
+Jue47kLBSm8,"upper floor",5,5,yes,NULL,NULL,NULL,NULL,NULL,NULL
+JucquL8E-bM,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Jui14FUG-ZO,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuTiIF5zkxo3,"ground floor",1,1,NULL,2000,"not available",NULL,NULL,NULL,NULL
+JuFpZug_t62,"upper floor",4,7,NULL,2023,A,NULL,yes,yes,NULL
+JuUnWH-g8Yz,"upper floor",3,NULL,yes,2009,NULL,NULL,NULL,NULL,NULL
+JuUCL8fPL9h,"ground floor",1,2,NULL,NULL,B,NULL,NULL,NULL,NULL
+JuV8a82JG_s,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuvjDSTvTKy,attic,2,2,NULL,2022,"not available",NULL,NULL,yes,yes
+Ju3gs_noUEz,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuXcyij9eMf_,"upper floor",5,10,yes,2027,"not available",NULL,yes,NULL,yes
+JufYiP4E7Es,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuKkjtqN4VW,"upper floor",3,3,NULL,1900,"not available",NULL,NULL,NULL,NULL
+JuH-SEIASle,"top floor",8,8,NULL,2025,A,NULL,NULL,NULL,NULL
+Ju_IBACCGzT,"raised ground floor",1,NULL,NULL,NULL,"not available",NULL,yes,NULL,yes
+Ju_7fjs1rDI,attic,3,3,yes,2023,A,NULL,NULL,NULL,NULL
+JuO3IQpQk2Q,"ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JukCOBdi-HG,"upper floor",6,7,NULL,1972,"not available",NULL,NULL,NULL,NULL
+JuatrleUyRX,"ground floor",1,8,yes,1980,A,NULL,NULL,NULL,NULL
+JuqBZCEixbC,"upper floor",3,NULL,yes,2018,"not available",NULL,NULL,NULL,yes
+JuCuiefKh4P,"upper floor",3,4,NULL,1969,"not available",yes,yes,yes,NULL
+JucFUY5N5xW,"upper floor",4,6,yes,1970,B,yes,NULL,NULL,NULL
+JuSPwAqNDjb,"ground floor",1,3,NULL,2022,"not available",NULL,NULL,NULL,NULL
+JujrtOK9Ltj,"upper floor",2,3,NULL,1970,"not available",NULL,NULL,NULL,NULL
+Ju2TzdFfXkg,"upper floor",3,4,NULL,1965,"not available",NULL,NULL,NULL,NULL
+JuVO5WLrTZ3,"upper floor",2,4,NULL,1970,"not available",NULL,NULL,NULL,NULL
+JuC08OMa82u,"top floor",4,4,NULL,2008,"not available",NULL,NULL,NULL,NULL
+Jupw1bQT1Jh,"upper floor",4,8,yes,2025,A,yes,yes,yes,yes
+JuFqSi2fYOk,"ground floor",1,4,NULL,NULL,"not available",NULL,yes,yes,NULL
+JunnFbGwfA5,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuFv7NTgqug,"ground floor",1,4,yes,2021,B,NULL,NULL,NULL,NULL
+JuxZgQdKO7u,"upper floor",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju0iFsZ1mnv,"ground floor",NULL,NULL,NULL,2024,NULL,NULL,NULL,NULL,NULL
+JuN4KXjUyk-,"raised ground floor",1,3,NULL,2024,A,NULL,NULL,NULL,NULL
+JuWV1dgtiBd,"ground floor",1,2,yes,2025,"not available",NULL,NULL,NULL,NULL
+Judmv08qh2A,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JugXYWqkt4N,"upper floor",5,9,NULL,2025,D,NULL,NULL,NULL,NULL
+JuqvNgpYqrd,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju_Lr-2Vc09,"raised ground floor",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JubDtFpPZPz,"ground floor",1,2,NULL,2025,"not available",NULL,NULL,NULL,NULL
+Ju46Wlvz4BP,"raised ground floor",1,4,NULL,2023,B,NULL,yes,NULL,yes
+Jus8fVVapj9,"upper floor",2,7,yes,NULL,A,NULL,yes,yes,NULL
+JurldwLKNhM,"ground floor",1,3,NULL,1960,"not available",NULL,NULL,NULL,NULL
+JulollxgJp5,"upper floor",2,7,yes,2024,A,NULL,NULL,yes,NULL
+JupBjnV0coU,"raised ground floor",NULL,NULL,NULL,1985,"not available",NULL,NULL,NULL,NULL
+JuqAM-ZO9ir,NULL,NULL,NULL,NULL,NULL,A,NULL,NULL,NULL,NULL
+Ju5VjRRX_4J,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Juarr5O2upK,"ground floor",1,5,yes,2025,A,yes,NULL,yes,NULL
+JuXRtZdfweI,"upper floor",3,8,yes,1981,B,NULL,NULL,yes,yes
+JuNZupA7Ru4,"ground floor",1,3,NULL,2025,B,NULL,NULL,NULL,NULL
+JuA8-pf41pn,"upper floor",2,NULL,NULL,2025,"not available",NULL,NULL,NULL,yes
+JumbMyGo4iI,"ground floor",1,1,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuaCjfZIx81,"upper floor",3,8,NULL,2025,A,NULL,NULL,NULL,NULL
+JuUnD0myJmK,"upper floor",2,NULL,yes,NULL,"not available",NULL,NULL,NULL,NULL
+JuIP59md355,"upper floor",7,8,NULL,2025,A,NULL,NULL,NULL,NULL
+JuIh9K2txJ3,NULL,NULL,NULL,NULL,NULL,A,NULL,NULL,NULL,NULL
+Jub5nNi4yTF,"upper floor",6,7,NULL,1975,B,NULL,NULL,NULL,NULL
+Juqj8-BDIgQ,"ground floor",1,5,yes,2024,A,NULL,NULL,NULL,NULL
+JuQfQh_4sSF,"upper floor",4,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JujYXXx5gXi,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuxBkaifl6df,"ground floor",1,2,NULL,2025,A,NULL,NULL,yes,NULL
+JugTLMsHTVi,"upper floor",NULL,NULL,NULL,1970,NULL,NULL,NULL,NULL,NULL
+Jul7be3Lkz5,"ground floor",1,3,yes,2022,A,NULL,NULL,NULL,NULL
+JuPT1z2mBzV,"upper floor",9,10,yes,1975,B,NULL,yes,yes,NULL
+Ju4hZgzLszu,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuKlHRPhAEF,"upper floor",NULL,NULL,NULL,1900,"not available",NULL,NULL,NULL,yes
+JuvFESSKGWN,"upper floor",5,8,yes,2025,"not available",NULL,NULL,yes,NULL
+JusgW9odCAS,"ground floor",1,2,NULL,1960,"not available",NULL,NULL,NULL,NULL
+Juvk9S_5ltU,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JunBqR0DBP9,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuDCMQupxo0,"ground floor",1,4,yes,1980,"not available",NULL,NULL,NULL,NULL
+JuQnZXQrlxH,NULL,NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JufAeKZk5m-,NULL,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuNguQDV0Zn,NULL,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuKOtZwcbir-,"upper floor",2,NULL,yes,2025,"not available",NULL,yes,yes,NULL
+JuMm4AW_gBf,"top floor",3,3,NULL,2000,"not available",NULL,yes,yes,NULL
+JuSYwKOlQ-6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuZqtWo-t_S,"upper floor",2,3,NULL,2020,A,NULL,NULL,yes,NULL
+JuJCzmrTicR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JumsfvMXhg-,NULL,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuymkoAFG_6,"upper floor",3,4,NULL,1975,B,NULL,yes,yes,NULL
+JucOec67NRR,"upper floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuyOHLJxsdS,"upper floor",3,5,yes,2000,"not available",NULL,NULL,NULL,NULL
+Ju_yl2A922o,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuDoLB83xqT,"upper floor",3,3,NULL,1900,B,NULL,NULL,NULL,NULL
+JuQvJ7BykSU,"ground floor",1,6,yes,1970,"not available",NULL,NULL,NULL,NULL
+JucOhPXEpxa,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuFqVxR2Rua,"ground floor",NULL,NULL,NULL,NULL,"not available",NULL,NULL,yes,NULL
+JuLEeBcqSvN,"top floor",6,6,yes,2025,"not available",yes,NULL,NULL,NULL
+JuHLqjLk9w7,"ground floor",1,4,NULL,1980,"not available",NULL,NULL,NULL,NULL
+Juhlf1Su_tu,"upper floor",2,7,NULL,2012,A,NULL,NULL,NULL,NULL
+Ju4aGAgIjVo,"top floor",4,4,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuHC3L7PHAo,"upper floor",2,2,NULL,1960,"not available",NULL,NULL,NULL,NULL
+Ju4nG9JDEKF,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuxsO06uVZG,"top floor",7,7,NULL,2010,"not available",NULL,NULL,yes,yes
+JuxQsJlXHSK,"upper floor",2,6,NULL,2025,A,yes,NULL,NULL,yes
+JuJrBHwvfXe,"ground floor",1,4,yes,2016,A,NULL,NULL,NULL,yes
+JuVk3AeemQd,"upper floor",2,6,yes,2025,A,yes,NULL,yes,NULL
+JucIMMNEosV,"top floor",3,3,NULL,1960,C,yes,NULL,NULL,NULL
+Ju2EMTkOn53,"upper floor",6,8,yes,2025,A,NULL,NULL,NULL,NULL
+JuYbhGZmbC7,"raised ground floor",1,2,NULL,2001,"not available",NULL,NULL,NULL,NULL
+JucmUHZL9fQ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju59v0S7Gi9,"upper floor",4,8,NULL,1990,"not available",NULL,NULL,NULL,NULL
+Ju4SvmwHoAg,"upper floor",2,5,yes,NULL,NULL,NULL,NULL,NULL,NULL
+JuJBn5ZeVAm,"ground floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Juk9u-rNEqG,"upper floor",3,6,NULL,2025,A,NULL,NULL,NULL,NULL
+JuNRFKe9B5N6,"top floor",4,4,NULL,2026,A,NULL,NULL,NULL,NULL
+JuG99-vnL8U,"top floor",4,4,yes,2021,A,NULL,NULL,NULL,NULL
+JuvzAFSDr4x,"upper floor",NULL,NULL,NULL,NULL,A,NULL,NULL,NULL,NULL
+JuDorfwK08d,"ground floor",1,2,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Jul_OGhX8QT,"upper floor",2,4,yes,NULL,"not available",NULL,yes,NULL,yes
+Ju7UFzA6VtL,"top floor",4,4,yes,2025,"in preparation",NULL,yes,yes,NULL
+Ju9qrQrSqzm,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju4Vd5pUjXm,NULL,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuA1jb9HH8o,"top floor",13,13,yes,2025,"not available",NULL,NULL,NULL,NULL
+JuVp8M6bnwG,"upper floor",2,2,NULL,1978,A,NULL,NULL,NULL,NULL
+JuKJT8WJuFF,"upper floor",2,3,NULL,2021,A,yes,NULL,NULL,yes
+Ju8mh8KzH4f,"ground floor",1,1,NULL,1913,"not available",NULL,NULL,NULL,NULL
+Ju9k2e7JWOr,"upper floor",3,4,NULL,1975,"not available",NULL,NULL,NULL,NULL
+JuXNm9NwSwi,"upper floor",4,5,NULL,2013,B,NULL,NULL,NULL,NULL
+JuOnQ9rym-h,"upper floor",3,4,NULL,1968,"not available",NULL,NULL,NULL,NULL
+JuFNpzHutiG,"raised ground floor",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuZ8UmPHnMd,"ground floor",1,3,NULL,1940,A,NULL,NULL,NULL,NULL
+JuWLCChouGh,"raised ground floor",3,4,NULL,2025,A,NULL,NULL,NULL,NULL
+JuS6qI_HXQ_,"top floor",2,2,NULL,1979,"not available",NULL,NULL,NULL,NULL
+JuvIFSCKDaN,"ground floor",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuJITXm9Zsf,"upper floor",2,3,NULL,1981,"not available",yes,NULL,NULL,NULL
+JueaFakyLvY,"upper floor",3,7,yes,2022,A,NULL,NULL,NULL,NULL
+Ju1F-eiNHx4,"top floor",4,4,NULL,1970,"not available",yes,yes,yes,yes
+JuL3MT7o1WL,"upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju_qGSnLBzz,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuhigkHR5x2,"top floor",2,2,yes,2022,A,NULL,NULL,NULL,NULL
+Ju5eub1EsyB,"upper floor",6,25,yes,2010,"not available",NULL,NULL,NULL,NULL
+JuDetN4gLGy,"ground floor",1,2,NULL,2019,B,NULL,NULL,NULL,NULL
+JuxJN0jj6xv,"ground floor",1,2,NULL,2025,A,NULL,NULL,yes,NULL
+JuQY1ZnmE4m,"upper floor",2,2,NULL,2021,A,NULL,NULL,yes,NULL
+Ju9zHP-4dng,"ground floor",1,6,yes,1900,"not available",NULL,NULL,NULL,NULL
+JuTy8iCXD6j,"ground floor",1,2,NULL,1900,A,yes,NULL,NULL,yes
+JuMhyPasgwl,"upper floor",NULL,NULL,NULL,1958,NULL,NULL,NULL,NULL,NULL
+JuPet_Ep-JW,"ground floor",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuGJ3bcseaG,"ground floor",1,6,NULL,1975,"not available",NULL,NULL,yes,NULL
+JuI3iwt9MRR,"upper floor",2,4,NULL,2020,"in preparation",NULL,NULL,yes,NULL
+JumSU3uP1r7,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuCyeszuCeF,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuDZ3hA20uQ,NULL,NULL,NULL,NULL,2024,"not available",NULL,NULL,NULL,NULL
+Ju1Cm4LoVXM,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuOOVFGvzwX,"upper floor",2,4,NULL,2024,"not available",NULL,yes,NULL,yes
+JuuuYAHYGX8,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Juw69usHNF6,"top floor",2,2,NULL,1970,"not available",NULL,NULL,NULL,yes
+Jup6mGYDCrv,"top floor",3,3,NULL,1935,"not available",NULL,NULL,NULL,NULL
+Ju5R24o6GQR,"upper floor",4,5,NULL,1980,"not available",NULL,NULL,NULL,NULL
+Ju8_AnIgnrX,"raised ground floor",4,8,yes,1982,"not available",NULL,NULL,NULL,NULL
+JuY4e0DxXsH,"added floor",2,2,NULL,2022,B,NULL,NULL,NULL,NULL
+Jue5OG4Sl5k,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Juo19uqWHqv,"upper floor",4,8,yes,1970,"not available",NULL,NULL,NULL,NULL
+JumQaXesU-y,"upper floor",2,7,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuEVg7e9gge,"upper floor",2,4,yes,1960,"not available",NULL,NULL,NULL,NULL
+JuXIzNjmik_,"upper floor",3,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+Juv94EKwgh6,"ground floor",1,4,yes,2024,"not available",NULL,NULL,NULL,NULL
+JukKH41KaWr,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuhxRDKuEfi,"ground floor",1,5,NULL,2024,A,NULL,NULL,NULL,NULL
+JuRJykTdszG,NULL,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuDJ_hnDscM,"upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JulzEF1iR1R,"ground floor",1,2,NULL,1960,"not available",NULL,NULL,NULL,NULL
+Jus2f1I5Shb,NULL,NULL,NULL,NULL,1970,"not available",NULL,NULL,NULL,NULL
+JuWzCETm2y0,"upper floor",2,7,NULL,1989,"not available",NULL,NULL,NULL,NULL
+Ju12shpSBga,"top floor",3,3,NULL,NULL,A,NULL,NULL,NULL,NULL
+JuXnw8EKWYI,NULL,NULL,NULL,NULL,NULL,A,NULL,NULL,NULL,NULL
+JuJM07aUO0O,"upper floor",6,7,yes,1976,"not available",NULL,NULL,NULL,NULL
+JuVtdEgquxp,"upper floor",3,4,NULL,2015,"not available",NULL,NULL,yes,yes
+JuP6qyzD4rb,"upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuP-xJVwuxh,"ground floor",1,1,NULL,2020,NULL,NULL,NULL,NULL,NULL
+Ju2skZ_XIuH,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuxYMJGR4NW,"upper floor",2,3,NULL,1993,"not available",NULL,NULL,NULL,yes
+JuWx4I1iGWR,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Jubx4f_wHQY,"raised ground floor",NULL,NULL,NULL,NULL,NULL,NULL,yes,NULL,yes
+JuBjT8MmAiR,"upper floor",2,6,yes,2025,A,yes,NULL,yes,NULL
+Ju8qAJxGCh0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju-DovddXIY,"upper floor",4,6,NULL,1900,"not available",NULL,NULL,NULL,NULL
+Ju6ap4Twr5W,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuVlvDHUEHV,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JukzS9fkGsH,"upper floor",6,8,yes,1985,"not available",NULL,NULL,NULL,NULL
+Jum2zoM9dK0,"upper floor",6,8,yes,2024,A,NULL,NULL,NULL,NULL
+JuwxWNhZHvq,"top floor",3,3,NULL,1971,A,NULL,NULL,NULL,NULL
+JuNh7AtADFs,NULL,NULL,NULL,NULL,2024,"not available",NULL,NULL,NULL,NULL
+JuoVEcjPg5o,"ground floor",1,1,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuyUHlMcv_Q,"upper floor",4,6,NULL,2023,NULL,NULL,NULL,NULL,NULL
+JuXQxA2vSe6,"upper floor",5,8,yes,1987,"not available",NULL,NULL,NULL,NULL
+Jufd89QZCSO,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju2hVjHchsA,"upper floor",3,4,yes,2025,A,NULL,NULL,yes,NULL
+Ju9Zm5FKDvx,"ground floor",2,5,NULL,1969,NULL,NULL,NULL,NULL,NULL
+Ju_q6RS-fKo,"top floor",4,4,NULL,2024,"in preparation",NULL,NULL,NULL,NULL
+Jutomv1SERc,"raised ground floor",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+Jukc07qMxPz,"top floor",3,3,NULL,2025,NULL,NULL,NULL,NULL,NULL
+JuZPdvGyLq9,NULL,NULL,NULL,NULL,2010,"not available",NULL,NULL,NULL,NULL
+Ju8xVwtKo3R,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuIK5SS5weX,"upper floor",3,5,NULL,1976,"not available",NULL,NULL,yes,yes
+JuzzHVLtL7p,"upper floor",6,NULL,yes,NULL,"not available",yes,NULL,yes,NULL
+Ju7J-Smt48P,"upper floor",2,3,NULL,2024,A,NULL,NULL,NULL,NULL
+JuvxR6XXHxE,"upper floor",5,6,NULL,2025,"not available",yes,NULL,yes,NULL
+JuRuuJuhfW8,"upper floor",7,9,NULL,1980,"not available",NULL,NULL,NULL,yes
+JuZK70yldNu,"ground floor",1,2,NULL,2020,A,yes,NULL,yes,yes
+JuzSqFzglhO,"upper floor",3,7,yes,2022,A,NULL,yes,NULL,yes
+JuT8ujDpM1g,"upper floor",2,3,NULL,2025,C,NULL,NULL,NULL,NULL
+JuzmSjYalDj,"upper floor",2,3,NULL,1989,"not available",NULL,NULL,yes,yes
+Ju6pkdVbtRp,"top floor",8,8,yes,1970,B,yes,NULL,NULL,NULL
+JudnXUbr0fH,"upper floor",2,4,yes,2024,"not available",NULL,NULL,NULL,NULL
+JuBIZmW7FwQ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuPDRHaKHGy,"ground floor",1,5,NULL,1965,B,NULL,NULL,NULL,NULL
+JuD8hcoEgT4,"top floor",6,6,NULL,2009,NULL,NULL,NULL,NULL,NULL
+JukBZSTP0a5,"top floor",2,2,yes,2024,A,NULL,NULL,NULL,NULL
+Ju1AcChzPhX,"ground floor",1,2,NULL,NULL,"not available",NULL,NULL,NULL,NULL
+JuE-VhHgCax,"ground floor",1,1,NULL,1970,"not available",NULL,NULL,NULL,NULL
+JuBAitX8aRy,"upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuYm2hUT2pj,"upper floor",2,5,NULL,1975,C,NULL,NULL,NULL,NULL
+Ju6opeOUPUx,"upper floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuvmTUfehMc,"ground floor",1,2,NULL,2022,"not available",yes,NULL,yes,yes
+JuaMkijSYs-,"upper floor",2,12,yes,NULL,C,NULL,NULL,NULL,NULL
+JuZL3wORd4j,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JunBxeMXtVv,"ground floor",1,4,NULL,1978,B,NULL,NULL,NULL,NULL
+JufXt9veplf,"upper floor",NULL,NULL,NULL,2025,NULL,NULL,NULL,NULL,NULL
+Ju1v-rz6S-g,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuK8NkfUxDo,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuhvRDg8Y4C,basement,-0,25,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuqqisVRKbE,"ground floor",1,3,NULL,1967,"in preparation",NULL,NULL,NULL,NULL
+JupIznadChw,"upper floor",NULL,NULL,NULL,1960,NULL,NULL,NULL,NULL,NULL
+JuCtiU-W9oK,"upper floor",6,8,NULL,1987,"not available",NULL,yes,yes,NULL
+JuQUQOdCbAJ,"top floor",4,4,NULL,2024,"not available",NULL,NULL,NULL,NULL
+JuEGUe9TZYw,"top floor",5,5,yes,1982,B,NULL,NULL,NULL,yes
+JuJTUgZNUdL,"upper floor",2,3,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JugdzCpEbZl,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuJ1fx159Ms,"ground floor",1,4,NULL,1970,"not available",NULL,NULL,NULL,NULL
+JuUWRcxAAYr,"ground floor",1,1,NULL,1900,B,NULL,NULL,NULL,NULL
+JucFSMwZ-YV,"upper floor",6,8,yes,2015,B,NULL,yes,NULL,yes
+JuHBGisy5-E,"upper floor",3,6,yes,2008,B,NULL,NULL,NULL,NULL
+JuInv_n4G9P,"upper floor",2,5,NULL,2026,"not available",yes,NULL,yes,NULL
+JuUFq9Wci3W,NULL,NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuBnUuJa9ic,"upper floor",5,10,yes,2024,"not available",NULL,NULL,yes,NULL
+Ju2txZynSMnS,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+Jucm4yaaOJ2,"ground floor",1,4,NULL,2013,"not available",NULL,NULL,NULL,NULL
+JuT9LmGMkpW,"ground floor",1,2,NULL,2010,"not available",NULL,NULL,NULL,yes
+JuuOQAIf3eQ,"upper floor",3,NULL,yes,2024,NULL,NULL,NULL,NULL,NULL
+JuhSIJae8jB,NULL,NULL,NULL,NULL,2022,A,NULL,NULL,NULL,NULL
+Ju20KERTu8I,"upper floor",NULL,NULL,NULL,NULL,"not available",NULL,NULL,yes,NULL
+JuGfHZevCsA,"upper floor",6,8,yes,1975,"not available",NULL,NULL,NULL,NULL
+JufXjo0g1k9,"upper floor",2,NULL,yes,NULL,A,NULL,NULL,NULL,NULL
+JuPNe1hyDeq,"upper floor",5,6,NULL,2025,"not available",yes,NULL,NULL,yes
+Jumt5qe1Qm47,"ground floor",NULL,NULL,NULL,1986,"not available",NULL,NULL,NULL,NULL
+JuI6MQ6tc2T,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Ju4eeNbxgyr,"upper floor",4,7,NULL,1995,NULL,NULL,NULL,NULL,NULL
+JuN3wzC2QtN,"top floor",5,5,NULL,1972,"not available",NULL,NULL,yes,NULL
+JuZdOmvD2ic,"upper floor",2,6,yes,2025,A,NULL,yes,NULL,yes
+JuQG3Tg2HJV,"ground floor",1,9,yes,NULL,A,NULL,NULL,NULL,NULL
+Ju7i7kUX31N,"ground floor",1,4,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuT7xzp7Ax-,"upper floor",2,5,NULL,1972,C,yes,NULL,NULL,NULL
+JuTL4AQg4bH,"ground floor",1,2,NULL,1960,"not available",NULL,NULL,NULL,NULL
+JuYNcMLobvd,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuCgojI4KWH,"upper floor",2,NULL,NULL,1970,B,NULL,NULL,NULL,NULL
+JukjSccuSX6,NULL,NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL
+JuvuB2q_3M4,"upper floor",3,6,yes,2025,A,NULL,NULL,NULL,yes
+Jum788VaVl8,"ground floor",1,4,yes,2025,"in preparation",NULL,yes,NULL,yes
+JuRDv8rOGAN,"upper floor",3,6,NULL,2025,A,NULL,yes,yes,NULL
+JuguMiG6Pot,"added floor",2,4,yes,2026,A,yes,yes,yes,yes
+JunSqXxyUya,"ground floor",1,4,yes,2025,"in preparation",NULL,yes,NULL,yes
+Juzl0Ycup_I,"top floor",4,4,NULL,2010,B,NULL,NULL,NULL,NULL
+JuMrpN3u-gh,NULL,NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuG-jkKlogR,NULL,NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+Ju-seNslb4u,"upper floor",3,4,NULL,1995,C,NULL,NULL,NULL,NULL
+JuKxd6XdpfQ,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuddoVYZYie,"upper floor",2,4,yes,2024,A,NULL,yes,NULL,yes
+Ju4lN_U1N_8,"top floor",3,3,NULL,2023,A,NULL,yes,yes,NULL
+JuNQHesGhEl,"upper floor",4,6,yes,2025,A,yes,NULL,yes,NULL
+Juv6SZd0pv9,"top floor",2,2,NULL,1980,"not available",NULL,NULL,NULL,NULL
+Ju01CyxoHbS,"upper floor",4,4,yes,2023,B,NULL,NULL,NULL,NULL
+JuQxdKNuhGj,"ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JuMc4nt1NbY,attic,2,3,NULL,2022,A,NULL,NULL,NULL,NULL
+JuykyParod3,"upper floor",2,3,NULL,2024,A,NULL,NULL,NULL,NULL
+Ju4N6fIAndO,NULL,NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL
+JuiNHN3K-2n,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+JucceUznreI,"upper floor",2,4,NULL,1970,B,NULL,NULL,NULL,yes
+JuzGrB3SDsa,"upper floor",4,7,NULL,1990,"not available",NULL,NULL,NULL,NULL
+JuCJs2os-i-x,"ground floor",1,4,yes,2025,A,NULL,NULL,yes,NULL
+Ju3z3M9TPDa,"ground floor",1,5,yes,2019,"not available",NULL,NULL,NULL,yes
+JuDxBcaveH8,"top floor",7,7,yes,1990,"not available",NULL,NULL,yes,yes
+Ju_5trjiiyY,"raised ground floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
+Juo9yc6U_zm,"upper floor",6,7,yes,NULL,NULL,NULL,NULL,NULL,NULL
+JueZYUzuLYA,"upper floor",2,3,NULL,2020,B,NULL,NULL,NULL,NULL

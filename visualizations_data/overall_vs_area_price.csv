@@ -1,0 +1,1509 @@
+property_type,condition,location_district,location_area,gen_count,gen_avg_price,area_count,dis_avg_price,price_diff
+"3-room apartment","fully renovated","okres Žilina",Bôrik,90,2484.530476,1,4196.260000,68.8954931539
+"1-room apartment","new construction","okres Liptovský Mikuláš","Staré mesto",42,3762.587436,2,3332.855000,-11.4211946781
+"3-room apartment",unrenovated,"okres Martin",Jahodníky,68,1900.298036,4,1887.360000,-0.6808424655
+"3-room apartment","fully renovated","okres Martin",Necpaly,90,2484.530476,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Dolný Kubín","Veľký Bysterec",68,1900.298036,3,2057.415000,8.2680169649
+"3-room apartment","new construction","okres Tvrdošín",Zuberec,110,2940.550842,2,2629.645000,-10.5730476603
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",Sídlisko,67,2358.305690,2,2305.715000,-2.2300200616
+"3-room apartment","new construction","okres Čadca",Centrum,110,2940.550842,1,1430.690000,-51.3461906672
+"3-room apartment","partially renovated","okres Turčianske Teplice",Rakša,121,2016.158090,1,NULL,NULL
+"1-room apartment","new construction","okres Kysucké Nové Mesto",Kamence,42,3762.587436,2,3728.340000,-0.9102097050
+"3-room apartment","new construction","okres Žilina","Staré mesto",110,2940.550842,9,3410.800000,15.9918730628
+"4-room apartment","new construction","okres Žilina","Staré mesto",38,2797.552667,7,3508.330000,25.4071117725
+"2-room apartment","fully renovated","okres Bytča","Veľké Rovné",99,2597.321264,1,3000.000000,15.5036168063
+"3-room apartment","partially renovated","okres Žilina",Hliny,121,2016.158090,4,2420.343333,20.0472991183
+"2-room apartment","fully renovated","okres Martin",Stred,99,2597.321264,8,2590.823750,-0.2501621224
+"3-room apartment","under construction","okres Ružomberok",Roveň,24,2895.789524,5,2975.950000,2.7681734234
+"2-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",125,3419.646726,3,3714.285000,8.6160442177
+"2-room apartment","fully renovated","okres Čadca",Makov,99,2597.321264,1,1664.910000,-35.8989577810
+"3-room apartment","fully renovated","okres Žilina",Vlčince,90,2484.530476,6,2883.514000,16.0587091949
+"4-room apartment",unrenovated,"okres Martin",Priekopa,12,1876.870000,2,1488.760000,-20.6785765663
+"3-room apartment","partially renovated","okres Martin",Priekopa,121,2016.158090,2,1687.500000,-16.3012063206
+"2-room apartment","new construction","okres Ružomberok",Hrabovo,125,3419.646726,3,3702.066667,8.2587461112
+"3-room apartment",unrenovated,"okres Žilina","Staré mesto",68,1900.298036,3,2242.680000,18.0172771594
+"2-room apartment","partially renovated","okres Žilina","Staré mesto",67,2358.305690,5,2992.877500,26.9079539896
+"4-room apartment","new construction","okres Žilina",Hájik,38,2797.552667,3,2623.350000,-6.2269664859
+"3-room apartment","new construction","okres Žilina",Vlčince,110,2940.550842,11,3177.283636,8.0506274749
+"2-room apartment","fully renovated","okres Kysucké Nové Mesto",Nábrežie,99,2597.321264,1,2398.110000,-7.6698738335
+"holiday apartment","fully renovated","okres Čadca",Makov,18,3390.796875,2,1641.275000,-51.5961863684
+"2-room apartment","new construction","okres Bytča","Veľká Bytča",125,3419.646726,1,3082.220000,-9.8672977953
+"2-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Ondrašová",125,3419.646726,1,3968.250000,16.0426885569
+"4-room apartment","new construction","okres Čadca",Podzávoz,38,2797.552667,1,NULL,NULL
+"holiday apartment","new construction","okres Liptovský Mikuláš",Demänová,93,4666.350909,15,4467.148182,-4.2689187094
+"4-room apartment",unrenovated,"okres Žilina","Staré mesto",12,1876.870000,4,1740.945000,-7.2421105351
+"1-room apartment","partially renovated","okres Liptovský Mikuláš",Dovalovo,20,2834.321111,1,2941.180000,3.7701758134
+"holiday apartment","under construction","okres Turčianske Teplice",Stred,9,8126.663750,1,4459.460000,-45.1255750553
+"2-room apartment","new construction","okres Čadca",Kyčerka,125,3419.646726,1,2170.320000,-36.5337950409
+"3-room apartment","under construction","okres Martin",Jahodníky,24,2895.789524,5,2720.364000,-6.0579514687
+"1-room apartment","fully renovated","okres Liptovský Mikuláš","Partizánska Ľupča",20,2915.345556,1,1916.670000,-34.2558210276
+"2-room apartment","under construction","okres Martin",Jahodníky,25,3072.047727,8,2701.693333,-12.0556197986
+"3-room apartment","fully renovated","okres Čadca",Raková,90,2484.530476,4,1882.350000,-24.2371941828
+"2-room apartment","new construction","okres Liptovský Mikuláš","Malé Borové",125,3419.646726,7,3233.665714,-5.4386030752
+"1-room apartment","under construction","okres Kysucké Nové Mesto",Kamence,8,2954.628571,1,1420.210000,-51.9327060620
+"4-room apartment","partially renovated","okres Martin",Ľadoveň,27,2030.536667,2,2269.375000,11.7623255409
+"2-room apartment","new construction","okres Žilina","Rajecké Teplice",125,3419.646726,5,3298.330000,-3.5476391487
+"2-room apartment","fully renovated","okres Ružomberok",Bešeňová,99,2597.321264,2,3645.565000,40.3586476009
+"2-room apartment","under construction","okres Ružomberok",Roveň,25,3072.047727,3,3087.710000,0.5098316951
+"2-room apartment","partially renovated","okres Žilina",Hájik,67,2358.305690,3,2900.353333,22.9846217689
+"4-room apartment","under construction","okres Ružomberok",Roveň,18,2779.408889,2,2744.840000,-1.2437496741
+"3-room apartment","new construction","okres Námestovo",Zubrohlava,110,2940.550842,3,2012.825000,-31.5493896160
+"2-room apartment","partially renovated","okres Žilina",Vlčince,67,2358.305690,2,2753.810000,16.7706973560
+"3-room apartment","new construction","okres Námestovo","Oravské Veselé",110,2940.550842,2,1781.530000,-39.4150927590
+"2-room apartment","new construction","okres Žilina",Hliny,125,3419.646726,2,3798.180000,11.0693678128
+"2-room apartment",unrenovated,"okres Martin",Podháj,35,2167.317353,1,2211.540000,2.0404324701
+"1-room apartment","partially renovated","okres Žilina",Vlčince,20,2834.321111,1,3722.190000,31.3256280509
+"2-room apartment","partially renovated","okres Tvrdošín",Trstená,67,2358.305690,2,1992.000000,-15.5325788151
+"2-room apartment","fully renovated","okres Martin","Horné Vrútky",99,2597.321264,2,2592.980000,-0.1671438978
+"3-room apartment","partially renovated","okres Martin","Horné Vrútky",121,2016.158090,8,1730.700000,-14.1585172024
+"2-room apartment",unrenovated,"okres Žilina",Hliny,35,2167.317353,5,2579.510000,19.0185644216
+"2-room apartment","partially renovated","okres Tvrdošín",Medvedzie,67,2358.305690,3,2015.185000,-14.5494577507
+"2-room apartment","partially renovated","okres Žilina",Bitarová,67,2358.305690,1,2545.450000,7.9355407907
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",Podbreziny,99,2597.321264,1,2499.040000,-3.7839471521
+"holiday apartment","fully renovated","okres Ružomberok",Hrabovo,18,3390.796875,4,3120.340000,-7.9762039712
+"5+ room apartment","partially renovated","okres Žilina","Rajecké Teplice",4,2588.316667,1,2326.670000,-10.1087579559
+"3-room apartment","new construction","okres Dolný Kubín",NULL,110,2940.550842,2,2934.940000,-0.1908092157
+"holiday apartment","new construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",93,4666.350909,3,4068.970000,-12.8018856843
+"2-room apartment","new construction","okres Martin",Záturčie,125,3419.646726,2,3250.000000,-4.9609430328
+"3-room apartment",unrenovated,"okres Žilina",Solinky,68,1900.298036,1,2283.580000,20.1695711272
+"2-room apartment",unrenovated,"okres Kysucké Nové Mesto",Sídlisko,35,2167.317353,2,2111.785000,-2.5622621866
+"1-room apartment",unrenovated,"okres Tvrdošín",Nižná,11,2780.075000,1,3030.300000,9.0006564571
+"3-room apartment","fully renovated","okres Žilina","Staré mesto",90,2484.530476,9,2757.621111,10.9916395729
+"2-room apartment",unrenovated,"okres Turčianske Teplice",Stred,35,2167.317353,1,1366.670000,-36.9418604937
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš",Malužiná,68,1900.298036,1,1088.460000,-42.7216163265
+"2-room apartment",unrenovated,"okres Martin",Sever,35,2167.317353,3,1981.350000,-8.5805317224
+"2-room apartment","fully renovated","okres Čadca",Oščadnica,99,2597.321264,1,2021.800000,-22.1582625137
+"studio apartment","partially renovated","okres Žilina",Závodie,7,2914.662000,1,3702.940000,27.0452628813
+"3-room apartment","partially renovated","okres Martin",Stred,121,2016.158090,9,1915.233333,-5.0057958005
+"3-room apartment","partially renovated","okres Martin",Ľadoveň,121,2016.158090,4,1866.055000,-7.4450059618
+"holiday apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",93,4666.350909,40,5609.228333,20.2058834063
+"3-room apartment","under construction","okres Kysucké Nové Mesto",Kamence,24,2895.789524,6,2888.855000,-0.2394691998
+"3-room apartment","partially renovated","okres Ružomberok",Baničné,121,2016.158090,5,1888.773333,-6.3181928854
+"2-room apartment","new construction","okres Žilina",Vlčince,125,3419.646726,10,3595.462000,5.1413285666
+"2-room apartment",unrenovated,"okres Ružomberok","Liptovská Lúžna",35,2167.317353,3,967.870000,-55.3424883227
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš",Podbreziny,68,1900.298036,1,1740.260000,-8.4217334843
+"3-room apartment","new construction","okres Ružomberok","Liptovská Teplá",110,2940.550842,4,2647.816667,-9.9550795320
+"4-room apartment","new construction","okres Martin",Sučany,38,2797.552667,1,1863.000000,-33.4060794645
+"4-room apartment","new construction","okres Martin",Košúty,38,2797.552667,1,NULL,NULL
+"3-room apartment","new construction","okres Žilina",Bôrik,110,2940.550842,4,3711.035000,26.2020349043
+"3-room apartment","partially renovated","okres Ružomberok",Hrabovo,121,2016.158090,1,2833.330000,40.5311425752
+"2-room apartment","new construction","okres Žilina","Staré mesto",125,3419.646726,8,3751.466250,9.7033275829
+"3-room apartment","partially renovated","okres Liptovský Mikuláš","Staré mesto",121,2016.158090,4,2050.065000,1.6817584974
+"2-room apartment","partially renovated","okres Ružomberok","Staré mesto",67,2358.305690,2,2154.175000,-8.6558197636
+"1-room apartment","partially renovated","okres Martin",Turany,20,2834.321111,2,2418.420000,-14.6737470707
+"3-room apartment","new construction","okres Žilina",Hájik,110,2940.550842,7,2949.562857,0.3064737012
+"4-room apartment","partially renovated","okres Žilina","Staré mesto",27,2030.536667,3,2360.743333,16.2620390642
+"2-room apartment","fully renovated","okres Čadca",Staškov,99,2597.321264,8,1821.666250,-29.8636531703
+"3-room apartment","new construction","okres Martin",Sučany,110,2940.550842,1,1960.780000,-33.3192960994
+"4-room apartment","partially renovated","okres Žilina",Bôrik,27,2030.536667,1,2670.340000,31.5090755758
+"2-room apartment","fully renovated","okres Martin",Priekopa,99,2597.321264,2,2470.000000,-4.9020221628
+"3-room apartment","fully renovated","okres Liptovský Mikuláš","Liptovská Kokava",90,2484.530476,1,NULL,NULL
+"3-room apartment","development project","okres Žilina","Staré mesto",3,2359.596667,1,3628.760000,53.7872997852
+"4-room apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",38,2797.552667,2,NULL,NULL
+"1-room apartment","new construction","okres Martin",Tomčany,42,3762.587436,2,3414.060000,-9.2629724074
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",Podbreziny,121,2016.158090,4,2326.605000,15.3979448110
+"2-room apartment","new construction","okres Martin",Tomčany,125,3419.646726,3,3357.410000,-1.8199753070
+"1-room apartment","partially renovated","okres Čadca",Žarec,20,2834.321111,3,2431.283333,-14.2199053042
+"studio apartment","new construction","okres Dolný Kubín",Brezovec,8,3284.020000,1,3996.000000,21.6801359310
+"holiday apartment","partially renovated","okres Čadca",Oščadnica,5,2725.797500,1,3000.000000,10.0595330357
+"3-room apartment",unrenovated,"okres Čadca","Sídlisko 3",68,1900.298036,2,1772.830000,-6.7077918087
+"4-room apartment","partially renovated","okres Dolný Kubín",Zázrivá,27,2030.536667,1,1831.830000,-9.7859186800
+"studio apartment","new construction","okres Ružomberok","Staré mesto",8,3284.020000,1,1815.800000,-44.7080103044
+"2-room apartment","new construction","okres Ružomberok","Liptovská Teplá",125,3419.646726,4,2613.040000,-23.5874284869
+"2-room apartment","development project","okres Dolný Kubín",Brezovec,9,3654.186250,1,2716.670000,-25.6559514447
+"3-room apartment",unrenovated,"okres Dolný Kubín",Brezovec,68,1900.298036,2,2484.550000,30.7452806313
+"2-room apartment","partially renovated","okres Čadca",Žarec,67,2358.305690,4,2030.935000,-13.8816053995
+"3-room apartment","fully renovated","okres Martin","Horné Vrútky",90,2484.530476,5,2079.015000,-16.3216140803
+"3-room apartment",unrenovated,"okres Martin",Záturčie,68,1900.298036,4,1655.357500,-12.8895852840
+"4-room apartment","fully renovated","okres Martin",Sučany,40,2351.017179,1,1799.330000,-23.4658931431
+"2-room apartment","fully renovated","okres Žilina","Staré mesto",99,2597.321264,15,2789.291667,7.3910919554
+"3-room apartment","new construction","okres Liptovský Mikuláš",Demänová,110,2940.550842,2,5448.710000,85.2955549068
+"5+ room apartment","partially renovated","okres Žilina",Hliny,4,2588.316667,1,2990.000000,15.5190954075
+"3-room apartment","new construction","okres Dolný Kubín",Brezovec,110,2940.550842,2,2558.525000,-12.9916421285
+"3-room apartment","new construction","okres Martin","Košťany nad Turcom",110,2940.550842,2,1898.585000,-35.4343760059
+"1-room apartment","partially renovated","okres Ružomberok",Baničné,20,2834.321111,1,2125.280000,-25.0162590346
+"3-room apartment",unrenovated,"okres Žilina",Vlčince,68,1900.298036,4,2566.063333,35.0347831965
+"3-room apartment","partially renovated","okres Martin",Záturčie,121,2016.158090,4,2024.875000,0.4323525047
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš","Vrbica - Nábrežie",35,2167.317353,1,1901.410000,-12.2689624864
+"2-room apartment","fully renovated","okres Žilina",Vlčince,99,2597.321264,4,2931.480000,12.8655141985
+"holiday apartment","new construction","okres Liptovský Mikuláš","Pavčina Lehota",93,4666.350909,2,5111.110000,9.5311968532
+"2-room apartment","new construction","okres Martin",Stred,125,3419.646726,6,2769.700000,-19.0062535132
+"2-room apartment","fully renovated","okres Žilina",Hliny,99,2597.321264,3,2889.576667,11.2521853592
+"2-room apartment","new construction","okres Žilina",Bytčica,125,3419.646726,5,3642.632000,6.5207108180
+"1-room apartment",unrenovated,"okres Námestovo",Stred,11,2780.075000,2,NULL,NULL
+"3-room apartment","fully renovated","okres Tvrdošín",Medvedzie,90,2484.530476,2,2216.035000,-10.8066887725
+"2-room apartment","new construction","okres Tvrdošín",Trstená,125,3419.646726,1,2988.100000,-12.6196288850
+"1-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",42,3762.587436,2,3314.105000,-11.9195219680
+"3-room apartment","new construction","okres Kysucké Nové Mesto",Kamence,110,2940.550842,2,2964.290000,0.8073030964
+"3-room apartment","fully renovated","okres Ružomberok",Klačno,90,2484.530476,3,1968.275000,-20.7787942626
+"2-room apartment","under construction","okres Liptovský Mikuláš",Východná,25,3072.047727,2,2329.820000,-24.1606834580
+"3-room apartment","new construction","okres Kysucké Nové Mesto",Sídlisko,110,2940.550842,4,2474.387500,-15.8529257628
+"2-room apartment","new construction","okres Turčianske Teplice",Stred,125,3419.646726,4,4070.915000,19.0448992596
+"3-room apartment","new construction","okres Liptovský Mikuláš","Vyšná Boca",110,2940.550842,1,1912.900000,-34.9475624540
+"1-room apartment","fully renovated","okres Žilina",Terchová,20,2915.345556,1,5000.000000,71.5062555692
+"2-room apartment",unrenovated,"okres Žilina","Staré mesto",35,2167.317353,1,2272.730000,4.8637384301
+"3-room apartment","partially renovated","okres Bytča","Veľké Rovné",121,2016.158090,3,1772.920000,-12.0644353836
+"2-room apartment","new construction","okres Martin",Košúty,125,3419.646726,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Žilina",Rajec,68,1900.298036,2,2017.800000,6.1833439689
+"3-room apartment",unrenovated,"okres Martin","Turčianska Štiavnička",68,1900.298036,1,670.710000,-64.7050100935
+"3-room apartment",unrenovated,"okres Martin",Stred,68,1900.298036,3,1984.620000,4.4373020654
+"3-room apartment",unrenovated,"okres Martin",Turany,68,1900.298036,2,1442.095000,-24.1121670033
+"2-room apartment","partially renovated","okres Žilina",Hliny,67,2358.305690,6,2605.696000,10.4901714417
+"3-room apartment",unrenovated,"okres Čadca",Stred,68,1900.298036,2,1606.925000,-15.4382644429
+"2-room apartment","fully renovated","okres Liptovský Mikuláš","Staré mesto",99,2597.321264,9,2172.504444,-16.3559597301
+"3-room apartment","new construction","okres Martin",Priekopa,110,2940.550842,2,2479.240000,-15.6879056608
+"2-room apartment","partially renovated","okres Ružomberok",Hrabovo,67,2358.305690,1,2338.240000,-0.8508519521
+"2-room apartment","development project","okres Žilina","Staré mesto",9,3654.186250,2,5387.475000,47.4329613057
+"4-room apartment","fully renovated","okres Námestovo",Brehy,40,2351.017179,1,2267.030000,-3.5723762357
+"3-room apartment","fully renovated","okres Dolný Kubín",Brezovec,90,2484.530476,1,2463.350000,-0.8524941112
+"holiday apartment","new construction","okres Liptovský Mikuláš",Smrečany,93,4666.350909,2,2983.845000,-36.0561376933
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš",Podbreziny,35,2167.317353,3,2122.606667,-2.0629505844
+"2-room apartment","partially renovated","okres Ružomberok",Klačno,67,2358.305690,1,NULL,NULL
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",35,2167.317353,1,3207.290000,47.9843270558
+"4-room apartment","under construction","okres Kysucké Nové Mesto",Kamence,18,2779.408889,11,2844.571818,2.3444887601
+"3-room apartment",unrenovated,"okres Čadca",Žarec,68,1900.298036,1,1824.320000,-3.9982168355
+"2-room apartment","fully renovated","okres Martin",NULL,99,2597.321264,1,NULL,NULL
+"holiday apartment","under construction","okres Liptovský Mikuláš","Demänovská Dolina",9,8126.663750,5,10372.550000,27.6360179169
+"1-room apartment","new construction","okres Žilina","Staré mesto",42,3762.587436,14,4092.061429,8.7565803747
+"other apartment type","new construction","okres Žilina",Rajec,1,NULL,1,NULL,NULL
+"holiday apartment","fully renovated","okres Martin","Martinské hole",18,3390.796875,1,5339.290000,57.4641654110
+"2-room apartment","under construction","okres Žilina",Hájik,25,3072.047727,2,3414.465000,11.1462224363
+"2-room apartment","partially renovated","okres Martin",Priekopa,67,2358.305690,3,1915.433333,-18.7792599949
+"1-room apartment","new construction","okres Ružomberok","Liptovská Teplá",42,3762.587436,2,2853.905000,-24.1504669714
+"3-room apartment","new construction","okres Liptovský Mikuláš",Stošice,110,2940.550842,1,2610.510000,-11.2237760792
+"3-room apartment","fully renovated","okres Martin",NULL,90,2484.530476,1,NULL,NULL
+"holiday apartment","development project","okres Žilina",Terchová,4,4965.415000,4,4965.415000,0.0000000000
+"3-room apartment","partially renovated","okres Žilina","Staré mesto",121,2016.158090,5,2835.822000,40.6547439938
+maisonette,"new construction","okres Liptovský Mikuláš",Celiny,3,2384.420000,1,2152.660000,-9.7197641355
+"3-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Ondrašová",110,2940.550842,2,2990.960000,1.7142760220
+"2-room apartment","partially renovated","okres Liptovský Mikuláš","Staré mesto",67,2358.305690,4,2345.485000,-0.5436398705
+"1-room apartment","new construction","okres Martin",Stred,42,3762.587436,1,3166.020000,-15.8552444600
+"2-room apartment","new construction","okres Žilina",Závodie,125,3419.646726,3,3181.266667,-6.9708972330
+"3-room apartment",unrenovated,"okres Martin","Horné Vrútky",68,1900.298036,2,1640.590000,-13.6667002270
+"2-room apartment","partially renovated","okres Žilina",Solinky,67,2358.305690,3,3171.620000,34.4872301097
+"3-room apartment","partially renovated","okres Kysucké Nové Mesto",Stred,121,2016.158090,2,2231.880000,10.6996525258
+"1-room apartment","fully renovated","okres Ružomberok",Bešeňová,20,2915.345556,2,4012.500000,37.6337700943
+"3-room apartment",unrenovated,"okres Tvrdošín",Nižná,68,1900.298036,1,NULL,NULL
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",Nábrežie,67,2358.305690,1,2235.850000,-5.1925282850
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš","Vrbica - Nábrežie",68,1900.298036,3,2054.363333,8.1074281024
+"3-room apartment","fully renovated","okres Ružomberok","Staré mesto",90,2484.530476,2,1981.350000,-20.2525378884
+"4-room apartment","partially renovated","okres Martin",Stráne,27,2030.536667,1,NULL,NULL
+"2-room apartment","under construction","okres Liptovský Mikuláš","Staré mesto",25,3072.047727,3,4638.290000,50.9836569020
+"3-room apartment","under construction","okres Žilina",Hájik,24,2895.789524,2,2686.740000,-7.2190855816
+"1-room apartment","partially renovated","okres Čadca",Stred,20,2834.321111,1,NULL,NULL
+"1-room apartment","fully renovated","okres Martin",Stred,20,2915.345556,2,3152.540000,8.1360661865
+"1-room apartment","fully renovated","okres Liptovský Mikuláš","Staré mesto",20,2915.345556,4,2357.472500,-19.1357437835
+"2-room apartment","fully renovated","okres Martin",Sever,99,2597.321264,6,2186.276667,-15.8257125407
+"3-room apartment",unrenovated,"okres Martin",Ľadoveň,68,1900.298036,2,1643.980000,-13.4883071573
+"2-room apartment","fully renovated","okres Dolný Kubín","Veľký Bysterec",99,2597.321264,1,2944.440000,13.3644898231
+"2-room apartment","fully renovated","okres Liptovský Mikuláš","Demänovská Dolina",99,2597.321264,1,4907.960000,88.9623770469
+"holiday apartment","new construction","okres Liptovský Mikuláš","Liptovská Ondrašová",93,4666.350909,1,NULL,NULL
+"3-room apartment","fully renovated","okres Liptovský Mikuláš","Staré mesto",90,2484.530476,3,3556.515000,43.1463624357
+"holiday apartment","new construction","okres Martin",Valča,93,4666.350909,3,3121.503333,-33.1061166665
+"1-room apartment","fully renovated","okres Liptovský Mikuláš","Demänovská Dolina",20,2915.345556,1,NULL,NULL
+"3-room apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",110,2940.550842,2,6259.740000,112.8764417398
+"1-room apartment","under construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",8,2954.628571,1,NULL,NULL
+"holiday apartment","fully renovated","okres Ružomberok",Bešeňová,18,3390.796875,6,3848.946667,13.5115670118
+"holiday apartment","new construction","okres Ružomberok",Hrabovo,93,4666.350909,5,3345.338000,-28.3093349549
+"4-room apartment","new construction","okres Turčianske Teplice",Stred,38,2797.552667,1,NULL,NULL
+"4-room apartment","fully renovated","okres Žilina","Staré mesto",40,2351.017179,8,2619.811250,11.4330968485
+"4-room apartment","partially renovated","okres Martin",Priekopa,27,2030.536667,3,1848.255000,-8.9770192266
+"2-room apartment","development project","okres Žilina",Bôrik,9,3654.186250,1,4916.700000,34.5497920365
+"4-room apartment","fully renovated","okres Ružomberok",Klačno,40,2351.017179,1,2000.000000,-14.9304387112
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",Pribylina,121,2016.158090,1,1630.560000,-19.1253896166
+"holiday apartment","partially renovated","okres Tvrdošín","Suchá Hora",5,2725.797500,1,2888.890000,5.9832947972
+"3-room apartment","new construction","okres Dolný Kubín",Stred,110,2940.550842,4,2949.377500,0.3001702223
+"2-room apartment","new construction","okres Dolný Kubín",Brezovec,125,3419.646726,3,3431.890000,0.3580274508
+"3-room apartment","under construction","okres Martin",Sučany,24,2895.789524,1,2272.060000,-21.5391871139
+"2-room apartment","new construction","okres Žilina",Bôrik,125,3419.646726,4,3397.175000,-0.6571358915
+"holiday apartment","new construction","okres Ružomberok",Bešeňová,93,4666.350909,7,3519.351429,-24.5802234416
+"1-room apartment","fully renovated","okres Ružomberok",Rybárpole,20,2915.345556,1,1540.000000,-47.1760732847
+"3-room apartment","partially renovated","okres Ružomberok","Staré mesto",121,2016.158090,2,2920.000000,44.8299126186
+"2-room apartment","fully renovated","okres Ružomberok","Staré mesto",99,2597.321264,1,1756.010000,-32.3914979506
+"1-room apartment","new construction","okres Žilina",Vlčince,42,3762.587436,2,3233.980000,-14.0490405869
+"3-room apartment","new construction","okres Martin",Ľadoveň,110,2940.550842,1,NULL,NULL
+"3-room apartment","partially renovated","okres Čadca",Kyčerka,121,2016.158090,4,2025.675000,0.4720319328
+"3-room apartment","partially renovated","okres Ružomberok",Roveň,121,2016.158090,2,1700.675000,-15.6477357388
+"1-room apartment","partially renovated","okres Turčianske Teplice",Stred,20,2834.321111,1,2113.460000,-25.4332901167
+"2-room apartment","partially renovated","okres Čadca",Stred,67,2358.305690,3,1617.270000,-31.4223763756
+"3-room apartment","partially renovated","okres Ružomberok","Liptovská Osada",121,2016.158090,1,NULL,NULL
+"holiday apartment","partially renovated","okres Ružomberok",Hrabovo,5,2725.797500,2,2507.150000,-8.0214139165
+"4-room apartment","new construction","okres Žilina",Vlčince,38,2797.552667,6,3105.326667,11.0015444438
+"2-room apartment","fully renovated","okres Ružomberok",Polík,99,2597.321264,2,2080.360000,-19.9036319136
+"4-room apartment","fully renovated","okres Žilina",Strečno,40,2351.017179,1,2065.930000,-12.1261206233
+"1-room apartment","under construction","okres Žilina",Hájik,8,2954.628571,2,3771.195000,27.6368555092
+"3-room apartment","fully renovated","okres Čadca",NULL,90,2484.530476,1,NULL,NULL
+"4-room apartment","partially renovated","okres Bytča","Veľká Bytča",27,2030.536667,1,1903.570000,-6.2528625591
+"2-room apartment","new construction","okres Žilina",Kunerad,125,3419.646726,2,4234.040000,23.8151288497
+"2-room apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",125,3419.646726,6,5274.893333,54.2525809141
+"studio apartment",unrenovated,"okres Martin",Sever,4,3037.586667,3,3080.000000,1.3962838809
+"3-room apartment","fully renovated","okres Dolný Kubín",Leštiny,90,2484.530476,3,NULL,NULL
+"3-room apartment",unrenovated,"okres Kysucké Nové Mesto",Kamence,68,1900.298036,2,2170.250000,14.2057697733
+"2-room apartment","new construction","okres Liptovský Mikuláš",Celiny,125,3419.646726,3,2177.653333,-36.3193479478
+"4-room apartment","fully renovated","okres Žilina",Vlčince,40,2351.017179,5,2507.260000,6.6457541185
+"studio apartment","fully renovated","okres Žilina",Hliny,8,4025.810000,1,4719.600000,17.2335505153
+"1-room apartment","new construction","okres Tvrdošín",Trstená,42,3762.587436,1,2918.750000,-22.4270518720
+"studio apartment",unrenovated,"okres Liptovský Mikuláš","Staré mesto",4,3037.586667,1,2952.760000,-2.7925677947
+"2-room apartment","new construction","okres Liptovský Mikuláš","Staré mesto",125,3419.646726,6,3192.753333,-6.6349951086
+"4-room apartment","development project","okres Žilina","Staré mesto",5,3955.702000,4,4174.330000,5.5269077398
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",Podbreziny,90,2484.530476,3,2351.180000,-5.3672304400
+"3-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",110,2940.550842,1,4024.390000,36.8583716533
+"other apartment type",unrenovated,"okres Žilina","Staré mesto",2,2888.370000,1,726.740000,-74.8390960992
+"3-room apartment","new construction","okres Martin",Jahodníky,110,2940.550842,4,2709.447500,-7.8591853846
+"2-room apartment","development project","okres Ružomberok",Baničné,9,3654.186250,4,2706.292500,-25.9399408008
+"4-room apartment","fully renovated","okres Žilina",Hliny,40,2351.017179,1,1956.520000,-16.7798509736
+"3-room apartment","fully renovated","okres Martin",Ľadoveň,90,2484.530476,3,2472.775000,-0.4731467822
+"3-room apartment","new construction","okres Martin",Stred,110,2940.550842,4,2616.540000,-11.0187124593
+"2-room apartment","under construction","okres Martin",Záturčie,25,3072.047727,1,2909.630000,-5.2869532453
+"3-room apartment","development project","okres Ružomberok",Baničné,3,2359.596667,2,1725.015000,-26.8936499138
+"2-room apartment","partially renovated","okres Martin",Turany,67,2358.305690,2,1875.000000,-20.4937677100
+"3-room apartment",unrenovated,"okres Martin",Sever,68,1900.298036,4,2039.956667,7.3493014440
+"2-room apartment",unrenovated,"okres Martin",Lipovec,35,2167.317353,1,1928.070000,-11.0388703652
+"2-room apartment","under construction","okres Martin",Sever,25,3072.047727,1,2727.270000,-11.2230589378
+"3-room apartment","partially renovated","okres Žilina","Horný Hričov",121,2016.158090,1,1685.200000,-16.4152846764
+"2-room apartment","fully renovated","okres Liptovský Mikuláš","Vrbica - Nábrežie",99,2597.321264,4,2879.096667,10.8486927245
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš",Prekážka,68,1900.298036,1,2129.510000,12.0618955373
+"3-room apartment",unrenovated,"okres Kysucké Nové Mesto","Horný Vadičov",68,1900.298036,2,1535.480000,-19.1979378544
+"2-room apartment","fully renovated","okres Žilina",Solinky,99,2597.321264,2,3519.900000,35.5203935989
+"3-room apartment","fully renovated","okres Liptovský Mikuláš","Vrbica - Nábrežie",90,2484.530476,2,2386.670000,-3.9387915321
+"2-room apartment","fully renovated","okres Ružomberok",Roveň,99,2597.321264,2,2049.920000,-21.0756086121
+"2-room apartment","under construction","okres Kysucké Nové Mesto",Kamence,25,3072.047727,3,3120.960000,1.5921716505
+"3-room apartment","new construction","okres Žilina",Hliny,110,2940.550842,2,NULL,NULL
+"2-room apartment",unrenovated,"okres Martin",Turany,35,2167.317353,1,1270.270000,-41.3897554854
+"4-room apartment","new construction","okres Žilina",Hliny,38,2797.552667,3,1783.090000,-36.2625046873
+"5+ room apartment",unrenovated,"okres Žilina","Staré mesto",2,1509.125000,1,1611.110000,6.7578895055
+"5+ room apartment",unrenovated,"okres Martin",Stred,2,1509.125000,1,1407.140000,-6.7578895055
+"3-room apartment","partially renovated","okres Tvrdošín",Medvedzie,121,2016.158090,1,2149.100000,6.5938237016
+"3-room apartment","fully renovated","okres Žilina","Malá Praha",90,2484.530476,1,3674.580000,47.8983669347
+"2-room apartment","new construction","okres Liptovský Mikuláš",Ľubeľa,125,3419.646726,2,2180.000000,-36.2507248651
+"4-room apartment","partially renovated","okres Kysucké Nové Mesto",Kamence,27,2030.536667,1,1923.060000,-5.2930177892
+"2-room apartment","fully renovated","okres Martin",Košúty,99,2597.321264,1,2400.000000,-7.5971065549
+"2-room apartment","partially renovated","okres Dolný Kubín",Istebné,67,2358.305690,1,NULL,NULL
+"2-room apartment","new construction","okres Žilina",Hájik,125,3419.646726,5,3481.932000,1.8213949858
+"4-room apartment","partially renovated","okres Bytča","Veľké Rovné",27,2030.536667,1,1666.540000,-17.9261312005
+"2-room apartment","new construction","okres Žilina",Fačkov,125,3419.646726,1,3878.260000,13.4111301765
+"4-room apartment",unrenovated,"okres Tvrdošín",Trstená,12,1876.870000,1,1752.940000,-6.6030145934
+"4-room apartment","new construction","okres Žilina",Závodie,38,2797.552667,1,2386.970000,-14.6764946320
+"3-room apartment","fully renovated","okres Žilina",Hliny,90,2484.530476,3,3489.726667,40.4581952490
+"1-room apartment","new construction","okres Martin",Podháj,42,3762.587436,1,3145.390000,-16.4035373662
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",NULL,67,2358.305690,1,3076.770000,30.4652748389
+"3-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Sielnica",110,2940.550842,1,2625.000000,-10.7310112613
+"4-room apartment","fully renovated","okres Dolný Kubín",Brezovec,40,2351.017179,2,2287.120000,-2.7178524926
+"3-room apartment","new construction","okres Žilina",Mojš,110,2940.550842,1,3017.540000,2.6181882966
+"3-room apartment","partially renovated","okres Ružomberok",Ľubochňa,121,2016.158090,2,1653.780000,-17.9736942156
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš","Demänovská Dolina",35,2167.317353,1,6882.490000,217.5580166178
+"2-room apartment","fully renovated","okres Dolný Kubín",Stred,99,2597.321264,1,2314.290000,-10.8970448871
+"3-room apartment",unrenovated,"okres Žilina",Hliny,68,1900.298036,4,2365.402500,24.4753430877
+"studio apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",8,3284.020000,1,4239.950000,29.1085316167
+"3-room apartment","partially renovated","okres Bytča",Štiavnik,121,2016.158090,1,1690.130000,-16.1707602007
+"studio apartment","partially renovated","okres Ružomberok","Staré mesto",7,2914.662000,1,1003.710000,-65.5634169588
+"2-room apartment","development project","okres Dolný Kubín",Stred,9,3654.186250,1,NULL,NULL
+"4-room apartment","partially renovated","okres Žilina",Vlčince,27,2030.536667,2,2249.430000,10.7800729018
+"3-room apartment","new construction","okres Martin",Záturčie,110,2940.550842,1,2593.220000,-11.8117611517
+"2-room apartment",unrenovated,"okres Žilina",Solinky,35,2167.317353,1,2920.000000,34.7287694605
+"3-room apartment","fully renovated","okres Žilina",Višňové,90,2484.530476,1,2460.320000,-0.9744487433
+"4-room apartment","new construction","okres Čadca",Centrum,38,2797.552667,1,1570.420000,-43.8645063407
+"2-room apartment","partially renovated","okres Ružomberok",Roveň,67,2358.305690,2,1791.040000,-24.0539507836
+"2-room apartment","fully renovated","okres Martin",Podháj,99,2597.321264,3,2291.175000,-11.7870002546
+"3-room apartment","fully renovated","okres Čadca",Žarec,90,2484.530476,1,2069.440000,-16.7069987674
+"studio apartment","fully renovated","okres Žilina",Bánová,8,4025.810000,1,2241.380000,-44.3247445856
+"4-room apartment","fully renovated","okres Martin",Stred,40,2351.017179,3,2389.036667,1.6171505823
+"3-room apartment","fully renovated","okres Žilina",Varín,90,2484.530476,1,2500.000000,0.6226336988
+"3-room apartment",unrenovated,"okres Čadca",Kyčerka,68,1900.298036,1,1788.710000,-5.8721334173
+"holiday apartment","under construction","okres Liptovský Mikuláš","Závažná Poruba",9,8126.663750,1,4869.570000,-40.0791007257
+"2-room apartment","partially renovated","okres Martin",Sever,67,2358.305690,4,1866.377500,-20.8593903702
+"3-room apartment","fully renovated","okres Martin",Košúty,90,2484.530476,3,2015.625000,-18.8730015804
+"4-room apartment","new construction","okres Martin",Tomčany,38,2797.552667,1,NULL,NULL
+"3-room apartment","fully renovated","okres Martin",Priekopa,90,2484.530476,3,1922.220000,-22.6324644206
+"2-room apartment","new construction","okres Dolný Kubín","Kubínska hoľa",125,3419.646726,1,4801.060000,40.3963737978
+"3-room apartment","fully renovated","okres Žilina","Dlhé Pole",90,2484.530476,1,1541.560000,-37.9536691181
+"3-room apartment",unrenovated,"okres Ružomberok",Klačno,68,1900.298036,1,1539.150000,-19.0048102539
+"1-room apartment",unrenovated,"okres Martin","Horné Vrútky",11,2780.075000,1,2633.330000,-5.2784547179
+"3-room apartment","fully renovated","okres Žilina",Solinky,90,2484.530476,2,2592.855000,4.3599595596
+"3-room apartment","fully renovated","okres Martin",Príbovce,90,2484.530476,2,1412.640000,-43.1425770927
+"3-room apartment","partially renovated","okres Turčianske Teplice",Stred,121,2016.158090,3,1814.290000,-10.0125129573
+"3-room apartment","new construction","okres Liptovský Mikuláš",NULL,110,2940.550842,1,2315.070000,-21.2708732346
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",Dovalovo,121,2016.158090,2,2831.460000,40.4383919120
+"3-room apartment","new construction","okres Liptovský Mikuláš","Staré mesto",110,2940.550842,2,4030.920000,37.0804388901
+"holiday apartment","fully renovated","okres Liptovský Mikuláš","Liptovský Ján",18,3390.796875,2,3384.775000,-0.1775946841
+"2-room apartment","fully renovated","okres Námestovo",Brehy,99,2597.321264,1,2111.700000,-18.6970041300
+"holiday apartment",unrenovated,"okres Ružomberok",Hrabovo,6,3556.341667,3,3371.286667,-5.2035214085
+"1-room apartment","new construction","okres Liptovský Mikuláš",Stošice,42,3762.587436,1,3325.620000,-11.6134825684
+"4-room apartment","partially renovated","okres Žilina",Solinky,27,2030.536667,2,2297.620000,13.1533371123
+"4-room apartment","fully renovated","okres Kysucké Nové Mesto",Stred,40,2351.017179,1,1346.610000,-42.7222390364
+"3-room apartment","new construction","okres Liptovský Mikuláš",Celiny,110,2940.550842,1,2495.990000,-15.1182844945
+"1-room apartment",unrenovated,"okres Žilina",Vlčince,11,2780.075000,3,2975.000000,7.0115014883
+"2-room apartment","new construction","okres Liptovský Mikuláš",Stošice,125,3419.646726,1,3287.230000,-3.8722340818
+"3-room apartment","partially renovated","okres Liptovský Mikuláš","Liptovská Porúbka",121,2016.158090,1,1488.100000,-26.1913037782
+"3-room apartment","new construction","okres Čadca",Škrabákovci,110,2940.550842,1,2261.250000,-23.1011425580
+"1-room apartment","under construction","okres Martin",Sučany,8,2954.628571,1,2892.360000,-2.1074923465
+"1-room apartment","partially renovated","okres Martin",Podháj,20,2834.321111,1,3559.320000,25.5792784447
+"2-room apartment","new construction","okres Liptovský Mikuláš","Liptovský Ján",125,3419.646726,2,3399.770000,-0.5812508599
+"2-room apartment","new construction","okres Martin",Ľadoveň,125,3419.646726,1,2128.570000,-37.7546813881
+"4-room apartment","new construction","okres Ružomberok","Staré mesto",38,2797.552667,2,2482.890000,-11.2477834899
+"4-room apartment","partially renovated","okres Ružomberok",Klačno,27,2030.536667,1,NULL,NULL
+"3-room apartment","new construction","okres Tvrdošín",Trstená,110,2940.550842,1,3118.330000,6.0457773918
+"holiday apartment","fully renovated","okres Čadca",Oščadnica,18,3390.796875,1,NULL,NULL
+"2-room apartment","new construction","okres Liptovský Mikuláš","Liptovský Peter",125,3419.646726,1,1468.040000,-57.0704193261
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",Iľanovo,99,2597.321264,1,2181.820000,-15.9972995932
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",Prekážka,67,2358.305690,1,2420.000000,2.6160438090
+"1-room apartment","new construction","okres Žilina",Hájik,42,3762.587436,1,3722.890000,-1.0550568372
+"4-room apartment","fully renovated","okres Liptovský Mikuláš",Demänová,40,2351.017179,2,3718.220000,58.1536720877
+"3-room apartment","new construction","okres Žilina",Budatín,110,2940.550842,1,2884.490000,-1.9064741612
+"holiday apartment","new construction","okres Liptovský Mikuláš","Liptovský Trnovec",93,4666.350909,1,5250.000000,12.5076125303
+"3-room apartment","new construction","okres Žilina",Bytčica,110,2940.550842,2,3407.715000,15.8869607465
+"3-room apartment","partially renovated","okres Turčianske Teplice",Jazernica,121,2016.158090,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš","Partizánska Ľupča",68,1900.298036,1,1068.750000,-43.7588220504
+"3-room apartment","new construction","okres Žilina","Rajecké Teplice",110,2940.550842,1,2333.330000,-20.6499011453
+"3-room apartment","partially renovated","okres Martin",Sever,121,2016.158090,5,2178.613333,8.0576639206
+"4-room apartment","new construction","okres Liptovský Mikuláš",Celiny,38,2797.552667,1,2187.700000,-21.7995061967
+"2-room apartment","new construction","okres Liptovský Mikuláš",Demänová,125,3419.646726,4,4202.042500,22.8794327803
+"2-room apartment","under construction","okres Martin",Sučany,25,3072.047727,1,2627.960000,-14.4557561101
+"2-room apartment","partially renovated","okres Martin",NULL,67,2358.305690,1,1901.610000,-19.3654152613
+"holiday apartment","new construction","okres Liptovský Mikuláš","Staré mesto",93,4666.350909,1,3027.160000,-35.1278963148
+"3-room apartment","partially renovated","okres Martin",Turany,121,2016.158090,3,1826.186667,-9.4224467785
+"1-room apartment",unrenovated,"okres Martin",Priekopa,11,2780.075000,1,NULL,NULL
+"4-room apartment","under construction","okres Martin",Sučany,18,2779.408889,1,2542.520000,-8.5229953008
+"4-room apartment",unrenovated,"okres Čadca",Centrum,12,1876.870000,1,1517.010000,-19.1734110514
+"1-room apartment",unrenovated,"okres Námestovo",Brehy,11,2780.075000,1,2435.900000,-12.3800616890
+"3-room apartment","fully renovated","okres Dolný Kubín","Veľký Bysterec",90,2484.530476,4,2567.266667,3.3300533763
+"studio apartment","partially renovated","okres Martin",NULL,7,2914.662000,1,3750.000000,28.6598583301
+"2-room apartment","new construction","okres Čadca",Kalinov,125,3419.646726,1,1859.500000,-45.6230380214
+"2-room apartment","partially renovated","okres Čadca",Centrum,67,2358.305690,1,2081.670000,-11.7302727621
+"3-room apartment","new construction","okres Liptovský Mikuláš","Malé Borové",110,2940.550842,2,3516.485000,19.5859275675
+"3-room apartment","partially renovated","okres Čadca",Žarec,121,2016.158090,1,2070.420000,2.6913519465
+"4-room apartment","fully renovated","okres Žilina",Bôrik,40,2351.017179,1,3008.340000,27.9590820038
+"2-room apartment","new construction","okres Žilina",Gbeľany,125,3419.646726,1,3568.700000,4.3587331073
+"3-room apartment","partially renovated","okres Liptovský Mikuláš","Liptovský Peter",121,2016.158090,1,1932.840000,-4.1325177035
+"4-room apartment","fully renovated","okres Námestovo",NULL,40,2351.017179,1,2422.950000,3.0596467624
+"3-room apartment","fully renovated","okres Martin",Záturčie,90,2484.530476,3,2026.985000,-18.4157723328
+"holiday apartment","fully renovated","okres Martin",Valča,18,3390.796875,1,3286.320000,-3.0811894328
+"holiday apartment","new construction","okres Liptovský Mikuláš","Liptovský Ján",93,4666.350909,3,4095.710000,-12.2288469112
+"3-room apartment",unrenovated,"okres Martin",Priekopa,68,1900.298036,1,1684.290000,-11.3670609509
+"1-room apartment","fully renovated","okres Čadca",Centrum,20,2915.345556,1,2796.610000,-4.0727781225
+"1-room apartment","new construction","okres Martin","Turčianska Štiavnička",42,3762.587436,1,4214.410000,12.0082940712
+"2-room apartment","under construction","okres Liptovský Mikuláš",Ľubeľa,25,3072.047727,1,2168.290000,-29.4187397890
+"3-room apartment","partially renovated","okres Martin",Košúty,121,2016.158090,5,1908.000000,-5.3645639465
+"3-room apartment",unrenovated,"okres Čadca","U Hluška",68,1900.298036,1,1955.880000,2.9249077222
+"4-room apartment","partially renovated","okres Liptovský Mikuláš",Belánska,27,2030.536667,2,1758.930000,-13.3761025553
+"3-room apartment","fully renovated","okres Martin",Sever,90,2484.530476,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Martin",NULL,68,1900.298036,1,2046.000000,7.6673217169
+"2-room apartment","partially renovated","okres Liptovský Mikuláš","Vrbica - Nábrežie",67,2358.305690,3,2439.333333,3.4358413900
+"studio apartment","new construction","okres Žilina",Vlčince,8,3284.020000,1,4720.000000,43.7262866852
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",Demänová,99,2597.321264,2,4244.695000,63.4258749133
+"2-room apartment","fully renovated","okres Žilina",Hájik,99,2597.321264,2,2741.770000,5.5614504837
+"4-room apartment","new construction","okres Liptovský Mikuláš","Liptovská Ondrašová",38,2797.552667,1,2895.290000,3.4936726716
+"2-room apartment",unrenovated,"okres Ružomberok",Roveň,35,2167.317353,1,1735.290000,-19.9337375490
+maisonette,"new construction","okres Žilina","Staré mesto",3,2384.420000,1,NULL,NULL
+"3-room apartment","under construction","okres Liptovský Mikuláš","Staré mesto",24,2895.789524,3,4009.290000,38.4523967219
+"4-room apartment","partially renovated","okres Žilina",Hliny,27,2030.536667,1,NULL,NULL
+"holiday apartment","under construction","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",9,8126.663750,1,NULL,NULL
+"3-room apartment","partially renovated","okres Kysucké Nové Mesto",Kamence,121,2016.158090,2,2138.890000,6.0874150003
+"4-room apartment","new construction","okres Žilina","Rajecké Teplice",38,2797.552667,2,2515.385000,-10.0862325249
+"3-room apartment","partially renovated","okres Žilina",Vlčince,121,2016.158090,2,2454.285000,21.7307815381
+"1-room apartment","new construction","okres Martin",Priekopa,42,3762.587436,3,3229.120000,-14.1782070204
+"2-room apartment",unrenovated,"okres Martin",Košúty,35,2167.317353,2,1940.720000,-10.4551994975
+"studio apartment","partially renovated","okres Čadca",Žarec,7,2914.662000,1,NULL,NULL
+"3-room apartment","new construction","okres Martin",Košúty,110,2940.550842,1,NULL,NULL
+"studio apartment","fully renovated","okres Žilina",Vlčince,8,4025.810000,2,5452.265000,35.4327452115
+"4-room apartment","partially renovated","okres Martin",Stred,27,2030.536667,1,1749.900000,-13.8208125744
+"3-room apartment","new construction","okres Ružomberok","Staré mesto",110,2940.550842,2,2494.835000,-15.1575628496
+"studio apartment","fully renovated","okres Žilina",Bôrik,8,4025.810000,1,4258.680000,5.7844259913
+"3-room apartment","fully renovated","okres Žilina",Hájik,90,2484.530476,1,2741.770000,10.3536473585
+"4-room apartment","fully renovated","okres Žilina",Rosina,40,2351.017179,1,1552.910000,-33.9473137895
+"3-room apartment","partially renovated","okres Žilina",Solinky,121,2016.158090,1,2642.710000,31.0765268412
+"1-room apartment","partially renovated","okres Dolný Kubín",Banisko,20,2834.321111,1,2291.670000,-19.1457174310
+"3-room apartment","partially renovated","okres Čadca","Nová Bystrica",121,2016.158090,1,2571.430000,27.5410897962
+"3-room apartment","partially renovated","okres Čadca",Čierne,121,2016.158090,1,1644.740000,-18.4220717533
+"1-room apartment","new construction","okres Liptovský Mikuláš","Demänovská Dolina",42,3762.587436,2,6086.395000,61.7608920331
+"4-room apartment","fully renovated","okres Martin","Košťany nad Turcom",40,2351.017179,1,1988.240000,-15.4306477316
+"2-room apartment","partially renovated","okres Tvrdošín",Nižná,67,2358.305690,1,2226.420000,-5.5923916293
+"3-room apartment","fully renovated","okres Čadca",Staškov,90,2484.530476,1,1777.170000,-28.4705896278
+"1-room apartment","partially renovated","okres Martin",NULL,20,2834.321111,1,2933.330000,3.4932135465
+"2-room apartment","new construction","okres Martin",Sučany,125,3419.646726,1,2500.000000,-26.8930331022
+"4-room apartment","new construction","okres Liptovský Mikuláš",Demänová,38,2797.552667,1,3157.890000,12.8804485882
+"2-room apartment","new construction","okres Bytča","Veľké Rovné",125,3419.646726,1,3000.000000,-12.2716397226
+"1-room apartment","partially renovated","okres Čadca",Centrum,20,2834.321111,1,3469.180000,22.3989754208
+"4-room apartment","partially renovated","okres Ružomberok","Staré mesto",27,2030.536667,1,1890.550000,-6.8940723541
+"holiday apartment","new construction","okres Žilina","Rajecké Teplice",93,4666.350909,1,3918.030000,-16.0365331196
+"3-room apartment","fully renovated","okres Čadca",Centrum,90,2484.530476,2,1582.475000,-36.3068790950
+"3-room apartment","new construction","okres Liptovský Mikuláš",Ľubeľa,110,2940.550842,1,NULL,NULL
+"3-room apartment","partially renovated","okres Martin",Lipovec,121,2016.158090,1,NULL,NULL
+"2-room apartment",unrenovated,"okres Dolný Kubín",Brezovec,35,2167.317353,3,2106.426667,-2.8094956152
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš","Staré mesto",68,1900.298036,2,2164.380000,13.8968708591
+"studio apartment","new construction","okres Liptovský Mikuláš","Pavčina Lehota",8,3284.020000,1,4444.070000,35.3240845062
+"3-room apartment","partially renovated","okres Čadca",Stred,121,2016.158090,3,1877.983333,-6.8533691721
+"holiday apartment","new construction","okres Martin",Stred,93,4666.350909,1,3086.220000,-33.8622392489
+"4-room apartment","fully renovated","okres Liptovský Mikuláš",NULL,40,2351.017179,2,1911.630000,-18.6892372767
+"3-room apartment","fully renovated","okres Žilina","Rajecké Teplice",90,2484.530476,1,3127.140000,25.8644250979
+"2-room apartment","new construction","okres Liptovský Mikuláš",Palúdzka,125,3419.646726,2,3107.590000,-9.1254082952
+"3-room apartment","fully renovated","okres Martin",Lipovec,90,2484.530476,1,1863.640000,-24.9902539734
+"4-room apartment","under construction","okres Žilina",Hájik,18,2779.408889,2,2691.570000,-3.1603442497
+"2-room apartment","fully renovated","okres Ružomberok",Hrabovo,99,2597.321264,1,2962.960000,14.0775321508
+"2-room apartment","fully renovated","okres Bytča","Veľká Bytča",99,2597.321264,1,2343.590000,-9.7689595629
+"studio apartment","new construction","okres Bytča",Kotešová,8,3284.020000,1,2343.750000,-28.6316770300
+"3-room apartment","new construction","okres Liptovský Mikuláš",Dovalovo,110,2940.550842,2,2671.575000,-9.1471243468
+maisonette,"fully renovated","okres Čadca",Centrum,1,NULL,1,NULL,NULL
+"1-room apartment","fully renovated","okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",20,2915.345556,1,3348.210000,14.8477919919
+"1-room apartment",unrenovated,"okres Tvrdošín",Medvedzie,11,2780.075000,1,2233.830000,-19.6485706321
+"2-room apartment","new construction","okres Ružomberok",Roveň,125,3419.646726,1,2610.640000,-23.6576111751
+"1-room apartment","development project","okres Žilina",Bytčica,1,4008.410000,1,4008.410000,0.0000000000
+"1-room apartment","fully renovated","okres Martin",Košúty,20,2915.345556,1,3624.160000,24.3132222368
+"3-room apartment","partially renovated","okres Kysucké Nové Mesto",Sídlisko,121,2016.158090,1,2000.000000,-0.8014297133
+"2-room apartment","new construction","okres Martin",Priekopa,125,3419.646726,1,3472.220000,1.5373890408
+"1-room apartment","partially renovated","okres Ružomberok",Hrabovo,20,2834.321111,1,3525.420000,24.3832248336
+"holiday apartment","partially renovated","okres Čadca",Makov,5,2725.797500,1,NULL,NULL
+"3-room apartment","fully renovated","okres Martin",Stred,90,2484.530476,2,3171.250000,27.6398108469
+"1-room apartment","fully renovated","okres Martin",Ľadoveň,20,2915.345556,1,3316.670000,13.7659305318
+"2-room apartment","fully renovated","okres Bytča",Kotešová,99,2597.321264,1,2947.600000,13.4861536328
+"3-room apartment","partially renovated","okres Žilina","Dlhé Pole",121,2016.158090,2,1541.560000,-23.5397259944
+"1-room apartment","under construction","okres Bytča","Thurzove sady",8,2954.628571,1,2101.580000,-28.8716009644
+"2-room apartment","fully renovated","okres Martin",Záturčie,99,2597.321264,1,2843.140000,9.4643176956
+"4-room apartment","partially renovated","okres Kysucké Nové Mesto",NULL,27,2030.536667,1,1547.790000,-23.7743388162
+"3-room apartment","fully renovated","okres Martin",Stráne,90,2484.530476,1,NULL,NULL
+"holiday apartment","under construction","okres Liptovský Mikuláš",Lazisko,9,8126.663750,1,3821.530000,-52.9754138037
+"holiday apartment","new construction","okres Námestovo","Oravská Lesná",93,4666.350909,3,3491.395000,-25.1793303143
+"4-room apartment",unrenovated,"okres Žilina",Závodie,12,1876.870000,2,2844.040000,51.5310064096
+"holiday apartment","fully renovated","okres Liptovský Mikuláš","Staré mesto",18,3390.796875,1,NULL,NULL
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",Palúdzka,90,2484.530476,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Turčianske Teplice",NULL,68,1900.298036,1,NULL,NULL
+"3-room apartment","new construction","okres Liptovský Mikuláš",Palúdzka,110,2940.550842,1,3160.920000,7.4941454796
+"4-room apartment","fully renovated","okres Martin",Ľadoveň,40,2351.017179,2,2294.175000,-2.4177696151
+"2-room apartment","fully renovated","okres Martin",Jahodníky,99,2597.321264,1,2676.130000,3.0342313480
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",NULL,99,2597.321264,1,2139.240000,-17.6366809277
+"2-room apartment","new construction","okres Dolný Kubín","Veľký Bysterec",125,3419.646726,1,3703.700000,8.3065093198
+"3-room apartment","partially renovated","okres Žilina",Hájik,121,2016.158090,3,2295.790000,13.8695428393
+"2-room apartment","new construction","okres Dolný Kubín",NULL,125,3419.646726,1,NULL,NULL
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",Palúdzka,121,2016.158090,1,1862.500000,-7.6213314205
+"holiday apartment","new construction","okres Bytča",Súľov-Hradná,93,4666.350909,1,NULL,NULL
+"3-room apartment",unrenovated,"okres Ružomberok",Roveň,68,1900.298036,2,1735.290000,-8.6832714066
+"1-room apartment",unrenovated,"okres Žilina",Hliny,11,2780.075000,1,3372.090000,21.2949290936
+"4-room apartment","development project","okres Liptovský Mikuláš","Staré mesto",5,3955.702000,1,3081.190000,-22.1076309591
+"4-room apartment","fully renovated","okres Žilina",Priekopa,40,2351.017179,1,2357.140000,0.2604328482
+"holiday apartment","new construction","okres Žilina","Staré mesto",93,4666.350909,1,3700.000000,-20.7089206930
+"3-room apartment","partially renovated","okres Žilina",Čičmany,121,2016.158090,1,1318.920000,-34.5825108387
+"other apartment type",unrenovated,"okres Martin",Stred,2,2888.370000,1,5050.000000,74.8390960992
+"holiday apartment","new construction","okres Dolný Kubín",Stred,93,4666.350909,1,4112.410000,-11.8709655532
+"studio apartment","partially renovated","okres Liptovský Mikuláš","Liptovská Porúbka",7,2914.662000,1,1439.390000,-50.6155430715
+"3-room apartment","fully renovated","okres Turčianske Teplice",Stred,90,2484.530476,1,1791.670000,-27.8869783524
+"3-room apartment","partially renovated","okres Ružomberok",Polík,121,2016.158090,1,NULL,NULL
+loft,"partially renovated","okres Žilina","Staré mesto",1,4184.120000,1,4184.120000,0.0000000000
+"4-room apartment",unrenovated,"okres Žilina",Vlčince,12,1876.870000,1,2325.300000,23.8924379419
+"2-room apartment","fully renovated","okres Kysucké Nové Mesto",Sídlisko,99,2597.321264,2,2588.830000,-0.3269239011
+"4-room apartment","new construction","okres Dolný Kubín",Stred,38,2797.552667,1,2046.670000,-26.8406981523
+loft,"under construction","okres Liptovský Mikuláš","Staré mesto",1,3374.090000,1,3374.090000,0.0000000000
+"4-room apartment","fully renovated","okres Martin",Priekopa,40,2351.017179,3,2206.540000,-6.1453051169
+"2-room apartment","new construction","okres Dolný Kubín",Stred,125,3419.646726,1,4112.410000,20.2583286961
+"holiday apartment","new construction","okres Turčianske Teplice",Stred,93,4666.350909,1,NULL,NULL
+"3-room apartment","partially renovated","okres Žilina","Považský Chlmec",121,2016.158090,1,2063.490000,2.3476289005
+"3-room apartment","new construction","okres Turčianske Teplice",Stred,110,2940.550842,1,2186.490000,-25.6435233572
+"4-room apartment","partially renovated","okres Martin",Záturčia,27,2030.536667,1,1777.670000,-12.4531938334
+"3-room apartment","new construction","okres Bytča",Súľov-Hradná,110,2940.550842,1,NULL,NULL
+"studio apartment","fully renovated","okres Dolný Kubín","Oravský Podzámok",8,4025.810000,1,4820.710000,19.7450947760
+"1-room apartment","new construction","okres Ružomberok",Hrabovo,42,3762.587436,2,3093.750000,-17.7759971662
+"4-room apartment","new construction","okres Bytča","Thurzove sady",38,2797.552667,1,2895.350000,3.4958174033
+"2-room apartment",unrenovated,"okres Martin",Stred,35,2167.317353,2,2134.125000,-1.5314948203
+"4-room apartment","partially renovated","okres Dolný Kubín",Brezovec,27,2030.536667,1,NULL,NULL
+"2-room apartment",unrenovated,"okres Námestovo",Brehy,35,2167.317353,1,2090.910000,-3.5254344683
+"3-room apartment","under construction","okres Liptovský Mikuláš",Východná,24,2895.789524,1,2308.710000,-20.2735564562
+"3-room apartment","partially renovated","okres Čadca","Dlhá nad Kysucou",121,2016.158090,1,1316.780000,-34.6886533089
+"1-room apartment","partially renovated","okres Ružomberok",Klačno,20,2834.321111,1,NULL,NULL
+"3-room apartment","new construction","okres Námestovo",Polom,110,2940.550842,1,1503.570000,-48.8677434675
+"studio apartment","fully renovated","okres Martin",Priekopa,8,4025.810000,1,3131.580000,-22.2124243320
+"4-room apartment","fully renovated","okres Bytča","Hliník nad Váhom",40,2351.017179,1,1688.350000,-28.1864030990
+"3-room apartment","partially renovated","okres Turčianske Teplice",Turček,121,2016.158090,1,955.560000,-52.6049070884
+"4-room apartment","under construction","okres Liptovský Mikuláš","Staré mesto",18,2779.408889,1,4106.070000,47.7317718976
+"holiday apartment",unrenovated,"okres Čadca",Oščadnica,6,3556.341667,1,2151.160000,-39.5119985247
+"1-room apartment","under construction","okres Ružomberok",Roveň,8,2954.628571,2,3362.930000,13.8190442280
+"1-room apartment","partially renovated","okres Martin",Záturčie,20,2834.321111,1,2895.650000,2.1637946654
+"2-room apartment","new construction","okres Liptovský Mikuláš",Prekážka,125,3419.646726,1,2500.000000,-26.8930331022
+"2-room apartment",unrenovated,"okres Martin",NULL,35,2167.317353,1,1676.060000,-22.6666091295
+"studio apartment","partially renovated","okres Žilina",Vlčince,7,2914.662000,2,4677.270000,60.4738388190
+"1-room apartment","partially renovated","okres Žilina","Staré mesto",20,2834.321111,1,4715.450000,66.3696460397
+"3-room apartment","partially renovated","okres Dolný Kubín",Stred,121,2016.158090,1,1965.280000,-2.5235168935
+"1-room apartment","fully renovated","okres Tvrdošín",Nižná,20,2915.345556,1,2000.000000,-31.3974977723
+"1-room apartment","new construction","okres Ružomberok",Bešeňová,42,3762.587436,2,3691.735000,-1.8830774621
+"5+ room apartment","partially renovated","okres Žilina",Hájik,4,2588.316667,1,2448.280000,-5.4103374902
+"1-room apartment","new construction","okres Dolný Kubín",Brezovec,42,3762.587436,1,3515.150000,-6.5762574348
+"holiday apartment",unrenovated,"okres Liptovský Mikuláš","Demänovská Dolina",6,3556.341667,1,4675.000000,31.4553110400
+"1-room apartment","fully renovated","okres Martin",Valča,20,2915.345556,1,3169.570000,8.7202164929
+"1-room apartment","fully renovated","okres Ružomberok","Staré mesto",20,2915.345556,1,1950.000000,-33.1125603280
+"3-room apartment","fully renovated","okres Martin",Sučany,90,2484.530476,1,NULL,NULL
+"3-room apartment","partially renovated","okres Liptovský Mikuláš","Svätý Kríž",121,2016.158090,1,1117.020000,-44.5966065092
+"3-room apartment","new construction","okres Bytča",Pšurnovice,110,2940.550842,1,2170.460000,-26.1886593151
+"studio apartment","new construction","okres Liptovský Mikuláš",Vlachy,8,3284.020000,1,1428.570000,-56.4993514047
+"holiday apartment",unrenovated,"okres Liptovský Mikuláš",Demänová,6,3556.341667,1,4398.030000,23.6672516820
+"4-room apartment",unrenovated,"okres Liptovský Mikuláš",Demänová,12,1876.870000,1,NULL,NULL
+"studio apartment","fully renovated","okres Čadca",Stred,8,4025.810000,1,2130.000000,-47.0913927880
+"2-room apartment","fully renovated","okres Žilina","Rajecké Teplice",99,2597.321264,1,3275.980000,26.1291795284
+"3-room apartment","new construction","okres Žilina",Závodie,110,2940.550842,1,2336.960000,-20.5264548866
+"2-room apartment","partially renovated","okres Žilina",Závodie,67,2358.305690,1,3305.080000,40.1463777158
+"4-room apartment","fully renovated","okres Kysucké Nové Mesto",Sídlisko,40,2351.017179,1,2039.770000,-13.2388304850
+"3-room apartment","partially renovated","okres Ružomberok",NULL,121,2016.158090,1,1760.560000,-12.6774825480
+"3-room apartment","under construction","okres Žilina","Lietavská Lúčka",24,2895.789524,1,NULL,NULL
+"2-room apartment","fully renovated","okres Žilina",Bôrik,99,2597.321264,1,4017.860000,54.6924539405
+"3-room apartment","fully renovated","okres Čadca",Kyčerka,90,2484.530476,1,2000.000000,-19.5018930410
+"5+ room apartment","partially renovated","okres Martin",Lipovec,4,2588.316667,1,NULL,NULL
+"1-room apartment","fully renovated","okres Kysucké Nové Mesto",Sídlisko,20,2915.345556,1,3206.900000,10.0006821970
+"2-room apartment","partially renovated","okres Ružomberok",Baničné,67,2358.305690,1,2481.480000,5.2230001616
+maisonette,"new construction","okres Liptovský Mikuláš","Liptovská Ondrašová",3,2384.420000,1,2616.180000,9.7197641355
+"3-room apartment","new construction","okres Žilina",Divina,110,2940.550842,1,NULL,NULL
+"4-room apartment","under construction","okres Žilina",Ďurčiná,18,2779.408889,1,1217.660000,-56.1899652542
+"3-room apartment","partially renovated","okres Liptovský Mikuláš","Vrbica - Nábrežie",121,2016.158090,1,NULL,NULL
+"studio apartment","new construction","okres Žilina",Závodie,8,3284.020000,1,NULL,NULL
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",Dúbrava,67,2358.305690,1,1317.680000,-44.1259881793
+"3-room apartment","partially renovated","okres Martin",Sučany,121,2016.158090,1,1416.580000,-29.7386446516
+"2-room apartment","partially renovated","okres Námestovo",NULL,67,2358.305690,1,NULL,NULL
+"1-room apartment","partially renovated","okres Martin",Stred,20,2834.321111,1,3166.670000,11.7258728275
+"2-room apartment","new construction","okres Ružomberok",Bešeňová,125,3419.646726,1,2879.780000,-15.7872075468
+"4-room apartment","new construction","okres Žilina","Dolný Hričov",38,2797.552667,1,2083.330000,-25.5302670590
+"1-room apartment","partially renovated","okres Liptovský Mikuláš",Bobrovník,20,2834.321111,1,1428.290000,-49.6073329710
+house,"fully renovated","okres Martin",Sučany,198,1549.545062,6,875.300000,-43.5124526892
+house,"new construction","okres Čadca",Makov,340,2114.287185,4,1685.913333,-20.2609113388
+house,"new construction","okres Bytča","Hliník nad Váhom",340,2114.287185,10,2410.003000,13.9865490884
+house,unrenovated,"okres Kysucké Nové Mesto",Lodno,364,1025.187980,1,537.690000,-47.5520577212
+house,"partially renovated","okres Čadca",Makov,331,1370.453684,2,491.925000,-64.1049525611
+house,unrenovated,"okres Čadca",Radôstka,364,1025.187980,1,408.330000,-60.1702314145
+house,unrenovated,"okres Žilina","Mojšová Lúčka",364,1025.187980,1,1738.460000,69.5747544758
+house,"under construction","okres Martin",Slovany,51,1843.917727,3,1695.840000,-8.0306037971
+house,"fully renovated","okres Žilina",Trnové,198,1549.545062,1,2500.000000,61.3376765419
+house,unrenovated,"okres Martin",Priekopa,364,1025.187980,4,1271.217500,23.9984787961
+house,unrenovated,"okres Turčianske Teplice",Stred,364,1025.187980,4,583.195000,-43.1133595616
+house,unrenovated,"okres Kysucké Nové Mesto",Rudinská,364,1025.187980,2,386.050000,-62.3434913858
+house,"partially renovated","okres Ružomberok","Liptovské Revúce",331,1370.453684,3,914.425000,-33.2757457858
+house,"partially renovated","okres Žilina","Rajecká Lesná",331,1370.453684,2,720.000000,-47.4626535427
+house,"fully renovated","okres Liptovský Mikuláš","Liptovská Sielnica",198,1549.545062,1,1452.380000,-6.2705541377
+house,"new construction","okres Martin",Stred,340,2114.287185,2,1499.245000,-29.0898128392
+house,"fully renovated","okres Ružomberok",Bešeňová,198,1549.545062,2,3804.120000,145.4991528346
+house,unrenovated,"okres Martin",Príbovce,364,1025.187980,4,1256.410000,22.5541095400
+house,unrenovated,"okres Žilina","Považský Chlmec",364,1025.187980,2,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš","Liptovské Beharovce",364,1025.187980,1,NULL,NULL
+house,unrenovated,"okres Námestovo",Vavrečka,364,1025.187980,1,1500.000000,46.3146300252
+house,"partially renovated","okres Žilina","Lietavská Lúčka",331,1370.453684,3,1202.016667,-12.2906026644
+house,"new construction","okres Martin",Priekopa,340,2114.287185,3,2441.575000,15.4798183200
+house,"partially renovated","okres Kysucké Nové Mesto",Ochodnica,331,1370.453684,2,802.725000,-41.4263313404
+house,"new construction","okres Bytča","Veľké Rovné",340,2114.287185,2,2390.765000,13.0766443159
+house,"new construction","okres Martin","Kláštor pod Znievom",340,2114.287185,2,2331.815000,10.2884705797
+house,unrenovated,"okres Liptovský Mikuláš","Demänovská Dolina",364,1025.187980,1,3500.000000,241.4008033922
+house,"fully renovated","okres Martin",Valča,198,1549.545062,2,1257.935000,-18.8190759437
+house,"fully renovated","okres Žilina","Teplička nad Váhom",198,1549.545062,4,1863.020000,20.2301272604
+house,"fully renovated","okres Dolný Kubín","Medzibrodie nad Oravou",198,1549.545062,1,515.870000,-66.7082931209
+house,unrenovated,"okres Žilina","Rajecké Teplice",364,1025.187980,4,1031.295000,0.5956975812
+house,"new construction","okres Liptovský Mikuláš","Liptovský Ján",340,2114.287185,2,3528.570000,66.8917082331
+house,"fully renovated","okres Liptovský Mikuláš","Liptovský Trnovec",198,1549.545062,1,NULL,NULL
+house,"under construction","okres Liptovský Mikuláš","Vrbica - Nábrežie",51,1843.917727,1,1519.950000,-17.5695326454
+house,"new construction","okres Žilina","Lietavská Svinná-Babkov",340,2114.287185,4,1715.037500,-18.8834179118
+house,"partially renovated","okres Žilina","Veľká Čierna",331,1370.453684,1,864.130000,-36.9456983415
+house,"partially renovated","okres Liptovský Mikuláš",Dovalovo,331,1370.453684,2,NULL,NULL
+house,"partially renovated","okres Martin",Ďanová,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Ružomberok","Liptovské Revúce",364,1025.187980,4,714.140000,-30.3405800759
+house,"new construction","okres Ružomberok",Baničné,340,2114.287185,2,2457.775000,16.2460340032
+house,"partially renovated","okres Bytča","Veľká Bytča",331,1370.453684,2,1145.830000,-16.3904615400
+house,unrenovated,"okres Kysucké Nové Mesto",Radoľa,364,1025.187980,1,1544.440000,50.6494447974
+house,"partially renovated","okres Turčianske Teplice","Slovenské Pravno",331,1370.453684,3,1531.110000,11.7228562976
+house,"under construction","okres Žilina",Trnové,51,1843.917727,1,1715.850000,-6.9454143818
+house,"partially renovated","okres Liptovský Mikuláš",Pribylina,331,1370.453684,4,826.523333,-39.6898018043
+house,unrenovated,"okres Žilina",Porúbka,364,1025.187980,1,996.550000,-2.7934369656
+house,"fully renovated","okres Ružomberok","Biely Potok",198,1549.545062,1,NULL,NULL
+house,"new construction","okres Martin","Turčiansky Peter",340,2114.287185,8,2200.000000,4.0539816733
+house,"partially renovated","okres Tvrdošín",Nižná,331,1370.453684,2,945.830000,-30.9841688893
+house,"new construction","okres Dolný Kubín","Oravská Poruba",340,2114.287185,2,1898.165000,-10.2219881260
+house,"fully renovated","okres Martin",Stred,198,1549.545062,6,2396.654000,54.6682351339
+house,"new construction","okres Námestovo","Oravská Lesná",340,2114.287185,2,2491.725000,17.8517761295
+house,unrenovated,"okres Ružomberok","Staré mesto",364,1025.187980,2,865.035000,-15.6218160108
+house,"under construction","okres Turčianske Teplice",Budiš,51,1843.917727,1,1109.120000,-39.8498108804
+house,unrenovated,"okres Žilina","Dolný Hričov",364,1025.187980,1,1280.000000,24.8551509549
+house,"new construction","okres Turčianske Teplice","Malý Čepčín",340,2114.287185,1,273.210000,-87.0779143941
+house,"new construction","okres Žilina",Bitarová,340,2114.287185,16,2321.286429,9.7904979734
+house,"partially renovated","okres Martin",Stráne,331,1370.453684,9,825.555000,-39.7604596464
+house,"new construction","okres Dolný Kubín",Párnica,340,2114.287185,1,536.910000,-74.6056257726
+house,"fully renovated","okres Čadca",Oščadnica,198,1549.545062,4,1530.922500,-1.2018083537
+house,"new construction","okres Kysucké Nové Mesto","Horný Vadičov",340,2114.287185,4,1825.460000,-13.6607357340
+house,"new construction","okres Čadca","Nová Bystrica",340,2114.287185,1,1472.180000,-30.3699133001
+house,"fully renovated","okres Martin","Turčianska Štiavnička",198,1549.545062,1,1811.110000,16.8801117447
+house,"partially renovated","okres Martin",Sučany,331,1370.453684,7,821.814000,-40.0334349424
+house,"new construction","okres Čadca","Stará Bystrica",340,2114.287185,2,NULL,NULL
+house,"new construction","okres Ružomberok","Pod Skalami",340,2114.287185,1,1833.330000,-13.2885062632
+house,"fully renovated","okres Martin",Žabokreky,198,1549.545062,2,286.885000,-81.4858562661
+house,unrenovated,"okres Ružomberok",Baničné,364,1025.187980,1,416.670000,-59.3567220716
+house,"partially renovated","okres Martin","Košťany nad Turcom",331,1370.453684,1,1741.670000,27.0871113949
+house,"fully renovated","okres Martin",Trebostovo,198,1549.545062,2,1180.195000,-23.8360323335
+house,"new construction","okres Martin","Karvaša a Bláhovca",340,2114.287185,2,260.000000,-87.7027112568
+house,"new construction","okres Martin",Valča,340,2114.287185,9,1499.785714,-29.0642385462
+house,"fully renovated","okres Žilina",Stráňavy,198,1549.545062,1,3074.770000,98.4304990803
+house,"partially renovated","okres Žilina","Teplička nad Váhom",331,1370.453684,3,1504.545000,9.7844471189
+house,"partially renovated","okres Žilina",Gbeľany,331,1370.453684,1,332.540000,-75.7350427904
+house,"new construction","okres Žilina",Podhorie,340,2114.287185,1,2551.660000,20.6865376711
+house,"partially renovated","okres Žilina",Terchová,331,1370.453684,4,1333.393333,-2.7042395838
+house,unrenovated,"okres Turčianske Teplice",Mošovce,364,1025.187980,5,888.782500,-13.3054115597
+house,unrenovated,"okres Žilina",Lysica,364,1025.187980,3,772.360000,-24.6616215691
+house,unrenovated,"okres Martin",Podháj,364,1025.187980,1,NULL,NULL
+house,"partially renovated","okres Čadca",Oščadnica,331,1370.453684,4,820.280000,-40.1453686778
+house,"new construction","okres Martin","Dolný Kalník",340,2114.287185,2,2724.750000,28.8732211656
+house,unrenovated,"okres Žilina",Trnové,364,1025.187980,1,1793.330000,74.9269436421
+house,unrenovated,"okres Martin","Dolné Vrútky",364,1025.187980,4,1341.916667,30.8946937712
+house,"new construction","okres Kysucké Nové Mesto","Lopušné Pažite",340,2114.287185,1,2254.720000,6.6420879811
+house,"partially renovated","okres Liptovský Mikuláš","Staré mesto",331,1370.453684,3,1259.205000,-8.1176536864
+house,unrenovated,"okres Čadca",Staškov,364,1025.187980,2,554.765000,-45.8865095160
+house,unrenovated,"okres Martin",Belá-Dulice,364,1025.187980,2,1045.000000,1.9325255842
+house,"new construction","okres Turčianske Teplice","Turčiansky Michal",340,2114.287185,3,1684.375000,-20.3336702814
+house,"partially renovated","okres Dolný Kubín",Mokraď,331,1370.453684,1,3312.500000,141.7082779720
+house,unrenovated,"okres Žilina","Malá Praha",364,1025.187980,2,2750.000000,168.2434883796
+house,"partially renovated","okres Turčianske Teplice","Horná Štubňa",331,1370.453684,6,566.737500,-58.6459939058
+house,"new construction","okres Žilina",Bánová,340,2114.287185,1,2771.600000,31.0890980025
+house,"new construction","okres Liptovský Mikuláš",Prosiek,340,2114.287185,1,2112.000000,-0.1081775937
+house,"partially renovated","okres Ružomberok",Komjatná,331,1370.453684,2,755.950000,-44.8394346467
+house,"fully renovated","okres Liptovský Mikuláš","Veľké Borové",198,1549.545062,1,747.510000,-51.7593893633
+house,"under construction","okres Kysucké Nové Mesto","Lopušné Pažite",51,1843.917727,1,2172.730000,17.8322637819
+house,"development project","okres Žilina",Trnové,3,2344.770000,1,2231.400000,-4.8350158011
+house,unrenovated,"okres Žilina","Staré mesto",364,1025.187980,7,3603.706000,251.5166067398
+house,"partially renovated","okres Ružomberok",Stankovany,331,1370.453684,4,780.365000,-43.0579078220
+house,unrenovated,"okres Martin",Bystrička,364,1025.187980,1,951.900000,-7.1487357860
+house,unrenovated,"okres Martin","Kolónia Hviezda",364,1025.187980,2,173.530000,-83.0733481678
+house,"fully renovated","okres Žilina",Turie,198,1549.545062,2,3312.500000,113.7724214180
+house,unrenovated,"okres Liptovský Mikuláš","Partizánska Ľupča",364,1025.187980,4,862.256667,-15.8928231874
+house,"fully renovated","okres Kysucké Nové Mesto",Snežnica,198,1549.545062,2,3094.765000,99.7208778172
+house,unrenovated,"okres Ružomberok",Černová,364,1025.187980,1,149.460000,-85.4212102643
+house,"new construction","okres Tvrdošín",Zábiedovo,340,2114.287185,1,NULL,NULL
+house,"new construction","okres Ružomberok","Biely Potok",340,2114.287185,2,727.335000,-65.5990441999
+house,"new construction","okres Žilina","Rajecká Lesná",340,2114.287185,1,1614.020000,-23.6612693181
+house,unrenovated,"okres Turčianske Teplice","Turčiansky Michal",364,1025.187980,1,NULL,NULL
+house,"new construction","okres Žilina",Mojš,340,2114.287185,6,2929.760000,38.5696333396
+house,"fully renovated","okres Kysucké Nové Mesto",Rudinská,198,1549.545062,1,1264.970000,-18.3650717219
+house,"under construction","okres Martin",Necpaly,51,1843.917727,1,1545.360000,-16.1914885154
+house,"new construction","okres Žilina",Divina,340,2114.287185,3,1726.050000,-18.3625567877
+house,"new construction","okres Liptovský Mikuláš","Závažná Poruba",340,2114.287185,1,1193.400000,-43.5554446687
+house,"new construction","okres Ružomberok","Liptovské Sliače",340,2114.287185,8,2215.736250,4.7982632501
+house,"new construction","okres Čadca",Oščadnica,340,2114.287185,4,1749.436667,-17.2564314152
+house,"fully renovated","okres Martin","Kolónia Hviezda",198,1549.545062,1,1212.120000,-21.7757502040
+house,"new construction","okres Ružomberok","Liptovská Štiavnica",340,2114.287185,4,2209.152500,4.4868698857
+house,"fully renovated","okres Bytča",Štiavnik,198,1549.545062,1,914.750000,-40.9665441533
+house,"partially renovated","okres Liptovský Mikuláš",Važec,331,1370.453684,5,772.366000,-43.6415831474
+house,"under construction","okres Čadca",Skalité,51,1843.917727,1,590.910000,-67.9535593510
+house,"fully renovated","okres Žilina",Mojš,198,1549.545062,1,1840.000000,18.7445299348
+house,unrenovated,"okres Liptovský Mikuláš","Liptovská Kokava",364,1025.187980,3,791.666667,-22.7783896764
+house,"fully renovated","okres Dolný Kubín",Osádka,198,1549.545062,1,529.380000,-65.8364243169
+house,"partially renovated","okres Čadca","Vysoká nad Kysucou",331,1370.453684,1,576.470000,-57.9358276219
+house,unrenovated,"okres Martin","Karvaša a Bláhovca",364,1025.187980,2,1399.990000,36.5593459260
+house,"new construction","okres Liptovský Mikuláš",Bobrovník,340,2114.287185,2,NULL,NULL
+house,"new construction","okres Martin",Stráne,340,2114.287185,3,2514.695000,18.9381942927
+house,"new construction","okres Žilina",Svederník,340,2114.287185,6,2635.048000,24.6305619546
+house,"fully renovated","okres Čadca",Makov,198,1549.545062,5,1443.582500,-6.8383014214
+house,"partially renovated","okres Žilina",Stráňavy,331,1370.453684,1,NULL,NULL
+house,"under construction","okres Čadca","Stará Bystrica",51,1843.917727,2,1961.000000,6.3496473452
+house,"partially renovated","okres Kysucké Nové Mesto","Horný Vadičov",331,1370.453684,2,1998.265000,45.8104730813
+house,"partially renovated","okres Martin",Priekopa,331,1370.453684,8,14876.970000,985.5507321180
+house,"new construction","okres Žilina","Žilinská Lehota",340,2114.287185,5,1556.935000,-26.3612336562
+house,"fully renovated","okres Martin","Kláštor pod Znievom",198,1549.545062,4,1102.645000,-28.8407270598
+house,"fully renovated","okres Martin",Lipovec,198,1549.545062,1,1871.350000,20.7677043986
+house,unrenovated,"okres Kysucké Nové Mesto","Budatínska Lehota",364,1025.187980,3,1161.516667,13.2979209335
+house,"partially renovated","okres Liptovský Mikuláš",Bukovina,331,1370.453684,2,955.265000,-30.2957107451
+house,"new construction","okres Ružomberok","Staré mesto",340,2114.287185,3,1699.816667,-19.6033216746
+house,"new construction","okres Žilina",Višňové,340,2114.287185,5,1965.087500,-7.0567369494
+house,"partially renovated","okres Turčianske Teplice",Háj,331,1370.453684,2,661.875000,-51.7039497411
+house,unrenovated,"okres Turčianske Teplice",Turček,364,1025.187980,3,771.845000,-24.7118562588
+house,"fully renovated","okres Čadca",Svrčinovec,198,1549.545062,1,421.430000,-72.8029851900
+house,"partially renovated","okres Martin","Karvaša a Bláhovca",331,1370.453684,1,1180.910000,-13.8307252710
+house,"partially renovated","okres Ružomberok","Staré mesto",331,1370.453684,2,939.585000,-31.4398574013
+house,"new construction","okres Žilina",Turie,340,2114.287185,4,2447.833333,15.7758203505
+house,unrenovated,"okres Čadca","Stará Bystrica",364,1025.187980,1,1249.880000,21.9171531839
+house,"new construction","okres Žilina",Budatín,340,2114.287185,4,2159.066667,2.1179469997
+house,unrenovated,"okres Čadca",Olešná,364,1025.187980,2,449.265000,-56.1773051611
+house,unrenovated,"okres Liptovský Mikuláš","Uhorská Ves",364,1025.187980,1,389.210000,-62.0352552319
+house,unrenovated,"okres Žilina",Bytčica,364,1025.187980,4,1672.220000,63.1135004138
+house,unrenovated,"okres Čadca",Horelica,364,1025.187980,4,963.197500,-6.0467427642
+house,"partially renovated","okres Liptovský Mikuláš",Demänová,331,1370.453684,1,1822.150000,32.9596192322
+house,"partially renovated","okres Liptovský Mikuláš","Liptovská Porúbka",331,1370.453684,2,381.105000,-72.1913258033
+house,"under construction","okres Ružomberok",Gejdák,51,1843.917727,1,1531.180000,-16.9605033034
+house,unrenovated,"okres Tvrdošín",Zábiedovo,364,1025.187980,1,710.530000,-30.6927106188
+house,unrenovated,"okres Dolný Kubín",Veličná,364,1025.187980,1,1058.820000,3.2805710422
+house,"partially renovated","okres Žilina",Varín,331,1370.453684,3,1062.536667,-22.4682541698
+house,unrenovated,"okres Žilina",Rajec,364,1025.187980,3,1358.465000,32.5088692515
+house,"new construction","okres Ružomberok",Rybárpole,340,2114.287185,1,3322.920000,57.1650258099
+house,"fully renovated","okres Žilina",Terchová,198,1549.545062,7,1682.482000,8.5790946814
+house,"under construction","okres Martin",Priekopa,51,1843.917727,2,3333.330000,80.7743345156
+house,unrenovated,"okres Liptovský Mikuláš",Dúbrava,364,1025.187980,2,1184.210000,15.5114986814
+house,unrenovated,"okres Dolný Kubín",Záskalie,364,1025.187980,1,NULL,NULL
+house,unrenovated,"okres Čadca",Podzávoz,364,1025.187980,1,1458.330000,42.2500096031
+house,"partially renovated","okres Čadca","Stará Bystrica",331,1370.453684,1,877.560000,-35.9657308930
+house,"new construction","okres Žilina","Dolný Hričov",340,2114.287185,1,NULL,NULL
+house,"fully renovated","okres Bytča","Bytča - sever",198,1549.545062,1,1868.750000,20.5999132150
+house,"partially renovated","okres Dolný Kubín",Istebné,331,1370.453684,1,1801.390000,31.4447924093
+house,"new construction","okres Dolný Kubín",Mokraď,340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Martin",Necpaly,331,1370.453684,2,1149.675000,-16.1098975162
+house,"fully renovated","okres Žilina",Rosina,198,1549.545062,2,1552.670000,0.2016680945
+house,"partially renovated","okres Liptovský Mikuláš","Liptovský Trnovec",331,1370.453684,8,968.511667,-29.3291208373
+house,"partially renovated","okres Tvrdošín",Vitanová,331,1370.453684,2,979.165000,-28.5517627168
+house,"new construction","okres Kysucké Nové Mesto","Budatínska Lehota",340,2114.287185,1,2420.170000,14.4674203755
+house,"new construction","okres Žilina",Hôrky,340,2114.287185,6,2930.930000,38.6249711389
+house,unrenovated,"okres Čadca",Zákopčie,364,1025.187980,7,1109.500000,8.2240546753
+house,unrenovated,"okres Žilina",Gbeľany,364,1025.187980,1,2222.220000,116.7621980898
+house,"partially renovated","okres Žilina",Závodie,331,1370.453684,3,1544.746667,12.7179039347
+house,unrenovated,"okres Ružomberok","Liptovská Lúžna",364,1025.187980,5,866.415000,-15.4872065511
+house,"partially renovated","okres Žilina","Dlhé Pole",331,1370.453684,1,1491.670000,8.8449772083
+house,"fully renovated","okres Čadca",Horelica,198,1549.545062,1,NULL,NULL
+house,"partially renovated","okres Čadca",Blažkov,331,1370.453684,2,NULL,NULL
+house,"fully renovated","okres Žilina",Brodno,198,1549.545062,2,1818.065000,17.3289531608
+house,"partially renovated","okres Turčianske Teplice",Stred,331,1370.453684,1,990.000000,-27.7611486212
+house,"new construction","okres Žilina",Terchová,340,2114.287185,4,2187.095000,3.4436104762
+house,"partially renovated","okres Žilina",Ďurčiná,331,1370.453684,1,725.000000,-47.0978108590
+house,"fully renovated","okres Liptovský Mikuláš",Dúbrava,198,1549.545062,3,2062.260000,33.0880947301
+house,"new construction","okres Martin",Sever,340,2114.287185,2,1649.500000,-21.9831623773
+house,unrenovated,"okres Žilina","Malá Čierna",364,1025.187980,3,82.573333,-91.9455422214
+house,"new construction","okres Liptovský Mikuláš",Benice,340,2114.287185,1,2599.910000,22.9686306782
+house,"fully renovated","okres Martin",Jahodníky,198,1549.545062,5,2515.003333,62.3059176965
+house,"new construction","okres Liptovský Mikuláš",Smrečany,340,2114.287185,1,3688.000000,74.4323110959
+house,"new construction","okres Martin",Necpaly,340,2114.287185,3,986.395000,-53.3462148852
+house,"fully renovated","okres Turčianske Teplice",Diviaky,198,1549.545062,2,799.500000,-48.4042110419
+house,"new construction","okres Liptovský Mikuláš","Liptovské Kľačany",340,2114.287185,3,2156.030000,1.9743209577
+house,unrenovated,"okres Liptovský Mikuláš",Hybe,364,1025.187980,3,349.790000,-65.8804037090
+house,unrenovated,"okres Turčianske Teplice","Horná Štubňa",364,1025.187980,4,667.917500,-34.8492654001
+house,"fully renovated","okres Žilina",Strečno,198,1549.545062,1,NULL,NULL
+house,"new construction","okres Žilina",Lietava,340,2114.287185,2,1952.680000,-7.6435777574
+house,"fully renovated","okres Liptovský Mikuláš","Liptovská Ondrašová",198,1549.545062,1,2552.380000,64.7180235408
+house,unrenovated,"okres Žilina",Hôrky,364,1025.187980,3,218.370000,-78.6995161609
+house,unrenovated,"okres Žilina",Stránske,364,1025.187980,2,714.530000,-30.3025382721
+house,"partially renovated","okres Kysucké Nové Mesto","Kysucký Lieskovec",331,1370.453684,6,1066.961667,-22.1453683947
+house,unrenovated,"okres Žilina",Terchová,364,1025.187980,5,931.457500,-9.1427603355
+house,"new construction","okres Čadca",Čadečka,340,2114.287185,1,1204.550000,-43.0280801707
+house,"fully renovated","okres Dolný Kubín",Zázrivá,198,1549.545062,1,639.670000,-58.7188513786
+house,"fully renovated","okres Dolný Kubín","Oravský Podzámok",198,1549.545062,1,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš","Závažná Poruba",364,1025.187980,3,931.875000,-9.1020360968
+house,unrenovated,"okres Kysucké Nové Mesto",Povina,364,1025.187980,4,1100.697500,7.3654316548
+house,unrenovated,"okres Turčianske Teplice",Háj,364,1025.187980,1,227.270000,-77.8313826894
+house,"fully renovated","okres Martin",Stráne,198,1549.545062,3,991.033333,-36.0435938713
+house,"partially renovated","okres Liptovský Mikuláš",Ľubeľa,331,1370.453684,2,1430.000000,4.3450075472
+house,"partially renovated","okres Žilina","Staré mesto",331,1370.453684,3,2055.085000,49.9565453392
+house,unrenovated,"okres Martin",Podhradie,364,1025.187980,1,620.000000,-39.5232862562
+house,"fully renovated","okres Ružomberok","Staré mesto",198,1549.545062,2,2369.570000,52.9203672813
+house,"new construction","okres Dolný Kubín",Brezovec,340,2114.287185,4,1807.720000,-14.4997892044
+house,"partially renovated","okres Čadca",Centrum,331,1370.453684,1,1740.480000,27.0002788361
+house,"new construction","okres Turčianske Teplice",Dubové,340,2114.287185,1,1680.410000,-20.5212039347
+house,"partially renovated","okres Martin",NULL,331,1370.453684,2,1329.170000,-3.0124100130
+house,"partially renovated","okres Čadca",Závodie,331,1370.453684,1,795.000000,-41.9900132867
+house,"under construction","okres Liptovský Mikuláš",Dúbrava,51,1843.917727,1,2098.950000,13.8310006605
+house,"partially renovated","okres Martin",Ležiachov,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Žilina",Varín,364,1025.187980,2,1294.335000,26.2534311025
+house,"fully renovated","okres Liptovský Mikuláš","Liptovská Porúbka",198,1549.545062,2,1564.890000,0.9902866574
+house,"partially renovated","okres Čadca",Raková,331,1370.453684,5,1168.886667,-14.7080502868
+house,"new construction","okres Martin",Žabokreky,340,2114.287185,1,3790.700000,79.2897401495
+house,"new construction","okres Liptovský Mikuláš","Svätý Kríž",340,2114.287185,2,3127.450000,47.9198295382
+house,"fully renovated","okres Turčianske Teplice","Horná Štubňa",198,1549.545062,6,1337.446000,-13.6878279439
+house,"new construction","okres Kysucké Nové Mesto",Rudinská,340,2114.287185,1,2526.310000,19.4875520186
+house,"new construction","okres Liptovský Mikuláš",Ižipovce,340,2114.287185,5,1150.286000,-45.5946189259
+house,"partially renovated","okres Ružomberok","Liptovská Teplá",331,1370.453684,1,NULL,NULL
+house,"partially renovated","okres Čadca",Korňa,331,1370.453684,1,607.690000,-55.6577499047
+house,"fully renovated","okres Ružomberok",Ivachnová,198,1549.545062,1,NULL,NULL
+house,"new construction","okres Žilina","Rajecké Teplice",340,2114.287185,6,2118.518000,0.2001059757
+house,"partially renovated","okres Turčianske Teplice","Malý Čepčín",331,1370.453684,2,1562.565000,14.0180816209
+house,"partially renovated","okres Žilina","Lietavská Svinná-Babkov",331,1370.453684,2,821.740000,-40.0388346141
+house,"partially renovated","okres Bytča",Jablonové,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Žilina",Závodie,364,1025.187980,7,1369.004000,33.5368758420
+house,"new construction","okres Žilina",Rosina,340,2114.287185,4,2859.782500,35.2598890202
+house,"fully renovated","okres Martin",Bystrička,198,1549.545062,4,1510.930000,-2.4920257530
+house,"partially renovated","okres Čadca","Dlhá nad Kysucou",331,1370.453684,1,1055.560000,-22.9773313521
+house,unrenovated,"okres Čadca",Svrčinovec,364,1025.187980,7,579.361667,-43.4872746947
+house,"fully renovated","okres Martin",Turany,198,1549.545062,1,1.560000,-99.8993252898
+house,"under construction","okres Liptovský Mikuláš",Prosiek,51,1843.917727,3,3061.540000,66.0345228624
+house,"under construction","okres Turčianske Teplice",Abramová,51,1843.917727,1,592.110000,-67.8884805255
+house,"partially renovated","okres Žilina",Budatín,331,1370.453684,5,1230.357500,-10.2226135502
+house,"partially renovated","okres Bytča",Kolárovice,331,1370.453684,3,1102.220000,-19.5726194275
+house,unrenovated,"okres Bytča","Veľké Rovné",364,1025.187980,4,813.630000,-20.6360183817
+house,"partially renovated","okres Bytča","Hliník nad Váhom",331,1370.453684,4,1138.256667,-16.9430765673
+house,"partially renovated","okres Kysucké Nové Mesto",NULL,331,1370.453684,2,1418.025000,3.4712093196
+house,"fully renovated","okres Žilina",Bytčica,198,1549.545062,1,2327.780000,50.2234466802
+house,"fully renovated","okres Žilina",Stránske,198,1549.545062,3,1810.366667,16.8321406970
+house,"partially renovated","okres Žilina",Rosina,331,1370.453684,1,1476.000000,7.7015602375
+house,"fully renovated","okres Čadca",Zákopčie,198,1549.545062,1,863.640000,-44.2649316126
+house,unrenovated,"okres Námestovo","Slanická Osada",364,1025.187980,2,1388.890000,35.4766176638
+house,unrenovated,"okres Liptovský Mikuláš",Ľubeľa,364,1025.187980,3,1133.880000,10.6021551287
+house,"fully renovated","okres Žilina",Závodie,198,1549.545062,2,1772.080000,14.3613079385
+house,"new construction","okres Turčianske Teplice",Kaľamenová,340,2114.287185,2,NULL,NULL
+house,"partially renovated","okres Ružomberok","Biely Potok",331,1370.453684,3,1084.616667,-20.8571088784
+house,"new construction","okres Žilina",Trnové,340,2114.287185,4,2304.870000,9.0140457906
+house,"new construction","okres Námestovo",Ťapešovo,340,2114.287185,3,1685.720000,-20.2700554608
+house,"partially renovated","okres Žilina",Bôrik,331,1370.453684,2,1689.700000,23.2949365402
+house,"fully renovated","okres Čadca",Staškov,198,1549.545062,1,2615.380000,68.7837329896
+house,unrenovated,"okres Čadca",Čadečka,364,1025.187980,1,388.890000,-62.0664690197
+house,"partially renovated","okres Turčianske Teplice",Diviaky,331,1370.453684,3,856.750000,-37.4842061426
+house,"partially renovated","okres Žilina",Konská,331,1370.453684,1,1066.000000,-22.2155398285
+house,"partially renovated","okres Turčianske Teplice",Dubové,331,1370.453684,2,857.500000,-37.4294797401
+house,"new construction","okres Čadca",Stred,340,2114.287185,2,1689.435000,-20.0943461236
+house,unrenovated,"okres Liptovský Mikuláš",Važec,364,1025.187980,2,782.805000,-23.6427840287
+house,"fully renovated","okres Turčianske Teplice",Stred,198,1549.545062,1,1805.560000,16.5219421028
+house,unrenovated,"okres Liptovský Mikuláš","Kráľova Lehota",364,1025.187980,1,800.000000,-21.9655306532
+house,"partially renovated","okres Martin",Belá-Dulice,331,1370.453684,3,675.000000,-50.7462376963
+house,unrenovated,"okres Liptovský Mikuláš","Liptovský Trnovec",364,1025.187980,4,677.100000,-33.9535760066
+house,unrenovated,"okres Žilina",Strečno,364,1025.187980,1,NULL,NULL
+house,"fully renovated","okres Kysucké Nové Mesto",Suľkov,198,1549.545062,1,NULL,NULL
+house,"fully renovated","okres Ružomberok",Kalameny,198,1549.545062,1,1860.000000,20.0352313471
+house,unrenovated,"okres Martin",Vrícko,364,1025.187980,2,1225.000000,19.4902811873
+house,"new construction","okres Žilina",Strážov,340,2114.287185,4,2199.147500,4.0136607554
+house,"partially renovated","okres Dolný Kubín",Malatiná,331,1370.453684,2,594.450000,-56.6238533312
+house,unrenovated,"okres Čadca",Klokočov,364,1025.187980,7,561.090000,-45.2695494928
+house,"fully renovated","okres Martin",Belá-Dulice,198,1549.545062,2,1254.710000,-19.0272015465
+house,"new construction","okres Čadca",Korňa,340,2114.287185,1,1950.000000,-7.7703344260
+house,"fully renovated","okres Kysucké Nové Mesto",Ochodnica,198,1549.545062,1,790.480000,-48.9863173789
+house,"under construction","okres Martin","Kláštor pod Znievom",51,1843.917727,1,1961.540000,6.3789328167
+house,"new construction","okres Žilina",Rajec,340,2114.287185,3,1421.700000,-32.7574792069
+house,"fully renovated","okres Bytča","Hlboké nad Váhom",198,1549.545062,1,1325.000000,-14.4910314328
+house,"fully renovated","okres Martin",Príbovce,198,1549.545062,1,1226.600000,-20.8412823815
+house,"new construction","okres Žilina",Brezany,340,2114.287185,2,2557.740000,20.9741050386
+house,"partially renovated","okres Žilina",Višňové,331,1370.453684,3,1209.606667,-11.7367714705
+house,"new construction","okres Ružomberok",Ivachnová,340,2114.287185,1,3888.890000,83.9338585406
+house,"new construction","okres Liptovský Mikuláš",Palúdzka,340,2114.287185,1,NULL,NULL
+house,"under construction","okres Bytča","Hliník nad Váhom",51,1843.917727,2,2831.560000,53.5621659545
+house,unrenovated,"okres Bytča",Štiavnik,364,1025.187980,2,1430.000000,39.4866139574
+house,unrenovated,"okres Ružomberok",Lisková,364,1025.187980,4,616.140000,-39.8998025708
+house,"new construction","okres Žilina",Bytčica,340,2114.287185,2,1804.240000,-14.6643836845
+house,"partially renovated","okres Turčianske Teplice",Čremošné,331,1370.453684,3,762.363333,-44.3714631220
+house,"under construction","okres Kysucké Nové Mesto","Horný Vadičov",51,1843.917727,1,2050.000000,11.1763269034
+house,"partially renovated","okres Martin","Turčianske Kľačany",331,1370.453684,1,3357.140000,144.9655934523
+house,"new construction","okres Liptovský Mikuláš","Liptovská Sielnica",340,2114.287185,3,2681.876667,26.8454297991
+house,unrenovated,"okres Turčianske Teplice",Diviaky,364,1025.187980,1,1540.000000,50.2163534926
+house,"fully renovated","okres Čadca","Vysoká nad Kysucou",198,1549.545062,4,1056.562500,-31.8146644515
+house,"fully renovated","okres Martin",Podhradie,198,1549.545062,2,1304.350000,-15.8236806410
+house,unrenovated,"okres Žilina",Bôrik,364,1025.187980,4,1579.026667,54.0231350547
+house,unrenovated,"okres Ružomberok",Lúčky,364,1025.187980,4,1078.010000,5.1524228757
+house,"new construction","okres Žilina",NULL,340,2114.287185,1,NULL,NULL
+house,"new construction","okres Martin",Blatnica,340,2114.287185,2,2356.000000,11.4323549192
+house,unrenovated,"okres Žilina","Paština Závada",364,1025.187980,1,932.670000,-9.0244893429
+house,"new construction","okres Ružomberok",Komjatná,340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Žilina",Rajec,331,1370.453684,6,1066.318000,-22.1923358338
+house,unrenovated,"okres Tvrdošín",Tvrdošín,364,1025.187980,1,859.090000,-16.2017096611
+house,"new construction","okres Bytča",Petrovice,340,2114.287185,2,NULL,NULL
+house,unrenovated,"okres Dolný Kubín",Kraľovany,364,1025.187980,2,1200.000000,17.0517040202
+house,unrenovated,"okres Žilina",Divina,364,1025.187980,1,1083.330000,5.6713520968
+house,"partially renovated","okres Žilina",Bánová,331,1370.453684,1,452.420000,-66.9875746053
+house,"new construction","okres Martin",Ľadoveň,340,2114.287185,1,1388.330000,-34.3357889198
+house,unrenovated,"okres Čadca",Centrum,364,1025.187980,2,799.530000,-22.0113759040
+house,unrenovated,"okres Ružomberok","Pod Skalami",364,1025.187980,1,954.550000,-6.8902466063
+house,"fully renovated","okres Žilina",Bánová,198,1549.545062,3,1192.553333,-23.0384864406
+house,"partially renovated","okres Čadca",Skalité,331,1370.453684,1,477.270000,-65.1743064671
+house,"partially renovated","okres Turčianske Teplice",NULL,331,1370.453684,1,916.670000,-33.1119314208
+house,unrenovated,"okres Čadca",NULL,364,1025.187980,2,404.170000,-60.5760106551
+house,"partially renovated","okres Turčianske Teplice",Budiš,331,1370.453684,1,NULL,NULL
+house,"partially renovated","okres Martin","Kláštor pod Znievom",331,1370.453684,2,0.010000,-99.9992703146
+house,"partially renovated","okres Čadca",Klokočov,331,1370.453684,5,544.325000,-60.2814012356
+house,"fully renovated","okres Žilina",Varín,198,1549.545062,1,1815.260000,17.1479322878
+house,unrenovated,"okres Turčianske Teplice",Sklené,364,1025.187980,2,705.750000,-31.1589665731
+house,"new construction","okres Žilina",Stránske,340,2114.287185,1,2415.790000,14.2602583575
+house,unrenovated,"okres Čadca","U Hluška",364,1025.187980,1,906.250000,-11.6015776931
+house,"new construction","okres Martin",Tomčany,340,2114.287185,4,2802.080000,32.5307186214
+house,"fully renovated","okres Liptovský Mikuláš","Závažná Poruba",198,1549.545062,1,2291.670000,47.8930852803
+house,"new construction","okres Martin","Turčianske Kľačany",340,2114.287185,2,2574.630000,21.7729558343
+house,unrenovated,"okres Kysucké Nové Mesto",Nesluša,364,1025.187980,2,NULL,NULL
+house,"fully renovated","okres Martin",Diaková,198,1549.545062,1,NULL,NULL
+house,"new construction","okres Žilina","Staré mesto",340,2114.287185,1,NULL,NULL
+house,unrenovated,"okres Ružomberok",Turík,364,1025.187980,1,1760.000000,71.6758325629
+house,"partially renovated","okres Liptovský Mikuláš",Vlachy,331,1370.453684,2,1306.665000,-4.6545669324
+house,"partially renovated","okres Martin",Žabokreky,331,1370.453684,2,1156.250000,-15.6301293871
+house,"partially renovated","okres Čadca",Kalinov,331,1370.453684,1,928.570000,-32.2436058335
+house,unrenovated,"okres Liptovský Mikuláš",Pribylina,364,1025.187980,3,460.090000,-55.1214012478
+house,"partially renovated","okres Dolný Kubín",Medzihradné,331,1370.453684,1,457.520000,-66.6154350679
+house,"new construction","okres Dolný Kubín",Istebné,340,2114.287185,1,3177.860000,50.3040846364
+house,unrenovated,"okres Žilina",Svederník,364,1025.187980,3,1249.063333,21.8374929640
+house,"new construction","okres Žilina",Gbeľany,340,2114.287185,1,2464.290000,16.5541756807
+house,unrenovated,"okres Martin",Šútovo,364,1025.187980,1,1000.000000,-2.4569133165
+house,"new construction","okres Čadca",Olešná,340,2114.287185,1,2373.020000,12.2373543592
+house,"partially renovated","okres Ružomberok",Hrabovo,331,1370.453684,1,181.820000,-86.7328606488
+house,unrenovated,"okres Martin","Turčiansky Peter",364,1025.187980,2,1383.930000,34.9928039539
+house,"fully renovated","okres Ružomberok",Likavka,198,1549.545062,2,2266.340000,46.2584119416
+house,unrenovated,"okres Kysucké Nové Mesto","Dolný Vadičov",364,1025.187980,1,1271.430000,24.0192067020
+house,unrenovated,"okres Čadca",Skalité,364,1025.187980,2,764.720000,-25.4068507514
+house,"new construction","okres Turčianske Teplice","Horná Štubňa",340,2114.287185,1,2616.280000,23.7428868964
+house,"development project","okres Žilina",Lysica,3,2344.770000,1,1909.000000,-18.5847652435
+house,"under construction","okres Žilina",Bánová,51,1843.917727,1,3038.460000,64.7828401185
+house,"partially renovated","okres Martin",Vrícko,331,1370.453684,1,705.560000,-48.5163192133
+house,"partially renovated","okres Ružomberok","Liptovská Lúžna",331,1370.453684,1,1190.480000,-13.1324163743
+house,unrenovated,"okres Námestovo",Hruštín,364,1025.187980,2,572.650000,-44.1419514107
+house,"fully renovated","okres Liptovský Mikuláš","Liptovský Ján",198,1549.545062,1,NULL,NULL
+house,unrenovated,"okres Čadca",Raková,364,1025.187980,2,407.410000,-60.2599710543
+house,"new construction","okres Martin",Slovany,340,2114.287185,5,1504.450000,-28.8436305780
+house,unrenovated,"okres Turčianske Teplice",Rudno,364,1025.187980,2,796.500000,-22.3069314566
+house,unrenovated,"okres Bytča",Kotešová,364,1025.187980,1,2753.850000,168.6190292633
+house,"partially renovated","okres Žilina",NULL,331,1370.453684,1,933.330000,-31.8962755986
+house,"new construction","okres Dolný Kubín","Oravský Podzámok",340,2114.287185,1,NULL,NULL
+house,unrenovated,"okres Martin","Turčianske Kľačany",364,1025.187980,2,680.000000,-33.6707010552
+house,"new construction","okres Ružomberok",Lisková,340,2114.287185,1,1607.140000,-23.9866744971
+house,"fully renovated","okres Martin","Karvaša a Bláhovca",198,1549.545062,2,986.205000,-36.3551906824
+house,"new construction","okres Martin",Belá-Dulice,340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Čadca",NULL,331,1370.453684,1,440.000000,-67.8938438316
+house,unrenovated,"okres Liptovský Mikuláš",Gôtovany,364,1025.187980,1,1245.830000,21.5221036829
+house,unrenovated,"okres Žilina",Mojš,364,1025.187980,1,NULL,NULL
+house,"new construction","okres Liptovský Mikuláš",Lazisko,340,2114.287185,1,1782.740000,-15.6812748690
+house,unrenovated,"okres Martin",Stred,364,1025.187980,2,1316.665000,28.4315682281
+house,unrenovated,"okres Martin",Stráne,364,1025.187980,6,645.950000,-36.9920431568
+house,"new construction","okres Bytča","Veľká Bytča",340,2114.287185,1,3913.580000,85.1016279986
+house,"fully renovated","okres Žilina","Rajecké Teplice",198,1549.545062,2,1629.600000,5.1663510770
+house,"fully renovated","okres Čadca",Podvysoká,198,1549.545062,1,974.760000,-37.0937945656
+house,unrenovated,"okres Liptovský Mikuláš","Nižné Fabriky",364,1025.187980,1,713.210000,-30.4312951465
+house,"new construction","okres Žilina",Závodie,340,2114.287185,1,NULL,NULL
+house,unrenovated,"okres Martin",Jahodníky,364,1025.187980,1,1151.070000,12.2789207888
+house,"partially renovated","okres Čadca",Predmier,331,1370.453684,1,235.510000,-82.8151799109
+house,"partially renovated","okres Žilina","Považský Chlmec",331,1370.453684,2,1650.000000,20.3980856313
+house,unrenovated,"okres Liptovský Mikuláš",Bobrovec,364,1025.187980,2,1043.750000,1.8105967259
+house,"partially renovated","okres Čadca",Čierne,331,1370.453684,1,542.420000,-60.4204062981
+house,"partially renovated","okres Turčianske Teplice",Sklené,331,1370.453684,2,1543.280000,12.6108833898
+house,"fully renovated","okres Liptovský Mikuláš","Staré mesto",198,1549.545062,2,1344.790000,-13.2138823853
+house,"partially renovated","okres Martin","Dolné Vrútky",331,1370.453684,1,1163.330000,-15.1135121470
+house,unrenovated,"okres Liptovský Mikuláš",Okoličné,364,1025.187980,1,1139.240000,11.1249860733
+house,unrenovated,"okres Martin",Ľadoveň,364,1025.187980,2,1285.270000,25.3692030217
+house,"partially renovated","okres Námestovo",Klin,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Ružomberok","Liptovská Osada",364,1025.187980,1,1222.220000,19.2191114063
+house,"new construction","okres Žilina","Považský Chlmec",340,2114.287185,1,2457.140000,16.2160002403
+house,"partially renovated","okres Liptovský Mikuláš",Dúbrava,331,1370.453684,2,1126.905000,-17.7713910980
+house,"partially renovated","okres Žilina",Bitarová,331,1370.453684,1,1040.700000,-24.0616438082
+house,"new construction","okres Námestovo",Zubrohlava,340,2114.287185,3,1601.930000,-24.2330932446
+house,"new construction","okres Námestovo",Stred,340,2114.287185,1,NULL,NULL
+house,"fully renovated","okres Ružomberok",NULL,198,1549.545062,1,NULL,NULL
+house,"fully renovated","okres Čadca",Klokočov,198,1549.545062,2,1869.835000,20.6699337667
+house,"under construction","okres Liptovský Mikuláš",Ľubeľa,51,1843.917727,2,1610.020000,-12.6848244678
+house,unrenovated,"okres Žilina",Podhorie,364,1025.187980,1,1189.290000,16.0070175618
+house,"partially renovated","okres Čadca",Milošová,331,1370.453684,2,1009.090000,-26.3681792547
+house,"fully renovated","okres Liptovský Mikuláš",Bodice,198,1549.545062,1,3500.000000,125.8727471586
+house,unrenovated,"okres Kysucké Nové Mesto",Rudina,364,1025.187980,1,1998.670000,94.9564410617
+house,"under construction","okres Turčianske Teplice",Sklené,51,1843.917727,1,1340.000000,-27.3286448534
+house,unrenovated,"okres Dolný Kubín",Malatiná,364,1025.187980,1,790.910000,-22.8521973112
+house,"new construction","okres Turčianske Teplice",Diviaky,340,2114.287185,1,2125.000000,0.5066868435
+house,unrenovated,"okres Ružomberok",Likavka,364,1025.187980,2,1133.890000,10.6031305595
+house,"new construction","okres Čadca",Milošová,340,2114.287185,1,1533.330000,-27.4776855822
+house,"partially renovated","okres Ružomberok",Ludrová,331,1370.453684,1,916.670000,-33.1119314208
+house,"fully renovated","okres Čadca",Čierne,198,1549.545062,1,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš","Vrbica - Nábrežie",364,1025.187980,3,1767.785000,72.4352054928
+house,unrenovated,"okres Bytča","Hlboké nad Váhom",364,1025.187980,2,NULL,NULL
+house,"fully renovated","okres Ružomberok",Ludrová,198,1549.545062,2,208.700000,-86.5315307623
+house,"new construction","okres Žilina","Dlhé Pole",340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Liptovský Mikuláš",Podtureň,331,1370.453684,2,NULL,NULL
+house,"partially renovated","okres Tvrdošín",Zábiedovo,331,1370.453684,1,1351.560000,-1.3786444752
+house,"fully renovated","okres Žilina",Gbeľany,198,1549.545062,1,NULL,NULL
+house,unrenovated,"okres Martin","Kláštor pod Znievom",364,1025.187980,3,1544.573333,50.6624505098
+house,"partially renovated","okres Martin",Valča,331,1370.453684,1,1123.080000,-18.0504957510
+house,"fully renovated","okres Žilina","Malá Praha",198,1549.545062,3,1647.483333,6.3204532351
+house,unrenovated,"okres Námestovo","Oravské Veselé",364,1025.187980,1,68.090000,-93.3582912277
+house,"new construction","okres Čadca",Klokočov,340,2114.287185,1,851.430000,-59.7296901745
+house,"fully renovated","okres Žilina",Rajec,198,1549.545062,1,NULL,NULL
+house,"new construction","okres Námestovo",Vavrečka,340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Martin","Kolónia Hviezda",331,1370.453684,2,716.605000,-47.7103817249
+house,"fully renovated","okres Martin",Dražkovce,198,1549.545062,1,0.000000,-100.0000000000
+house,"partially renovated","okres Ružomberok",Martinček,331,1370.453684,1,306.250000,-77.6533856215
+house,"partially renovated","okres Žilina",Strečno,331,1370.453684,1,NULL,NULL
+house,"partially renovated","okres Ružomberok",Ivachnová,331,1370.453684,3,941.745000,-31.2822453619
+house,unrenovated,"okres Dolný Kubín",Pribiš,364,1025.187980,1,165.040000,-83.9014889738
+house,"fully renovated","okres Žilina","Lietavská Lúčka",198,1549.545062,1,1438.890000,-7.1411322403
+house,unrenovated,"okres Liptovský Mikuláš",Demänová,364,1025.187980,1,NULL,NULL
+house,"partially renovated","okres Turčianske Teplice",Jasenovo,331,1370.453684,1,NULL,NULL
+house,"fully renovated","okres Turčianske Teplice",Turček,198,1549.545062,1,1250.000000,-19.3311617291
+house,"partially renovated","okres Čadca",Rieka,331,1370.453684,2,861.110000,-37.1660633224
+house,"fully renovated","okres Žilina","Staré mesto",198,1549.545062,3,2025.545000,30.7186896124
+house,"new construction","okres Čadca",Kyzkovci,340,2114.287185,1,2050.430000,-3.0202701626
+house,unrenovated,"okres Martin",Žabokreky,364,1025.187980,1,1619.050000,57.9271344949
+house,"partially renovated","okres Kysucké Nové Mesto",Nesluša,331,1370.453684,2,1111.290000,-18.9107947992
+house,unrenovated,"okres Námestovo",Lomná,364,1025.187980,1,484.380000,-52.7520796723
+house,"partially renovated","okres Bytča",Kotešová,331,1370.453684,3,933.330000,-31.8962755986
+house,"new construction","okres Martin","Košťany nad Turcom",340,2114.287185,5,2190.774000,3.6176171119
+house,"partially renovated","okres Čadca",Radôstka,331,1370.453684,1,1056.180000,-22.9320908593
+house,"new construction","okres Žilina",Poluvsie,340,2114.287185,2,1977.830000,-6.4540515578
+house,"under construction","okres Žilina",Brezany,51,1843.917727,1,2329.130000,26.3142040393
+house,"partially renovated","okres Liptovský Mikuláš",Bodice,331,1370.453684,1,2080.000000,51.7745564322
+house,"new construction","okres Žilina",Varín,340,2114.287185,4,1341.300000,-36.5601792644
+house,"partially renovated","okres Martin",Stred,331,1370.453684,2,1587.715000,15.8532403201
+house,"partially renovated","okres Žilina","Dolná Tižina",331,1370.453684,1,1088.240000,-20.5927195713
+house,"new construction","okres Dolný Kubín","Veľký Bysterec",340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Liptovský Mikuláš",Palúdzka,331,1370.453684,1,1900.000000,38.6402198179
+house,"fully renovated","okres Turčianske Teplice",Dubové,198,1549.545062,1,784.850000,-49.3496498264
+house,unrenovated,"okres Čadca",Čierne,364,1025.187980,1,1062.500000,3.6395296012
+house,"new construction","okres Martin",Turany,340,2114.287185,1,620.000000,-70.6756960739
+house,"new construction","okres Turčianske Teplice",Sklené,340,2114.287185,2,3129.445000,48.0141875807
+house,"partially renovated","okres Námestovo",Bobrov,331,1370.453684,1,668.270000,-51.2373159486
+house,"new construction","okres Čadca",Čierne,340,2114.287185,1,1275.000000,-39.6959878939
+house,"fully renovated","okres Čadca",Predmier,198,1549.545062,1,1545.450000,-0.2642751153
+house,unrenovated,"okres Turčianske Teplice",Brieštie,364,1025.187980,1,329.410000,-67.8683318156
+house,unrenovated,"okres Žilina","Lietavská Lúčka",364,1025.187980,2,1075.000000,4.8588181847
+house,"partially renovated","okres Liptovský Mikuláš",Galovany,331,1370.453684,1,2081.820000,51.9073591691
+house,unrenovated,"okres Žilina","Lietavská Svinná-Babkov",364,1025.187980,2,1428.915000,39.3807797083
+house,"new construction","okres Žilina","Kamenná Poruba",340,2114.287185,1,2029.130000,-4.0277018942
+house,unrenovated,"okres Liptovský Mikuláš",Jamník,364,1025.187980,1,774.000000,-24.5016509070
+house,unrenovated,"okres Bytča",Maršová-Rašov,364,1025.187980,1,NULL,NULL
+house,"partially renovated","okres Čadca",Hlinené,331,1370.453684,2,1076.040000,-21.4829357196
+house,unrenovated,"okres Čadca","Nová Bystrica",364,1025.187980,1,627.860000,-38.7565975949
+house,"fully renovated","okres Martin",Podháj,198,1549.545062,1,1191.180000,-23.1271145827
+house,"partially renovated","okres Bytča","Veľké Rovné",331,1370.453684,2,818.735000,-40.2581050671
+house,unrenovated,"okres Martin",Turany,364,1025.187980,2,917.455000,-10.5086074068
+house,"new construction","okres Martin",Sučany,340,2114.287185,2,2228.215000,5.3884739882
+house,unrenovated,"okres Čadca","Dlhá nad Kysucou",364,1025.187980,3,512.280000,-50.0306275538
+house,"partially renovated","okres Liptovský Mikuláš","Nižná Boca",331,1370.453684,2,540.910000,-60.5305887886
+house,"partially renovated","okres Ružomberok","Liptovská Osada",331,1370.453684,1,1599.920000,16.7438213111
+house,unrenovated,"okres Martin",Valča,364,1025.187980,3,727.810000,-29.0071660809
+house,unrenovated,"okres Čadca",Milošová,364,1025.187980,1,1223.080000,19.3029984608
+house,"partially renovated","okres Čadca","U Hluška",331,1370.453684,1,2191.670000,59.9229529307
+house,"partially renovated","okres Ružomberok",Bešeňová,331,1370.453684,1,1034.140000,-24.5403174092
+house,"new construction","okres Bytča",Kotešová,340,2114.287185,2,1687.050000,-20.2071500991
+house,unrenovated,"okres Žilina",Budatín,364,1025.187980,1,2102.800000,105.1136026780
+house,"partially renovated","okres Liptovský Mikuláš",Východná,331,1370.453684,2,638.890000,-53.3811315582
+house,"partially renovated","okres Námestovo",Stred,331,1370.453684,1,1444.440000,5.3986732178
+house,"new construction","okres Liptovský Mikuláš","Partizánska Ľupča",340,2114.287185,1,3180.560000,50.4317872503
+house,"fully renovated","okres Ružomberok","Liptovská Lúžna",198,1549.545062,1,214.400000,-86.1636808598
+house,"fully renovated","okres Kysucké Nové Mesto",Radoľa,198,1549.545062,1,2375.000000,53.2707927148
+house,"new construction","okres Liptovský Mikuláš","Liptovský Trnovec",340,2114.287185,1,4990.570000,136.0403087814
+house,"partially renovated","okres Liptovský Mikuláš",Huty,331,1370.453684,1,NULL,NULL
+house,"fully renovated","okres Ružomberok",Lisková,198,1549.545062,1,1620.000000,4.5468143991
+house,"new construction","okres Liptovský Mikuláš",Vavrišovo,340,2114.287185,1,1467.920000,-30.5713996464
+house,unrenovated,"okres Čadca","Zborov nad Bystricou",364,1025.187980,2,656.000000,-36.0117351356
+house,unrenovated,"okres Bytča",Kolárovice,364,1025.187980,2,1421.050000,38.6136033316
+house,"new construction","okres Čadca",Horelica,340,2114.287185,1,2162.500000,2.2803342584
+house,unrenovated,"okres Martin",Blatnica,364,1025.187980,1,NULL,NULL
+house,unrenovated,"okres Ružomberok",Ľubochňa,364,1025.187980,1,1598.210000,55.8943365684
+house,"fully renovated","okres Martin","Turčianske Kľačany",198,1549.545062,2,1358.380000,-12.3368507756
+house,"partially renovated","okres Turčianske Teplice",Brieštie,331,1370.453684,1,1047.060000,-23.5975639145
+house,"partially renovated","okres Ružomberok",Hubová,331,1370.453684,2,989.585000,-27.7914305640
+house,"partially renovated","okres Martin",Jahodníky,331,1370.453684,2,1500.000000,9.4528051194
+house,"new construction","okres Čadca",Skalité,340,2114.287185,1,2213.570000,4.6958055511
+house,"fully renovated","okres Liptovský Mikuláš",Ľubeľa,198,1549.545062,1,1826.090000,17.8468471025
+house,"fully renovated","okres Ružomberok",Ľubochňa,198,1549.545062,1,NULL,NULL
+house,"new construction","okres Martin",Príbovce,340,2114.287185,2,0.010000,-99.9995270274
+house,unrenovated,"okres Kysucké Nové Mesto",Oškerda,364,1025.187980,1,998.000000,-2.6519994899
+house,"fully renovated","okres Liptovský Mikuláš",Dovalovo,198,1549.545062,1,NULL,NULL
+house,"partially renovated","okres Čadca",Stred,331,1370.453684,4,864.507500,-36.9181527188
+house,"under construction","okres Bytča","Bytča - sever",51,1843.917727,1,1612.470000,-12.5519551990
+house,unrenovated,"okres Ružomberok",Polík,364,1025.187980,1,444.440000,-56.6479505544
+house,"fully renovated","okres Ružomberok","Liptovské Sliače",198,1549.545062,1,733.330000,-52.6744966646
+house,"partially renovated","okres Liptovský Mikuláš",Jakubovany,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš",Východná,364,1025.187980,1,370.160000,-63.8934510332
+house,"fully renovated","okres Dolný Kubín","Malý Bysterec",198,1549.545062,1,2160.000000,39.3957525322
+house,"new construction","okres Martin",Rakovo,340,2114.287185,1,2062.500000,-2.4493921813
+house,unrenovated,"okres Bytča",Predmier,364,1025.187980,2,NULL,NULL
+house,"partially renovated","okres Liptovský Mikuláš",Okoličné,331,1370.453684,2,2204.950000,60.8919750987
+house,unrenovated,"okres Žilina",Konská,364,1025.187980,1,NULL,NULL
+house,"partially renovated","okres Čadca","Zborov nad Bystricou",331,1370.453684,1,532.920000,-61.1136073972
+house,"under construction","okres Dolný Kubín",Párnica,51,1843.917727,1,1493.530000,-19.0023514536
+house,unrenovated,"okres Liptovský Mikuláš",Trstené,364,1025.187980,1,2203.880000,114.9732578800
+house,unrenovated,"okres Čadca",Stred,364,1025.187980,2,1322.500000,29.0007321389
+house,unrenovated,"okres Dolný Kubín","Sedliacka Dubová",364,1025.187980,1,916.670000,-10.5851787299
+house,"new construction","okres Žilina",Konská,340,2114.287185,2,1688.370000,-20.1447177101
+house,unrenovated,"okres Turčianske Teplice","Slovenské Pravno",364,1025.187980,1,890.000000,-13.1866528517
+house,"under construction","okres Turčianske Teplice","Turčiansky Michal",51,1843.917727,1,2343.750000,27.1070810634
+house,unrenovated,"okres Martin",Sučany,364,1025.187980,2,888.890000,-13.2949256779
+house,"partially renovated","okres Liptovský Mikuláš",Prekážka,331,1370.453684,2,NULL,NULL
+house,unrenovated,"okres Žilina",Brodno,364,1025.187980,1,NULL,NULL
+house,"new construction","okres Bytča","Bytča - sever",340,2114.287185,1,1201.920000,-43.1524719760
+house,unrenovated,"okres Liptovský Mikuláš","Svätý Kríž",364,1025.187980,2,1795.220000,75.1113000759
+house,unrenovated,"okres Martin","Košťany nad Turcom",364,1025.187980,1,712.500000,-30.5005507380
+house,"new construction","okres Čadca",Raková,340,2114.287185,2,2726.190000,28.9413292263
+house,"new construction","okres Žilina",Kľače,340,2114.287185,2,NULL,NULL
+house,"new construction","okres Liptovský Mikuláš","Liptovský Ondrej",340,2114.287185,1,1625.000000,-23.1419453550
+house,"new construction","okres Žilina",Ovčiarsko,340,2114.287185,2,1634.680000,-22.6841078356
+house,"partially renovated","okres Žilina",Podhorie,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Ružomberok",Ludrová,364,1025.187980,3,896.193333,-12.5825360340
+house,"fully renovated","okres Žilina",Višňové,198,1549.545062,2,2918.415000,88.3401181140
+house,"partially renovated","okres Žilina",Bytčica,331,1370.453684,3,1570.163333,14.5725208616
+house,unrenovated,"okres Ružomberok","Valaská Dubová",364,1025.187980,1,630.250000,-38.5234696177
+house,"under construction","okres Žilina","Teplička nad Váhom",51,1843.917727,1,2584.270000,40.1510469887
+house,"partially renovated","okres Námestovo",Zubrohlava,331,1370.453684,1,194.500000,-85.8076196029
+house,"partially renovated","okres Liptovský Mikuláš",Bobrovec,331,1370.453684,2,914.640000,-33.2600575504
+house,"new construction","okres Liptovský Mikuláš",Jamník,340,2114.287185,1,2164.180000,2.3597936626
+house,"fully renovated","okres Čadca",Husárikovci,198,1549.545062,2,3155.560000,103.6442874354
+house,"partially renovated","okres Liptovský Mikuláš","Vrbica - Nábrežie",331,1370.453684,1,735.290000,-46.3469646158
+house,"partially renovated","okres Čadca",Podvysoká,331,1370.453684,1,833.330000,-39.1931292732
+house,unrenovated,"okres Žilina",Rosinky,364,1025.187980,1,2487.500000,142.6384281252
+house,unrenovated,"okres Žilina","Teplička nad Váhom",364,1025.187980,2,1576.545000,53.7810655954
+house,"partially renovated","okres Žilina",Stránske,331,1370.453684,1,2415.790000,76.2766613862
+house,"fully renovated","okres Liptovský Mikuláš",Východná,198,1549.545062,1,1660.710000,7.1740371239
+house,"fully renovated","okres Čadca",Podzávoz,198,1549.545062,2,2379.165000,53.5395812839
+house,"partially renovated","okres Dolný Kubín",Zázrivá,331,1370.453684,1,470.200000,-65.6901940219
+house,unrenovated,"okres Liptovský Mikuláš",Vlachy,364,1025.187980,3,596.540000,-41.8116470698
+house,"new construction","okres Liptovský Mikuláš",Dovalovo,340,2114.287185,1,NULL,NULL
+house,"under construction","okres Žilina",Mojš,51,1843.917727,1,1333.330000,-27.6903746585
+house,"new construction","okres Čadca",Zákopčie,340,2114.287185,1,NULL,NULL
+house,"fully renovated","okres Dolný Kubín",Párnica,198,1549.545062,1,2193.330000,41.5467064358
+house,"new construction","okres Liptovský Mikuláš",Andice,340,2114.287185,1,2430.890000,14.9744470499
+house,unrenovated,"okres Ružomberok",Hrboltová,364,1025.187980,1,1231.340000,20.1087043568
+house,"partially renovated","okres Liptovský Mikuláš","Demänovská Dolina",331,1370.453684,1,1936.360000,41.2933558140
+house,"fully renovated","okres Martin",Priekopa,198,1549.545062,1,NULL,NULL
+house,"fully renovated","okres Liptovský Mikuláš",Vavrišovo,198,1549.545062,1,NULL,NULL
+house,unrenovated,"okres Martin",Záborie,364,1025.187980,1,276.670000,-73.0127542073
+house,"fully renovated","okres Liptovský Mikuláš",Pribylina,198,1549.545062,1,1350.000000,-12.8776546674
+house,"new construction","okres Turčianske Teplice",Stred,340,2114.287185,1,2616.280000,23.7428868964
+house,unrenovated,"okres Žilina",Divinka,364,1025.187980,1,660.000000,-35.6215627889
+house,"under construction","okres Čadca","Vysoká nad Kysucou",51,1843.917727,2,NULL,NULL
+house,"under construction","okres Čadca",Oščadnica,51,1843.917727,1,1449.440000,-21.3934559674
+house,unrenovated,"okres Liptovský Mikuláš",Dovalovo,364,1025.187980,2,NULL,NULL
+house,"under construction","okres Žilina","Dolný Hričov",51,1843.917727,1,1947.920000,5.6402881472
+house,"partially renovated","okres Turčianske Teplice",Jazernica,331,1370.453684,1,350.000000,-74.4610121388
+house,unrenovated,"okres Kysucké Nové Mesto",Snežnica,364,1025.187980,1,440.000000,-57.0810418593
+house,"partially renovated","okres Žilina",Krasňany,331,1370.453684,1,1355.360000,-1.1013640356
+house,"under construction","okres Čadca",Čierne,51,1843.917727,1,2332.220000,26.4817820150
+house,"partially renovated","okres Liptovský Mikuláš","Liptovský Ján",331,1370.453684,1,1122.070000,-18.1241939731
+house,"partially renovated","okres Martin",Dražkovce,331,1370.453684,1,399.000000,-70.8855538382
+house,unrenovated,"okres Žilina",Lietava,364,1025.187980,1,348.190000,-66.0364726477
+house,unrenovated,"okres Martin",Mexiko,364,1025.187980,1,977.800000,-4.6223698409
+house,"new construction","okres Martin",Záturčie,340,2114.287185,1,680.580000,-67.8104277967
+house,"partially renovated","okres Žilina","Mojšová Lúčka",331,1370.453684,1,1738.460000,26.8528823919
+house,"fully renovated","okres Čadca",NULL,198,1549.545062,1,1379.310000,-10.9861317476
+house,"new construction","okres Ružomberok","Liptovské Revúce",340,2114.287185,1,213.310000,-89.9110205315
+house,unrenovated,"okres Čadca",Oščadnica,364,1025.187980,2,680.710000,-33.6014454637
+house,"fully renovated","okres Kysucké Nové Mesto","Kysucký Lieskovec",198,1549.545062,1,1499.930000,-3.2019115298
+house,"new construction","okres Žilina",Krasňany,340,2114.287185,1,2782.470000,31.6032192665
+house,unrenovated,"okres Bytča",Hvozdnica,364,1025.187980,1,141.210000,-86.2259407294
+house,"new construction","okres Čadca",NULL,340,2114.287185,2,2855.950000,35.0786222544
+house,unrenovated,"okres Ružomberok",NULL,364,1025.187980,1,NULL,NULL
+house,"new construction","okres Žilina",Kunerad,340,2114.287185,1,NULL,NULL
+house,"partially renovated","okres Ružomberok",Polík,331,1370.453684,1,NULL,NULL
+house,"under construction","okres Čadca",NULL,51,1843.917727,1,NULL,NULL
+house,"partially renovated","okres Žilina",Mojš,331,1370.453684,1,235.000000,-82.8523938646
+house,"fully renovated","okres Bytča",Súľov-Hradná,198,1549.545062,1,0.000000,-100.0000000000
+house,"fully renovated","okres Žilina",Konská,198,1549.545062,1,1296.300000,-16.3431879595
+house,unrenovated,"okres Tvrdošín",Podbiel,364,1025.187980,1,1173.910000,14.5068048886
+house,unrenovated,"okres Ružomberok",Rybárpole,364,1025.187980,1,835.000000,-18.5515226193
+house,"partially renovated","okres Turčianske Teplice",Turček,331,1370.453684,3,855.646667,-37.5647147372
+house,"partially renovated","okres Ružomberok",Likavka,331,1370.453684,1,1142.860000,-16.6071780942
+house,unrenovated,"okres Čadca",Makov,364,1025.187980,1,340.380000,-66.7982841547
+house,"partially renovated","okres Ružomberok","Nová Hrboltová",331,1370.453684,1,100.350000,-92.6776073375
+house,"new construction","okres Dolný Kubín",Zázrivá,340,2114.287185,1,4191.180000,98.2313485952
+house,unrenovated,"okres Turčianske Teplice",Blažovce,364,1025.187980,1,1650.000000,60.9460930277
+house,"under construction","okres Ružomberok",Baničné,51,1843.917727,1,1264.710000,-31.4117988302
+house,"partially renovated","okres Žilina",Kunerad,331,1370.453684,1,1562.090000,13.9834215660
+house,"development project","okres Liptovský Mikuláš","Liptovské Kľačany",3,2344.770000,1,2893.910000,23.4197810446
+house,"new construction","okres Dolný Kubín",Jasenová,340,2114.287185,1,2824.990000,33.6142989487
+house,"fully renovated","okres Liptovský Mikuláš",Važec,198,1549.545062,2,930.345000,-39.9601197271
+house,unrenovated,"okres Žilina","Veľká Čierna",364,1025.187980,1,1327.270000,29.4660126624
+house,"under construction","okres Žilina",Višňové,51,1843.917727,1,1880.160000,1.9655038004
+house,"partially renovated","okres Námestovo","Oravská Lesná",331,1370.453684,1,986.670000,-28.0041338486
+house,"partially renovated","okres Turčianske Teplice",Mošovce,331,1370.453684,2,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš",Podtureň,364,1025.187980,1,1662.500000,62.1653816113
+house,unrenovated,"okres Martin",Ďanová,364,1025.187980,1,2153.850000,110.0931772532
+house,"fully renovated","okres Bytča","Veľké Rovné",198,1549.545062,1,1037.040000,-33.0745503676
+house,"partially renovated","okres Námestovo",NULL,331,1370.453684,1,503.690000,-63.2464777263
+house,"fully renovated","okres Turčianske Teplice","Slovenské Pravno",198,1549.545062,1,211.170000,-86.3721291379
+house,"new construction","okres Turčianske Teplice",Turček,340,2114.287185,1,1536.000000,-27.3514018863
+house,"new construction","okres Liptovský Mikuláš",Celiny,340,2114.287185,1,2529.680000,19.6469437996
+house,unrenovated,"okres Dolný Kubín",Istebné,364,1025.187980,1,1500.000000,46.3146300252
+house,"partially renovated","okres Tvrdošín",NULL,331,1370.453684,1,691.630000,-49.5327709302
+house,"under construction","okres Čadca",Staškov,51,1843.917727,1,1035.980000,-43.8163652949
+house,"partially renovated","okres Tvrdošín",Podbiel,331,1370.453684,1,1295.000000,-5.5057449136
+house,unrenovated,"okres Žilina",Zbyňov,364,1025.187980,1,1125.000000,9.7359725189
+house,"new construction","okres Žilina",Divinka,340,2114.287185,1,1962.770000,-7.1663483596
+house,"partially renovated","okres Žilina",Nededza,331,1370.453684,1,933.330000,-31.8962755986
+house,"under construction","okres Liptovský Mikuláš","Liptovský Peter",51,1843.917727,1,NULL,NULL
+house,unrenovated,"okres Ružomberok","Liptovský Michal",364,1025.187980,1,1370.000000,33.6340287564
+house,"new construction","okres Kysucké Nové Mesto",Suľkov,340,2114.287185,2,NULL,NULL
+house,"under construction","okres Turčianske Teplice",Diviaky,51,1843.917727,1,1617.980000,-12.2531349253
+house,"partially renovated","okres Martin","Turčianske Jaseno",331,1370.453684,1,1665.000000,21.4926136825
+house,"new construction","okres Martin",Ratkovo,340,2114.287185,1,393.690000,-81.3795399796
+house,"under construction","okres Žilina",Svederník,51,1843.917727,1,2739.130000,48.5494694200
+house,"fully renovated","okres Martin",Blatnica,198,1549.545062,1,1073.940000,-30.6932062619
+house,"under construction","okres Ružomberok","Liptovské Revúce",51,1843.917727,1,117.190000,-93.6445103659
+house,unrenovated,"okres Martin",Trebostovo,364,1025.187980,1,187.500000,-81.7106712468
+house,"partially renovated","okres Ružomberok",Hrboltová,331,1370.453684,1,1125.000000,-17.9103961605
+house,"new construction","okres Žilina",Zbyňov,340,2114.287185,1,3490.000000,65.0674527453
+house,"new construction","okres Čadca",Rieka,340,2114.287185,1,1250.000000,-40.8784195038
+house,"partially renovated","okres Martin",Turany,331,1370.453684,1,1249.580000,-8.8199758526
+house,"under construction","okres Liptovský Mikuláš",Celiny,51,1843.917727,1,2516.160000,36.4572813177
+house,unrenovated,"okres Liptovský Mikuláš",Bodice,364,1025.187980,1,353.920000,-65.4775507610
+house,unrenovated,"okres Dolný Kubín","Dlhá nad Oravou",364,1025.187980,1,479.600000,-53.2183356266
+house,"under construction","okres Ružomberok",Roveň,51,1843.917727,1,1173.680000,-36.3485700683
+house,"new construction","okres Liptovský Mikuláš",NULL,340,2114.287185,1,1183.330000,-44.0317281212
+house,"under construction","okres Liptovský Mikuláš","Veterná Poruba",51,1843.917727,1,1595.180000,-13.4896326098
+house,"partially renovated","okres Martin","Horné Vrútky",331,1370.453684,1,1162.790000,-15.1529151568
+house,unrenovated,"okres Dolný Kubín",Mokraď,364,1025.187980,1,1584.150000,54.5228807696
+house,unrenovated,"okres Martin",Krpeľany,364,1025.187980,1,687.500000,-32.9391279051
+house,"new construction","okres Liptovský Mikuláš",Východná,340,2114.287185,1,2372.880000,12.2307327422
+house,"fully renovated","okres Ružomberok","Liptovské Revúce",198,1549.545062,1,2065.700000,33.3100953730
+house,"partially renovated","okres Čadca",Horelica,331,1370.453684,1,405.400000,-70.4185552031
+house,"partially renovated","okres Ružomberok","Liptovské Sliače",331,1370.453684,1,1778.570000,29.7796504008
+house,"fully renovated","okres Žilina",Belá,198,1549.545062,1,888.160000,-42.6825316810
+house,"partially renovated","okres Žilina",Trnové,331,1370.453684,1,NULL,NULL
+house,unrenovated,"okres Liptovský Mikuláš",Jakubovany,364,1025.187980,1,1483.330000,44.6885867702
+house,"new construction","okres Martin",Jahodníky,340,2114.287185,1,2616.280000,23.7428868964
+house,"partially renovated","okres Ružomberok",Kalameny,331,1370.453684,1,784.210000,-42.7773437982
+house,"partially renovated","okres Žilina",Lietava,331,1370.453684,1,271.900000,-80.1598548587
+house,unrenovated,"okres Liptovský Mikuláš",Ploštín,364,1025.187980,1,1236.000000,20.5632551408
+house,"fully renovated","okres Žilina",Šuja,198,1549.545062,1,540.940000,-65.0903989006
+house,unrenovated,"okres Čadca",Turkov,364,1025.187980,1,561.880000,-45.1924904543
+house,"fully renovated","okres Tvrdošín",Nižná,198,1549.545062,1,NULL,NULL
+house,"fully renovated","okres Turčianske Teplice","Malý Čepčín",198,1549.545062,1,1586.670000,2.3958604955
+house,"new construction","okres Ružomberok",Švošov,340,2114.287185,1,NULL,NULL
+house,"new construction","okres Námestovo","Oravská Polhora",340,2114.287185,1,1078.220000,-49.0031435819
+house,"new construction","okres Liptovský Mikuláš",Bukovina,340,2114.287185,1,3062.500000,44.8478722156
+house,"fully renovated","okres Turčianske Teplice","Dolná Štubňa",198,1549.545062,1,1400.000000,-9.6509011366
+house,unrenovated,"okres Čadca","Vysoká nad Kysucou",364,1025.187980,1,NULL,NULL
+house,"new construction","okres Tvrdošín",Habovka,340,2114.287185,1,2361.490000,11.6920169007
+house,"fully renovated","okres Žilina",Budatín,198,1549.545062,1,NULL,NULL
+house,"partially renovated","okres Žilina","Rajecké Teplice",331,1370.453684,1,1317.570000,-3.8588450392
+house,unrenovated,"okres Liptovský Mikuláš","Malé Borové",364,1025.187980,1,260.000000,-74.6387974623
+house,"new construction","okres Ružomberok",Gejdák,340,2114.287185,1,NULL,NULL
+house,unrenovated,"okres Martin",Nolčovo,364,1025.187980,1,1025.000000,-0.0183361494
+house,"partially renovated","okres Kysucké Nové Mesto",Suľkov,331,1370.453684,1,1146.450000,-16.3452210473
+house,unrenovated,"okres Žilina",Strážov,364,1025.187980,1,1733.320000,69.0733830102
+house,unrenovated,"okres Žilina","Horný Hričov",364,1025.187980,1,2471.430000,141.0709107221
+house,"new construction","okres Tvrdošín",Nižná,340,2114.287185,1,888.890000,-57.9579346502
+house,"under construction","okres Liptovský Mikuláš",Vlachy,51,1843.917727,1,NULL,NULL
+"holiday apartment","new construction","okres Dolný Kubín","Kubínska hoľa",93,4666.350909,1,NULL,NULL
+land,n/a,"okres Martin",Podhradie,923,102.133312,3,47.650000,-53.3452905160
+land,n/a,"okres Námestovo",Rabča,923,102.133312,1,214.290000,109.8140124938
+land,n/a,"okres Martin",Sklabiňa,923,102.133312,3,120.000000,17.4934971266
+land,n/a,"okres Žilina",Višňové,923,102.133312,14,168.833333,65.3068227142
+land,n/a,"okres Žilina",Hôrky,923,102.133312,6,217.708333,113.1609449814
+land,n/a,"okres Žilina",Bôrik,923,102.133312,5,460.262500,350.6487560102
+land,n/a,"okres Žilina",Trnové,923,102.133312,14,212.972857,108.5243813497
+land,n/a,"okres Žilina","Lietavská Svinná-Babkov",923,102.133312,7,129.257143,26.5572813305
+land,n/a,"okres Liptovský Mikuláš",Lazisko,923,102.133312,3,115.335000,12.9259374258
+land,n/a,"okres Liptovský Mikuláš",Stošice,923,102.133312,3,119.300000,16.8081183933
+land,n/a,"okres Žilina",Terchová,923,102.133312,9,152.535000,49.3489215350
+land,n/a,"okres Kysucké Nové Mesto","Horný Vadičov",923,102.133312,5,50.502000,-50.5528617343
+land,n/a,"okres Námestovo",Zákamenné,923,102.133312,2,104.265000,2.0871623159
+land,n/a,"okres Bytča",Súľov-Hradná,923,102.133312,4,99.036667,-3.0319637534
+land,n/a,"okres Ružomberok",Štiavnička,923,102.133312,2,125.450000,22.8296601211
+land,n/a,"okres Turčianske Teplice","Turčiansky Michal",923,102.133312,4,61.252500,-40.0269130605
+land,n/a,"okres Žilina",Budatín,923,102.133312,14,266.945833,161.3699955211
+land,n/a,"okres Liptovský Mikuláš","Liptovské Kľačany",923,102.133312,3,101.330000,-0.7865328014
+land,n/a,"okres Čadca",Staškov,923,102.133312,11,42.250909,-58.6316078734
+land,n/a,"okres Čadca",Olešná,923,102.133312,4,33.666667,-67.0365463131
+land,n/a,"okres Čadca",Raková,923,102.133312,17,61.255882,-40.0236017021
+land,n/a,"okres Liptovský Mikuláš","Liptovská Anna",923,102.133312,8,97.250000,-4.7813117037
+land,n/a,"okres Bytča",Maršová-Rašov,923,102.133312,2,129.960000,27.2454573881
+land,n/a,"okres Žilina",Zbyňov,923,102.133312,6,90.026667,-11.8537671627
+land,n/a,"okres Námestovo","Oravská Jasenica",923,102.133312,6,87.323333,-14.5006352090
+land,n/a,"okres Čadca",Predmier,923,102.133312,6,55.390000,-45.7669599513
+land,n/a,"okres Ružomberok","Liptovské Sliače",923,102.133312,9,91.540000,-10.3720439419
+land,n/a,"okres Žilina",Krasňany,923,102.133312,7,156.844286,53.5681972205
+land,n/a,"okres Martin",Laskár,923,102.133312,2,68.000000,-33.4203516283
+land,n/a,"okres Liptovský Mikuláš","Liptovské Beharovce",923,102.133312,4,45.056667,-55.8844552109
+land,n/a,"okres Námestovo",Brehy,923,102.133312,1,319.410000,212.7383159767
+land,n/a,"okres Bytča",Hvozdnica,923,102.133312,1,73.000000,-28.5247892480
+land,n/a,"okres Kysucké Nové Mesto",Suľkov,923,102.133312,5,98.894000,-3.1716507930
+land,n/a,"okres Martin",Blatnica,923,102.133312,5,113.220000,10.8551145389
+land,n/a,"okres Čadca",Oščadnica,923,102.133312,20,68.252500,-33.1731257281
+land,n/a,"okres Martin",Sučany,923,102.133312,9,119.552500,17.0553442935
+land,n/a,"okres Žilina",Ovčiarsko,923,102.133312,21,120.495500,17.9786473585
+land,n/a,"okres Žilina",Bitarová,923,102.133312,15,145.458000,42.4197425420
+land,n/a,"okres Liptovský Mikuláš",Prosiek,923,102.133312,3,18.973333,-81.4229729474
+land,n/a,"okres Žilina",Varín,923,102.133312,5,106.742000,4.5124239190
+land,n/a,"okres Liptovský Mikuláš","Pavčina Lehota",923,102.133312,3,113.205000,10.8404278518
+land,n/a,"okres Liptovský Mikuláš","Svätý Kríž",923,102.133312,6,67.040000,-34.3602996053
+land,n/a,"okres Žilina",Brodno,923,102.133312,2,55.010000,-46.1390226922
+land,n/a,"okres Čadca",Svrčinovec,923,102.133312,4,62.742500,-38.5680354711
+land,n/a,"okres Turčianske Teplice","Horná Štubňa",923,102.133312,4,32.215000,-68.4578915839
+land,n/a,"okres Martin",Turany,923,102.133312,9,74.798000,-26.7643450161
+land,n/a,"okres Žilina",Svederník,923,102.133312,7,107.142500,4.9045584657
+land,n/a,"okres Martin",Valča,923,102.133312,6,96.355000,-5.6576173697
+land,n/a,"okres Žilina","Dolná Tižina",923,102.133312,6,115.973333,13.5509372300
+land,n/a,"okres Martin",Priekopa,923,102.133312,6,103.960000,1.7885330107
+land,n/a,"okres Dolný Kubín",Veličná,923,102.133312,9,127.804286,25.1347709159
+land,n/a,"okres Čadca",Podzávoz,923,102.133312,5,63.316000,-38.0065144661
+land,n/a,"okres Kysucké Nové Mesto",Povina,923,102.133312,7,70.215000,-31.2516174938
+land,n/a,"okres Turčianske Teplice",Turček,923,102.133312,2,36.055000,-64.6980996758
+land,n/a,"okres Žilina","Žilinská Lehota",923,102.133312,3,203.236667,98.9915562515
+land,n/a,"okres Martin","Karvaša a Bláhovca",923,102.133312,8,144.373333,41.3577315499
+land,n/a,"okres Žilina",Kunerad,923,102.133312,6,90.953333,-10.9464569209
+land,n/a,"okres Bytča","Hlboké nad Váhom",923,102.133312,8,25.166667,-75.3590023596
+land,n/a,"okres Kysucké Nové Mesto",Snežnica,923,102.133312,11,70.475455,-30.9966027539
+land,n/a,"okres Liptovský Mikuláš",Beňadiková,923,102.133312,5,90.250000,-11.6350990361
+land,n/a,"okres Liptovský Mikuláš",Jamník,923,102.133312,7,110.578571,8.2688584504
+land,n/a,"okres Liptovský Mikuláš",Podtureň,923,102.133312,7,123.000000,20.4308345547
+land,n/a,"okres Martin",Trnovo,923,102.133312,3,55.760000,-45.4046883352
+land,n/a,"okres Dolný Kubín",Malatiná,923,102.133312,3,50.310000,-50.7408513297
+land,n/a,"okres Liptovský Mikuláš",Kvačany,923,102.133312,6,82.858333,-18.8723724146
+land,n/a,"okres Žilina","Dlhé Pole",923,102.133312,2,69.500000,-31.9516829142
+land,n/a,"okres Martin",Vrícko,923,102.133312,3,86.096667,-15.7016791936
+land,n/a,"okres Bytča",Štiavnik,923,102.133312,4,82.355000,-19.3651920345
+land,n/a,"okres Dolný Kubín","Dlhá nad Oravou",923,102.133312,3,75.000000,-26.5665642959
+land,n/a,"okres Martin","Turčiansky Jaseno",923,102.133312,1,105.000000,2.8068099858
+land,n/a,"okres Martin","Turčianske Kľačany",923,102.133312,4,37.436667,-63.3452922784
+land,n/a,"okres Dolný Kubín",Zázrivá,923,102.133312,6,71.865000,-29.6360819083
+land,n/a,"okres Žilina",Stránske,923,102.133312,4,105.755000,3.5460399052
+land,n/a,"okres Čadca",Skalité,923,102.133312,15,75.583333,-25.9954156779
+land,n/a,"okres Dolný Kubín","Horná Lehota",923,102.133312,2,38.000000,-62.7937259099
+land,n/a,"okres Turčianske Teplice",Jazernica,923,102.133312,3,66.205000,-35.1778585228
+land,n/a,"okres Martin","Dolný Kalník",923,102.133312,4,111.695000,9.3619680129
+land,n/a,"okres Žilina",Hájik,923,102.133312,1,NULL,NULL
+land,n/a,"okres Žilina",Rosina,923,102.133312,9,229.718333,124.9200858188
+land,n/a,"okres Ružomberok","Liptovský Michal",923,102.133312,2,79.615000,-22.0479602189
+land,n/a,"okres Námestovo",Ťapešovo,923,102.133312,1,89.810000,-12.0659085255
+land,n/a,"okres Dolný Kubín",Párnica,923,102.133312,7,95.227500,-6.7615666865
+land,n/a,"okres Ružomberok","Liptovská Štiavnica",923,102.133312,4,62.190000,-39.1089951142
+land,n/a,"okres Liptovský Mikuláš","Staré mesto",923,102.133312,2,39.905000,-60.9285166430
+land,n/a,"okres Žilina",Strážov,923,102.133312,3,35.065000,-65.6674210271
+land,n/a,"okres Liptovský Mikuláš",Vavrišovo,923,102.133312,1,4.400000,-95.6919051054
+land,n/a,"okres Ružomberok",Černová,923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin",Ratkovo,923,102.133312,4,NULL,NULL
+land,n/a,"okres Dolný Kubín","Vyšný Kubín",923,102.133312,6,140.072500,37.1467323022
+land,n/a,"okres Ružomberok","Liptovská Osada",923,102.133312,2,113.920000,11.5404932722
+land,n/a,"okres Žilina",Turie,923,102.133312,6,100.600000,-1.5012849089
+land,n/a,"okres Čadca",Čierne,923,102.133312,4,68.467500,-32.9626165457
+land,n/a,"okres Žilina",Lysica,923,102.133312,3,78.146667,-23.4856233782
+land,n/a,"okres Žilina",Bytčica,923,102.133312,2,116.890000,14.4484573260
+land,n/a,"okres Martin",Stráne,923,102.133312,6,193.401667,89.3619850495
+land,n/a,"okres Martin",Slovany,923,102.133312,1,85.000000,-16.7754395353
+land,n/a,"okres Bytča","Bytča - sever",923,102.133312,4,148.380000,45.2807091970
+land,n/a,"okres Ružomberok",Hrabovo,923,102.133312,1,79.110000,-22.5424120193
+land,n/a,"okres Čadca",Horelica,923,102.133312,1,75.000000,-26.5665642959
+land,n/a,"okres Dolný Kubín","Malý Bysterec",923,102.133312,4,147.450000,44.3701345943
+land,n/a,"okres Liptovský Mikuláš",Vlachy,923,102.133312,6,70.283333,-31.1847118010
+land,n/a,"okres Liptovský Mikuláš",Ižipovce,923,102.133312,4,123.490000,20.9105996680
+land,n/a,"okres Žilina",Mojš,923,102.133312,3,156.236667,52.9732698769
+land,n/a,"okres Tvrdošín",Liesek,923,102.133312,1,82.380000,-19.3407142226
+land,n/a,"okres Ružomberok",Likavka,923,102.133312,2,123.200000,20.6266570500
+land,n/a,"okres Liptovský Mikuláš","Liptovská Ondrašová",923,102.133312,3,110.000000,7.7023723660
+land,n/a,"okres Kysucké Nové Mesto","Dolný Vadičov",923,102.133312,4,39.316667,-61.5045608234
+land,n/a,"okres Čadca",Makov,923,102.133312,9,43.492222,-57.4162228285
+land,n/a,"okres Kysucké Nové Mesto",Rudina,923,102.133312,4,88.192500,-13.6496229555
+land,n/a,"okres Martin",Žabokreky,923,102.133312,2,56.170000,-45.0032522200
+land,n/a,"okres Martin",Belá-Dulice,923,102.133312,4,66.755000,-34.6393466610
+land,n/a,"okres Martin",Daňová,923,102.133312,1,68.760000,-32.6762261465
+land,n/a,"okres Liptovský Mikuláš",Bobrovník,923,102.133312,1,89.000000,-12.8589896311
+land,n/a,"okres Martin",Tomčany,923,102.133312,5,107.883333,5.6299172987
+land,n/a,"okres Čadca",Klokočov,923,102.133312,3,33.486667,-67.2127865588
+land,n/a,"okres Námestovo","Oravská Lesná",923,102.133312,4,55.686667,-45.4764895904
+land,n/a,"okres Žilina","Kotrčiná Lúčka",923,102.133312,8,82.794286,-18.9350816313
+land,n/a,"okres Žilina",Divina,923,102.133312,5,164.976667,61.5307129176
+land,n/a,"okres Turčianske Teplice",Sklené,923,102.133312,6,38.620000,-62.1866761748
+land,n/a,"okres Žilina",Vlčince,923,102.133312,1,480.770000,370.7279051129
+land,n/a,"okres Liptovský Mikuláš","Liptovská Sielnica",923,102.133312,6,77.710000,-23.9131694858
+land,n/a,"okres Bytča","Hliník nad Váhom",923,102.133312,3,114.353333,11.9647750188
+land,n/a,"okres Turčianske Teplice",Diviaky,923,102.133312,2,62.500000,-38.8054702466
+land,n/a,"okres Martin",Necpaly,923,102.133312,9,86.365000,-15.4389510055
+land,n/a,"okres Liptovský Mikuláš","Liptovský Ján",923,102.133312,2,97.500000,-4.5365335847
+land,n/a,"okres Martin",Rakovo,923,102.133312,2,92.690000,-9.2460645945
+land,n/a,"okres Martin",Trebostovo,923,102.133312,2,105.000000,2.8068099858
+land,n/a,"okres Liptovský Mikuláš","Liptovské Matiašovce",923,102.133312,1,87.720000,-14.1122536005
+land,n/a,"okres Martin",Karlová,923,102.133312,3,74.450000,-27.1050761577
+land,n/a,"okres Martin",Záturčie,923,102.133312,10,84.587000,-17.1798129880
+land,n/a,"okres Čadca",Dunajov,923,102.133312,4,39.285000,-61.5355663782
+land,n/a,"okres Čadca",Milošová,923,102.133312,1,17.320000,-83.0417719147
+land,n/a,"okres Martin",Podháj,923,102.133312,2,91.660000,-10.2545504448
+land,n/a,"okres Dolný Kubín",Jasenová,923,102.133312,1,139.000000,36.0966341716
+land,n/a,"okres Bytča","Veľká Bytča",923,102.133312,2,NULL,NULL
+land,n/a,"okres Žilina",Nededza,923,102.133312,1,100.000000,-2.0887523945
+land,n/a,"okres Dolný Kubín",Mokraď,923,102.133312,4,102.705000,0.5597468532
+land,n/a,"okres Ružomberok",Podsuchá,923,102.133312,1,15.420000,-84.9020856192
+land,n/a,"okres Žilina",Lietava,923,102.133312,6,138.652000,35.7559030300
+land,n/a,"okres Čadca",Korňa,923,102.133312,6,28.565000,-72.0316521215
+land,n/a,"okres Bytča",Pšurnovice,923,102.133312,4,76.945000,-24.6621905300
+land,n/a,"okres Martin","Košťany nad Turcom",923,102.133312,2,102.995000,0.8436894713
+land,n/a,"okres Ružomberok",Ludrová,923,102.133312,1,NULL,NULL
+land,n/a,"okres Námestovo",Krušetnica,923,102.133312,2,65.325000,-36.0394775017
+land,n/a,"okres Liptovský Mikuláš",Východná,923,102.133312,3,66.510000,-34.8792292176
+land,n/a,"okres Dolný Kubín",Banisko,923,102.133312,1,238.000000,133.0287693010
+land,n/a,"okres Bytča","Veľké Rovné",923,102.133312,8,120.621429,18.1019460135
+land,n/a,"okres Turčianske Teplice",Mošovce,923,102.133312,4,55.045000,-46.1047537556
+land,n/a,"okres Martin","Turčianske Jaseno",923,102.133312,2,66.000000,-35.3785765804
+land,n/a,"okres Martin",Šútovo,923,102.133312,3,10.090000,-90.1207551166
+land,n/a,"okres Námestovo",Novoť,923,102.133312,2,50.000000,-51.0443761973
+land,n/a,"okres Čadca","U Sneheľníka",923,102.133312,1,110.000000,7.7023723660
+land,n/a,"okres Turčianske Teplice","Slovenské Pravno",923,102.133312,2,64.615000,-36.7346473597
+land,n/a,"okres Liptovský Mikuláš","Liptovský Trnovec",923,102.133312,6,116.465000,14.0323345237
+land,n/a,"okres Ružomberok",Turík,923,102.133312,1,NULL,NULL
+land,n/a,"okres Žilina",Rajec,923,102.133312,3,61.100000,-40.1762277131
+land,n/a,"okres Čadca",Rieka,923,102.133312,5,73.200000,-28.3289667528
+land,n/a,"okres Žilina","Dolný Hričov",923,102.133312,9,79.675000,-21.9892134703
+land,n/a,"okres Dolný Kubín",Stred,923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin",Stred,923,102.133312,1,404.930000,296.4720149289
+land,n/a,"okres Martin",NULL,923,102.133312,3,63.333333,-37.9895435096
+land,n/a,"okres Martin","Horný Kalník",923,102.133312,2,79.670000,-21.9941090327
+land,n/a,"okres Čadca",NULL,923,102.133312,3,83.410000,-18.3322283723
+land,n/a,"okres Liptovský Mikuláš",Podbreziny,923,102.133312,6,186.811667,82.9096338323
+land,n/a,"okres Žilina",Čičmany,923,102.133312,1,143.380000,40.3851468167
+land,n/a,"okres Žilina","Rajecké Teplice",923,102.133312,2,170.845000,67.2764709716
+land,n/a,"okres Liptovský Mikuláš",NULL,923,102.133312,1,184.330000,80.4798027112
+land,n/a,"okres Martin","Turčiansky Peter",923,102.133312,3,105.635000,3.4285464081
+land,n/a,"okres Žilina","Horný Hričov",923,102.133312,1,160.100000,56.7559074164
+land,n/a,"okres Kysucké Nové Mesto",Nesluša,923,102.133312,3,35.353333,-65.3851105896
+land,n/a,"okres Žilina",Divinka,923,102.133312,1,139.110000,36.2043365440
+land,n/a,"okres Dolný Kubín",Žaškov,923,102.133312,4,73.432500,-28.1013231021
+land,n/a,"okres Žilina",Kľače,923,102.133312,6,73.008000,-28.5169563482
+land,n/a,"okres Žilina",Ďurčiná,923,102.133312,1,NULL,NULL
+land,n/a,"okres Žilina",Gbeľany,923,102.133312,1,287.290000,181.2892232458
+land,n/a,"okres Žilina",Konská,923,102.133312,1,111.740000,9.4060280744
+land,n/a,"okres Čadca",Podvysoká,923,102.133312,2,44.100000,-56.8211398060
+land,n/a,"okres Liptovský Mikuláš",Hybe,923,102.133312,2,98.055000,-3.9931261604
+land,n/a,"okres Čadca","Vysoká nad Kysucou",923,102.133312,1,55.480000,-45.6788398285
+land,n/a,"okres Bytča",Petrovice,923,102.133312,2,33.790000,-66.9157894341
+land,n/a,"okres Námestovo",Vasiľov,923,102.133312,2,46.125000,-54.8384370420
+land,n/a,"okres Bytča",NULL,923,102.133312,1,NULL,NULL
+land,n/a,"okres Liptovský Mikuláš",Vitálišovce,923,102.133312,4,197.975000,93.8397924470
+land,n/a,"okres Bytča",Predmier,923,102.133312,3,63.890000,-37.4445039049
+land,n/a,"okres Liptovský Mikuláš","Liptovská Mara - Tatralandia",923,102.133312,1,200.000000,95.8224952110
+land,n/a,"okres Liptovský Mikuláš",Gôtovany,923,102.133312,4,69.256667,-32.1899332903
+land,n/a,"okres Dolný Kubín","Oravská Poruba",923,102.133312,1,109.090000,6.8113800128
+land,n/a,"okres Čadca","Dlhá nad Kysucou",923,102.133312,2,40.085000,-60.7522763973
+land,n/a,"okres Čadca",Hlinené,923,102.133312,1,25.000000,-75.5221880986
+land,n/a,"okres Martin",Socovce,923,102.133312,1,50.990000,-50.0750548460
+land,n/a,"okres Žilina","Kamenná Poruba",923,102.133312,3,288.735000,182.7040407737
+land,n/a,"okres Ružomberok","Nová Hrboltová",923,102.133312,1,56.780000,-44.4059936096
+land,n/a,"okres Turčianske Teplice",Budiš,923,102.133312,2,55.000000,-46.1488138170
+land,n/a,"okres Tvrdošín",Zábiedovo,923,102.133312,1,80.000000,-21.6710019156
+land,n/a,"okres Ružomberok",Bešeňová,923,102.133312,2,79.000000,-22.6501143917
+land,n/a,"okres Žilina",Strečno,923,102.133312,2,147.920000,44.8303174580
+land,n/a,"okres Žilina",Stráňavy,923,102.133312,3,105.625000,3.4187552833
+land,n/a,"okres Námestovo","Oravské Veselé",923,102.133312,3,66.683333,-34.7095167148
+land,n/a,"okres Turčianske Teplice",Háj,923,102.133312,1,15.000000,-85.3133128592
+land,n/a,"okres Bytča",Jablonové,923,102.133312,3,234.346667,129.4517453816
+land,n/a,"okres Martin",Diaková,923,102.133312,2,0.000000,-100.0000000000
+land,n/a,"okres Dolný Kubín",Leštiny,923,102.133312,1,75.000000,-26.5665642959
+land,n/a,"okres Žilina","Veľká Čierna",923,102.133312,2,52.440000,-48.6553417557
+land,n/a,"okres Turčianske Teplice",NULL,923,102.133312,1,102.000000,-0.1305274424
+land,n/a,"okres Tvrdošín",Habovka,923,102.133312,1,NULL,NULL
+land,n/a,"okres Žilina",Brezany,923,102.133312,1,148.010000,44.9184375809
+land,n/a,"okres Martin","Kláštor pod Znievom",923,102.133312,3,89.750000,-12.1246552741
+land,n/a,"okres Martin",Príbovce,923,102.133312,4,81.160000,-20.5352314434
+land,n/a,"okres Liptovský Mikuláš","Vrbica - Nábrežie",923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin","Turčianska Štiavnička",923,102.133312,2,56.515000,-44.6654584158
+land,n/a,"okres Žilina","Teplička nad Váhom",923,102.133312,3,225.313333,120.6070953618
+land,n/a,"okres Ružomberok",Ivachnová,923,102.133312,2,98.970000,-3.0972382449
+land,n/a,"okres Čadca","U Hluška",923,102.133312,1,120.000000,17.4934971266
+land,n/a,"okres Turčianske Teplice",Dubové,923,102.133312,1,41.420000,-59.4451612418
+land,n/a,"okres Martin",Záborie,923,102.133312,2,NULL,NULL
+land,n/a,"okres Žilina",Rosinky,923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin",Lipovec,923,102.133312,4,90.770000,-11.1259605485
+land,n/a,"okres Martin",Dražkovce,923,102.133312,1,103.000000,0.8485850336
+land,n/a,"okres Dolný Kubín",Kraľovany,923,102.133312,1,35.000000,-65.7310633381
+land,n/a,"okres Turčianske Teplice",Stred,923,102.133312,1,NULL,NULL
+land,n/a,"okres Žilina",Podhorie,923,102.133312,1,125.240000,22.6240465011
+land,n/a,"okres Žilina",Zádubnie,923,102.133312,1,83.000000,-18.7336644874
+land,n/a,"okres Bytča",Kotešová,923,102.133312,3,99.563333,-2.5162985021
+land,n/a,"okres Martin",Sever,923,102.133312,2,NULL,NULL
+land,n/a,"okres Čadca",Kalinov,923,102.133312,2,52.000000,-49.0861512451
+land,n/a,"okres Námestovo",NULL,923,102.133312,1,85.000000,-16.7754395353
+land,n/a,"okres Liptovský Mikuláš","Uhorská Ves",923,102.133312,2,143.820000,40.8159563062
+land,n/a,"okres Čadca",Kyčerka,923,102.133312,1,82.000000,-19.7127769635
+land,n/a,"okres Turčianske Teplice",Bodorová,923,102.133312,1,15.810000,-84.5202317536
+land,n/a,"okres Dolný Kubín",Pribiš,923,102.133312,1,48.000000,-53.0026011494
+land,n/a,"okres Kysucké Nové Mesto",Lodno,923,102.133312,1,28.120000,-72.4673571733
+land,n/a,"okres Martin",Jahodníky,923,102.133312,2,115.000000,12.5979347463
+land,n/a,"okres Žilina",Marčk,923,102.133312,1,NULL,NULL
+land,n/a,"okres Ružomberok","Revúcka dolina",923,102.133312,1,11.000000,-89.2297627634
+land,n/a,"okres Martin","Dolné Vrútky",923,102.133312,2,108.295000,6.0329855944
+land,n/a,"okres Liptovský Mikuláš",Pribylina,923,102.133312,1,NULL,NULL
+land,n/a,"okres Liptovský Mikuláš","Závažná Poruba",923,102.133312,1,112.710000,10.3557671761
+land,n/a,"okres Kysucké Nové Mesto",Rudinská,923,102.133312,1,65.000000,-36.3576890564
+land,n/a,"okres Žilina","Lietavská Lúčka",923,102.133312,1,120.000000,17.4934971266
+land,n/a,"okres Dolný Kubín",Záskalie,923,102.133312,1,47.000000,-53.9817136254
+land,n/a,"okres Liptovský Mikuláš",Ľubeľa,923,102.133312,1,NULL,NULL
+land,n/a,"okres Dolný Kubín","Veľký Bysterec",923,102.133312,1,47.000000,-53.9817136254
+land,n/a,"okres Dolný Kubín",Osádka,923,102.133312,1,108.830000,6.5568107690
+land,n/a,"okres Ružomberok",Hubová,923,102.133312,1,0.000000,-100.0000000000
+land,n/a,"okres Námestovo",Čerchle,923,102.133312,1,154.750000,51.5176556695
+land,n/a,"okres Turčianske Teplice",Kaľamenová,923,102.133312,1,NULL,NULL
+land,n/a,"okres Liptovský Mikuláš",Jakubovany,923,102.133312,1,8.000000,-92.1671001916
+land,n/a,"okres Liptovský Mikuláš","Liptovský Peter",923,102.133312,1,160.000000,56.6579961688
+land,n/a,"okres Ružomberok",Komjatná,923,102.133312,1,28.770000,-71.8309340639
+land,n/a,"okres Bytča",Kolárovice,923,102.133312,1,42.670000,-58.2212706467
+land,n/a,"okres Turčianske Teplice",Čremošné,923,102.133312,1,70.390000,-31.0802728105
+land,n/a,"okres Čadca","Nová Bystrica",923,102.133312,1,41.240000,-59.6214014875
+land,n/a,"okres Ružomberok",Baničné,923,102.133312,2,102.500000,0.3590287956
+land,n/a,"okres Liptovský Mikuláš","Pavlova Ves",923,102.133312,1,28.000000,-72.5848506705
+land,n/a,"okres Liptovský Mikuláš","Liptovská Kokava",923,102.133312,1,199.000000,94.8433827349
+land,n/a,"okres Žilina","Nezbudská Lúčka",923,102.133312,2,149.275000,46.1570148631
+land,n/a,"okres Liptovský Mikuláš",Malatíny,923,102.133312,2,109.060000,6.7820066385
+land,n/a,"okres Turčianske Teplice",Brieštie,923,102.133312,1,25.000000,-75.5221880986
+land,n/a,"okres Čadca",Stred,923,102.133312,1,122.000000,19.4517220787
+land,n/a,"okres Turčianske Teplice","Malý Čepčín",923,102.133312,1,35.480000,-65.2610893496
+land,n/a,"okres Kysucké Nové Mesto",Radoľa,923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin","Kolónia Hviezda",923,102.133312,1,NULL,NULL
+land,n/a,"okres Martin","Turčiansky Ďur",923,102.133312,1,80.000000,-21.6710019156
+land,n/a,"okres Kysucké Nové Mesto","Lopušné Pažite",923,102.133312,1,35.850000,-64.8988177334
+land,n/a,"okres Liptovský Mikuláš","Vyšná Boca",923,102.133312,1,147.760000,44.6736594619
+land,n/a,"okres Liptovský Mikuláš","Partizánska Ľupča",923,102.133312,1,51.810000,-49.2721826156
+land,n/a,"okres Dolný Kubín",Pucov,923,102.133312,1,42.800000,-58.0939860249
+land,n/a,"okres Liptovský Mikuláš",Trstené,923,102.133312,1,104.320000,2.1410135020

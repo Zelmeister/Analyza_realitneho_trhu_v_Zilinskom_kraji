@@ -1,0 +1,403 @@
+offer_id,property_type,area,monthly_rent_m2,condition,position,floor,elevator,built_in,energy_certificate,north,south,east,west,location_district,location_city,location_area,agency,office_city
+JuzjcjA88fI,"2-room apartment",62,10.34,"fully renovated","upper floor",3,NULL,2025,A,NULL,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuR9IQwr1DX,"3-room apartment",68,8.68,"new construction",NULL,NULL,NULL,2008,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"MGM reality",Žilina
+JujzGN4k6bn,"2-room apartment",65,9.24,"fully renovated","upper floor",8,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,"Reality Alpia",Martin
+JuyUZh4v08L,"2-room apartment",49,14.29,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,NULL,NULL
+Ju8a3kcGYvG,"2-room apartment",50,13.00,"new construction","ground floor",1,yes,NULL,A,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuTiIF5zkxo3,"2-room apartment",65,8.62,"fully renovated","ground floor",1,NULL,2000,"not available",NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Záskalie,"VAŠA REALITKA s.r.o.",Ružomberok
+JuUCL8fPL9h,"studio apartment",36,12.50,"fully renovated","ground floor",1,NULL,NULL,B,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Ju3gs_noUEz,"2-room apartment",45,13.78,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca","Krásno nad Kysucou",Kalinov,NULL,NULL
+Ju_IBACCGzT,"2-room apartment",66,6.82,"partially renovated","raised ground floor",1,NULL,NULL,"not available",NULL,yes,NULL,yes,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"Vianema s.r.o.",Bratislava
+JuatrleUyRX,"3-room apartment",78,7.56,"partially renovated","ground floor",1,yes,1980,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Podbreziny,"AstonReal s.r.o.","Banská Bystrica"
+JuqBZCEixbC,"2-room apartment",52,13.17,"new construction","upper floor",3,yes,2018,"not available",NULL,NULL,NULL,yes,"okres Žilina",Žilina,Hliny,"Reality Alpia",Martin
+JunnFbGwfA5,"2-room apartment",60,11.67,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Wealth Group, s.r.o.","Nová Dedinka"
+JugXYWqkt4N,"1-room apartment",30,13.00,"partially renovated","upper floor",5,NULL,2025,D,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","Reality ASTORIA, s.r.o.",Martin
+JuqvNgpYqrd,"1-room apartment",40,14.00,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+JuA8-pf41pn,"3-room apartment",83,10.84,"fully renovated","upper floor",2,NULL,2025,"not available",NULL,NULL,NULL,yes,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JuxBkaifl6df,"holiday apartment",42,15.48,"new construction","ground floor",1,NULL,2025,A,NULL,NULL,yes,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Iľanovo,"Reality Alpia",Martin
+JunBqR0DBP9,"2-room apartment",50,11.80,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JucOhPXEpxa,"2-room apartment",71,10.28,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JuFqVxR2Rua,"2-room apartment",48,13.54,"new construction","ground floor",NULL,NULL,NULL,"not available",NULL,NULL,yes,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuLEeBcqSvN,"2-room apartment",50,10.94,"fully renovated","top floor",6,yes,2025,"not available",yes,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuHC3L7PHAo,"studio apartment",15,16.67,"partially renovated","upper floor",2,NULL,1960,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"RE/MAX Slovakia",Bratislava
+JuxsO06uVZG,"1-room apartment",43,11.40,unrenovated,"top floor",7,NULL,2010,"not available",NULL,NULL,yes,yes,"okres Žilina",Žilina,Hájik,"Realitná kancelária SYMPATIA REAL s. r. o.",Žilina
+JuxQsJlXHSK,"3-room apartment",74,10.91,"fully renovated","upper floor",2,NULL,2025,A,yes,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JucmUHZL9fQ,"2-room apartment",57,14.74,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JuJBn5ZeVAm,"2-room apartment",51,12.35,"partially renovated","ground floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitná kancelária",Bratislava
+Juk9u-rNEqG,"2-room apartment",46,10.86,"fully renovated","upper floor",3,NULL,2025,A,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuDorfwK08d,"2-room apartment",85,6.47,"partially renovated","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Ju9qrQrSqzm,"studio apartment",25,20.00,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuVp8M6bnwG,"3-room apartment",80,7.50,"partially renovated","upper floor",2,NULL,1978,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"ŠIRINY, s.r.o.",Zvolen
+JuKJT8WJuFF,"1-room apartment",37,14.32,"new construction","upper floor",2,NULL,2021,A,yes,NULL,NULL,yes,"okres Čadca",Čadca,Centrum,"HOLESTIAK.sk reality s.r.o.",Čadca
+Ju8mh8KzH4f,"2-room apartment",60,8.83,"fully renovated","ground floor",1,NULL,1913,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","Realitná kancelária Peter Hubka","Liptovský Mikuláš"
+Ju_qGSnLBzz,"2-room apartment",59,8.81,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Thurzove sady",NULL,NULL
+JuQY1ZnmE4m,"studio apartment",25,19.20,"fully renovated","upper floor",2,NULL,2021,A,NULL,NULL,yes,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"OREA, s.r.o.","Dolný Kubín"
+JuMhyPasgwl,"1-room apartment",41,10.98,"fully renovated","upper floor",NULL,NULL,1958,NULL,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","B10 Slovensko, a. s.",Žilina
+JuPet_Ep-JW,"studio apartment",70,5.71,"fully renovated","ground floor",NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",NULL,"TUreality s.r.o.",Žilina
+Juw69usHNF6,"3-room apartment",86,8.49,"fully renovated","top floor",2,NULL,1970,"not available",NULL,NULL,NULL,yes,"okres Žilina",Žilina,"Staré mesto","R2 SK, s.r.o.",Žilina
+Jup6mGYDCrv,"2-room apartment",57,9.88,"fully renovated","top floor",3,NULL,1935,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Reality Center, s.r.o.",Martin
+JuY4e0DxXsH,"2-room apartment",45,10.89,"new construction","added floor",2,NULL,2022,B,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Stred,"OREA, s.r.o.","Dolný Kubín"
+Jue5OG4Sl5k,"2-room apartment",50,12.00,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JumQaXesU-y,"studio apartment",28,16.79,"new construction","upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Kamence,"Realitné kancelárie SR",Bratislava
+JuXIzNjmik_,"3-room apartment",104,9.13,"fully renovated","upper floor",3,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitné kancelárie SR",Bratislava
+JukKH41KaWr,"3-room apartment",121,5.37,"fully renovated",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"TUreality s.r.o.",Žilina
+JuWzCETm2y0,"3-room apartment",70,8.91,"fully renovated","upper floor",2,NULL,1989,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Kyčerka,"SLNOVRAT, s.r.o.",Olešná
+Ju2skZ_XIuH,"3-room apartment",90,5.56,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čierne,Čierne,NULL,NULL
+JuWx4I1iGWR,"2-room apartment",80,6.25,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Mútne,Mútne,"BeMi realitná kancelária",Nitra
+JuVlvDHUEHV,"2-room apartment",50,11.60,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+JukzS9fkGsH,"3-room apartment",84,9.52,"fully renovated","upper floor",6,yes,1985,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Safe reality s. r. o.",Žilina
+JuwxWNhZHvq,"2-room apartment",44,11.36,"fully renovated","top floor",3,NULL,1971,A,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","DreamReality s.r.o.",Žilina
+JuNh7AtADFs,"2-room apartment",44,10.91,"new construction",NULL,NULL,NULL,2024,"not available",NULL,NULL,NULL,NULL,"okres Čadca","Krásno nad Kysucou",Kalinov,"MGM reality",Žilina
+JuoVEcjPg5o,"3-room apartment",70,5.71,"new construction","ground floor",1,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Námestovo",Rabčice,Rabčice,"RE/MAX Slovakia",Bratislava
+JuyUHlMcv_Q,"3-room apartment",73,16.44,"fully renovated","upper floor",4,NULL,2023,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Kamence,"Realitná kancelária RED, s.r.o.",Žilina
+Jutomv1SERc,"2-room apartment",57,9.65,"fully renovated","raised ground floor",NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Jahodníky,"Reality Alpia",Martin
+JuIK5SS5weX,"2-room apartment",55,10.18,"partially renovated","upper floor",3,NULL,1976,"not available",NULL,NULL,yes,yes,"okres Martin",Martin,Stred,"Like Reality s.r.o.","Považská Bystrica"
+JuvxR6XXHxE,"3-room apartment",74,10.83,"fully renovated","upper floor",5,NULL,2025,"not available",yes,NULL,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuT8ujDpM1g,"1-room apartment",60,11.00,"partially renovated","upper floor",2,NULL,2025,C,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","WFG reality, s.r.o.",Žilina
+JuBAitX8aRy,"2-room apartment",55,9.16,"partially renovated","upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Ružomberok",Ružomberok,Baničné,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuYm2hUT2pj,"3-room apartment",92,2.72,"fully renovated","upper floor",2,NULL,1975,C,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"ALT REAL, s.r.o.",Martin
+JuaMkijSYs-,"studio apartment",25,15.39,"partially renovated","upper floor",2,yes,NULL,C,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuZL3wORd4j,"1-room apartment",35,15.04,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Stošice,"DVOŘÁK & PARTNERS s. r. o.","Banská Bystrica"
+JuhvRDg8Y4C,"2-room apartment",58,6.72,unrenovated,basement,0,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Námestovo",Námestovo,Stred,"RIEŠIME BÝVANIE",Bratislava
+JuEGUe9TZYw,"3-room apartment",72,10.00,"partially renovated","top floor",5,yes,1982,B,NULL,NULL,NULL,yes,"okres Žilina",Žilina,Vlčince,"WFG reality, s.r.o.",Žilina
+JuUFq9Wci3W,"studio apartment",25,14.40,"partially renovated",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Ľadoveň,"Reality Alpia",Martin
+JuGfHZevCsA,"3-room apartment",66,8.94,"fully renovated","upper floor",6,yes,1975,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Realitná kancelária DR, s.r.o.",Martin
+JufXjo0g1k9,"2-room apartment",59,11.78,"new construction","upper floor",2,yes,NULL,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuPNe1hyDeq,"2-room apartment",57,12.14,"fully renovated","upper floor",5,NULL,2025,"not available",yes,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Ju4eeNbxgyr,"2-room apartment",50,13.80,"fully renovated","upper floor",4,NULL,1995,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Solinky,"Realitná kancelária RED, s.r.o.",Žilina
+JuN3wzC2QtN,"1-room apartment",36,13.06,"partially renovated","top floor",5,NULL,1972,"not available",NULL,NULL,yes,NULL,"okres Martin",Martin,Sever,"Like Reality s.r.o.","Považská Bystrica"
+JuTL4AQg4bH,"2-room apartment",55,10.00,"fully renovated","ground floor",1,NULL,1960,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Jahodníky,"Reality ASTORIA, s.r.o.",Martin
+JuYNcMLobvd,"4-room apartment",102,6.37,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Trnové,NULL,NULL
+JuRDv8rOGAN,"2-room apartment",46,10.42,"fully renovated","upper floor",3,NULL,2025,A,NULL,yes,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuG-jkKlogR,"2-room apartment",50,12.00,"fully renovated",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JuKxd6XdpfQ,"3-room apartment",70,8.29,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Kamence,NULL,NULL
+JuykyParod3,"3-room apartment",70,7.86,"new construction","upper floor",2,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Bytča","Veľké Rovné","Veľké Rovné","RENOME REAL",Žilina
+JuzGrB3SDsa,"studio apartment",25,16.00,"fully renovated","upper floor",4,NULL,1990,"not available",NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","Felicita Real s. r. o.",Martin
+Ju3pgjh4OY7,"2-room apartment",43,16.74,"new construction","top floor",6,NULL,2018,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hájik,"WFG reality, s.r.o.",Žilina
+JuV0WpoDBe_,"1-room apartment",37,13.24,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",NULL,NULL
+JuQ3YUuwUTb,"4-room apartment",92,11.96,"new construction","upper floor",2,NULL,2009,"not available",yes,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"RIEŠIME BÝVANIE",Bratislava
+JutqtoD-x5N,"2-room apartment",62,8.87,unrenovated,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"Realitné kancelárie SR",Bratislava
+Juu8kqRVDip,"3-room apartment",61,10.33,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Podbreziny,"Direct Real, spol. s r.o.",Bratislava
+JuL2muHqM6p,"3-room apartment",70,10.71,"fully renovated","upper floor",3,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","PRIMA reality s.r.o.",Žilina
+JuzUlNr7U_e,"3-room apartment",60,11.67,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Wealth Group, s.r.o.","Nová Dedinka"
+JuZK9MB7o6G,"4-room apartment",84,10.00,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Solinky,NULL,NULL
+JuSreilLACi,"3-room apartment",62,12.10,"new construction","upper floor",4,NULL,2011,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JuZLDF7L6J1,"3-room apartment",90,11.11,"fully renovated","upper floor",2,NULL,2020,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","PRIMA reality s.r.o.",Žilina
+JuKOidVb0W7,"3-room apartment",80,6.88,unrenovated,"ground floor",1,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",Belánska,"Reality Alpia",Martin
+JuIDpA00OUN,"2-room apartment",44,10.23,"new construction","upper floor",2,NULL,2018,A,NULL,NULL,yes,NULL,"okres Martin",Martin,Stred,"ML realitný& finančny servis s.r.o. , BrokerSoft s.r.o. , Monika Launerová - SZČO","Banská Bystrica"
+JuEg-jxdD7t,"3-room apartment",65,9.08,"new construction","upper floor",4,yes,2019,B,NULL,yes,NULL,yes,"okres Martin",Martin,Stred,"ML realitný& finančny servis s.r.o. , BrokerSoft s.r.o. , Monika Launerová - SZČO","Banská Bystrica"
+JuDV2pnh02W,"2-room apartment",58,8.62,"fully renovated","raised ground floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Sučany,Sučany,"Realitná kancelária",Bratislava
+JuBpZ_BskLa,"2-room apartment",51,12.75,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,NULL,NULL
+JuFuOGe_LXE,"3-room apartment",60,11.65,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+JuKXwzVXskc,"4-room apartment",162,11.73,"fully renovated","upper floor",3,NULL,1995,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JuaoWKxAUyW,"3-room apartment",65,11.54,"fully renovated","upper floor",3,NULL,2025,C,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Solinky,"WFG reality, s.r.o.",Žilina
+Juwu97tpKpb,"2-room apartment",68,8.24,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"MAX PROFI REALITY",Martin
+JuNAef2PSXl,"4-room apartment",83,10.24,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+JuuJ1uhMrN8,"2-room apartment",64,8.59,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Námestovo,Stred,"BeMi realitná kancelária",Nitra
+JuTbC9RkGly,"4-room apartment",162,11.73,"fully renovated","upper floor",2,NULL,1995,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JuKzHgnrtuZ,"2-room apartment",65,9.08,"new construction","top floor",4,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"Realitné kancelárie SR",Bratislava
+JupAkSKIIBk,"4-room apartment",88,6.36,"partially renovated","upper floor",3,yes,2025,"not available",NULL,yes,yes,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","Reality Alpia",Martin
+JunvOdNMl-j,"2-room apartment",50,13.00,"fully renovated","ground floor",1,NULL,1974,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Reality MT s.r.o.",Martin
+Ju5MSxaC_U4,"studio apartment",26,13.46,"partially renovated","top floor",8,yes,1978,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Žarec,"KUBALA REALITY, s.r.o.",Čadca
+Ju0sE49cmdc,"3-room apartment",65,10.00,"fully renovated","upper floor",7,NULL,1985,B,NULL,NULL,yes,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",liptoreal,"Liptovský Mikuláš"
+Ju9wHsIIJEO,"4-room apartment",100,8.00,"fully renovated","upper floor",2,NULL,2010,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Trnové,"Realitné kancelárie SR",Bratislava
+JupJ5OCoIez,"2-room apartment",50,12.00,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hájik,NULL,NULL
+JuqvAhg9dB7,"3-room apartment",60,10.83,"fully renovated","ground floor",1,NULL,1982,"not available",yes,NULL,yes,NULL,"okres Čadca","Krásno nad Kysucou",Stred,"KUBALA REALITY, s.r.o.",Čadca
+JudvlSKcuB3,"2-room apartment",50,9.00,"partially renovated","upper floor",5,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Košúty,"Realitná kancelária DR, s.r.o.",Martin
+Ju71Or7iIz1,"2-room apartment",65,8.00,unrenovated,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Stred,"Realitné kancelárie SR",Bratislava
+JupbJt5OZmn,"3-room apartment",75,7.73,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,NULL,NULL
+Ju-XczSJwZk,"3-room apartment",74,10.83,"fully renovated","top floor",6,yes,2025,A,yes,NULL,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuoQ5zgqUF8,"3-room apartment",90,8.33,"fully renovated","upper floor",2,NULL,1985,"not available",NULL,NULL,NULL,yes,"okres Žilina",Žilina,"Staré mesto","STAREA, s. r. o.",Žilina
+Ju6NM6rUyuq,"1-room apartment",55,7.09,"partially renovated","ground floor",1,NULL,1970,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Liptovská Ondrašová","BEŇO REALITY","Liptovský Mikuláš"
+JuYWEki50At,"studio apartment",14,25.71,"new construction","ground floor",1,NULL,2022,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","1. Reality Rent, s.r.o.",Žilina
+Julagh5blsT,"2-room apartment",85,6.47,"fully renovated","ground floor",1,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuaDMLn46eO,"2-room apartment",54,9.26,"fully renovated","upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuzwzT16anT,"4-room apartment",92,11.96,"new construction","upper floor",3,NULL,2011,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitná kancelária RED, s.r.o.",Žilina
+JuK1t12r-oH,"2-room apartment",55,12.73,"fully renovated",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"TUreality s.r.o.",Žilina
+Ju7WBBedEh6,"3-room apartment",102,6.37,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuFVUTYq75r,"2-room apartment",53,10.75,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+JuktUK0BQQK,"2-room apartment",67,11.49,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+JuSqYMaXIJ4,"3-room apartment",52,10.58,"partially renovated","added floor",NULL,NULL,NULL,"not available",yes,NULL,yes,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+Juty1iBq1Em,"3-room apartment",70,9.71,"fully renovated","top floor",3,NULL,1989,"not available",NULL,yes,yes,NULL,"okres Žilina",Žilina,"Staré mesto","ŽILINAREAL, s.r.o.",Žilina
+Ju4n_bUHLJ9,"2-room apartment",65,7.69,unrenovated,"upper floor",6,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuDt4JSbLor,"2-room apartment",55,10.00,"fully renovated",NULL,NULL,NULL,NULL,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Jui1mJgPtv9,"3-room apartment",80,8.13,"fully renovated","ground floor",1,NULL,NULL,B,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Jud1TyzIUXK,"2-room apartment",65,12.31,"new construction","top floor",4,NULL,2023,A,NULL,yes,NULL,yes,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"Loviu, s.r.o.","Liptovský Mikuláš"
+JuoZ1J6Es1y,"2-room apartment",50,13.00,"fully renovated","upper floor",6,yes,1993,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hájik,"bezmaklérov, s.r.o.",Žilina
+JuWQ2JltmXN,"3-room apartment",78,8.72,"new construction","ground floor",1,NULL,2020,"not available",NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Stred,"WFG reality, s.r.o.",Žilina
+Ju4MMsyYZ5L,"studio apartment",25,18.00,"fully renovated","upper floor",3,NULL,1950,"not available",NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"DRR INVEST, s. r. o.","Horný Hričov"
+JuzbyOpl5Xf,"3-room apartment",84,12.81,"fully renovated","top floor",6,yes,2025,"not available",NULL,yes,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuFU83JdcqO,"3-room apartment",66,8.88,"partially renovated","upper floor",6,yes,NULL,C,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín","Veľký Bysterec","FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JucGgWWz-uF,"1-room apartment",42,10.71,unrenovated,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"Realitné kancelárie SR",Bratislava
+JueR5kVH0gB,"2-room apartment",56,9.00,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,"Horné Vrútky",NULL,NULL
+Jugl5WLVOis,"2-room apartment",50,12.20,unrenovated,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie",NULL,NULL
+Ju65cZ1we6J,"1-room apartment",37,17.57,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JuqmFIXrbkG,"studio apartment",22,18.18,"new construction","ground floor",1,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuNbGbpkzSB,"4-room apartment",110,10.00,"new construction","upper floor",2,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Piata Avenue",Žilina
+JuOHl43if-S,"2-room apartment",38,13.95,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+Juv-PlaXTBH,"3-room apartment",60,9.67,"fully renovated",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"Reality Alpia",Martin
+JuiXqsf4YYv,"4-room apartment",99,13.13,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",NULL,NULL
+Juuc5eYfRcY,"2-room apartment",49,10.61,"fully renovated","upper floor",3,NULL,1900,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,"RE/MAX Slovakia",Bratislava
+JuvU6HPzzl0,"2-room apartment",42,13.10,"fully renovated","upper floor",2,NULL,2015,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Liptovská Ondrašová","OVERENÉ REALITY","Banská Bystrica"
+Ju67d-dUTmu,"3-room apartment",81,9.88,"fully renovated","upper floor",3,yes,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","JKV REAL",Prievidza
+JutGSTAuW2R,"2-room apartment",72,10.42,"fully renovated",NULL,NULL,NULL,2025,"not available",NULL,NULL,yes,NULL,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+Ju4LJ_g_D6K,"3-room apartment",73,10.92,"fully renovated","upper floor",3,NULL,2025,A,yes,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JudMJ6hNCSy,"2-room apartment",60,10.00,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,NULL,NULL
+Ju6MmU5y4t_,"4-room apartment",260,6.54,"new construction","top floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Rosinky,"Realitné kancelárie SR",Bratislava
+Juq_j6YQYsV,"2-room apartment",56,8.75,"fully renovated","ground floor",1,NULL,1980,E,NULL,NULL,yes,yes,"okres Martin",Martin,Stred,"Reality ASTORIA, s.r.o.",Martin
+JuoJ3kkyC7Y,"2-room apartment",60,9.17,"fully renovated","ground floor",1,NULL,NULL,C,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuVvUzJnXTu,"2-room apartment",70,12.86,"new construction","upper floor",9,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitné kancelárie SR",Bratislava
+JuNw9r8KaEc,"studio apartment",38,11.32,"fully renovated","top floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Ju_V7mSpqiT,"1-room apartment",25,20.00,"fully renovated","top floor",4,NULL,1970,"in preparation",NULL,NULL,NULL,yes,"okres Žilina",Žilina,Závodie,"TARGETreal s. r. o.",Žilina
+JuZMRwuUCim,"3-room apartment",65,11.54,"fully renovated","ground floor",1,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto",Nesluša,Nesluša,"Reality IQ, s.r.o.",Žilina
+Juq7qf85SJ_x,"2-room apartment",48,9.58,unrenovated,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Suľkov,"Realitné kancelárie SR",Bratislava
+JuW48-9PwOZ,"1-room apartment",50,10.00,"new construction","ground floor",1,NULL,2023,"not available",NULL,NULL,NULL,NULL,"okres Čadca","Krásno nad Kysucou",Stred,"JPE. Reality - Jozef Pajer",Čadca
+Ju5kidrwmrO2,"2-room apartment",50,9.20,"new construction","top floor",3,NULL,2010,"not available",NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"Safe reality s. r. o.",Žilina
+JuokG910TrR,"1-room apartment",30,14.33,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,yes,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuJqHGEd9oq,"holiday apartment",25,14.40,"fully renovated","raised ground floor",1,NULL,2000,"not available",NULL,NULL,NULL,NULL,"okres Žilina","Rajecké Teplice","Rajecké Teplice","AnoReal, s.r.o.",Stráňavy
+Ju9itHE-Ye8,"2-room apartment",55,11.82,"fully renovated",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JuE1GXKIL78,"1-room apartment",38,15.79,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+Juhxp3dqjhf,"1-room apartment",30,15.00,"fully renovated","upper floor",3,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,"Realitné kancelárie SR",Bratislava
+JufwsWkzi_8,"1-room apartment",30,14.33,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,yes,"okres Martin",Martin,Stred,"Realitná kancelária",Bratislava
+Juq2JDI17SL,"1-room apartment",37,17.57,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JufIcrH5ACA,"2-room apartment",70,11.29,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Piata Avenue",Žilina
+Ju9Ws1QPS3n,"4-room apartment",80,8.77,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"MGM reality",Žilina
+JuazplczVyT,"1-room apartment",25,15.20,"partially renovated","upper floor",3,NULL,1980,B,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","KA Real","Banská Bystrica"
+JuuM-q0SgiK,"4-room apartment",84,8.93,unrenovated,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Direct Real, spol. s r.o.",Bratislava
+JuUOO-LXy23,"3-room apartment",63,11.10,"fully renovated","ground floor",1,NULL,1969,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",jabyvam.sk,"Liptovský Mikuláš"
+JucyrM14fby,"4-room apartment",89,8.98,"fully renovated","upper floor",NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Realitné kancelárie SR",Bratislava
+JuxE6cxjVt5,"3-room apartment",72,11.11,"fully renovated","ground floor",1,yes,1979,"not available",yes,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"Reality Center, s.r.o.",Martin
+JuS9mzdfL46,"2-room apartment",80,6.63,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+Juopd9f8gHL,"2-room apartment",53,11.32,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"Realitné kancelárie SR",Bratislava
+JuKVuQz4tJM,"2-room apartment",43,12.56,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+JuXU3OM1vfY,"3-room apartment",65,10.77,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+Ju-7v4T1AY6H,"2-room apartment",59,10.00,"partially renovated","upper floor",4,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"Reality Alpia",Martin
+Juqwj6nqGVe,"3-room apartment",73,16.44,"new construction","added floor",3,yes,2021,A,NULL,yes,NULL,yes,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Kamence,Reality+,Žilina
+JufIYFnXqFe,"3-room apartment",70,7.86,"fully renovated","ground floor",1,NULL,1900,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"RE/MAX Slovakia",Bratislava
+JuUk6PkKhU1,"2-room apartment",65,12.31,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","JKV REAL",Prievidza
+JumYoLK7UqZ,"1-room apartment",40,12.50,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+JuJZH5W0xc8,"2-room apartment",70,8.29,"fully renovated","upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+Juluyhlg8Mb,"studio apartment",19,17.89,"partially renovated","raised ground floor",NULL,NULL,NULL,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,"Realitná kancelária",Bratislava
+JuE57rFMsYf,"2-room apartment",60,11.00,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",NULL,NULL
+Ju6xkslUZo-,"2-room apartment",75,12.67,"development project","upper floor",4,NULL,2009,"not available",yes,NULL,NULL,yes,"okres Žilina",Žilina,Bôrik,"Renovo Reality",Žilina
+JuwbdEJILXn,"2-room apartment",50,12.60,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hájik,NULL,NULL
+JuvOvL67CnW,"4-room apartment",75,8.53,"fully renovated","raised ground floor",1,NULL,1980,"not available",NULL,yes,NULL,yes,"okres Dolný Kubín","Dolný Kubín",Stred,"VAŠA REALITKA s.r.o.",Ružomberok
+Jum6U0_5m9N,"2-room apartment",59,8.47,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuoiWz-kUDq,"2-room apartment",50,14.00,"new construction","ground floor",1,NULL,2018,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"OVERENÉ REALITY","Banská Bystrica"
+JuxN0XX5d2L,"3-room apartment",74,10.90,"fully renovated","upper floor",4,NULL,2025,A,yes,NULL,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuQfDarw60S,"2-room apartment",64,9.38,"fully renovated","top floor",3,NULL,1980,C,NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,"ALT REAL, s.r.o.",Martin
+JuPs0jZ4Upm,"3-room apartment",60,11.67,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Nábrežie,"Realitné kancelárie SR",Bratislava
+JuZ2eoxoyai,"3-room apartment",80,5.00,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Partizánska Ľupča","Partizánska Ľupča",NULL,NULL
+Ju6KRY_ibJj,"3-room apartment",70,6.86,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Ružomberok",Ružomberok,Polík,NULL,NULL
+JuuS6FA8WTM,"1-room apartment",38,11.05,"fully renovated","ground floor",1,NULL,1990,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Žarec,"JPE. Reality - Jozef Pajer",Čadca
+JuwDKSHdYOM,"3-room apartment",57,8.25,"fully renovated","upper floor",2,NULL,1970,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"SLNOVRAT, s.r.o.",Olešná
+JuKE1haIfBQ,"1-room apartment",36,16.67,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JukH94BLOrl,"1-room apartment",38,10.53,"partially renovated","upper floor",3,NULL,1984,"not available",NULL,NULL,NULL,NULL,"okres Martin",Turany,Turany,"Like Reality s.r.o.","Považská Bystrica"
+Ju_P4weQ1yi,"3-room apartment",72,9.72,"partially renovated","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+Ju4jUNHrCaa,"2-room apartment",37,15.95,"fully renovated","upper floor",2,NULL,1984,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"EASY centrum bývania, s.r.o.",Žilina
+JueFBhJMkEL,"studio apartment",26,14.23,"fully renovated","upper floor",4,yes,1978,"not available",NULL,NULL,yes,NULL,"okres Čadca",Čadca,Žarec,"KUBALA REALITY, s.r.o.",Čadca
+JuiowNIBmX1,"3-room apartment",74,8.38,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Kyčerka,NULL,NULL
+JusujBj0j9H,"3-room apartment",80,9.50,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JupXiFdQKs1,"3-room apartment",70,10.43,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Solinky,"PRIVAT Reality spol.s.r.o",Bratislava
+Jut7GOvY7Cs,"3-room apartment",118,5.76,"new construction","top floor",4,NULL,2024,"in preparation",NULL,NULL,NULL,NULL,"okres Námestovo","Oravské Veselé","Oravské Veselé","OREA, s.r.o.","Dolný Kubín"
+Ju_N2iy5JWS,"studio apartment",18,14.44,"fully renovated","raised ground floor",1,NULL,2022,"not available",NULL,NULL,NULL,NULL,"okres Martin",Necpaly,Necpaly,"Reality ASTORIA, s.r.o.",Martin
+JukxcpBCVX8,"1-room apartment",29,17.93,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuyD0Z9BTN-,"2-room apartment",62,10.34,"fully renovated","upper floor",2,NULL,2025,A,NULL,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Ju9LPOOoAn-,"3-room apartment",92,9.67,"fully renovated","upper floor",3,NULL,2012,"not available",yes,NULL,NULL,yes,"okres Martin",Martin,Stred,"Financie a reality od A po Z",Martin
+Juq3cdm2VSm,"2-room apartment",51,11.02,"fully renovated","upper floor",4,NULL,2025,A,yes,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Jum7aZZZlIy,"1-room apartment",27,14.81,"fully renovated","upper floor",2,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Košúty,"Vianema s.r.o.",Bratislava
+JujQYigyRBf,"2-room apartment",63,6.90,"partially renovated","upper floor",3,NULL,2025,D,yes,NULL,NULL,NULL,"okres Martin",Martin,Sever,"Reality ASTORIA, s.r.o.",Martin
+Ju6nNzmPk_9,"2-room apartment",53,13.12,"fully renovated","top floor",6,yes,2025,"not available",NULL,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Ju6oJmE8oWf,"2-room apartment",56,10.68,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"SLNOVRAT, s.r.o.",Olešná
+JuXmK-edCSR,"3-room apartment",74,10.95,"fully renovated","upper floor",3,NULL,2025,A,yes,NULL,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuURItmx0gz,"2-room apartment",52,11.46,"new construction","top floor",3,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Žilina",Terchová,Terchová,"WFG reality, s.r.o.",Žilina
+JuBNi2HSNwg,"3-room apartment",90,7.78,"fully renovated","top floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Ľadoveň,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuJGytVBKhB,"2-room apartment",57,11.40,"fully renovated","ground floor",1,NULL,1956,"not available",yes,NULL,yes,NULL,"okres Martin",Martin,Podháj,"Like Reality s.r.o.","Považská Bystrica"
+JuaIL0ybcDR,"3-room apartment",81,8.02,"fully renovated","upper floor",4,yes,1934,"not available",yes,NULL,yes,NULL,"okres Žilina",Žilina,"Staré mesto","1. Reality Rent, s.r.o.",Žilina
+JubGyQoKm-F,"2-room apartment",55,9.82,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Nábrežie,NULL,NULL
+JuMlNRioczT,"3-room apartment",212,4.48,"partially renovated",attic,6,yes,NULL,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuKy-dL9Ryo,"2-room apartment",62,13.71,"new construction","top floor",5,yes,2025,C,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"WFG reality, s.r.o.",Žilina
+JuR0t0CZHt8,"2-room apartment",66,9.09,"partially renovated","upper floor",3,NULL,2010,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","Loviu, s.r.o.","Liptovský Mikuláš"
+JuyBFHxJEo2F,"2-room apartment",36,12.50,"partially renovated","upper floor",NULL,NULL,1975,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"B10 Slovensko, a. s.",Žilina
+Jus0-bkZHge,"3-room apartment",68,8.53,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,yes,"okres Martin",Martin,Ľadoveň,"Realitná kancelária",Bratislava
+Jubh8FOR_C9,"studio apartment",22,14.55,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,NULL,NULL
+JurzQ4OXOH_,"studio apartment",30,17.33,"new construction","upper floor",2,yes,2018,A,NULL,NULL,yes,NULL,"okres Žilina",Žilina,Hliny,"Reality Alpia",Martin
+Ju88ayVM-YP5,"4-room apartment",161,4.04,unrenovated,"upper floor",2,NULL,1997,"not available",NULL,NULL,NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice",Diviaky,"OVERENÉ REALITY","Banská Bystrica"
+Ju27eP_ig4Z,"2-room apartment",51,12.75,"new construction","upper floor",3,yes,2022,"not available",NULL,NULL,yes,NULL,"okres Žilina",Žilina,Hliny,"Safe reality s. r. o.",Žilina
+JuY5BHrBXS_,"4-room apartment",86,9.30,"fully renovated","upper floor",7,yes,1966,"not available",NULL,NULL,NULL,yes,"okres Martin",Martin,Košúty,"AstonReal s.r.o.","Banská Bystrica"
+JuDGw-se-Mg,"1-room apartment",38,10.53,"new construction","ground floor",1,NULL,2010,"not available",NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"Safe reality s. r. o.",Žilina
+JuQ4Jf_xqij,"2-room apartment",70,8.86,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,"BeMi realitná kancelária",Nitra
+Ju9csMkjbyN,"3-room apartment",71,8.73,"partially renovated","upper floor",NULL,NULL,1958,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Ľadoveň,"B10 Slovensko, a. s.",Žilina
+JuwMlHIuC26,"2-room apartment",31,17.74,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin","Turčianska Štiavnička","Turčianska Štiavnička","LEVEL REAL, s.r.o.",Trnava
+JuN8mAtD42x,"3-room apartment",60,9.17,"fully renovated","ground floor",1,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Klubina,Klubina,"Trioreality, s.r.o.",Čadca
+Jun8HaIrjPB,"3-room apartment",72,9.03,"fully renovated","ground floor",1,yes,1955,"not available",NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín","Veľký Bysterec","OREA, s.r.o.","Dolný Kubín"
+JuZ6EDDylkC,"3-room apartment",85,8.82,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+Ju6cRlkmMC_,"1-room apartment",28,12.50,"fully renovated","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín",Istebné,Istebné,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuFBiuRLpoy,"2-room apartment",55,11.82,"new construction",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","Direct Real, spol. s r.o.",Bratislava
+JuIgM2fUqeh,"2-room apartment",54,10.56,"fully renovated","top floor",3,NULL,1970,"not available",NULL,NULL,yes,yes,"okres Martin",Martin,Podháj,"Reality Simply",Martin
+JurbbuyjxWx,"3-room apartment",132,9.47,"new construction","upper floor",3,NULL,2009,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JuSS030a7te,"1-room apartment",41,14.56,"fully renovated","upper floor",6,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Realitka pre každého",Žilina
+Ju93xLSe03c,"1-room apartment",30,10.67,"partially renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"MGM reality",Žilina
+JuRvQ8h5ljK,"3-room apartment",72,10.42,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuqL8yAiSJt,"2-room apartment",43,12.79,"new construction","upper floor",2,NULL,2023,A,NULL,NULL,NULL,NULL,"okres Čadca","Krásno nad Kysucou",Kalinov,"ETHOS reality, s. r. o.","Krásno nad Kysucou"
+JuCHpapFKG8,"2-room apartment",48,11.56,"new construction","ground floor",1,NULL,2023,A,NULL,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"Reality ASTORIA, s.r.o.",Martin
+Ju54zsovXgd,"3-room apartment",63,11.75,"partially renovated","upper floor",3,NULL,1960,"not available",yes,NULL,NULL,yes,"okres Žilina",Žilina,Hliny,"EASY centrum bývania, s.r.o.",Žilina
+JuUygteSgA9,"2-room apartment",50,7.80,"partially renovated","ground floor",1,NULL,1970,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Safe reality s. r. o.",Žilina
+JuvxnqGhrvB,"3-room apartment",75,6.67,"partially renovated","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Čadca,NULL,"Realitné kancelárie SR",Bratislava
+JudF4Y5NRYO,"2-room apartment",39,15.38,"new construction","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Liptovská Mara - Tatralandia","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuWSXBSHA4W,"studio apartment",27,12.42,"fully renovated","ground floor",1,yes,1980,"not available",NULL,NULL,yes,NULL,"okres Čadca",Čadca,Žarec,"1. Reality Rent, s.r.o.",Žilina
+JuSwv58uXFj,"studio apartment",23,16.96,"fully renovated","top floor",NULL,NULL,NULL,B,yes,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuSEGf_jb32,"2-room apartment",58,11.21,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo","Oravské Veselé","Oravské Veselé","BeMi realitná kancelária",Nitra
+Jusrma_M5xf,"3-room apartment",72,11.11,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Solinky,NULL,NULL
+JuETFY0yocs,"3-room apartment",52,13.46,"fully renovated","upper floor",NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitné kancelárie SR",Bratislava
+Juo8y036wNc,"2-room apartment",57,13.02,"fully renovated","upper floor",5,NULL,2025,"not available",NULL,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuPeIRhvo6g,"2-room apartment",52,12.50,"new construction","ground floor",1,NULL,2022,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"BRATISLAVA REAL s.r.o.",Senec
+Juq3ES8kVdO,"2-room apartment",74,8.11,"fully renovated","upper floor",NULL,NULL,1950,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"B10 Slovensko, a. s.",Žilina
+JupL8ZjnO78,"1-room apartment",39,16.67,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuzI-cY3VGB,"2-room apartment",60,10.00,"partially renovated","upper floor",2,NULL,1935,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","WFG reality, s.r.o.",Žilina
+JuC3qFxZRHA,"2-room apartment",63,10.95,"fully renovated","top floor",3,NULL,1969,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"TARGETreal s. r. o.",Žilina
+JuOtmAhAnN-,"3-room apartment",80,8.63,"fully renovated","upper floor",2,NULL,1960,"not available",yes,yes,yes,yes,"okres Žilina",Žilina,"Staré mesto","LAVENTURA s.r.o.",Žilina
+JuuGHfugsJe,"2-room apartment",41,14.46,"new construction","ground floor",1,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Žilina",Terchová,Terchová,"WFG reality, s.r.o.",Žilina
+JuxOi4dlZ8Z,"2-room apartment",58,9.48,"partially renovated",NULL,NULL,NULL,2025,"not available",NULL,yes,yes,NULL,"okres Martin",Martin,Košúty,"Reality Alpia",Martin
+JuxSKEPCvI9,"1-room apartment",40,10.50,"new construction","ground floor",1,NULL,2010,A,NULL,NULL,NULL,NULL,"okres Čadca",Oščadnica,Oščadnica,"JPE. Reality - Jozef Pajer",Čadca
+JumIry3ptkT,"2-room apartment",63,7.12,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Mútne,Mútne,"BeMi realitná kancelária",Nitra
+JuJkIhlhMxu,"3-room apartment",71,8.42,"partially renovated","upper floor",3,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Kyčerka,"1. Reality Rent, s.r.o.",Žilina
+JunnDIKOU8H,"2-room apartment",64,10.16,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Sídlisko,NULL,NULL
+Ju1CJs1XMWM,"2-room apartment",49,14.29,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+Ju52OxQfZ-e,"3-room apartment",73,8.84,"fully renovated","upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Brezovec,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Juug2Jz1Pse,"1-room apartment",28,13.93,"fully renovated","upper floor",2,NULL,1980,B,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","KA Real","Banská Bystrica"
+JuR_XmdYxiI,"1-room apartment",43,12.79,"new construction",NULL,NULL,NULL,2025,"not available",NULL,NULL,yes,NULL,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JuwL1ope4JQ,"2-room apartment",56,13.57,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+Jur94HxnWLm,"studio apartment",24,14.58,"fully renovated","upper floor",2,NULL,1988,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Kyčerka,"JPE. Reality - Jozef Pajer",Čadca
+JugZ1tAn0SZ,"1-room apartment",37,13.24,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Jahodníky,NULL,NULL
+Juc_BdIYUe1,"3-room apartment",68,9.56,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín","Veľký Bysterec",NULL,NULL
+JuWjsR8x7Sv,"2-room apartment",61,8.20,"partially renovated","top floor",7,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,NULL,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JulRM1RZW6m,"4-room apartment",136,8.82,"new construction","top floor",5,NULL,2009,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+Ju4lgcUtMo2,"2-room apartment",68,8.53,unrenovated,"upper floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","X-REAL, s. r. o.",Žilina
+JuFMzwDkckH,"3-room apartment",86,8.72,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuB3Z9PEAiq,"3-room apartment",74,8.11,"fully renovated","ground floor",1,NULL,2010,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Závodie,"Safe reality s. r. o.",Žilina
+JuGX51SpwM8,"3-room apartment",80,8.13,unrenovated,"upper floor",5,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín","Veľký Bysterec","OREA, s.r.o.","Dolný Kubín"
+JuEn89TLzyn,"2-room apartment",59,12.20,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+JuDVCgxcWoV,"1-room apartment",30,15.13,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,yes,"okres Dolný Kubín","Dolný Kubín",Stred,"KES - RV s.r.o.",Rožňava
+Ju4rzPnW6--,"1-room apartment",44,9.55,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Rajec,Rajec,NULL,NULL
+JuPIcosPUIK,"2-room apartment",54,12.22,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+Jua2VQSxknR,"2-room apartment",65,10.77,"fully renovated","ground floor",1,NULL,1982,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Safe reality s. r. o.",Žilina
+Jute43unDDv,"2-room apartment",53,10.38,"fully renovated","top floor",6,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuNbmfaprZN,"2-room apartment",56,12.07,"fully renovated",NULL,NULL,NULL,2025,"not available",NULL,yes,yes,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","Reality Alpia",Martin
+JuMDbkTFIEs,"studio apartment",23,13.04,unrenovated,"top floor",7,NULL,1980,D,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,"Reality ASTORIA, s.r.o.",Martin
+JuKOSky-gaQ,"2-room apartment",55,10.31,"fully renovated","upper floor",2,NULL,2025,A,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Jug-3hxWFLu,"3-room apartment",53,13.21,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitné kancelárie SR",Bratislava
+Jumh9UnxAYr,"2-room apartment",59,11.86,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"ROMDOM, s. r. o",Žilina
+JujoQo2VGUJ,"1-room apartment",47,13.83,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","PRIMA reality s.r.o.",Žilina
+Jur10DDDefn,"2-room apartment",45,14.58,"fully renovated","upper floor",5,NULL,2025,"not available",NULL,yes,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JulljNn3BQ6,"3-room apartment",76,8.42,"fully renovated","upper floor",3,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","JKV REAL",Prievidza
+JuRjoCvdqrS,"3-room apartment",68,9.53,"fully renovated","upper floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Košúty,"Realitná kancelária",Bratislava
+JuX28I09sjk,"3-room apartment",72,8.75,"fully renovated",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,"TUreality s.r.o.",Žilina
+JuC150gf4x0,"3-room apartment",64,10.86,"new construction","ground floor",1,NULL,2018,B,NULL,NULL,NULL,yes,"okres Martin",Martin,Stred,"Reality ASTORIA, s.r.o.",Martin
+JuOHtDh4ssx,"3-room apartment",81,9.88,"fully renovated","upper floor",3,yes,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","JKV REAL",Prievidza
+Ju99QRQeIB6,"1-room apartment",32,13.44,"fully renovated","upper floor",5,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Okoličné,"Reality Alpia",Martin
+Juc13_FCZgH,maisonette,100,6.00,unrenovated,"upper floor",2,NULL,2000,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","GERT , s.r.o.","Liptovský Mikuláš"
+JupsSzyT0cr,"2-room apartment",32,8.91,"fully renovated","upper floor",4,yes,1985,"not available",NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","Reality AK, spol. s r.o.",Martin
+JuDUhZhbscW,"3-room apartment",59,12.12,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,NULL,NULL
+JudTzF1WzhJ,"2-room apartment",58,12.59,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Malá Praha",NULL,NULL
+JuZZDPtR2IXg,"1-room apartment",65,11.54,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","PRIMA reality s.r.o.",Žilina
+Ju6CbHXXMaR,"2-room apartment",48,12.43,"new construction","top floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuJyLb9uZkF,"2-room apartment",63,11.90,"fully renovated","top floor",3,NULL,1970,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JubcX2eX1Ec,"2-room apartment",42,14.29,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+Ju43Fk0eYYh,"3-room apartment",72,9.31,"fully renovated","ground floor",NULL,NULL,1978,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Žarec,"1. Reality Rent, s.r.o.",Žilina
+JuN7uIfPm4u,"3-room apartment",57,12.59,"new construction","upper floor",4,NULL,2011,B,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"AnoReal, s.r.o.",Stráňavy
+JuAChQKUc2K,"3-room apartment",80,8.14,"fully renovated","top floor",3,NULL,1958,"not available",NULL,NULL,yes,yes,"okres Martin",Martin,Stred,"Reality Center, s.r.o.",Martin
+JuUPtRtKqg1,"holiday apartment",27,10.37,unrenovated,"top floor",2,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Tvrdošín",Nižná,Nižná,"Realitné kancelárie SR",Bratislava
+JuS-j-NozyD,"3-room apartment",85,11.18,"new construction","upper floor",4,NULL,2011,B,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitná kancelária RED, s.r.o.",Žilina
+Ju6448VMXkm,"2-room apartment",62,9.19,"fully renovated",NULL,NULL,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Martin",Vrútky,NULL,"TUreality s.r.o.",Žilina
+JuR_dv_w6nb,"3-room apartment",68,9.56,"fully renovated","raised ground floor",1,yes,1990,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"Reality Turiec s.r o.",Martin
+Ju65g8tl_o6,"2-room apartment",55,13.09,"fully renovated","top floor",6,NULL,2025,"not available",NULL,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Jur9DmBKE6k,"3-room apartment",65,9.08,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Čadca",Turzovka,Stred,NULL,NULL
+Juethr02QAh,"3-room apartment",55,11.45,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"OREA, s.r.o.","Dolný Kubín"
+JuRPpAPhQaY,"3-room apartment",82,9.76,"fully renovated","upper floor",4,NULL,1969,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JukVWGCXzBK,"3-room apartment",86,8.49,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","MGM reality",Žilina
+JuVL9EcWc2t,"2-room apartment",55,10.31,"fully renovated","upper floor",4,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JugAp1u_qk1,"studio apartment",22,20.91,"fully renovated","upper floor",6,yes,1980,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"EASY centrum bývania, s.r.o.",Žilina
+JuJPy3KQ41X,"2-room apartment",52,11.45,"new construction","upper floor",6,yes,2025,"not available",yes,NULL,NULL,yes,"okres Martin",Martin,Priekopa,"Reality Alpia",Martin
+Ju_bbWxDvZ7,"1-room apartment",38,11.84,"fully renovated","top floor",NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",NULL,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuQBqq7Pwpu,"2-room apartment",85,9.41,"fully renovated","upper floor",2,NULL,1969,B,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+JulaIQCE-Uz,"2-room apartment",51,13.53,"new construction","upper floor",3,yes,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuXClsCim_Y,"3-room apartment",85,7.65,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JufDkMDnCvm,"3-room apartment",79,10.13,"fully renovated","upper floor",2,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Bytčica,"Stanislav Motyčík - MK",Žilina
+JuXB6L99RjI,"2-room apartment",55,10.73,"new construction","upper floor",15,NULL,2010,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"MGM reality",Žilina
+JuvyqEQLT9W,"4-room apartment",100,7.00,unrenovated,NULL,NULL,NULL,2025,"not available",yes,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"Reality Alpia",Martin
+Ju5B5pSVvke,"3-room apartment",72,12.36,"fully renovated","upper floor",6,NULL,1970,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","RIEŠIME BÝVANIE",Bratislava
+JuKfypJ44Pi,"2-room apartment",50,8.80,"fully renovated","ground floor",1,NULL,1981,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Klubina,Klubina,"Trioreality, s.r.o.",Čadca
+JuQLJpNFPOX,"1-room apartment",35,12.46,"partially renovated","top floor",4,NULL,NULL,NULL,NULL,yes,NULL,yes,"okres Dolný Kubín","Dolný Kubín","Veľký Bysterec","FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JupfL7Qxmcc,"3-room apartment",115,7.83,"new construction","upper floor",2,yes,2013,"not available",NULL,yes,NULL,yes,"okres Žilina",Žilina,Hliny,"STAREA, s. r. o.",Žilina
+Juk3yNZ7Eva,"2-room apartment",60,12.50,"new construction","raised ground floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina","Rajecké Teplice","Rajecké Teplice","Realitná kancelária",Bratislava
+JuZzvx283W0,"1-room apartment",30,13.33,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+JuP5uFTNe1Q,"3-room apartment",87,12.07,"new construction","top floor",7,NULL,2010,"not available",NULL,yes,NULL,yes,"okres Žilina",Žilina,Vlčince,"KVArent, s.r.o.",Žilina
+JuALKaJfivV,"3-room apartment",70,8.43,unrenovated,"raised ground floor",NULL,NULL,1990,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hájik,"B10 Slovensko, a. s.",Žilina
+JuviBInVrFn,"1-room apartment",37,14.86,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+JuqUuNNcs6x,"2-room apartment",48,14.58,"new construction","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+Ju3G8jSFFI9,"2-room apartment",52,10.00,"new construction","ground floor",1,NULL,2020,"not available",NULL,NULL,NULL,NULL,"okres Čadca",Čadca,Centrum,"JPE. Reality - Jozef Pajer",Čadca
+Jus3m-rZi5G,"2-room apartment",53,9.47,"fully renovated","upper floor",4,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Julv6O2K4io,"2-room apartment",58,9.48,"partially renovated","upper floor",NULL,NULL,1980,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,"B10 Slovensko, a. s.",Žilina
+JuxRPO2xwZZ,"2-room apartment",54,8.37,"new construction","upper floor",3,NULL,2015,"not available",yes,NULL,NULL,NULL,"okres Martin",Martin,Stred,"DreamReality s.r.o.",Žilina
+Jugu2Y2-InX,"2-room apartment",67,8.51,"partially renovated","ground floor",1,NULL,NULL,B,NULL,yes,NULL,yes,"okres Žilina",Žilina,Bôrik,"Buby reality, s.r.o.",Žilina
+JuFA8PJP0f8,"2-room apartment",59,9.32,"fully renovated","upper floor",4,NULL,1900,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"RE/MAX Slovakia",Bratislava
+JuziSU1LhLt,"studio apartment",37,12.70,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,NULL,NULL
+JucVDDFBRT8,"4-room apartment",93,12.43,"fully renovated","ground floor",1,NULL,2025,A,yes,NULL,NULL,yes,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuANNBb14Ku,"1-room apartment",28,12.79,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Dolný Kubín",Istebné,Istebné,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JuIFK1fc6FD,"3-room apartment",80,7.52,"partially renovated","upper floor",5,yes,NULL,NULL,NULL,yes,NULL,yes,"okres Martin",Martin,Sever,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+Ju3RCMQs9vo,"2-room apartment",60,10.00,"new construction","raised ground floor",1,NULL,2022,A,NULL,NULL,NULL,yes,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","KRUPPKY, s.r.o.","Liptovský Mikuláš"
+JuSCw29I996,"3-room apartment",72,8.39,"fully renovated","upper floor",3,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",Prekážka,"Reality Alpia",Martin
+JuYmnqxfCfU,"2-room apartment",52,10.97,"fully renovated","upper floor",5,NULL,2025,"not available",yes,NULL,NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+Ju2RLrI1kcS,"2-room apartment",71,8.45,"new construction","upper floor",5,NULL,2009,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"DreamReality s.r.o.",Žilina
+JuLfK4N9KuJ,"4-room apartment",90,9.44,"fully renovated","top floor",2,NULL,2000,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","PRIMA reality s.r.o.",Žilina
+JuXFWi9ToVv,"1-room apartment",43,10.23,"fully renovated","upper floor",2,NULL,1979,"not available",NULL,NULL,NULL,NULL,"okres Námestovo",Námestovo,NULL,"HD reality group s.r.o","Banská Bystrica"
+JuIAvskne5z,"2-room apartment",60,8.33,"fully renovated","upper floor",3,NULL,1975,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","GERT , s.r.o.","Liptovský Mikuláš"
+JuOCwlB4zqX,"2-room apartment",67,8.96,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Podháj,NULL,NULL
+Ju6c9z03WhY,"2-room apartment",63,10.37,"fully renovated","upper floor",2,NULL,1955,"not available",yes,NULL,yes,NULL,"okres Martin",Martin,Stred,"Reality Center, s.r.o.",Martin
+JueYWDVVrdd,"2-room apartment",80,6.00,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Mútne,Mútne,"BeMi realitná kancelária",Nitra
+Ju9hEcnte9-,"3-room apartment",73,6.30,"partially renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Námestovo,Brehy,NULL,NULL
+Ju12bwYQ7nT,"3-room apartment",63,8.41,"new construction","top floor",2,NULL,2022,A,yes,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"Reality ASTORIA, s.r.o.",Martin
+JutR_NlarhR,"2-room apartment",69,10.14,"new construction","raised ground floor",1,NULL,2009,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Bôrik,"DreamReality s.r.o.",Žilina
+JuSGqC8nbbl,"3-room apartment",60,13.17,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,NULL,NULL
+Ju6fwBTV6P6,"2-room apartment",54,14.37,unrenovated,NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Bôrik,"MGM reality",Žilina
+JupFlDUtQOE,"2-room apartment",46,14.13,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+JuYypAB3WNO,"studio apartment",29,18.28,"new construction","upper floor",3,yes,2020,"not available",NULL,NULL,yes,yes,"okres Žilina",Žilina,Vlčince,"Mgr. Nina Herčková, RSc.",Žilina
+JuwiNiRwZ-G,"3-room apartment",74,10.97,"fully renovated","upper floor",2,NULL,2025,A,yes,NULL,yes,NULL,"okres Bytča",Bytča,"Veľká Bytča","Fortio Popper s.r.o.",Bytča
+JuOFc-qmQAu,"2-room apartment",67,10.45,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,NULL,NULL
+JuTcLcPMeUX,"2-room apartment",56,11.50,"new construction","upper floor",2,NULL,2025,A,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Horné Vrútky","ALT REAL, s.r.o.",Martin
+Ju3fRh58rlQ,"2-room apartment",51,11.22,"partially renovated",basement,0,NULL,1971,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","OVERENÉ REALITY","Banská Bystrica"
+Jujum4J4wb2,"2-room apartment",60,8.33,"fully renovated","ground floor",1,NULL,1980,D,NULL,NULL,NULL,NULL,"okres Martin",Martin,Ľadoveň,"Reality ASTORIA, s.r.o.",Martin
+JuEI53pWqzW,"3-room apartment",90,9.44,"new construction",NULL,NULL,NULL,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JusqNW2Fg5o,"1-room apartment",27,18.52,"fully renovated",NULL,NULL,NULL,NULL,"not available",NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Pavčina Lehota","Pavčina Lehota","Direct Real, spol. s r.o.",Bratislava
+JuOxbo4pSSp,"3-room apartment",75,13.33,"fully renovated","top floor",6,NULL,2010,"not available",yes,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"TARGETreal s. r. o.",Žilina
+Ju9t-oEiYBZ,"3-room apartment",84,8.10,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",NULL,NULL,NULL
+JueYB6GvrEe,"3-room apartment",72,10.42,"fully renovated","upper floor",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitné kancelárie SR",Bratislava
+JuG0JmIY6PQ,"2-room apartment",76,8.82,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,NULL,NULL
+JuOLK-0T1Mn,"2-room apartment",40,17.50,"fully renovated","upper floor",2,NULL,2009,"not available",NULL,NULL,yes,NULL,"okres Žilina",Žilina,"Staré mesto","RIEŠIME BÝVANIE",Bratislava
+Ju5-9cSZw35,"3-room apartment",85,8.82,"new construction","upper floor",4,yes,2010,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"ALT REAL, s.r.o.",Martin
+JuykAcnsUj0,"3-room apartment",85,9.76,"new construction","upper floor",3,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","MGM reality",Žilina
+JuoaEOkD_KF,"3-room apartment",90,9.67,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto",NULL,NULL
+Ju-CieQQxUN,"2-room apartment",51,13.65,"new construction","upper floor",3,yes,2023,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Palúdzka,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JutjYOCC9EK,"2-room apartment",40,13.75,"new construction","ground floor",1,yes,2010,"not available",NULL,yes,yes,NULL,"okres Žilina",Žilina,"Staré mesto","DreamReality s.r.o.",Žilina
+JuawIhGVyvh,"3-room apartment",79,6.96,"fully renovated","upper floor",6,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Námestovo,Stred,"BeMi realitná kancelária",Nitra
+JuMq5sG1YBG,"2-room apartment",56,9.64,"fully renovated","upper floor",3,yes,1974,"not available",yes,NULL,NULL,yes,"okres Martin",Martin,Košúty,"MTS Reality, s.r.o.",Martin
+Ju0bNiistMRJ,"1-room apartment",30,16.67,"new construction","ground floor",1,NULL,2024,A,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Thurzove sady","Realitná kancelária RED, s.r.o.",Žilina
+JujO1vhWS9Y,"3-room apartment",59,12.46,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Sever,NULL,NULL
+Ju28v4oyz1R,"1-room apartment",44,8.64,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto",Nesluša,Nesluša,NULL,NULL
+JuH32c8NNad,"2-room apartment",45,12.22,"new construction","upper floor",2,yes,2020,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"AstonReal s.r.o.","Banská Bystrica"
+JuB4nMTbdT2,"3-room apartment",83,6.02,unrenovated,"upper floor",3,yes,2019,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Vavrečka,Vavrečka,"bezmaklérov, s.r.o.",Žilina
+JuktwYpm4CV,"2-room apartment",49,10.20,"partially renovated","raised ground floor",1,NULL,NULL,B,NULL,NULL,NULL,NULL,"okres Martin",Martin,Záturčie,"Buby reality, s.r.o.",Žilina
+JujjF4h9vha,"2-room apartment",72,10.42,"fully renovated",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,NULL,NULL
+JuRdV1LIJPu,"1-room apartment",37,13.24,"fully renovated","ground floor",NULL,NULL,2017,A,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","AstonReal s.r.o.","Banská Bystrica"
+JuT8T2mhbPp,"2-room apartment",47,12.13,"new construction","ground floor",1,NULL,1900,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"RE/MAX Slovakia",Bratislava
+Juvh354emFK,"3-room apartment",81,9.88,"fully renovated","upper floor",3,NULL,1980,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Safe reality s. r. o.",Žilina
+JuwR10kFsHB,"2-room apartment",62,10.00,"fully renovated","raised ground floor",4,yes,1970,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Vlčince,"Renovo Reality",Žilina
+JuarCLPx8dZ,"2-room apartment",50,13.60,"fully renovated","ground floor",1,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuG8ggFzvSj,"3-room apartment",100,6.50,"partially renovated","top floor",2,NULL,1970,"not available",NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","R2 SK, s.r.o.",Žilina
+JuxasD7Z9Ys,"2-room apartment",55,10.91,"fully renovated","upper floor",2,NULL,1960,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Stred,"ALT REAL, s.r.o.",Martin
+JuU-rP3IJ1-,"2-room apartment",68,12.50,"new construction","top floor",5,yes,2022,A,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","WFG reality, s.r.o.",Žilina
+JuXBGzjsqRS,"3-room apartment",77,11.43,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Bytča",Bytča,"Thurzove sady",NULL,NULL
+JuDHzNZw0-F,"3-room apartment",87,7.51,"fully renovated","upper floor",2,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Priekopa,"Reality Alpia",Martin
+Jugh-H3CM-c,"2-room apartment",69,6.86,"new construction",NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,"okres Námestovo",Mútne,Mútne,"BeMi realitná kancelária",Nitra
+Ju3IaCCie7D,"4-room apartment",83,8.67,"partially renovated","upper floor",6,yes,2025,"not available",NULL,NULL,NULL,NULL,"okres Martin",Martin,Ľadoveň,"Reality Alpia",Martin

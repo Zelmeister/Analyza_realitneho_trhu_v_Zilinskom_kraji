@@ -1,0 +1,863 @@
+offer_id,property_type,area,condition,price_m2,built_in,house_area,land_area,built_up_area,terrain,energy_certificate,electricity,water,location_district,location_city,location_area,agency,office_city
+JurZTuUssP0,house,124,"new construction",1330.65,2025,124,665,145,flat,"not available",on-site,well,"okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JutFw8pKjMj,house,130,unrenovated,537.69,1970,130,646,130,flat,"not available",NULL,"public water","okres Kysucké Nové Mesto",Lodno,Lodno,"WFG reality, s.r.o.",Žilina
+JuKW3SQ8Df4,house,307,"partially renovated",353.85,1996,307,1500,181,flat,"not available",NULL,NULL,"okres Čadca",Makov,Makov,"1. Reality Rent, s.r.o.",Žilina
+JuLJB10v5yK,house,130,"fully renovated",2500.00,1960,130,753,130,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,Trnové,"TUreality s.r.o.",Žilina
+Ju2gistO4oo,house,130,unrenovated,1961.54,1905,130,1812,150,NULL,"not available",NULL,NULL,"okres Martin",Martin,Priekopa,"Realitná kancelária",Bratislava
+JuDeBj46p9m,house,225,unrenovated,1062.22,1976,225,583,150,flat,"not available",on-site,"public water","okres Turčianske Teplice","Turčianske Teplice",Stred,"TARGETreal s. r. o.",Žilina
+JubUhU28foO,house,833,unrenovated,118.25,2025,833,833,90,"gently sloped","not available","not available",well,"okres Kysucké Nové Mesto",Rudinská,Rudinská,"Reality Alpia",Martin
+JuSsCe7WLb6P,house,734,"partially renovated",185.29,1960,734,734,NULL,flat,"not available","not available",well,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","Reality Alpia",Martin
+JuB2SVYi89D,house,150,"partially renovated",720.00,1950,150,238,213,flat,"not available",NULL,NULL,"okres Žilina","Rajecká Lesná","Rajecká Lesná","1. Reality Rent, s.r.o.",Žilina
+JuYNloJYOdw,house,140,unrenovated,NULL,1970,140,1034,150,flat,"not available",on-site,"public water","okres Martin",Príbovce,Príbovce,"Reality MT s.r.o.",Martin
+JulZg30zNO8,house,250,"partially renovated",1076.00,2000,250,861,102,flat,"not available",NULL,NULL,"okres Žilina","Lietavská Lúčka","Lietavská Lúčka","AstonReal s.r.o.","Banská Bystrica"
+JuJjPVMhkUw,house,250,"new construction",1439.96,2022,250,648,241,NULL,A,NULL,NULL,"okres Martin",Martin,Priekopa,"Georgi Conev",Žilina
+JudQy8A1FLU,house,230,"partially renovated",869.13,2010,230,597,104,sloped,"not available",on-site,"public water","okres Kysucké Nové Mesto",Ochodnica,Ochodnica,"Pro Real, s. r. o. realitná kancelária",Žilina
+Ju1eOtgzhMF,house,80,"new construction",2499.88,2024,80,435,100,NULL,A,NULL,NULL,"okres Bytča","Veľké Rovné","Veľké Rovné","TARGETreal s. r. o.",Žilina
+Jui4dVLb9Ci,house,110,"new construction",2318.18,2024,110,566,132,flat,A,NULL,NULL,"okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","Reality AK, spol. s r.o.",Martin
+JuC8my3kfcD,house,90,unrenovated,3500.00,1975,90,898,90,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Demänovská Dolina","Demänovská Dolina","Romantické Chalupy, s.r.o.",Bratislava
+JultKoQUF1n,house,378,"fully renovated",658.73,2025,378,NULL,NULL,"gently sloped","not available","not available",well,"okres Martin",Valča,Valča,"Reality Alpia",Martin
+JuSbYhRyin-,house,240,"fully renovated",1395.42,1932,240,434,150,flat,"not available",NULL,NULL,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","Mamud Reality s. r. o.",Žilina
+JucbDZIqH5K,house,378,"fully renovated",515.87,1930,378,812,308,flat,"not available",NULL,"public water","okres Dolný Kubín","Medzibrodie nad Oravou","Medzibrodie nad Oravou","OREA, s.r.o.","Dolný Kubín"
+JuTe9xTBEze,house,148,unrenovated,1445.95,1963,148,1100,148,"gently sloped","not available",NULL,NULL,"okres Žilina","Rajecké Teplice","Rajecké Teplice","EASY centrum bývania, s.r.o.",Žilina
+Ju9jNRRDueP,house,35,"new construction",3428.57,2019,35,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Ján","Liptovský Ján","TUreality s.r.o.",Žilina
+Ju7QtyDiguT,house,1,"fully renovated",NULL,2010,1,441,86,flat,"not available",NULL,"public water","okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","KRUPPKY, s.r.o.","Liptovský Mikuláš"
+Ju8LEFRICza,house,177,"under construction",1519.95,2024,177,NULL,177,"gently sloped",A,on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie",donidDevelop,"Dolný Kubín"
+JuLVnnHvRdJ,house,140,"partially renovated",NULL,1978,140,632,140,flat,"not available",NULL,NULL,"okres Martin",Daňová,Ďanová,"Reality IQ, s.r.o.",Žilina
+JuxpGt9B3Fh,house,150,unrenovated,1166.67,1980,150,2275,200,flat,"in preparation",on-site,"public water","okres Martin",Príbovce,Príbovce,"CreeX Reality s.r.o.",Trnava
+Ju3Q6cuW_-I,house,120,unrenovated,665.83,1910,120,456,95,flat,"not available",on-site,well,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","RE/MAX Slovakia",Bratislava
+Jul9YtuXJRu,house,180,"new construction",1582.22,2024,180,519,150,"mostly flat",A,NULL,NULL,"okres Ružomberok",Ružomberok,Baničné,"FISCHER & PARTNERS, s.r.o.",Ružomberok
+Jukf6G0DA_c,house,240,"partially renovated",1145.83,1991,240,596,155,flat,NULL,on-site,well,"okres Bytča",Bytča,"Veľká Bytča","B10 Slovensko, a. s.",Žilina
+JurJNQloNhD,house,90,unrenovated,1544.44,1970,90,362,130,NULL,"not available",NULL,NULL,"okres Kysucké Nové Mesto",Radoľa,Radoľa,"BR ACADEMY, s. r. o.","Kysucké Nové Mesto"
+Ju_HmYYnmau,house,132,"new construction",1931.82,2024,132,550,132,flat,A,on-site,"public water","okres Martin",Martin,Stred,"ALT REAL, s.r.o.",Martin
+Juoe47l29P7,house,160,"under construction",1715.85,2024,160,677,120,flat,"not available",on-site,"public water","okres Žilina",Žilina,Trnové,"R2 SK, s.r.o.",Žilina
+Ju00Y-txNcF,house,339,"partially renovated",264.01,1980,339,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Pribylina,Pribylina,"TUreality s.r.o.",Žilina
+Ju4LWhuX-Wj,house,524,"fully renovated",NULL,1980,524,524,NULL,"gently sloped","not available",NULL,well,"okres Ružomberok",Ružomberok,"Biely Potok","TUreality s.r.o.",Žilina
+Jubn7zHTz__,house,240,"partially renovated",945.83,1970,240,1034,120,flat,"not available",on-site,"public water","okres Tvrdošín",Nižná,Nižná,"RK Dalmia s. r. o.","Dolný Kubín"
+JuqnxCpkC06,house,146,"new construction",2361.33,2022,146,939,166,NULL,A,NULL,NULL,"okres Dolný Kubín","Oravská Poruba","Oravská Poruba","Georgi Conev",Žilina
+Juic0vZirTi,house,563,"fully renovated",NULL,2025,563,NULL,NULL,flat,"not available","not available",well,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+JuS8ciWyKMi,house,200,unrenovated,1400.00,1900,200,1371,250,flat,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","RE/MAX Slovakia",Bratislava
+JubTPdj-awZ,house,117,"under construction",1109.12,2025,117,NULL,146,flat,"not available","at property line","public water","okres Turčianske Teplice",Budiš,Budiš,"Reality MT s.r.o.",Martin
+JuGIhhHbPqD,house,754,"new construction",273.21,2011,754,754,76,flat,"not available",NULL,well,"okres Turčianske Teplice","Malý Čepčín","Malý Čepčín","TUreality s.r.o.",Žilina
+JuxiHYI3lEP,house,112,"new construction",3651.79,2025,112,508,132,"mostly flat",NULL,NULL,NULL,"okres Žilina",Bitarová,Bitarová,"Realitná kancelária RED, s.r.o.",Žilina
+JuS_u3LjF53,house,200,"partially renovated",NULL,1992,200,1200,130,NULL,"not available",NULL,NULL,"okres Martin",Martin,Stráne,"TARGETreal s. r. o.",Žilina
+JuIAC6P7EYu,house,447,"new construction",536.91,1980,447,447,250,NULL,"not available",on-site,well,"okres Dolný Kubín",Párnica,Párnica,"TUreality s.r.o.",Žilina
+JuSi1nzOb00,house,180,"new construction",2050.00,2023,180,1082,154,"mostly flat",A,on-site,well,"okres Kysucké Nové Mesto","Horný Vadičov","Horný Vadičov","DRR INVEST, s. r. o.","Horný Hričov"
+JuwBtG9o2r1,house,133,"new construction",1472.18,2025,133,363,133,flat,"in preparation",NULL,NULL,"okres Čadca","Nová Bystrica","Nová Bystrica","SLNOVRAT, s.r.o.",Olešná
+JuN_zFqT9wt,house,90,"fully renovated",1811.11,1900,90,NULL,70,flat,"not available",on-site,"public water","okres Martin","Turčianska Štiavnička","Turčianska Štiavnička","Reality MT s.r.o.",Martin
+JuR8Ev-aWaZ,house,150,"partially renovated",NULL,1963,150,555,154,flat,"not available",on-site,"public water","okres Martin",Sučany,Sučany,"Like Reality s.r.o.","Považská Bystrica"
+JuZBjxQ80zt,house,60,"new construction",1833.33,2022,60,NULL,24,flat,"not available",on-site,"public water","okres Ružomberok",Ružomberok,"Pod Skalami","FISCHER & PARTNERS, s.r.o.",Ružomberok
+JuGyarQH5Tu,house,244,"fully renovated",573.77,1960,244,988,244,NULL,"not available",NULL,NULL,"okres Martin",Žabokreky,Žabokreky,"Reality Center, s.r.o.",Martin
+JusX_sL1pCY,house,624,unrenovated,416.67,2025,624,NULL,NULL,flat,"not available","not available",well,"okres Ružomberok",Ružomberok,Baničné,"Reality Alpia",Martin
+JuMReNzFrmm,house,114,unrenovated,780.70,1970,114,540,73,sloped,"not available",NULL,NULL,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","KOSIBA reality s.r.o.",Bernolákovo
+JufUCJs2WIN,house,120,"partially renovated",1741.67,1980,120,921,100,flat,"not available",NULL,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","ŽILINAREAL, s.r.o.",Žilina
+JuViiwQVAc8,house,125,"new construction",NULL,2023,125,600,125,sloped,"not available",NULL,well,"okres Martin",Vrútky,"Karvaša a Bláhovca","TUreality s.r.o.",Žilina
+Ju7iLKVUgMi,house,205,"new construction",NULL,2025,205,NULL,230,flat,A,NULL,NULL,"okres Martin",Valča,Valča,"Reality AK, spol. s r.o.",Martin
+Ju_j96JYJ3R,house,107,"fully renovated",3074.77,2022,107,680,145,flat,NULL,on-site,well,"okres Žilina",Stráňavy,Stráňavy,"B10 Slovensko, a. s.",Žilina
+JuacBqltuem,house,565,"partially renovated",NULL,2025,565,NULL,NULL,flat,"not available","not available",well,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","Reality Alpia",Martin
+Ju5jLRFNJLG,house,131,"new construction",3511.45,2024,131,849,NULL,"mostly flat",NULL,NULL,NULL,"okres Bytča",Bytča,"Hliník nad Váhom","Realitná kancelária RED, s.r.o.",Žilina
+JuzhCWgXTbr,house,836,"partially renovated",332.54,1980,836,NULL,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Gbeľany,Gbeľany,"TUreality s.r.o.",Žilina
+Ju7pOpcYmHI,house,145,"new construction",2551.66,2013,145,954,107,"gently sloped",B,NULL,"public water","okres Žilina",Podhorie,Podhorie,"TARGETreal s. r. o.",Žilina
+Jueg5nyRwtD,house,637,"partially renovated",313.97,2025,637,637,NULL,"gently sloped","not available",NULL,well,"okres Žilina",Terchová,Terchová,"Reality Alpia",Martin
+Jua2IIfvhoU,house,1500,"new construction",260.00,2025,1500,1517,NULL,"gently sloped","not available","not available",well,"okres Martin",Vrútky,"Karvaša a Bláhovca","Reality Alpia",Martin
+Juq1uzcK3Zo,house,70,unrenovated,1314.29,1948,70,NULL,98,terraced,"not available",on-site,"public water","okres Turčianske Teplice",Mošovce,Mošovce,"Reality MT s.r.o.",Martin
+JuwSpmc62PT,house,260,unrenovated,573.08,1974,260,1362,108,"gently sloped","not available",on-site,well,"okres Žilina",Lysica,Lysica,"RE/MAX Slovakia",Bratislava
+JuPi43juw_9,house,150,"partially renovated",NULL,1966,150,540,180,terraced,"not available",on-site,"public water","okres Čadca",Oščadnica,Oščadnica,"Trioreality, s.r.o.",Čadca
+JuIasSYB1E7,house,90,"new construction",3555.56,2023,90,467,98,flat,B,on-site,"public water","okres Martin","Dolný Kalník","Dolný Kalník","Reality MT s.r.o.",Martin
+JuE3k8ViQWV,house,150,unrenovated,1793.33,1977,150,NULL,120,flat,"not available",on-site,"public water","okres Žilina",Žilina,Trnové,"Reality IQ, s.r.o.",Žilina
+JuJKCTa_I_C,house,150,unrenovated,1400.00,1960,150,1700,585,"gently sloped",NULL,on-site,well,"okres Martin",Belá-Dulice,Belá-Dulice,"B10 Slovensko, a. s.",Žilina
+JuV4X4JdJ77,house,160,"new construction",1718.75,2024,160,771,180,flat,"not available",on-site,"public water","okres Turčianske Teplice","Turčianske Teplice","Turčiansky Michal","Reality MT s.r.o.",Martin
+JujjP_MAirA,house,80,"partially renovated",3312.50,1970,80,866,104,flat,"not available",NULL,NULL,"okres Dolný Kubín","Dolný Kubín",Mokraď,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JueY97MJhb3,house,120,unrenovated,2750.00,1949,120,317,150,flat,"not available",on-site,"public water","okres Žilina",Žilina,"Malá Praha","TOP Living s.r.o.","Banská Bystrica"
+JubZoYrfSp9,house,162,"new construction",2771.60,2017,162,387,108,flat,B,on-site,"public water","okres Žilina",Žilina,Bánová,"Ing. Gerlinda Bérešová - Esti",Žilina
+JuhR8_uiRxX,house,280,"partially renovated",428.57,1980,280,699,280,flat,C,NULL,well,"okres Ružomberok",Komjatná,Komjatná,"VAŠA REALITKA s.r.o.",Ružomberok
+JuOitn_WAgJ,house,1204,"fully renovated",747.51,1995,1204,2920,1204,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš","Veľké Borové","Veľké Borové","OVERENÉ REALITY","Banská Bystrica"
+JuIa9S8sGpG,house,121,"development project",2231.40,2026,121,622,121,"gently sloped","not available",on-site,"public water","okres Žilina",Žilina,Trnové,"RIEŠIME BÝVANIE",Bratislava
+JuhybejcNce,house,160,unrenovated,4062.50,1980,160,600,160,flat,"not available",NULL,well,"okres Žilina",Žilina,"Staré mesto","TUreality s.r.o.",Žilina
+JudzDOvNunu,house,1481,unrenovated,173.53,2025,1481,1481,NULL,flat,"not available","not available",well,"okres Martin",Martin,"Kolónia Hviezda","Reality Alpia",Martin
+JuPdbj_I7Hc,house,736,unrenovated,149.46,1980,736,736,NULL,NULL,"not available","not available",NULL,"okres Ružomberok",Ružomberok,Černová,NULL,NULL
+Ju88y75X0Gs,house,30,"new construction",899.67,2025,30,NULL,30,other,"not available","not available","not available","okres Ružomberok",Ružomberok,"Biely Potok","IVANING, s. r. o.",Ružomberok
+Ju0TAHkXz3F,house,190,"new construction",2626.32,2019,190,685,280,"mostly flat",B,NULL,NULL,"okres Žilina",Mojš,Mojš,"Realitná kancelária RED, s.r.o.",Žilina
+Ju_D1IbOI5l,house,318,"new construction",1193.40,2018,318,1037,159,"mostly flat",B,on-site,"public water","okres Liptovský Mikuláš","Závažná Poruba","Závažná Poruba","RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JucYnfxB91V,house,55,"new construction",2090.91,2019,55,NULL,70,flat,A,on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače","Good Reality s.r.o.",Rovinka
+JufRC9onHuL,house,295,"new construction",NULL,2020,295,NULL,295,"gently sloped","not available",on-site,well,"okres Čadca",Oščadnica,Oščadnica,"Arvin & Benet",Bratislava
+Ju5R8pDPeWZ,house,264,"fully renovated",1212.12,1920,264,2032,200,flat,"not available",NULL,"public water","okres Martin",Martin,"Kolónia Hviezda","ALT REAL, s.r.o.",Martin
+Ju6HLriDjfB,house,135,"new construction",2881.48,2013,135,1236,147,flat,"not available",on-site,"public water","okres Ružomberok","Liptovská Štiavnica","Liptovská Štiavnica","ALT REAL, s.r.o.",Martin
+Ju7mrdPR_cn,house,305,"fully renovated",914.75,1991,305,544,200,NULL,"not available",NULL,NULL,"okres Bytča",Štiavnik,Štiavnik,"RIEŠIME BÝVANIE",Bratislava
+Ju-2YZ37zxt,house,95,"partially renovated",947.26,1921,95,876,120,flat,"in preparation",on-site,"public water","okres Liptovský Mikuláš",Važec,Važec,liptoreal,"Liptovský Mikuláš"
+Ju1cp4Zdad9,house,134,"new construction",2007.46,2025,134,750,157,"mostly flat","not available",on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače",donidDevelop,"Dolný Kubín"
+JulXcIcccXx,house,200,"new construction",1095.00,2024,200,805,230,NULL,A,NULL,NULL,"okres Martin",Valča,Valča,"Wealth Group, s.r.o.","Nová Dedinka"
+Ju2sBY5BIo1,house,250,"fully renovated",1840.00,1940,250,750,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Mojš,Mojš,"RIEŠIME BÝVANIE",Bratislava
+JuE7_yY48hp,house,150,unrenovated,700.00,1963,150,570,150,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovská Kokava","Liptovská Kokava","Romantické Chalupy, s.r.o.",Bratislava
+JuZhO-rErgT,house,170,"partially renovated",576.47,1970,170,774,170,flat,"not available",on-site,"public water","okres Čadca","Vysoká nad Kysucou","Vysoká nad Kysucou","SLNOVRAT, s.r.o.",Olešná
+JuOha8XJ-eZ,house,100,unrenovated,NULL,1990,100,800,100,NULL,"not available",NULL,NULL,"okres Martin",Vrútky,"Karvaša a Bláhovca","Reality ASTORIA, s.r.o.",Martin
+Ju2EG21S4h4,house,29,"new construction",NULL,2024,29,NULL,26,other,A,"not available","not available","okres Liptovský Mikuláš",Bobrovník,Bobrovník,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+Jum5hTEjQIq,house,1200,unrenovated,104.17,2025,1200,NULL,NULL,flat,"not available","not available","not available","okres Turčianske Teplice","Turčianske Teplice",Stred,"Reality Alpia",Martin
+JuG-bGr9or0,house,680,"new construction",529.41,2025,680,NULL,NULL,"gently sloped","not available","not available",well,"okres Martin",Martin,Stráne,"Reality Alpia",Martin
+JumII_lj6i4,house,84,"new construction",3809.52,2020,84,497,99,NULL,NULL,NULL,NULL,"okres Žilina",Svederník,Svederník,"TARGETreal s. r. o.",Žilina
+JunpOFmuQsM,house,300,"fully renovated",950.00,2018,300,994,392,flat,"not available",NULL,NULL,"okres Čadca",Makov,Makov,"1. Reality Rent, s.r.o.",Žilina
+JuaDU5eWN9y,house,119,"under construction",1645.51,2024,119,514,73,"mostly flat","not available",NULL,NULL,"okres Čadca","Stará Bystrica","Stará Bystrica","ADH-REAL s.r.o. Hirjaková Adriana",Ovčiarsko
+JucsRg9RieN,house,248,"partially renovated",1572.58,2000,248,1042,248,NULL,"not available",NULL,NULL,"okres Martin",Martin,Priekopa,"Reality ASTORIA, s.r.o.",Martin
+JuM4P4vy0RV,house,131,"new construction",1743.21,2024,131,588,90,NULL,A,NULL,NULL,"okres Žilina",Žilina,"Žilinská Lehota","IDEÁLNE BÝVANIE, s.r.o.",Žilina
+JuUMimgiwBf,house,130,unrenovated,1230.00,1900,130,1515,110,sloped,"not available",NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto","Budatínska Lehota","HALO reality, s.r.o.",Prievidza
+Jukz4cqoQIH,house,156,"new construction",1666.67,2025,156,632,167,other,A,NULL,"not available","okres Čadca",Makov,Makov,"SIERA realitná kancelária s.r.o.",Trnava
+JuKIg369MuS,house,2850,"partially renovated",68.42,1980,2850,2850,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Bukovina,Bukovina,"TUreality s.r.o.",Žilina
+JuBqrsBTBJs,house,140,"new construction",1607.14,2024,140,620,140,flat,"not available",on-site,"public water","okres Ružomberok",Ružomberok,"Staré mesto","ALT REAL, s.r.o.",Martin
+Jusa_KVAuJ7,house,70,"fully renovated",421.43,1975,70,NULL,90,"gently sloped",A,on-site,"public water","okres Čadca",Svrčinovec,Svrčinovec,"JPE. Reality - Jozef Pajer",Čadca
+Jupd__eIrfW,house,110,"partially renovated",1180.91,2025,110,400,110,NULL,NULL,NULL,NULL,"okres Martin",Vrútky,"Karvaša a Bláhovca","Romantické Chalupy, s.r.o.",Bratislava
+JuVNXqUSw6h,house,400,"partially renovated",587.50,1900,400,519,260,"gently sloped","not available",NULL,well,"okres Ružomberok",Ružomberok,"Staré mesto","FatraReal s. r. o.",Ružomberok
+JuV0_j6OG4Q,house,80,unrenovated,1249.88,1970,80,327,90,flat,"not available",NULL,NULL,"okres Čadca","Stará Bystrica","Stará Bystrica","RES GROUP, s.r.o.",Žilina
+Juoa-Iz2VRV,house,140,unrenovated,378.57,1960,140,492,90,flat,"not available",NULL,NULL,"okres Čadca",Olešná,Olešná,"1. Reality Rent, s.r.o.",Žilina
+Ju7atSyCG1P,house,100,unrenovated,2350.00,1965,100,957,128,flat,"not available",NULL,NULL,"okres Žilina",Žilina,Bytčica,"ADH-REAL s.r.o. Hirjaková Adriana",Ovčiarsko
+JuvIyu9zHe0,house,131,"new construction",3511.45,2025,131,849,131,flat,"not available",on-site,well,"okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+Ju23oRXuRNw,house,230,unrenovated,836.96,1970,230,1850,100,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Horelica,"HOLESTIAK.sk reality s.r.o.",Čadca
+JudhN1eg-Z1,house,135,"partially renovated",1822.15,1978,135,780,135,NULL,"not available",on-site,well,"okres Liptovský Mikuláš","Liptovský Mikuláš",Demänová,"TUreality s.r.o.",Žilina
+Ju9kLci6QHU,house,910,"partially renovated",169.23,1980,910,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovská Porúbka","Liptovská Porúbka","TUreality s.r.o.",Žilina
+JuddrVo_6K8,house,190,unrenovated,710.53,1980,190,1550,190,NULL,"not available",on-site,well,"okres Tvrdošín",Zábiedovo,Zábiedovo,"TUreality s.r.o.",Žilina
+JubSXyHD9FS,house,125,"new construction",2698.36,2025,125,287,NULL,other,"not available","not available","not available","okres Žilina",Bitarová,Bitarová,"MGM reality",Žilina
+JueNBBfFeD4,house,187,"partially renovated",1577.01,1985,187,361,95,flat,"not available",on-site,"public water","okres Žilina",Varín,Varín,"TARGETreal s. r. o.",Žilina
+JuCx5OqxogO,house,270,unrenovated,NULL,1955,270,372,125,NULL,"not available",NULL,"public water","okres Žilina",Rajec,Rajec,"AnoReal, s.r.o.",Stráňavy
+JugBNFAg1HA,house,96,"new construction",3322.92,2012,96,66,162,flat,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,Rybárpole,"NajBývanie, s.r.o.",Ružomberok
+JuE1L7QIb5r,house,250,unrenovated,1020.00,1905,250,1800,250,flat,"not available",on-site,"public water","okres Martin",Martin,Priekopa,"Reality Simply",Martin
+Ju0MsknUaYA,house,250,"fully renovated",1512.00,1995,250,421,150,"mostly flat",NULL,NULL,NULL,"okres Žilina",Terchová,Terchová,"Realitná kancelária RED, s.r.o.",Žilina
+Ju1GDbbrB55,house,240,unrenovated,1458.33,2009,240,1707,164,flat,"not available",NULL,NULL,"okres Čadca",Čadca,Podzávoz,"1. Reality Rent, s.r.o.",Žilina
+JuaMaWInHEa,house,431,"new construction",NULL,2024,431,630,199,NULL,A,NULL,NULL,"okres Žilina","Dolný Hričov","Dolný Hričov","DreamReality s.r.o.",Žilina
+JujFiU7wF23,house,160,"fully renovated",1868.75,1998,160,1000,125,flat,"not available",NULL,NULL,"okres Bytča",Bytča,"Bytča - sever","RIEŠIME BÝVANIE",Bratislava
+JuxEotSi75n,house,110,"new construction",1409.09,2010,110,329,103,flat,B,NULL,NULL,"okres Čadca",Makov,Makov,"Ing. Marcela Pišteková",Turzovka
+Ju5GSMP-mjz,house,210,unrenovated,804.76,1967,210,1590,120,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Horelica,"HOLESTIAK.sk reality s.r.o.",Čadca
+JujtVzSs6Xp,house,280,"partially renovated",1035.71,1992,280,800,120,flat,"not available",on-site,"public water","okres Martin",Necpaly,Necpaly,"RIEŠIME BÝVANIE",Bratislava
+JuHDbG3yLMb,house,90,"partially renovated",855.56,1970,90,185,96,flat,"not available",on-site,"public water","okres Liptovský Mikuláš",Pribylina,Pribylina,"NajBývanie, s.r.o.",Ružomberok
+Jug4SIOybnO,house,490,"fully renovated",581.63,2025,490,NULL,NULL,"gently sloped","not available","not available",well,"okres Martin",Martin,Stred,"Reality Alpia",Martin
+Ju1tsUeFhRS,house,103,"fully renovated",1552.43,1980,103,NULL,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Rosina,Rosina,"TUreality s.r.o.",Žilina
+Juws22--sLM,house,150,"partially renovated",1860.00,1975,150,NULL,100,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","GERT , s.r.o.","Liptovský Mikuláš"
+JuiKlGUbKmU,house,300,"partially renovated",933.33,2025,300,672,672,flat,"in preparation",NULL,"public water","okres Tvrdošín",Vitanová,Vitanová,"OREA, s.r.o.","Dolný Kubín"
+JuvemPDdxob,house,119,"new construction",2420.17,2024,119,809,131,flat,A,NULL,well,"okres Kysucké Nové Mesto","Kysucké Nové Mesto","Budatínska Lehota","ŽILINAREAL, s.r.o.",Žilina
+Juv-ZyHYN0s,house,145,"new construction",3034.48,2025,145,512,75,flat,"not available",on-site,"public water","okres Žilina",Hôrky,Hôrky,"TOCA, s.r.o. Realitná činnosť",Bytča
+Ju9NWPjsyPl,house,186,unrenovated,1960.75,2002,186,1045,154,NULL,B,NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuFzDxVJ2q6,house,110,unrenovated,1236.36,2022,110,749,110,NULL,NULL,NULL,NULL,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","Romantické Chalupy, s.r.o.",Bratislava
+JumvGr4WHDN,house,234,unrenovated,2222.22,2025,234,1034,NULL,other,"not available","not available","not available","okres Žilina",Gbeľany,Gbeľany,"MGM reality",Žilina
+JumL89VNCQA,house,120,"partially renovated",1291.67,1930,120,NULL,104,flat,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","NajBývanie, s.r.o.",Ružomberok
+JuE93RTyEY1k,house,200,unrenovated,999.50,1960,200,1318,200,NULL,NULL,NULL,NULL,"okres Ružomberok","Liptovská Lúžna","Liptovská Lúžna","Romantické Chalupy, s.r.o.",Bratislava
+JuKa1Trlsqb,house,120,"partially renovated",1491.67,1974,120,860,115,flat,"not available",on-site,well,"okres Žilina","Dlhé Pole","Dlhé Pole","RENOME REAL",Žilina
+JufqC5RH_Te,house,200,"partially renovated",990.00,1910,200,706,154,flat,"not available",NULL,"public water","okres Turčianske Teplice","Turčianske Teplice",Stred,"Ing.Zuzana Paverová","Turčianske Teplice"
+JuFqa8ebzxy,house,146,"new construction",2362.95,2022,146,939,166,flat,A,NULL,NULL,"okres Žilina",Terchová,Terchová,"Georgi Conev",Žilina
+JuWeOewD3Gg,house,336,"fully renovated",889.88,1938,336,1144,168,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Dúbrava,Dúbrava,"FatraReal s. r. o.",Ružomberok
+JuuJvOruCyE,house,200,"new construction",1649.50,2018,200,1039,155,NULL,A,NULL,NULL,"okres Martin",Martin,Sever,"Buby reality, s.r.o.",Žilina
+Ju1Fv2ySoaS,house,130,unrenovated,1346.15,1985,130,2275,200,flat,B,on-site,"public water","okres Martin",Príbovce,Príbovce,"Realitná kancelária Kľúč",Trnava
+JuFC-aJuKRa,house,672,unrenovated,126.49,2025,672,NULL,NULL,flat,"not available","not available","not available","okres Žilina","Malá Čierna","Malá Čierna","Reality Alpia",Martin
+JuSs3N5i3rL,house,110,"new construction",2599.91,2025,110,375,110,NULL,"not available",on-site,well,"okres Liptovský Mikuláš","Liptovský Mikuláš",Benice,"TUreality s.r.o.",Žilina
+JuKx19d2RCd,house,255,"fully renovated",NULL,1960,255,560,170,flat,"not available",on-site,"public water","okres Martin",Martin,Jahodníky,"Reality ASTORIA, s.r.o.",Martin
+JuY-SPBwd8P,house,113,"new construction",3688.00,2020,113,NULL,159,NULL,A,NULL,NULL,"okres Liptovský Mikuláš",Smrečany,Smrečany,mojaRK,Bratislava
+JuLWBKzZeJE,house,130,"new construction",1538.46,2025,130,471,135,"gently sloped","not available",NULL,"public water","okres Martin",Necpaly,Necpaly,"Reality MT s.r.o.",Martin
+JuD8rezKquD,house,200,"fully renovated",799.50,1981,200,675,100,flat,"not available",NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice",Diviaky,"AstonReal s.r.o.","Banská Bystrica"
+JubU0eKdiVr,house,131,"new construction",3511.45,2025,131,849,131,flat,"not available",on-site,well,"okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+Jupwy58HyS3,house,120,"new construction",1991.67,2025,120,400,60,flat,A,NULL,NULL,"okres Liptovský Mikuláš","Liptovské Kľačany","Liptovské Kľačany","HD reality group s.r.o","Banská Bystrica"
+Jux_9WVvE-Q,house,100,unrenovated,695.00,1930,100,765,100,NULL,NULL,NULL,NULL,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","Romantické Chalupy, s.r.o.",Bratislava
+JupBKdvb5-A,house,582,"partially renovated",311.00,1980,582,582,NULL,flat,"not available",on-site,well,"okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","TUreality s.r.o.",Žilina
+JuoQ_50mfjv,house,300,unrenovated,485.00,1970,300,390,120,flat,"not available",NULL,well,"okres Žilina",Stránske,Stránske,"Safe reality s. r. o.",Žilina
+JuiW01vp_No,house,220,"new construction",1204.55,2008,220,700,128,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Čadečka,"MENÍME BÝVANIE",Čadca
+JugGPssQETW,house,547,"fully renovated",639.67,2025,547,NULL,NULL,flat,"not available","not available","not available","okres Dolný Kubín",Zázrivá,Zázrivá,"Reality Alpia",Martin
+JuVBGZswzO8,house,865,unrenovated,184.86,2025,865,NULL,NULL,"gently sloped","not available","not available","not available","okres Žilina","Rajecké Teplice","Rajecké Teplice","Reality Alpia",Martin
+Ju6igj_0jNC,house,120,"fully renovated",NULL,1980,120,1515,168,"gently sloped","not available",NULL,"public water","okres Dolný Kubín","Oravský Podzámok","Oravský Podzámok","RK Dalmia s. r. o.","Dolný Kubín"
+Jun0rUiHHId,house,200,"new construction",1300.00,2024,200,NULL,100,"gently sloped","not available",on-site,"public water","okres Martin","Turčiansky Peter","Turčiansky Peter","ALT REAL, s.r.o.",Martin
+JuRC_sngF0m,house,178,"fully renovated",2010.67,2020,178,389,90,flat,A,NULL,NULL,"okres Žilina",Terchová,Terchová,"1. Reality Rent, s.r.o.",Žilina
+Jupi9oHSOxK,house,154,unrenovated,227.27,1935,154,537,268,flat,"not available",on-site,"public water","okres Turčianske Teplice",Háj,Háj,"Reality férovo, s. r. o.",Šaľa
+JuhlHrJa9hV,house,280,"fully renovated",1246.43,1972,280,724,100,flat,"not available",on-site,"public water","okres Martin",Martin,Stráne,"ALT REAL, s.r.o.",Martin
+Jufj_0Gj-0k,house,140,"partially renovated",1485.71,1965,140,1620,180,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"OVERENÉ REALITY","Banská Bystrica"
+JuqStupTj78,house,111,"partially renovated",1351.35,1966,111,258,112,flat,"not available",on-site,"public water","okres Žilina",Žilina,"Staré mesto","WFG reality, s.r.o.",Žilina
+Juk3KAL7-tq,house,250,unrenovated,620.00,1995,250,203,97,flat,"not available",on-site,"public water","okres Martin",Podhradie,Podhradie,"Realitná kancelária DR, s.r.o.",Martin
+JudpEUux9d7,house,120,unrenovated,NULL,1960,120,1760,140,"mostly flat","not available",NULL,NULL,"okres Liptovský Mikuláš","Závažná Poruba","Závažná Poruba",Limaxreal,"Liptovský Mikuláš"
+Ju3LCu23qXh,house,133,"fully renovated",NULL,1957,133,635,133,flat,"not available",on-site,"public water","okres Ružomberok",Ružomberok,"Staré mesto","NajBývanie, s.r.o.",Ružomberok
+Juwr4hT_Hw4,house,250,"partially renovated",956.00,1977,250,325,106,NULL,"not available",NULL,NULL,"okres Martin",Martin,Priekopa,"Reality AK, spol. s r.o.",Martin
+JuLejb12kjD,house,170,unrenovated,994.12,1978,170,900,100,flat,"not available",on-site,"public water","okres Kysucké Nové Mesto",Povina,Povina,"Pro Real, s. r. o. realitná kancelária",Žilina
+Ju3CARY9OXA,house,210,"partially renovated",1740.48,1974,210,1060,110,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Centrum,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuuOm3BAvYEs,house,810,"partially renovated",NULL,1900,810,2522,1018,flat,"not available",NULL,NULL,"okres Martin",NULL,NULL,"1. Reality Rent, s.r.o.",Žilina
+JuiyrWA4fnU,house,200,"partially renovated",795.00,1971,200,347,81,flat,NULL,on-site,well,"okres Čadca",Turzovka,Závodie,"B10 Slovensko, a. s.",Žilina
+JuwmzGWznze,house,95,"under construction",2098.95,1900,95,681,60,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Dúbrava,Dúbrava,"HALO reality, s.r.o.",Prievidza
+JuZLXRA74dF,house,455,"partially renovated",NULL,1970,455,455,200,flat,NULL,NULL,well,"okres Martin",Ležiachov,Ležiachov,"B10 Slovensko, a. s.",Žilina
+JucFteCcorV,house,233,"partially renovated",1369.10,1960,233,1483,150,flat,"not available",NULL,NULL,"okres Čadca",Raková,Raková,"1. Reality Rent, s.r.o.",Žilina
+JutrNWqo1mF,house,86,"new construction",3790.70,2015,86,470,130,NULL,A,NULL,NULL,"okres Martin",Žabokreky,Žabokreky,"Real Reality Development s.r.o.",Martin
+Ju91riyeIY0,house,140,"new construction",NULL,2023,140,484,118,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Svätý Kríž","Svätý Kríž","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuJVlSLNzUp,house,370,"fully renovated",837.84,2000,370,1570,NULL,NULL,"not available",NULL,NULL,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","TARGETreal s. r. o.",Žilina
+JuDis4x18zz,house,180,"new construction",772.22,2025,180,NULL,100,"gently sloped",A,on-site,well,"okres Liptovský Mikuláš",Ižipovce,Ižipovce,"PT-com s. r. o.","Banská Bystrica"
+JuDZksNmp-x,house,1000,"partially renovated",NULL,2008,1000,NULL,122,NULL,"in preparation",NULL,NULL,"okres Ružomberok","Liptovská Teplá","Liptovská Teplá","OVERENÉ REALITY","Banská Bystrica"
+Ju-NcnxkRbA,house,72,"partially renovated",NULL,1976,72,507,94,NULL,"not available",NULL,NULL,"okres Ružomberok",Stankovany,Stankovany,"ARBIZ real estate & finance s. r. o.",Ružomberok
+JuCQvl5wSHc,house,130,"partially renovated",607.69,1957,130,1600,110,NULL,"not available",NULL,NULL,"okres Čadca",Korňa,Korňa,"Ing. Marcela Pišteková",Turzovka
+JuMul7PwvM2d,house,126,"new construction",NULL,2025,126,295,108,"mostly flat",NULL,NULL,NULL,"okres Žilina",Višňové,Višňové,"Realitná kancelária RED, s.r.o.",Žilina
+Ju8Q97pjRsq,house,280,"fully renovated",NULL,1989,280,735,NULL,NULL,B,NULL,NULL,"okres Ružomberok",Ivachnová,Ivachnová,"OVERENÉ REALITY","Banská Bystrica"
+Ju2NkOjuxZI,house,130,"new construction",2230.69,2016,130,365,NULL,other,"not available","not available","not available","okres Žilina","Rajecké Teplice","Rajecké Teplice","MGM reality",Žilina
+JuJ5uCQt9op,house,230,"partially renovated",821.74,1990,230,872,103,flat,"not available",NULL,NULL,"okres Žilina","Lietavská Svinná-Babkov","Lietavská Svinná-Babkov","RIEŠIME BÝVANIE",Bratislava
+JurLHZvtaEy,house,97,"fully renovated",2926.58,1965,97,490,97,"gently sloped","not available",NULL,NULL,"okres Martin",Martin,Stred,"AstonReal s.r.o.","Banská Bystrica"
+Juxivp9KfQ0,house,123,"new construction",3250.73,2025,123,520,136,NULL,A,NULL,NULL,"okres Žilina",Rosina,Rosina,"IDEÁLNE BÝVANIE, s.r.o.",Žilina
+Jud93oHCOHE,house,155,"fully renovated",1393.55,2025,155,NULL,NULL,flat,"not available","not available",well,"okres Martin",Bystrička,Bystrička,"Reality Alpia",Martin
+JuJsyjovPfc,house,90,"partially renovated",1055.56,1972,90,2569,95,NULL,"not available",NULL,NULL,"okres Čadca","Dlhá nad Kysucou","Dlhá nad Kysucou","HOLESTIAK.sk reality s.r.o.",Čadca
+JuOaEJ-u0ZG,house,60,unrenovated,499.98,1965,60,268,77,"gently sloped","not available",NULL,NULL,"okres Čadca",Svrčinovec,Svrčinovec,"1. Reality Rent, s.r.o.",Žilina
+Ju02FWXcSxg,house,150,unrenovated,866.67,1935,150,1176,150,flat,"not available",on-site,"public water","okres Turčianske Teplice",Mošovce,Mošovce,"ALT REAL, s.r.o.",Martin
+JuNBS73Ff1Z,house,212000,"fully renovated",1.56,1970,212000,424,106,flat,"not available",NULL,"public water","okres Martin",Turany,Turany,"Reality ASTORIA, s.r.o.",Martin
+Juet0DuhtSi,house,65,"under construction",3061.54,2025,65,140,104,NULL,"in preparation",NULL,NULL,"okres Liptovský Mikuláš",Prosiek,Prosiek,liptoreal,"Liptovský Mikuláš"
+JutC2YgCUCh,house,138,"fully renovated",1789.86,1979,138,414,140,NULL,A,NULL,NULL,"okres Martin",Bystrička,Bystrička,"MAX PROFI REALITY",Martin
+JuxTlJngqfx,house,184,"new construction",2385.87,2020,184,110,NULL,"mostly flat",NULL,NULL,NULL,"okres Žilina",Hôrky,Hôrky,"Realitná kancelária RED, s.r.o.",Žilina
+JuTG5fkPlv9,house,228,"under construction",592.11,2010,228,1200,114,sloped,NULL,NULL,well,"okres Turčianske Teplice",Abramová,Abramová,"B10 Slovensko, a. s.",Žilina
+JunogbuFikZ,house,175,"partially renovated",314.29,1970,175,375,159,flat,"not available",NULL,"public water","okres Ružomberok",Stankovany,Stankovany,"OVERENÉ REALITY","Banská Bystrica"
+JuQYvnGYftR,house,181,"partially renovated",NULL,1980,181,NULL,181,NULL,"not available",NULL,well,"okres Martin",Martin,Stráne,"TUreality s.r.o.",Žilina
+JuE2xdPeLMB,house,350,"partially renovated",997.14,1982,350,423,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,Budatín,"Realitné kancelárie SR",Bratislava
+JuQBGbl9GCs,house,180,"partially renovated",744.44,1970,180,2616,180,"gently sloped","not available",NULL,well,"okres Bytča",Kolárovice,Kolárovice,"1. Reality Rent, s.r.o.",Žilina
+Ju_uHTH2LKy,house,160,unrenovated,1075.00,1950,160,933,100,"mostly flat","not available",NULL,well,"okres Bytča","Veľké Rovné","Veľké Rovné","RIEŠIME BÝVANIE",Bratislava
+JucgDISpkFu,house,112,"new construction",2758.93,2016,112,NULL,147,flat,B,on-site,"public water","okres Ružomberok","Liptovská Štiavnica","Liptovská Štiavnica","NajBývanie, s.r.o.",Ružomberok
+Juf5RoOgfBW,house,160,"partially renovated",1218.75,1964,160,778,110,flat,"not available",on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuZFa40Foop,house,100,"partially renovated",1650.00,1962,100,1260,150,flat,"not available",NULL,"public water","okres Kysucké Nové Mesto",NULL,NULL,"ROSA reality","Kysucké Nové Mesto"
+Juako0agoSO,house,367,"fully renovated",648.50,1970,367,755,119,"mostly flat",B,NULL,"public water","okres Žilina",Stránske,Stránske,"ADH-REAL s.r.o. Hirjaková Adriana",Ovčiarsko
+Jubj0GQo0yb,house,220,"fully renovated",863.64,1990,220,480,165,"gently sloped","not available",NULL,well,"okres Čadca",Zákopčie,Zákopčie,"RK Finanz Real, s.r.o.",Trnava
+JufilbyD1c1,house,160,"partially renovated",1468.75,1993,160,524,160,NULL,NULL,NULL,NULL,"okres Ružomberok",Ružomberok,"Biely Potok","Romantické Chalupy, s.r.o.",Bratislava
+JutiSbVRe_4,house,270,"partially renovated",1848.15,1960,270,753,225,flat,"not available",NULL,NULL,"okres Žilina",Žilina,Bôrik,"TUreality s.r.o.",Žilina
+JuNs-c1_Jug,house,130,"fully renovated",2615.38,1990,130,475,285,flat,"not available",NULL,"public water","okres Čadca",Staškov,Staškov,"PROFI INVEST družstvo",Košice
+JunPSVDxWEH,house,1481,unrenovated,173.53,2025,1481,1481,NULL,flat,"not available","not available",well,"okres Martin",Martin,"Kolónia Hviezda","Reality Alpia",Martin
+Jujj9R6pdLi,house,150,"partially renovated",1066.00,1960,150,683,160,flat,"not available",NULL,well,"okres Žilina",Konská,Konská,"Reality IQ, s.r.o.",Žilina
+JuX1WyelwxA,house,650,unrenovated,61.54,2025,650,NULL,NULL,flat,"not available","not available","not available","okres Žilina","Malá Čierna","Malá Čierna","Reality Alpia",Martin
+JuiwpIv6ZO8n,house,200,"new construction",1650.00,2010,200,586,200,NULL,NULL,NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice","Turčiansky Michal","Realitné kancelárie SR",Bratislava
+JuzAGRifcCv,house,200,"new construction",1395.00,2013,200,790,100,flat,"not available",NULL,NULL,"okres Čadca","Krásno nad Kysucou",Stred,"GAMA Reality, s.r.o.",Bytča
+JuWLq7Wh8lf,house,170,"fully renovated",1205.29,2020,170,715,94,NULL,"not available",NULL,NULL,"okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","Reality AK, spol. s r.o.",Martin
+Ju9fCSXKuI8,house,200,unrenovated,749.50,1900,200,1064,140,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Važec,Važec,"HALO reality, s.r.o.",Prievidza
+JuzfaiaPF1e,house,95,"fully renovated",4189.47,1995,95,NULL,100,flat,"not available",on-site,"public water","okres Martin",Martin,Jahodníky,"DOBRÉ REALITY s.r.o.",Prievidza
+Ju_jNWgq4Ah,house,200,unrenovated,800.00,1979,200,NULL,100,"mostly flat","not available",NULL,NULL,"okres Liptovský Mikuláš","Kráľova Lehota","Kráľova Lehota","RIEŠIME BÝVANIE",Bratislava
+JukqbzsVg5j,house,227,"partially renovated",NULL,1957,227,4951,181,flat,"not available",on-site,"public water","okres Martin",Belá-Dulice,Belá-Dulice,"Reality Center, s.r.o.",Martin
+Ju7p-ibu19t,house,285,"partially renovated",592.98,1985,285,1073,120,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš","Liptovská Porúbka","Liptovská Porúbka","RIEŠIME BÝVANIE",Bratislava
+JuHbG5bC-AQ,house,240,"fully renovated",729.17,1940,240,4377,120,"gently sloped","not available",NULL,NULL,"okres Martin",Martin,Stráne,"Reality AK, spol. s r.o.",Martin
+JuMpX9TQAHl,house,250,"new construction",NULL,2007,250,NULL,150,flat,"not available",on-site,"public water","okres Dolný Kubín","Dolný Kubín",Brezovec,"OREA, s.r.o.","Dolný Kubín"
+JuTNxy0mSKf,house,200,"fully renovated",NULL,1970,200,1032,100,"mostly flat","not available",NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Suľkov,"BR ACADEMY, s. r. o.","Kysucké Nové Mesto"
+Juwnal8LZ_c,house,200,"new construction",1103.63,2024,200,588,90,"gently sloped","not available",on-site,"public water","okres Žilina",Žilina,"Žilinská Lehota","DRR INVEST, s. r. o.","Horný Hričov"
+JukKOW5g8ic,house,100,"fully renovated",1860.00,1975,100,1359,197,flat,"not available",on-site,"public water","okres Ružomberok",Kalameny,Kalameny,"NajBývanie, s.r.o.",Ružomberok
+JufvMyqhmxo,house,238,unrenovated,NULL,1995,238,NULL,NULL,flat,"not available","not available",well,"okres Martin",Vrícko,Vrícko,"Reality Alpia",Martin
+JuUuFP8LBad,house,130,"partially renovated",1038.46,1967,130,895,100,"mostly flat","not available",on-site,"public water","okres Dolný Kubín",Malatiná,Malatiná,"RK Dalmia s. r. o.","Dolný Kubín"
+JuGlgzti-Xv,house,150,unrenovated,466.67,1970,150,713,120,flat,"not available",on-site,"public water","okres Čadca",Staškov,Staškov,"Trioreality, s.r.o.",Čadca
+JuLLKbrzsGT,house,200,"partially renovated",1245.00,1975,200,NULL,130,"gently sloped","in preparation",on-site,"public water","okres Žilina",Žilina,Budatín,"Allrisk Slovakia Reality & Financie, s.r.o.",Bratislava
+JuHzzpFEcq7,house,450,"partially renovated",NULL,2022,450,1700,227,NULL,"not available",NULL,NULL,"okres Žilina",Terchová,Terchová,"Briliant Reality, s.r.o.",Senec
+JuAHn1RYaaM,house,120,"new construction",1950.00,1980,120,2036,120,flat,"not available",NULL,NULL,"okres Čadca",Korňa,Korňa,"SLNOVRAT, s.r.o.",Olešná
+JuUyDXLqSR7,house,280,"partially renovated",NULL,1970,280,1039,132,flat,"not available",on-site,"public water","okres Tvrdošín",Nižná,Nižná,"RK Dalmia s. r. o.","Dolný Kubín"
+JuxqHjwv5kQ,house,130,"under construction",1961.54,2025,130,600,130,flat,"not available",NULL,well,"okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","Reality ASTORIA, s.r.o.",Martin
+JukjLL6Pznq,house,200,"fully renovated",1325.00,2023,200,1310,100,flat,"not available",NULL,well,"okres Bytča","Hlboké nad Váhom","Hlboké nad Váhom","1. Reality Rent, s.r.o.",Žilina
+JuEdQgaYA3w,house,203,"fully renovated",1226.60,1970,203,722,203,flat,"not available",on-site,"public water","okres Martin",Príbovce,Príbovce,"Reality BL, s.r.o.","Kysucké Nové Mesto"
+JucVvBL8mQZ,house,84,"new construction",2726.19,2024,84,416,93,flat,A,NULL,"public water","okres Žilina",Brezany,Brezany,"ŽILINAREAL, s.r.o.",Žilina
+Juzanri8hki,house,160,"partially renovated",1218.75,1964,160,778,110,flat,"not available",on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuNKxzZQlzf,house,200,"partially renovated",1325.00,1980,200,649,120,flat,"not available",on-site,"public water","okres Žilina",Višňové,Višňové,"Ing. Gerlinda Bérešová - Esti",Žilina
+JuLre6AewXY,house,90,"new construction",3888.89,2022,90,909,90,NULL,NULL,NULL,NULL,"okres Ružomberok",Ivachnová,Ivachnová,"Romantické Chalupy, s.r.o.",Bratislava
+JuJF0aEq48e,house,664,unrenovated,218.37,1958,664,NULL,78,flat,"not available",on-site,well,"okres Žilina",Hôrky,Hôrky,"Safe reality s. r. o.",Žilina
+Ju2bCMkIGvc,house,100,unrenovated,1700.00,1956,100,1550,100,NULL,NULL,NULL,NULL,"okres Bytča",Štiavnik,Štiavnik,"Romantické Chalupy, s.r.o.",Bratislava
+JuHinPus21r,house,120,unrenovated,916.67,1932,120,982,50,flat,"not available",NULL,"public water","okres Ružomberok",Lisková,Lisková,"RK Dalmia s. r. o.","Dolný Kubín"
+Ju3sdsvW1qf,house,250,"new construction",3000.00,2025,250,980,138,NULL,NULL,NULL,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","bezmaklérov, s.r.o.",Žilina
+JujgFHysqby,house,70,"partially renovated",3357.14,1961,70,173,90,flat,"not available",NULL,well,"okres Martin","Turčianske Kľačany","Turčianske Kľačany","AstonReal s.r.o.","Banská Bystrica"
+Juec3rJbHzE,house,126,"new construction",3134.92,2022,126,380,70,flat,B,NULL,well,"okres Liptovský Mikuláš","Liptovská Sielnica","Liptovská Sielnica","HALO reality, s.r.o.",Prievidza
+JuVTTY5wrme,house,100,unrenovated,1540.00,1961,100,NULL,250,flat,"not available",on-site,"public water","okres Turčianske Teplice","Turčianske Teplice",Diviaky,"Reality MT s.r.o.",Martin
+JufEAKik-mc,house,138,"fully renovated",1739.13,1980,138,452,138,sloped,NULL,NULL,well,"okres Martin",Podhradie,Podhradie,"B10 Slovensko, a. s.",Žilina
+Ju8UQkGga6F,house,1252,unrenovated,91.85,1941,1252,1252,575,sloped,"not available",on-site,"public water","okres Ružomberok",Lisková,Lisková,"RK VILLEA, s. r. o.","Dolný Kubín"
+JuMmB0vZcwg,house,160,unrenovated,NULL,1995,160,544,119,"mostly flat",NULL,NULL,NULL,"okres Žilina",Žilina,Bôrik,"Realitná kancelária RED, s.r.o.",Žilina
+Juu4bOArZvB,house,90,unrenovated,1211.11,1920,90,543,90,NULL,NULL,NULL,NULL,"okres Ružomberok",Lúčky,Lúčky,"Romantické Chalupy, s.r.o.",Bratislava
+JuG-JRPmhAG,house,100,"new construction",NULL,2023,100,450,NULL,other,"not available",on-site,well,"okres Žilina",NULL,NULL,"Realitná kancelária DOM",Žilina
+Ju6-BxY4Q9v,house,80,"new construction",3062.50,2020,80,354,80,NULL,NULL,NULL,NULL,"okres Martin",Blatnica,Blatnica,"Romantické Chalupy, s.r.o.",Bratislava
+Ju4_CW18xww,house,150,unrenovated,932.67,1970,150,812,150,flat,"not available",NULL,"public water","okres Žilina","Paština Závada","Paština Závada","WFG reality, s.r.o.",Žilina
+JujfdD-5RPO,house,147,"new construction",NULL,2024,147,NULL,199,flat,A,NULL,well,"okres Ružomberok",Komjatná,Komjatná,"AstonReal s.r.o.","Banská Bystrica"
+JuJ5z8J0t7V,house,175,"new construction",NULL,2022,175,700,NULL,other,"not available","not available","not available","okres Žilina",Žilina,Budatín,"MGM reality",Žilina
+Ju7pKhqP4zK,house,464,"partially renovated",581.68,1937,464,2177,464,flat,"not available",on-site,"public water","okres Martin",Sučany,Sučany,"Like Reality s.r.o.","Považská Bystrica"
+JuRty8qQQ_7,house,220,unrenovated,859.09,1980,220,NULL,344,"gently sloped","not available",on-site,well,"okres Tvrdošín",Tvrdošín,Tvrdošín,"AstonReal s.r.o.","Banská Bystrica"
+Juv0ePbKA7G,house,100,unrenovated,1200.00,1930,100,NULL,907,flat,"not available",NULL,well,"okres Dolný Kubín",Kraľovany,Kraľovany,"AstonReal s.r.o.","Banská Bystrica"
+JuKz9mvEvI_,house,200,"partially renovated",575.00,1928,200,NULL,200,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš",Važec,Važec,"REALITY TATRY",Levoča
+JunAaEjMO5H,house,260,"partially renovated",296.50,2006,260,NULL,140,flat,"not available","not available","not available","okres Liptovský Mikuláš",Važec,Važec,"DRAŽOBNÍK, s.r.o.",Košice
+JuVJGPaHJOp,house,386,unrenovated,945.60,2002,386,1045,154,"gently sloped",NULL,NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"Realitná kancelária RED, s.r.o.",Žilina
+JuqydMjWuh4,house,100,unrenovated,999.00,1900,100,576,80,NULL,"not available",NULL,NULL,"okres Žilina",Lysica,Lysica,"TARGETreal s. r. o.",Žilina
+JunkMQWQbHn,house,683,"partially renovated",452.42,1980,683,683,NULL,flat,"not available",on-site,well,"okres Žilina",Žilina,Bánová,"TUreality s.r.o.",Žilina
+JuM-6ImZqgg,house,165,unrenovated,1357.58,1967,165,1000,95,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Centrum,"HOLESTIAK.sk reality s.r.o.",Čadca
+Jup9Yn-xSxK,house,125,"new construction",NULL,2025,125,426,NULL,other,"not available","not available","not available","okres Žilina",Bitarová,Bitarová,"MGM reality",Žilina
+JuB8tqpRaSl,house,110,unrenovated,954.55,1950,110,402,160,"mostly flat","not available",NULL,NULL,"okres Ružomberok",Ružomberok,"Pod Skalami","RE/MAX Slovakia",Bratislava
+Juu2Y87Z-DK,house,220,"partially renovated",477.27,1979,220,1057,106,NULL,"not available",on-site,well,"okres Čadca",Skalité,Skalité,"TUreality s.r.o.",Žilina
+JukEQsAHFmW,house,100,"partially renovated",NULL,1970,100,1230,160,"gently sloped",NULL,NULL,"public water","okres Turčianske Teplice",Budiš,Budiš,"B10 Slovensko, a. s.",Žilina
+JuMiWG_Bjr-,house,160,unrenovated,1249.38,1958,160,3200,100,flat,"not available",NULL,NULL,"okres Žilina",Varín,Varín,"Safe reality s. r. o.",Žilina
+JuoozgHS-2r,house,160,unrenovated,906.25,1965,160,435,108,"gently sloped",NULL,on-site,well,"okres Čadca",Čadca,"U Hluška","B10 Slovensko, a. s.",Žilina
+Juzaery-uaM,house,139,"new construction",3561.15,2023,139,712,160,NULL,NULL,NULL,NULL,"okres Martin",Martin,Tomčany,"Buby reality, s.r.o.",Žilina
+JuJSekEM4oc,house,102,"new construction",2441.18,2026,102,750,130,flat,A,on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače","Apollo House",Bratislava
+JubJO0qS-zH,house,140,"partially renovated",1374.29,1965,140,1620,180,flat,"not available",NULL,"public water","okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,jabyvam.sk,"Liptovský Mikuláš"
+JueA1N-Ntfj,house,96,"fully renovated",2291.67,1930,96,593,76,"gently sloped","not available",NULL,"public water","okres Liptovský Mikuláš","Závažná Poruba","Závažná Poruba","RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JuHtgn-PdTN,house,106,"new construction",NULL,2025,106,605,NULL,flat,"not available",NULL,well,"okres Martin","Turčianske Kľačany","Turčianske Kľačany","TUreality s.r.o.",Žilina
+Jub25_ejcJA,house,153,"fully renovated",1895.42,2013,153,491,92,"gently sloped",B,on-site,"public water","okres Čadca",Oščadnica,Oščadnica,"Nestor Capital s.r.o.",Bratislava
+JuvMlRWqyJoo,house,240,unrenovated,NULL,2003,240,1619,NULL,other,"not available","not available","not available","okres Kysucké Nové Mesto",Nesluša,Nesluša,"MGM reality",Žilina
+JuzSO8DcIjL,house,150,"fully renovated",NULL,2013,150,649,163,flat,"not available",NULL,"public water","okres Martin",Diaková,Diaková,"Reality Simply",Martin
+JuT-mCUWMWu,house,120,"new construction",NULL,2020,120,1112,70,"gently sloped",A,NULL,NULL,"okres Liptovský Mikuláš",Bobrovník,Bobrovník,liptoreal,"Liptovský Mikuláš"
+Ju14mSBpDUx,house,200,"partially renovated",835.00,1960,200,522,110,NULL,"not available",NULL,NULL,"okres Čadca",Oščadnica,Oščadnica,"HOLESTIAK.sk reality s.r.o.",Čadca
+Ju07wpce3-e,house,50,unrenovated,1760.00,1922,50,182,50,NULL,NULL,NULL,NULL,"okres Ružomberok",Turík,Turík,"Romantické Chalupy, s.r.o.",Bratislava
+JuiIP6qTDBs,house,100,"partially renovated",1750.00,1970,100,709,264,flat,A,NULL,"public water","okres Liptovský Mikuláš",Vlachy,Vlachy,"OVERENÉ REALITY","Banská Bystrica"
+JuWA9aOrYrn,house,120,"partially renovated",1583.33,1960,120,1621,150,flat,"not available",on-site,"public water","okres Martin",Žabokreky,Žabokreky,"ALT REAL, s.r.o.",Martin
+JuTaKGvu-_W,house,100,unrenovated,1160.00,1956,100,850,100,NULL,NULL,NULL,NULL,"okres Bytča",Štiavnik,Štiavnik,"Romantické Chalupy, s.r.o.",Bratislava
+Juolbg2gxyQ,house,300,"new construction",1200.00,1900,300,769,150,other,"not available",NULL,NULL,"okres Liptovský Mikuláš",Ižipovce,Ižipovce,"RE/MAX Slovakia",Bratislava
+JuOzMZP3NXD,house,70,"partially renovated",928.57,1989,70,NULL,34,"gently sloped","not available",NULL,well,"okres Čadca","Krásno nad Kysucou",Kalinov,"1. Reality Rent, s.r.o.",Žilina
+JuhiXx9KEAl,house,612,"partially renovated",457.52,1980,612,NULL,414,"gently sloped","not available",on-site,"public water","okres Dolný Kubín","Dolný Kubín",Medzihradné,"Reality BL, s.r.o.","Kysucké Nové Mesto"
+JuD_VuWF7qU,house,94,"new construction",3177.86,2018,94,1104,100,sloped,B,on-site,"public water","okres Dolný Kubín",Istebné,Istebné,"RK Dalmia s. r. o.","Dolný Kubín"
+Ju7FT7K1T9V,house,156,unrenovated,961.47,1960,156,880,156,flat,"not available",NULL,NULL,"okres Žilina",Svederník,Svederník,"Reality IQ, s.r.o.",Žilina
+Ju1tEs_gT7e,house,140,"new construction",2464.29,2016,140,639,143,sloped,A,NULL,NULL,"okres Žilina",Gbeľany,Gbeľany,"1. Reality Rent, s.r.o.",Žilina
+JujDi-L-0hf,house,126,"new construction",2373.02,2020,126,1722,166,"mostly flat",A,NULL,NULL,"okres Čadca",Olešná,Olešná,"RE/MAX Slovakia",Bratislava
+JuWVZLxkLMK,house,1375,"partially renovated",181.82,2025,1375,1375,165,"gently sloped","not available","not available",well,"okres Ružomberok",Ružomberok,Hrabovo,"Reality Alpia",Martin
+JuUrENnUrd4,house,120,unrenovated,1625.00,1967,120,1074,205,flat,"not available",NULL,NULL,"okres Martin","Turčiansky Peter","Turčiansky Peter","Reality Center, s.r.o.",Martin
+JuRBO1iDcGe,house,240,"partially renovated",1020.83,1975,240,816,215,flat,"not available",on-site,"public water","okres Martin",Sučany,Sučany,"Felicita Real s. r. o.",Martin
+JuzawK4H-li,house,70,unrenovated,1271.43,1970,70,511,90,flat,"not available",NULL,"public water","okres Kysucké Nové Mesto","Dolný Vadičov","Dolný Vadičov","BR ACADEMY, s. r. o.","Kysucké Nové Mesto"
+JuIGCsa_wh0,house,200,"new construction",1649.50,2018,200,1039,155,NULL,A,NULL,NULL,"okres Martin",Blatnica,Blatnica,"Buby reality, s.r.o.",Žilina
+JuCbUaiZ-t8,house,180,unrenovated,204.44,1967,180,537,180,flat,"not available",NULL,NULL,"okres Čadca",Skalité,Skalité,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuPBoWiotP6,house,86,"new construction",2616.28,2010,86,986,136,sloped,F,NULL,NULL,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","RIEŠIME BÝVANIE",Bratislava
+JuyVW5GYHzb,house,100,"development project",1909.00,2025,100,407,113,"gently sloped",A,NULL,well,"okres Žilina",Lysica,Lysica,"YFE, s.r.o.",Žilina
+JufXd7f876u,house,130,"under construction",3038.46,2025,130,530,110,flat,"not available",on-site,well,"okres Žilina",Žilina,Bánová,"RIEŠIME BÝVANIE",Bratislava
+JuvDMV343M4,house,100,"new construction",1999.00,2025,100,116,74,flat,A,on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JunqWaLvLjb,house,140,"new construction",2285.71,2019,140,391,70,flat,"not available",NULL,"public water","okres Liptovský Mikuláš","Liptovská Sielnica","Liptovská Sielnica","NajBývanie, s.r.o.",Ružomberok
+JufxA_4siD5,house,180,unrenovated,1388.89,1990,180,972,80,"gently sloped","not available",NULL,NULL,"okres Námestovo",Námestovo,"Slanická Osada","GRAVITAS a. s.",Bratislava
+JuNEJj6Bobe,house,278,unrenovated,604.32,1980,278,1769,109,"gently sloped","not available",NULL,NULL,"okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"New Ways Reality&Financie",Poprad
+Ju7GkmUpk7w,house,84,"partially renovated",1190.48,1968,84,753,84,"gently sloped","not available",on-site,"public water","okres Ružomberok","Liptovská Lúžna","Liptovská Lúžna","NajBývanie, s.r.o.",Ružomberok
+JuugYuyjxCy,house,461,unrenovated,NULL,2000,461,900,275,flat,"not available",NULL,NULL,"okres Čadca",Raková,Raková,NajlepšíMakléri.sk,Bratislava
+JuENmSVbf52,house,773,"new construction",645.54,2019,773,570,203,"gently sloped","not available","not available",well,"okres Žilina",Rosina,Rosina,"Reality Alpia",Martin
+JuSDor_pBw9,house,106,"new construction",933.96,2023,106,600,132,NULL,A,NULL,NULL,"okres Martin",Slovany,Slovany,"Buby reality, s.r.o.",Žilina
+JuEl9XITon-,house,100,unrenovated,998.00,1950,100,1597,100,NULL,NULL,NULL,NULL,"okres Turčianske Teplice",Rudno,Rudno,"Romantické Chalupy, s.r.o.",Bratislava
+JuQ4i8mNwlL,house,65,unrenovated,2753.85,2010,65,460,78,flat,"not available",NULL,"public water","okres Bytča",Kotešová,Kotešová,"TARGETreal s. r. o.",Žilina
+Ju3IlwS0uHk,house,300,"partially renovated",933.33,1957,300,157,155,flat,"not available",on-site,"public water","okres Žilina",NULL,NULL,"DreamReality s.r.o.",Žilina
+JurqmynKY4o,house,240,"new construction",NULL,2015,240,878,81,NULL,"not available",NULL,NULL,"okres Dolný Kubín","Oravský Podzámok","Oravský Podzámok","RE/MAX Slovakia",Bratislava
+JuhsSA9jVzs,house,250,unrenovated,680.00,1961,250,716,100,flat,NULL,NULL,well,"okres Martin","Turčianske Kľačany","Turčianske Kľačany","B10 Slovensko, a. s.",Žilina
+JuvA9DjdPST,house,140,"new construction",1607.14,2024,140,620,140,flat,"not available",on-site,"public water","okres Ružomberok",Lisková,Lisková,"ALT REAL, s.r.o.",Martin
+JuXVSVVWVLI,house,60,"fully renovated",3083.33,2020,60,495,60,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš",Dúbrava,Dúbrava,"Romantické Chalupy, s.r.o.",Bratislava
+Juv2ewXXJKK,house,300,"fully renovated",1300.00,2008,300,1517,200,NULL,"not available",NULL,NULL,"okres Martin",Vrútky,"Karvaša a Bláhovca","TARGETreal s. r. o.",Žilina
+Juy6D0BMpPr,house,35,"new construction",NULL,2023,35,657,35,sloped,"not available",on-site,"public water","okres Martin",Belá-Dulice,Belá-Dulice,"Reality Center, s.r.o.",Martin
+JuRvLvEuC6c,house,300,"partially renovated",440.00,1970,300,757,300,flat,"not available",on-site,"public water","okres Čadca",Turzovka,NULL,"SLNOVRAT, s.r.o.",Olešná
+JupqlbF43-v,house,150,unrenovated,833.33,1970,150,1156,97,"gently sloped","not available",on-site,well,"okres Bytča","Veľké Rovné","Veľké Rovné","StorkReal s. r. o.","Rajecká Lesná"
+JuZgj6k1S7C,house,348,"partially renovated",718.10,1969,348,772,116,"mostly flat","not available",on-site,"public water","okres Martin",Martin,Stráne,"TARGETreal s. r. o.",Žilina
+JuvbGiTBrMG,house,168,"new construction",1782.74,2024,168,700,219,flat,A,NULL,NULL,"okres Liptovský Mikuláš",Lazisko,Lazisko,"New Ways Reality&Financie",Poprad
+Ju6pNzkI7kN,house,882,unrenovated,374.15,2025,882,NULL,NULL,flat,"not available","not available",well,"okres Martin",Martin,Stráne,"Reality Alpia",Martin
+JuIyY_wrQVH,house,81,"new construction",3913.58,2025,81,948,108,flat,"not available",NULL,NULL,"okres Bytča",Bytča,"Veľká Bytča","WFG reality, s.r.o.",Žilina
+JuhQKNPNiRq,house,210,"fully renovated",1642.86,1980,210,444,NULL,NULL,"not available",NULL,NULL,"okres Žilina","Rajecké Teplice","Rajecké Teplice","AnoReal, s.r.o.",Stráňavy
+JuQ6y__HQN4,house,1,"fully renovated",NULL,2000,1,815,1,flat,"not available",on-site,"public water","okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","LIF REAL",Martin
+JuL5-OdofNk,house,300,"new construction",NULL,2020,300,1811,1,flat,B,NULL,NULL,"okres Žilina",Terchová,Terchová,"RAJA, spol. s r.o.","Svätý Jur"
+JudAAa45gzT,house,140,unrenovated,1151.07,1936,140,436,115,flat,NULL,on-site,well,"okres Martin",Martin,Jahodníky,"B10 Slovensko, a. s.",Žilina
+JuptIY7K5YK,house,828,"partially renovated",235.51,1977,828,828,NULL,"gently sloped","not available","not available",well,"okres Čadca",Turzovka,Predmier,"Reality Alpia",Martin
+JuMof2f50da,house,60,"partially renovated",2416.67,1964,60,235,80,flat,"not available",NULL,well,"okres Žilina",Žilina,"Považský Chlmec","Reality IQ, s.r.o.",Žilina
+JuZgBXj7DfA,house,160,unrenovated,912.50,1900,160,745,103,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Bobrovec,Bobrovec,"RE/MAX Slovakia",Bratislava
+Ju5BwjQ6s7y,house,165,"partially renovated",542.42,1960,165,573,85,"mostly flat","not available",on-site,"public water","okres Čadca",Čierne,Čierne,"SLNOVRAT, s.r.o.",Olešná
+JuEB6osELcj,house,100,"partially renovated",1499.50,2024,100,1759,100,NULL,NULL,NULL,NULL,"okres Turčianske Teplice",Sklené,Sklené,"Romantické Chalupy, s.r.o.",Bratislava
+Ju34HqZzlYZ,house,220,"fully renovated",1409.09,1969,220,849,100,"mostly flat",NULL,NULL,NULL,"okres Žilina",Terchová,Terchová,"Realitná kancelária RED, s.r.o.",Žilina
+Ju_JIspGy8j,house,42,"fully renovated",NULL,1960,42,454,55,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",jabyvam.sk,"Liptovský Mikuláš"
+JuwY9aBM81x,house,300,"partially renovated",1163.33,1961,300,811,195,NULL,"not available",NULL,NULL,"okres Martin",Vrútky,"Dolné Vrútky","Like Reality s.r.o.","Považská Bystrica"
+Ju6FkAOvz_r,house,79,unrenovated,1139.24,1969,79,350,110,flat,"not available",NULL,well,"okres Liptovský Mikuláš","Liptovský Mikuláš",Okoličné,"AstonReal s.r.o.","Banská Bystrica"
+Ju8bN6JmGCo,house,120,unrenovated,2250.00,1970,120,737,120,flat,"not available",on-site,"public water","okres Martin",Martin,Ľadoveň,"Reality ASTORIA, s.r.o.",Martin
+JuF5wwqoPt-,house,90,unrenovated,1222.22,1904,90,986,90,NULL,NULL,NULL,NULL,"okres Ružomberok","Liptovská Osada","Liptovská Osada","Romantické Chalupy, s.r.o.",Bratislava
+JuRB3GLBQlr,house,140,unrenovated,2142.86,2008,140,781,77,flat,"not available",NULL,well,"okres Žilina",Rajec,Rajec,"TUreality s.r.o.",Žilina
+JulDvECm5wW,house,175,"new construction",2457.14,2025,175,442,120,flat,"not available",NULL,"public water","okres Žilina",Žilina,"Považský Chlmec","RIEŠIME BÝVANIE",Bratislava
+JutdauUbuYB,house,178,"new construction",NULL,2014,178,795,200,flat,"not available",on-site,"public water","okres Žilina",Mojš,Mojš,"OREA, s.r.o.","Dolný Kubín"
+JuKt4j2XFxX,house,788,"partially renovated",253.81,1974,788,788,494,flat,"not available","not available",well,"okres Liptovský Mikuláš",Dúbrava,Dúbrava,"Reality Alpia",Martin
+JuTM2PfA7TL,house,172,"partially renovated",1040.70,1980,172,732,112,"gently sloped","not available",NULL,NULL,"okres Žilina",Bitarová,Bitarová,"TUreality s.r.o.",Žilina
+JuHuCArgKgQ,house,90,"new construction",1833.33,1900,90,392,100,other,"not available",NULL,NULL,"okres Námestovo",Zubrohlava,Zubrohlava,"RE/MAX Slovakia",Bratislava
+Jucbi7PZEnm,house,90,unrenovated,1027.78,1970,90,901,115,NULL,"not available",NULL,NULL,"okres Čadca",Klokočov,Klokočov,"1. Reality Rent, s.r.o.",Žilina
+JuM1C8fcu8K,house,847,"fully renovated",NULL,1980,847,847,150,"gently sloped","not available",NULL,NULL,"okres Ružomberok",Ružomberok,NULL,"TUreality s.r.o.",Žilina
+Ju-vY43kOSm,house,120,"fully renovated",1691.67,1970,120,1640,100,flat,"not available",NULL,well,"okres Čadca",Klokočov,Klokočov,"1. Reality Rent, s.r.o.",Žilina
+Ju6dKyzXet6,house,131,"new construction",2053.44,2024,131,252,113,flat,A,on-site,"public water","okres Žilina",Žilina,Strážov,"ŽILINAREAL, s.r.o.",Žilina
+Ju6vI9Ongqb,house,270,"partially renovated",NULL,1964,270,NULL,177,"gently sloped","not available",on-site,well,"okres Čadca",Klokočov,Klokočov,"YNI reality",Žilina
+JuSGs9I7N10c,house,236,"partially renovated",377.12,1922,236,448,236,NULL,"not available",NULL,"public water","okres Turčianske Teplice",Čremošné,Čremošné,"BALAŽI REAL ESTATE s.r.o.",Topoľčany
+JuQQeemtPlQ,house,445,"partially renovated",503.37,1980,445,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","TUreality s.r.o.",Žilina
+Juc14yxwCWy,house,209,"under construction",1674.16,2026,209,546,132,flat,A,NULL,NULL,"okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"ARBIZ real estate & finance s. r. o.",Ružomberok
+JuA6unfH09z,house,250,"partially renovated",1396.00,2025,250,734,250,NULL,"not available",NULL,NULL,"okres Martin",Martin,Stráne,"Reality ASTORIA, s.r.o.",Martin
+JuoL9EBWGdw,house,84,unrenovated,1189.29,1960,84,491,84,flat,"not available",on-site,"public water","okres Žilina",Podhorie,Podhorie,"WFG reality, s.r.o.",Žilina
+JuTsKQYVo81,house,318,"fully renovated",3500.00,1900,318,634,106,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš",Bodice,"bezmaklérov, s.r.o.",Žilina
+JuvJClErKby,house,75,unrenovated,1998.67,1971,75,446,75,flat,"not available",NULL,"not available","okres Kysucké Nové Mesto",Rudina,Rudina,"WFG reality, s.r.o.",Žilina
+JuImgMwAlae,house,125,"new construction",2699.52,2025,125,288,NULL,other,"not available","not available","not available","okres Žilina",Bitarová,Bitarová,"MGM reality",Žilina
+JuJRg0E5VNn,house,140,"new construction",1857.14,2025,140,560,140,flat,"not available",on-site,"public water","okres Martin",Valča,Valča,"ALT REAL, s.r.o.",Martin
+Ju_7upNwBrj,house,110,unrenovated,790.91,1960,110,NULL,97,"gently sloped","not available",on-site,"public water","okres Dolný Kubín",Malatiná,Malatiná,"RK Dalmia s. r. o.","Dolný Kubín"
+JueQzTcIDeQ,house,42,"new construction",3333.33,2024,42,400,48,"gently sloped",A,on-site,"public water","okres Ružomberok",Ružomberok,Baničné,"FISCHER & PARTNERS, s.r.o.",Ružomberok
+JuWFwDq9Hos,house,100,unrenovated,990.00,1973,100,NULL,130,flat,"not available",on-site,well,"okres Ružomberok",Likavka,Likavka,"AstonReal s.r.o.","Banská Bystrica"
+Juw-gEYpFG_,house,135,"new construction",1533.33,2025,135,211,63,"gently sloped",A,NULL,NULL,"okres Čadca",Čadca,Milošová,"SLNOVRAT, s.r.o.",Olešná
+Ju3_GjYaBPA,house,1056,unrenovated,241.48,1952,1056,NULL,1056,flat,"not available",on-site,"public water","okres Čadca",Čadca,Centrum,"MENÍME BÝVANIE",Čadca
+JufgKb9FR3J,house,60,"partially renovated",916.67,2021,60,799,60,NULL,NULL,NULL,NULL,"okres Ružomberok",Ludrová,Ludrová,"Romantické Chalupy, s.r.o.",Bratislava
+JunNJzhFnyu,house,270,"fully renovated",NULL,1964,270,780,90,NULL,"not available",NULL,NULL,"okres Čadca",Čierne,Čierne,Reality+,Žilina
+Juk_6IbuVg4,house,240,unrenovated,NULL,2003,240,1619,NULL,other,"not available","not available","not available","okres Kysucké Nové Mesto",Nesluša,Nesluša,"MGM reality",Žilina
+Juhv-0ib6ND,house,1,unrenovated,NULL,1967,1,632,1,sloped,"not available",on-site,"public water","okres Bytča","Hlboké nad Váhom","Hlboké nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuFy8odNEYG,house,1281,"fully renovated",230.29,2025,1281,NULL,NULL,"gently sloped","not available","not available",well,"okres Ružomberok",Ludrová,Ludrová,"Reality Alpia",Martin
+Ju5HL9HCWYK,house,806,"partially renovated",NULL,1980,806,806,NULL,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Podtureň,Podtureň,"TUreality s.r.o.",Žilina
+JuTAR5A7Hvk,house,209,"new construction",1411.48,2019,209,391,123,flat,A,on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+Juk8YxA4P9Q,house,128,"partially renovated",1351.56,1975,128,830,130,flat,"not available",NULL,"public water","okres Tvrdošín",Zábiedovo,Zábiedovo,"VICTORY REALITY Residence s. r. o.","Banská Bystrica"
+JuH7gFUPY7f,house,280,"fully renovated",NULL,1998,280,1542,110,flat,"not available",NULL,NULL,"okres Žilina",Gbeľany,Gbeľany,"RIEŠIME BÝVANIE",Bratislava
+JuHEeYDAKYc,house,200,unrenovated,475.00,1967,200,1142,160,flat,"not available",NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"Ing. Marcela Pišteková",Turzovka
+Ju818YWB7Et,house,195,"partially renovated",1123.08,1976,195,580,90,NULL,"not available",NULL,NULL,"okres Martin",Valča,Valča,"Reality AK, spol. s r.o.",Martin
+JuvprX5EDq1,house,88,"fully renovated",3180.68,1961,88,1325,98,"mostly flat","not available",NULL,NULL,"okres Ružomberok",Likavka,Likavka,"OREA, s.r.o.","Dolný Kubín"
+Ju769ToQ74D,house,200,"new construction",1103.63,2024,200,588,90,"gently sloped","not available",on-site,"public water","okres Žilina",Žilina,"Žilinská Lehota","DRR INVEST, s. r. o.","Horný Hričov"
+Ju_VPyRRw8c,house,160,unrenovated,643.13,2020,160,1016,160,NULL,NULL,NULL,NULL,"okres Čadca",Klokočov,Klokočov,"Romantické Chalupy, s.r.o.",Bratislava
+Juady9vqBv8,house,350,"new construction",851.43,2010,350,1900,300,NULL,"not available",NULL,NULL,"okres Čadca",Klokočov,Klokočov,"Ing. Marcela Pišteková",Turzovka
+Juj0QibLMWk,house,186,"new construction",1983.87,2010,186,690,200,flat,A,NULL,NULL,"okres Čadca","Krásno nad Kysucou",Stred,"JPE. Reality - Jozef Pajer",Čadca
+Jua9bDzVCPy,house,110,unrenovated,1090.91,1965,110,297,135,flat,"not available",NULL,NULL,"okres Ružomberok",Lisková,Lisková,"RE/MAX Slovakia",Bratislava
+JuVWSdPVacq,house,160,unrenovated,931.25,1900,160,282,93,"gently sloped","not available",NULL,NULL,"okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"RE/MAX Slovakia",Bratislava
+JuoeXyKL-xw,house,240,"partially renovated",1166.67,1980,240,600,120,flat,"not available",on-site,"public water","okres Martin",Martin,"Kolónia Hviezda","TB Real, spol. s r.o.",Košice
+JuU-CdEC7dE,house,140,unrenovated,914.29,1977,140,740,80,flat,"not available",NULL,well,"okres Čadca",Svrčinovec,Svrčinovec,"1. Reality Rent, s.r.o.",Žilina
+JuyjJhU57Ie,house,280,"fully renovated",0.00,1990,280,1300,125,flat,NULL,NULL,well,"okres Martin",Dražkovce,Dražkovce,"B10 Slovensko, a. s.",Žilina
+JuUOF1Y8GRc,house,800,"partially renovated",306.25,1980,800,800,253,flat,"not available",NULL,NULL,"okres Ružomberok",Martinček,Martinček,"TUreality s.r.o.",Žilina
+JuTtMGChCvj,house,664,"partially renovated",224.40,1980,664,664,NULL,flat,"not available",NULL,well,"okres Ružomberok",Ivachnová,Ivachnová,"TUreality s.r.o.",Žilina
+Ju85rN2RkNp,house,320,"partially renovated",1531.25,1970,320,634,110,"gently sloped","not available",NULL,"public water","okres Žilina",Žilina,Bôrik,"ŽILINAREAL, s.r.o.",Žilina
+JuGV2Mc53Dd,house,121,"new construction",1817.36,1900,121,540,154,NULL,"not available",NULL,NULL,"okres Námestovo",Ťapešovo,Ťapešovo,"RE/MAX Slovakia",Bratislava
+Ju_8_vlnZwY,house,18,"new construction",555.00,2025,18,NULL,18,other,"not available","not available","not available","okres Ružomberok",Ružomberok,"Biely Potok","IVANING, s. r. o.",Ružomberok
+JulClHeflP9,house,180,"fully renovated",1438.89,1997,180,753,102,flat,"not available",NULL,NULL,"okres Žilina","Lietavská Lúčka","Lietavská Lúčka","Babony TRE s.r.o.",Bratislava
+JuAUegGsDW_,house,96,"fully renovated",1250.00,1950,96,534,48,NULL,"not available",NULL,NULL,"okres Turčianske Teplice",Turček,Turček,"TARGETreal s. r. o.",Žilina
+JuD5IEP-_uU,house,728,"new construction",405.22,2023,728,728,133,flat,"not available",NULL,well,"okres Žilina","Lietavská Svinná-Babkov","Lietavská Svinná-Babkov","TUreality s.r.o.",Žilina
+Juh02qpId7f,house,180,"partially renovated",861.11,1969,180,502,100,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Rieka,"HOLESTIAK.sk reality s.r.o.",Čadca
+JudW0vCLa-q,house,220,"partially renovated",NULL,1986,220,433,182,"gently sloped","not available",on-site,"public water","okres Žilina",Žilina,Budatín,"ŽILINAREAL, s.r.o.",Žilina
+JuZSCNK7v3l,house,300,"fully renovated",2500.00,1930,300,1200,300,flat,"not available",NULL,"public water","okres Žilina",Žilina,"Staré mesto","RIEŠIME BÝVANIE",Bratislava
+JuNXUaLV7F5,house,117,"new construction",2050.43,2025,117,431,70,NULL,"in preparation",NULL,NULL,"okres Čadca",Čadca,Kyzkovci,"HOLESTIAK.sk reality s.r.o.",Čadca
+Jubpxb0JsTj,house,140,unrenovated,464.29,1965,140,942,120,"gently sloped","not available",on-site,well,"okres Čadca",Klokočov,Klokočov,"Trioreality, s.r.o.",Čadca
+Ju4kDIYSKlj,house,210,unrenovated,1619.05,1980,210,1039,172,NULL,"not available",NULL,NULL,"okres Martin",Žabokreky,Žabokreky,"RIEŠIME BÝVANIE",Bratislava
+JuY6OUpbXjU,house,159,"new construction",4081.76,2012,159,629,244,"mostly flat",NULL,NULL,NULL,"okres Žilina",Mojš,Mojš,"Realitná kancelária RED, s.r.o.",Žilina
+Jug6zZpbgms,house,125,"fully renovated",1872.00,2000,125,298,92,flat,"not available",on-site,"public water","okres Žilina",Terchová,Terchová,"RIEŠIME BÝVANIE",Bratislava
+JuP0XzI2a8X,house,160,unrenovated,484.38,1970,160,369,115,"gently sloped","not available","not available","not available","okres Námestovo",Lomná,Lomná,"RE/MAX Slovakia",Bratislava
+JuQ_I0ff1WB,house,1,"partially renovated",299000.00,1975,1,969,1,flat,"not available",on-site,"public water","okres Bytča",Kotešová,Kotešová,"TOCA, s.r.o. Realitná činnosť",Bytča
+JuxsRe4hFI1,house,131,"new construction",1908.40,2024,131,560,135,flat,A,on-site,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","ALT REAL, s.r.o.",Martin
+JuNAkKLTuvU,house,103,"under construction",2329.13,2025,103,484,148,sloped,A,NULL,NULL,"okres Žilina",Brezany,Brezany,"TARGETreal s. r. o.",Žilina
+JurPQrgAzVa,house,180,"new construction",0.01,2024,180,593,96,NULL,A,NULL,NULL,"okres Žilina",Varín,Varín,"ROMDOM, s. r. o",Žilina
+JuO0hdGmTXM,house,150,unrenovated,686.67,1927,150,1169,170,flat,"not available",NULL,well,"okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","Reality AK, spol. s r.o.",Martin
+Jud-pgAdAnR,house,355,"partially renovated",1380.28,1998,355,963,180,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Závodie,"Realitné kancelárie SR",Bratislava
+JunMD2_PHX1,house,392,"new construction",1603.98,2007,392,1018,200,"gently sloped","not available",NULL,NULL,"okres Žilina",Žilina,Budatín,"R2 SK, s.r.o.",Žilina
+Jut9hBMvkj1,house,145,"new construction",NULL,2023,145,511,150,"mostly flat",NULL,NULL,NULL,"okres Žilina",Hôrky,Hôrky,"Realitná kancelária RED, s.r.o.",Žilina
+JuMIjDzPJlV,house,170,"partially renovated",1088.24,1972,170,1502,120,sloped,NULL,NULL,NULL,"okres Žilina","Dolná Tižina","Dolná Tižina","Realitná kancelária RED, s.r.o.",Žilina
+Ju08TjjVb3y,house,98,"new construction",4275.51,2019,98,809,98,flat,"not available",NULL,well,"okres Žilina",Mojš,Mojš,"TUreality s.r.o.",Žilina
+Juove7AkwvT,house,160,"new construction",1625.00,2024,160,565,140,flat,"not available",on-site,"public water","okres Martin",Valča,Valča,"ALT REAL, s.r.o.",Martin
+JuqQL7cMBce,house,160,unrenovated,2843.75,1984,160,544,100,flat,"not available",on-site,"public water","okres Žilina",Žilina,Bôrik,"WFG reality, s.r.o.",Žilina
+JuyE1SKm9MG,house,305,"new construction",NULL,1900,305,808,122,"gently sloped","not available",on-site,"not available","okres Dolný Kubín","Dolný Kubín","Veľký Bysterec","RE/MAX Slovakia",Bratislava
+JuAUIyCgthV,house,330,"fully renovated",784.85,1954,330,2809,310,"gently sloped","not available",on-site,"public water","okres Turčianske Teplice",Dubové,Dubové,"Ing.Zuzana Paverová","Turčianske Teplice"
+JulOKuOiom0,house,348,unrenovated,706.90,1976,348,772,116,flat,"not available",NULL,well,"okres Martin",Martin,Stráne,"Reality AK, spol. s r.o.",Martin
+JuV6m-uCHri,house,192,"partially renovated",1083.33,1967,192,859,359,flat,"not available",on-site,"public water","okres Ružomberok",Komjatná,Komjatná,"NajBývanie, s.r.o.",Ružomberok
+JuBFSGXIbQg,house,97,"fully renovated",2917.53,2025,97,490,100,flat,"not available",NULL,"public water","okres Martin",Martin,Stred,"Reality D.P.A.",Martin
+JuSEx_tCHgm,house,155,"partially renovated",NULL,1963,155,555,122,flat,"not available",on-site,"public water","okres Martin",Sučany,Sučany,"Reality ASTORIA, s.r.o.",Martin
+Ju8D90dPeWn,house,115,"under construction",2276.49,2025,115,NULL,115,flat,A,on-site,"public water","okres Čadca","Stará Bystrica","Stará Bystrica","TRI LIPY, s. r. o.",Čadca
+JuSIu9gfLrM,house,500,"new construction",620.00,2025,500,NULL,NULL,flat,A,"not available","not available","okres Martin",Turany,Turany,"Reality Alpia",Martin
+Jubw55XES_L,house,270,unrenovated,574.07,1969,270,372,125,"mostly flat",NULL,NULL,NULL,"okres Žilina",Rajec,Rajec,"Realitná kancelária RED, s.r.o.",Žilina
+Ju4qLAERlSe,house,336,"new construction",5812.22,2016,336,32000,NULL,NULL,"not available",NULL,NULL,"okres Turčianske Teplice",Sklené,Sklené,"HERRYS s.r.o.",Bratislava
+JuQLhnk0fIJ,house,208,"partially renovated",668.27,1969,208,838,104,NULL,"not available",NULL,NULL,"okres Námestovo",Bobrov,Bobrov,"RK Dalmia s. r. o.","Dolný Kubín"
+JuTHsp0WSDj,house,200,"new construction",1275.00,2013,200,554,100,terraced,NULL,on-site,well,"okres Čadca",Čierne,Čierne,"B10 Slovensko, a. s.",Žilina
+Juq9xnQNQkn,house,110,"new construction",2263.64,2025,110,750,124,"mostly flat","not available",on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače",donidDevelop,"Dolný Kubín"
+Ju201YVcPl9,house,1608,"partially renovated",158.58,2025,1608,NULL,NULL,flat,"not available","not available",well,"okres Martin",Martin,Priekopa,"Reality Alpia",Martin
+JuEkXTiy4W0,house,110,"fully renovated",1545.45,1995,110,770,115,flat,"not available",NULL,NULL,"okres Čadca",Turzovka,Predmier,"Ing. Marcela Pišteková",Turzovka
+JuRCZxG-Ooz,house,85,unrenovated,329.41,1956,85,1400,85,NULL,NULL,NULL,NULL,"okres Turčianske Teplice",Brieštie,Brieštie,"Romantické Chalupy, s.r.o.",Bratislava
+Ju2g9qDY7C2,house,144,unrenovated,NULL,1962,144,895,168,NULL,"not available",NULL,NULL,"okres Žilina","Lietavská Lúčka","Lietavská Lúčka","LAVENTURA s.r.o.",Žilina
+JuiurmGxqdw,house,110,"partially renovated",2081.82,1970,110,724,108,flat,"not available",on-site,"public water","okres Liptovský Mikuláš",Galovany,Galovany,jabyvam.sk,"Liptovský Mikuláš"
+JubPnkGYuzd,house,50,unrenovated,2100.00,1960,50,561,50,NULL,NULL,NULL,NULL,"okres Žilina","Lietavská Svinná-Babkov","Lietavská Svinná-Babkov","Romantické Chalupy, s.r.o.",Bratislava
+JutUghljOFb,house,132,"new construction",2657.96,2025,132,500,120,NULL,A,NULL,NULL,"okres Martin","Košťany nad Turcom","Košťany nad Turcom","TARGETreal s. r. o.",Žilina
+JuOcMarFG9f,house,300,"partially renovated",846.33,1955,300,2425,300,flat,NULL,on-site,"public water","okres Martin",Martin,Priekopa,"B10 Slovensko, a. s.",Žilina
+JueL_62vkzy,house,370,"new construction",NULL,2007,370,6447,199,"gently sloped","not available",on-site,well,"okres Bytča",Petrovice,Petrovice,"Arvin & Benet",Bratislava
+Ju83GL9bzob,house,285,"partially renovated",NULL,2025,285,NULL,NULL,flat,"not available","not available",well,"okres Liptovský Mikuláš",Pribylina,Pribylina,"Reality Alpia",Martin
+JuOWTKqdph-,house,113,"new construction",2389.29,2023,113,772,155,NULL,A,NULL,NULL,"okres Žilina",Brezany,Brezany,"TARGETreal s. r. o.",Žilina
+JuJ_aSROqsa,house,160,unrenovated,NULL,2006,160,1101,88,"mostly flat",NULL,NULL,NULL,"okres Bytča",Maršová-Rašov,Maršová-Rašov,"Realitná kancelária RED, s.r.o.",Žilina
+JuZb8UCK_rZ,house,70,NULL,500.00,1960,70,268,70,NULL,NULL,NULL,NULL,"okres Čadca",Svrčinovec,Svrčinovec,"Romantické Chalupy, s.r.o.",Bratislava
+JuTlV6vu9KV,house,160,"partially renovated",1218.75,1920,160,2227,NULL,"gently sloped",NULL,NULL,NULL,"okres Čadca",Turzovka,Hlinené,"RK ANNA, s.r.o.",Bratislava
+JuHMOf4_aEt,house,340,"fully renovated",1191.18,1970,340,780,NULL,NULL,"not available",NULL,NULL,"okres Martin",Martin,Podháj,"OVERENÉ REALITY","Banská Bystrica"
+JuExQtw6qVs,house,97,"new construction",1443.30,2025,97,574,111,sloped,"not available",on-site,"public water","okres Žilina",Bitarová,Bitarová,"TOCA, s.r.o. Realitná činnosť",Bytča
+JuWdOUuOqTq,house,320,"partially renovated",562.47,1945,320,5897,320,"gently sloped",NULL,NULL,NULL,"okres Bytča","Veľké Rovné","Veľké Rovné","Realitná kancelária RED, s.r.o.",Žilina
+JuCQquJMobX,house,290,"fully renovated",1344.79,1970,290,NULL,175,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",jabyvam.sk,"Liptovský Mikuláš"
+JuCZFv2-6ou,house,180,"new construction",1499.44,2020,180,792,100,flat,"not available",NULL,NULL,"okres Martin",Sučany,Sučany,"Reality AK, spol. s r.o.",Martin
+JuZeXFkM1A9,house,200,unrenovated,600.00,2025,200,2137,520,NULL,"not available",NULL,NULL,"okres Čadca","Dlhá nad Kysucou","Dlhá nad Kysucou","WFG reality, s.r.o.",Žilina
+JuiNO66g3Yc,house,1738,unrenovated,138.09,1967,1738,1738,NULL,"gently sloped","not available","not available",well,"okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","Reality Alpia",Martin
+Ju3B-41JURa,house,186,"new construction",1870.31,2024,186,288,75,flat,A,NULL,"public water","okres Žilina",Bitarová,Bitarová,"ŽILINAREAL, s.r.o.",Žilina
+JuVYoseZcjb,house,140,"fully renovated",1035.00,1975,140,1005,106,sloped,"not available",NULL,"public water","okres Čadca","Vysoká nad Kysucou","Vysoká nad Kysucou","Stanislav Slovák",Příbor
+Juqo9ur2oSk,house,233,"partially renovated",1369.10,1970,233,1483,150,flat,"not available",NULL,well,"okres Čadca",Raková,Raková,"1. Reality Rent, s.r.o.",Žilina
+JuUtFPHm2FJ,house,80,unrenovated,1325.00,1965,80,2627,80,NULL,"not available",NULL,NULL,"okres Čadca",Skalité,Skalité,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuRXV1iFSPA,house,85,unrenovated,587.06,1950,85,3271,80,flat,NULL,on-site,well,"okres Liptovský Mikuláš","Partizánska Ľupča","Partizánska Ľupča","B10 Slovensko, a. s.",Žilina
+JuvFd0GqZEL,house,70,unrenovated,850.00,1970,70,705,70,NULL,NULL,NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"Romantické Chalupy, s.r.o.",Bratislava
+JuYLfbh2sq3,house,125,"partially renovated",1599.92,1980,125,660,546,flat,"not available",NULL,well,"okres Ružomberok","Liptovská Osada","Liptovská Osada","Joyel s.r.o.",Galanta
+JurXt03mBLY,house,186,"new construction",1870.31,2025,186,288,144,flat,A,on-site,"public water","okres Žilina",Bitarová,Bitarová,"ŽILINAREAL, s.r.o.",Žilina
+JupleqZX_5c,house,180,unrenovated,816.11,1931,180,1038,140,NULL,E,NULL,NULL,"okres Liptovský Mikuláš",Važec,Važec,"HALO reality, s.r.o.",Prievidza
+JuFiX3Sq3vG,house,135,"partially renovated",998.52,1960,135,1133,124,NULL,E,NULL,NULL,"okres Liptovský Mikuláš",Važec,Važec,"HALO reality, s.r.o.",Prievidza
+JugTUA5gS8g,house,130,unrenovated,1223.08,1972,130,1326,140,flat,A,on-site,well,"okres Čadca",Čadca,Milošová,"JPE. Reality - Jozef Pajer",Čadca
+Ju-2ATFv9rv,house,109,"new construction",2571.43,2020,109,350,NULL,other,"not available","not available","not available","okres Žilina",Žilina,Trnové,"MGM reality",Žilina
+Ju-DaLUFFrZO,house,72,unrenovated,1013.89,1901,72,1207,91,"gently sloped","not available",NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"1. Reality Rent, s.r.o.",Žilina
+JulhD_NcT3W,house,120,"partially renovated",2191.67,1990,120,NULL,144,flat,A,NULL,NULL,"okres Čadca",Čadca,"U Hluška","JPE. Reality - Jozef Pajer",Čadca
+JuR8MtfJ_hy,house,290,"partially renovated",1034.14,1960,290,NULL,120,flat,"not available",on-site,"public water","okres Ružomberok",Bešeňová,Bešeňová,jabyvam.sk,"Liptovský Mikuláš"
+JuTYVNH1hyq,house,180,unrenovated,1388.89,1945,180,521,100,"mostly flat",NULL,NULL,NULL,"okres Žilina",Žilina,Závodie,"Realitná kancelária RED, s.r.o.",Žilina
+JueXmDjP7zd,house,350,"partially renovated",1054.29,1982,350,423,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,Budatín,"Realitné kancelárie SR",Bratislava
+JuHhaEPAecH,house,107,unrenovated,2102.80,1964,107,550,107,"gently sloped","not available",NULL,NULL,"okres Žilina",Žilina,Budatín,"Realitná kancelária RED, s.r.o.",Žilina
+JuUd1zO7Wmq,house,190,"partially renovated",NULL,1975,190,666,95,flat,"not available",on-site,"public water","okres Liptovský Mikuláš",Východná,Východná,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+Ju65DXWDqfO,house,1759,unrenovated,59.69,2025,1759,NULL,NULL,"gently sloped","not available","not available","not available","okres Žilina","Malá Čierna","Malá Čierna","Reality Alpia",Martin
+JuUTEYZS5iH,house,715,unrenovated,NULL,1968,715,715,110,flat,"not available",NULL,NULL,"okres Martin","Turčianske Kľačany","Turčianske Kľačany","Realitné kancelárie SR",Bratislava
+JulIOnbqCxs,house,72,"new construction",3180.56,2025,72,NULL,90,terraced,A,on-site,"public water","okres Liptovský Mikuláš","Partizánska Ľupča","Partizánska Ľupča","MK-CORP s.r.o.",Malacky
+JunoisVSjsE,house,90,"partially renovated",2000.00,1975,90,523,90,flat,"not available",NULL,"public water","okres Liptovský Mikuláš",Dúbrava,Dúbrava,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JuX0rjtWptr,house,653,"fully renovated",214.40,1970,653,653,653,NULL,A,NULL,NULL,"okres Ružomberok","Liptovská Lúžna","Liptovská Lúžna","VAŠA REALITKA s.r.o.",Ružomberok
+Ju0jlVjeum2,house,80,"fully renovated",2375.00,1958,80,728,90,flat,"not available",NULL,well,"okres Kysucké Nové Mesto",Radoľa,Radoľa,"Safe reality s. r. o.",Žilina
+Ju-n3HBlCLs,house,106,"new construction",4990.57,2020,106,549,149,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","HALO reality, s.r.o.",Prievidza
+JumqzlfG1o5,house,150,"fully renovated",1620.00,1979,150,450,117,flat,"not available",NULL,NULL,"okres Ružomberok",Lisková,Lisková,"OVERENÉ REALITY","Banská Bystrica"
+JuUVlQMhocg,house,52,"partially renovated",1538.46,1960,52,526,100,flat,"not available",on-site,"public water","okres Turčianske Teplice","Malý Čepčín","Malý Čepčín","Reality Center, s.r.o.",Martin
+JuIvAW7ErKL,house,70,unrenovated,3357.00,1935,70,938,120,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie",jabyvam.sk,"Liptovský Mikuláš"
+Juomcnw1rQn,house,265,"new construction",1467.92,2020,265,599,140,NULL,A,NULL,NULL,"okres Liptovský Mikuláš",Vavrišovo,Vavrišovo,"Realitná kancelária Peter Hubka","Liptovský Mikuláš"
+JuHZ1_tqsoJ,house,160,"partially renovated",493.75,1931,160,664,300,flat,"not available",NULL,well,"okres Turčianske Teplice",Háj,Háj,"TARGETreal s. r. o.",Žilina
+JuRsx7ULgvE,house,505,"new construction",512.87,1980,505,505,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš",Ižipovce,Ižipovce,"TUreality s.r.o.",Žilina
+Juu-17oAoC1,house,180,"partially renovated",883.33,1970,180,230,100,flat,"not available",on-site,"public water","okres Žilina",Žilina,"Považský Chlmec","R2 SK, s.r.o.",Žilina
+JuHTrpBIwLH,house,50,unrenovated,656.00,1920,50,172,55,flat,"not available",NULL,NULL,"okres Čadca","Zborov nad Bystricou","Zborov nad Bystricou","HOLESTIAK.sk reality s.r.o.",Čadca
+JugRw5WlFvo,house,132,"new construction",2651.52,2025,132,500,150,"gently sloped",A,on-site,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","CPM Real Estate",Bratislava
+JufGT_MaCUz,house,260,unrenovated,653.85,1965,260,1237,200,NULL,"not available",NULL,NULL,"okres Kysucké Nové Mesto",Rudinská,Rudinská,"BR ACADEMY, s. r. o.","Kysucké Nové Mesto"
+Juoz04a647Q,house,160,"partially renovated",1625.00,1964,160,456,199,flat,"not available",NULL,"public water","okres Žilina",Žilina,Budatín,"ŽILINAREAL, s.r.o.",Žilina
+Ju1Kl-Z5Rmy,house,80,unrenovated,900.00,1960,80,NULL,98,"gently sloped","not available",on-site,well,"okres Čadca",Svrčinovec,Svrčinovec,"1. Reality Rent, s.r.o.",Žilina
+JuyNnLnMYyC,house,180,"partially renovated",NULL,1980,180,300,90,flat,"not available",NULL,"public water","okres Čadca",Oščadnica,Oščadnica,"SLNOVRAT, s.r.o.",Olešná
+JuF46fUq-Yw,house,90,unrenovated,NULL,1930,90,1648,70,flat,"not available",NULL,"public water","okres Martin",Blatnica,Blatnica,"YNI reality",Žilina
+JuKQcfqPzaF,house,112,unrenovated,1598.21,1980,112,296,176,"gently sloped","not available",NULL,"public water","okres Ružomberok",Ľubochňa,Ľubochňa,"IVANING, s. r. o.",Ružomberok
+JuytovsywXn,house,91,"new construction",1546.96,2025,91,577,110,NULL,"not available",NULL,NULL,"okres Žilina",Bitarová,Bitarová,"Bosen Group s.r.o.",Bratislava
+JucRk_dUu__,house,170,"new construction",1994.12,2025,170,510,100,NULL,A,NULL,NULL,"okres Liptovský Mikuláš",Ižipovce,Ižipovce,"PT-com s. r. o.","Banská Bystrica"
+JuWBhReJsOQ,house,460,"fully renovated",2369.57,2025,460,1014,NULL,other,"not available","not available","not available","okres Ružomberok",Ružomberok,"Staré mesto","Reality Alpia",Martin
+JupxniZ3HTo,house,85,"partially renovated",1047.06,1975,85,388,85,flat,NULL,on-site,well,"okres Turčianske Teplice",Brieštie,Brieštie,"B10 Slovensko, a. s.",Žilina
+JuX6zPqRWEF,house,200,unrenovated,NULL,1955,200,1280,200,flat,"not available",on-site,"public water","okres Martin",Vrútky,"Dolné Vrútky","Reality Center, s.r.o.",Martin
+JuMM6zZvZxw,house,1,"partially renovated",NULL,1964,1,910,1,flat,"not available",on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuBhi6vWwWF,house,135,"partially renovated",1666.67,1989,135,1076,139,NULL,NULL,NULL,NULL,"okres Ružomberok",Hubová,Hubová,"RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JusY0XVc742,house,116,"new construction",2682.59,2022,116,518,145,sloped,A,on-site,"public water","okres Žilina",Varín,Varín,"R2 SK, s.r.o.",Žilina
+Ju0x3Q-Isx2,house,462,"partially renovated",NULL,2025,462,462,NULL,flat,"not available","not available",well,"okres Martin",Martin,Jahodníky,"Reality Alpia",Martin
+JusBzzX4MYn,house,240,unrenovated,937.08,2024,240,805,120,NULL,"not available",NULL,NULL,"okres Martin",Martin,Stráne,"Financie a reality od A po Z",Martin
+JuyGuuau4bp,house,140,"new construction",2213.57,2021,140,1630,80,NULL,B,NULL,NULL,"okres Čadca",Skalité,Skalité,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuZg89p6Hy7,house,230,"fully renovated",1608.65,1972,230,781,111,flat,"not available",NULL,NULL,"okres Žilina",Terchová,Terchová,"TARGETreal s. r. o.",Žilina
+Ju90ROUj5tm,house,115,"fully renovated",1826.09,1970,115,764,321,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"OVERENÉ REALITY","Banská Bystrica"
+JufpZ_mPYDs,house,683,"fully renovated",NULL,1950,683,10237,312,sloped,"not available",NULL,NULL,"okres Ružomberok",Ľubochňa,Ľubochňa,"ARBIZ real estate & finance s. r. o.",Ružomberok
+JuGmzsgn_AA,house,500,unrenovated,998.00,2010,500,1347,500,flat,"not available",NULL,well,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Oškerda,"WFG reality, s.r.o.",Žilina
+JuZvI3pSm0g,house,230,"partially renovated",821.74,1990,230,872,103,flat,"not available",NULL,NULL,"okres Žilina","Lietavská Svinná-Babkov","Lietavská Svinná-Babkov","RIEŠIME BÝVANIE",Bratislava
+Ju4QNdSEtTJo,house,104,"under construction",1612.47,2024,104,293,65,NULL,A,NULL,NULL,"okres Bytča",Bytča,"Bytča - sever","ADH-REAL s.r.o. Hirjaková Adriana",Ovčiarsko
+JuTyI-EzXJs,house,100,unrenovated,NULL,1942,100,649,80,flat,"not available",NULL,"public water","okres Žilina",Žilina,"Staré mesto","BR ACADEMY, s. r. o.","Kysucké Nové Mesto"
+JuRjgYMudUi,house,300,"partially renovated",933.33,2004,300,1655,200,flat,"not available",NULL,NULL,"okres Bytča",Kotešová,Kotešová,"TARGETreal s. r. o.",Žilina
+JuQMRIcKumi,house,194,"under construction",1545.88,2026,194,414,124,flat,A,on-site,"public water","okres Liptovský Mikuláš",Ľubeľa,Ľubeľa,"ARBIZ real estate & finance s. r. o.",Ružomberok
+JuemrlNxbW5,house,360,unrenovated,444.44,2025,360,360,NULL,flat,"not available","not available",well,"okres Ružomberok",Ružomberok,Polík,"Reality Alpia",Martin
+Ju73dWwYIf4,house,300,"fully renovated",733.33,2002,300,717,591,NULL,"not available",NULL,NULL,"okres Ružomberok","Liptovské Sliače","Liptovské Sliače","AstonReal s.r.o.","Banská Bystrica"
+JuL77Ktof8v,house,1236,"new construction",314.72,2025,1236,NULL,NULL,other,"not available","not available","not available","okres Ružomberok","Liptovská Štiavnica","Liptovská Štiavnica","Reality Alpia",Martin
+Ju11dVJkRkl,house,461,unrenovated,NULL,2000,461,900,275,flat,"not available",NULL,NULL,"okres Žilina",Žilina,Závodie,NajlepšíMakléri.sk,Bratislava
+Ju6OXC5e_2f,house,186,"partially renovated",NULL,2025,186,NULL,186,"gently sloped","not available",NULL,"not available","okres Liptovský Mikuláš",Jakubovany,Jakubovany,"Reality Alpia",Martin
+JufFtzCmoZI,house,103,"fully renovated",1552.91,2023,103,175,NULL,other,"not available","not available","not available","okres Žilina",Rosina,Rosina,"MGM reality",Žilina
+Ju_rwk44XIO,house,220,unrenovated,1043.18,1975,220,292,NULL,other,"not available","not available","not available","okres Žilina",Žilina,Závodie,"MGM reality",Žilina
+JuaEOE3NvBE,house,160,"new construction",2062.50,2024,160,560,100,flat,"not available",on-site,"public water","okres Martin",Rakovo,Rakovo,"Reality MT s.r.o.",Martin
+Juidd703LOU,house,200,unrenovated,745.00,1970,200,1362,300,sloped,"not available",NULL,NULL,"okres Žilina",Lysica,Lysica,"Realitná kancelária RED, s.r.o.",Žilina
+Ju-OE670leB,house,1,unrenovated,NULL,1925,1,342,1,flat,"not available",on-site,"public water","okres Bytča",Predmier,Predmier,"TOCA, s.r.o. Realitná činnosť",Bytča
+JukIEPbTzbs,house,105,unrenovated,NULL,1968,105,280,75,flat,"not available",NULL,"public water","okres Žilina",Hôrky,Hôrky,"K&B Partners, s.r.o.",Trenčín
+Ju9pzA6kp29,house,200,"partially renovated",630.00,1965,200,1050,120,flat,NULL,on-site,well,"okres Čadca",Makov,Makov,"B10 Slovensko, a. s.",Žilina
+Juk1Q-owy0o,house,100,"partially renovated",2079.90,1970,100,1047,120,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš",Okoličné,jabyvam.sk,"Liptovský Mikuláš"
+Ju9iqAyYgBP,house,200,"partially renovated",NULL,1973,200,1044,103,flat,"not available",on-site,"public water","okres Martin",Martin,Priekopa,"Like Reality s.r.o.","Považská Bystrica"
+JuRU-kTFsF-J,house,100,unrenovated,1150.00,2012,100,704,100,NULL,NULL,NULL,NULL,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","Romantické Chalupy, s.r.o.",Bratislava
+JuO6fvSVJ1V,house,420,unrenovated,218.26,1971,420,1016,456,"gently sloped","not available",NULL,well,"okres Čadca",Klokočov,Klokočov,"MG real, s.r.o.",Topoľčany
+JuGR3fH9qik,house,97,"new construction",1443.30,2025,97,574,111,sloped,"not available",on-site,"public water","okres Žilina",Bitarová,Bitarová,"TOCA, s.r.o. Realitná činnosť",Bytča
+Juo44m6iiNj,house,250,unrenovated,2360.00,1970,250,444,180,flat,"not available",NULL,"public water","okres Žilina",Žilina,"Staré mesto","RIEŠIME BÝVANIE",Bratislava
+JuTTJWsaBgO,house,240,"partially renovated",532.92,1978,240,1090,144,"mostly flat","not available",on-site,"public water","okres Čadca","Zborov nad Bystricou","Zborov nad Bystricou","ETHOS reality, s. r. o.","Krásno nad Kysucou"
+Ju56OOXxa00,house,151,"under construction",1493.53,2025,151,412,NULL,sloped,NULL,NULL,NULL,"okres Dolný Kubín",Párnica,Párnica,"FINREA - ak vám záleží na výsledku","Dolný Kubín"
+JusG-CBmKRn,house,103,unrenovated,2203.88,1970,103,2176,123,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš",Trstené,Trstené,"WFG reality, s.r.o.",Žilina
+JuWpJ-Sbi1l,house,200,unrenovated,645.00,1990,200,353,120,flat,"not available",NULL,NULL,"okres Čadca",Turzovka,Stred,"1. Reality Rent, s.r.o.",Žilina
+Ju9ruJn5dvg,house,106,"new construction",NULL,2023,106,600,132,NULL,A,NULL,NULL,"okres Martin",Slovany,Slovany,"Buby reality, s.r.o.",Žilina
+Ju2peJN838G,house,126,unrenovated,1230.16,1950,126,1515,297,sloped,"not available",NULL,well,"okres Žilina",Svederník,Svederník,"Reality IQ, s.r.o.",Žilina
+Juc0OLvyRFq,house,124,"new construction",1330.65,2025,124,665,145,flat,"not available",on-site,well,"okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuG7o38qa_3q,house,140,unrenovated,1142.86,1960,140,794,166,flat,"not available",NULL,"public water","okres Martin","Turčiansky Peter","Turčiansky Peter","Realitná kancelária DR, s.r.o.",Martin
+JumEIr24W_g,house,100,unrenovated,890.00,1935,100,2348,100,flat,"not available",on-site,"public water","okres Turčianske Teplice","Slovenské Pravno","Slovenské Pravno","Ing.Zuzana Paverová","Turčianske Teplice"
+Juq9Pjjnp8z,house,135,"new construction",2881.48,2014,135,1236,150,flat,B,on-site,"public water","okres Ružomberok","Liptovská Štiavnica","Liptovská Štiavnica","ALT REAL, s.r.o.",Martin
+JuYcAohEk_m,house,150,unrenovated,153.33,1945,150,NULL,100,flat,"not available",on-site,well,"okres Čadca",Svrčinovec,Svrčinovec,"PhDr. Miloš Kocúr - BKM Consulting",Skalité
+JuT5ppNKCia,house,270,unrenovated,407.41,1970,270,877,115,NULL,"not available",NULL,NULL,"okres Čadca",Raková,Raková,"TRI LIPY, s. r. o.",Čadca
+Ju-75DBwgfk,house,90,unrenovated,888.89,2025,90,642,100,flat,"not available",NULL,well,"okres Martin",Sučany,Sučany,"Reality D.P.A.",Martin
+JureCrsruRg,house,536,"partially renovated",NULL,1950,536,536,NULL,flat,"not available",NULL,well,"okres Liptovský Mikuláš","Liptovský Hrádok",Prekážka,"TUreality s.r.o.",Žilina
+JutHib1B1xR,house,850,"partially renovated",270.59,1980,850,NULL,NULL,NULL,"not available",NULL,NULL,"okres Kysucké Nové Mesto","Kysucký Lieskovec","Kysucký Lieskovec","TUreality s.r.o.",Žilina
+Juw8ClGcgML,house,280,"partially renovated",1246.44,1966,280,NULL,110,flat,"not available",on-site,"public water","okres Ružomberok",Stankovany,Stankovany,"NajBývanie, s.r.o.",Ružomberok
+Juue_okjXNw,house,104,"new construction",1201.92,2024,104,293,65,NULL,"not available",NULL,NULL,"okres Bytča",Bytča,"Bytča - sever","ADH-REAL s.r.o. Hirjaková Adriana",Ovčiarsko
+JugpipVmZe_,house,110,unrenovated,1454.55,1973,110,1515,110,sloped,"not available",NULL,well,"okres Kysucké Nové Mesto","Kysucké Nové Mesto","Budatínska Lehota","1. Reality Rent, s.r.o.",Žilina
+JujzuFjr_sw,house,170,unrenovated,1352.94,1971,170,800,NULL,"gently sloped","not available",NULL,NULL,"okres Liptovský Mikuláš","Svätý Kríž","Svätý Kríž","RESIDENCE realitná kancelária","Liptovský Mikuláš"
+JuXTh3yHj3W,house,200,unrenovated,712.50,1960,200,600,210,flat,"not available",on-site,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","Reality MT s.r.o.",Martin
+JuucJQK8h5P,house,150,"partially renovated",566.67,1970,150,367,116,flat,"not available",NULL,well,"okres Liptovský Mikuláš","Nižná Boca","Nižná Boca","HALO reality, s.r.o.",Prievidza
+JupsrE6Y27i,house,711,unrenovated,351.62,2025,711,NULL,NULL,"gently sloped","not available","not available",well,"okres Martin",Martin,Stráne,"Reality Alpia",Martin
+Juf1-SHsN6y,house,130,"new construction",492.31,2025,130,NULL,111,NULL,A,NULL,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","OVERENÉ REALITY","Banská Bystrica"
+Juxato9q4rN,house,460,"new construction",NULL,2009,460,1293,479,"mostly flat","not available",NULL,NULL,"okres Žilina",Kľače,Kľače,"Realitná kancelária RED, s.r.o.",Žilina
+JuDQ5AS8LzC,house,80,"new construction",1625.00,2022,80,417,80,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Ondrej","Liptovský Ondrej","Romantické Chalupy, s.r.o.",Bratislava
+JuWdcFlgLA9,house,103,"new construction",3194.17,2025,103,404,120,"mostly flat",NULL,NULL,NULL,"okres Žilina",Turie,Turie,"Realitná kancelária RED, s.r.o.",Žilina
+JuQ3jpCSPOt,house,84,unrenovated,1011.90,1960,84,688,197,flat,"not available",on-site,"public water","okres Ružomberok",Ludrová,Ludrová,"NajBývanie, s.r.o.",Ružomberok
+Juyxeic3AFZ,house,75,"partially renovated",933.33,1935,75,810,100,NULL,"not available",NULL,NULL,"okres Čadca",Turzovka,Hlinené,"HOLESTIAK.sk reality s.r.o.",Čadca
+Ju5nlLB7ljN,house,291,"partially renovated",869.42,1995,291,857,100,"mostly flat",NULL,NULL,NULL,"okres Žilina",Žilina,Bytčica,"Realitná kancelária RED, s.r.o.",Žilina
+JudSeGPXKHG,house,160,"fully renovated",1056.25,1969,160,508,110,flat,B,NULL,NULL,"okres Čadca","Vysoká nad Kysucou","Vysoká nad Kysucou","Ing. Marcela Pišteková",Turzovka
+JuU3IYp6uhY,house,87,unrenovated,1839.08,1952,87,491,117,flat,"not available",on-site,"public water","okres Martin",Vrútky,"Dolné Vrútky","Ing.Zuzana Paverová","Turčianske Teplice"
+Ju8g_PgmzSw,house,60,unrenovated,533.33,1980,60,NULL,80,"gently sloped","not available",on-site,well,"okres Čadca",Svrčinovec,Svrčinovec,"JPE. Reality - Jozef Pajer",Čadca
+JuWoB6KY-Fv,house,178,"under construction",2584.27,2025,178,774,248,NULL,A,NULL,NULL,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","TARGETreal s. r. o.",Žilina
+Jujja8Oem9Ja,house,400,"partially renovated",194.50,2021,400,400,NULL,other,"not available","not available","not available","okres Námestovo",Zubrohlava,Zubrohlava,"MGM reality",Žilina
+JutFPWQnH3V,house,494,"partially renovated",475.71,1991,494,490,108,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Bobrovec,Bobrovec,"Reality Alpia",Martin
+JuTPpgXbJM9,house,166,"fully renovated",2228.92,2010,166,642,149,"gently sloped","not available",NULL,"public water","okres Žilina",Višňové,Višňové,"ŽILINAREAL, s.r.o.",Žilina
+Ju_GJzZVy3l,house,90,"fully renovated",3155.56,1950,90,978,267,"gently sloped","not available",NULL,NULL,"okres Čadca",Čadca,Husárikovci,"1. Reality Rent, s.r.o.",Žilina
+Ju2MLh38AzW,house,340,"partially renovated",735.29,2013,340,NULL,220,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","OVERENÉ REALITY","Banská Bystrica"
+JujrHGAONfL,house,200,"new construction",1649.50,2018,200,1039,155,NULL,A,NULL,NULL,"okres Martin",Martin,Sever,"Buby reality, s.r.o.",Žilina
+JuiBk9pN0nv,house,220,"partially renovated",718.18,1957,220,1120,NULL,NULL,"not available",NULL,NULL,"okres Čadca",Čadca,Milošová,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuqlrZXWQYv,house,240,"partially renovated",833.33,1985,240,764,240,"gently sloped","not available",NULL,"public water","okres Čadca",Podvysoká,Podvysoká,"Real Global",Bratislava
+JuLD_F55WFh,house,130,"partially renovated",768.46,1975,130,956,150,"mostly flat",A,on-site,well,"okres Čadca",Raková,Raková,"JPE. Reality - Jozef Pajer",Čadca
+JuQ_edW4pqG,house,190,"partially renovated",1000.00,1981,190,594,130,"gently sloped","not available",NULL,"public water","okres Žilina",Rajec,Rajec,"StorkReal s. r. o.","Rajecká Lesná"
+JuFh6vU7_2A,house,188,unrenovated,2920.21,2012,188,725,225,flat,A,NULL,NULL,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","TARGETreal s. r. o.",Žilina
+Juhkwp9VTaS,house,190,"partially renovated",2415.79,2011,190,1780,105,NULL,"not available",NULL,NULL,"okres Žilina",Stránske,Stránske,"TUreality s.r.o.",Žilina
+JuBfL7XLVQ9,house,200,unrenovated,595.00,1965,200,893,220,flat,"not available",on-site,"public water","okres Turčianske Teplice",Rudno,Rudno,"Realitná kancelária DR, s.r.o.",Martin
+JuKrQbUiYIO,house,313,unrenovated,412.14,1965,313,783,273,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš",Pribylina,Pribylina,"RIEŠIME BÝVANIE",Bratislava
+JudHzue4NhQ,house,755,"partially renovated",470.20,1980,755,NULL,NULL,NULL,"not available",NULL,NULL,"okres Dolný Kubín",Zázrivá,Zázrivá,"TUreality s.r.o.",Žilina
+JuHkAYV6JoA,house,280,"partially renovated",1353.57,1997,280,670,140,flat,"not available",on-site,"public water","okres Liptovský Mikuláš",Bobrovec,Bobrovec,"GERT , s.r.o.","Liptovský Mikuláš"
+JurDwbnUMLP,house,347,unrenovated,596.54,2025,347,NULL,NULL,flat,"not available","not available",well,"okres Liptovský Mikuláš",Vlachy,Vlachy,"Reality Alpia",Martin
+JuZoVvDAQMx,house,170,unrenovated,558.82,2025,170,1220,104,flat,"not available",on-site,"public water","okres Čadca","Dlhá nad Kysucou","Dlhá nad Kysucou","WFG reality, s.r.o.",Žilina
+JujkenW1_dD,house,85,"partially renovated",1587.06,1960,85,3083,110,NULL,"not available",NULL,NULL,"okres Turčianske Teplice",Sklené,Sklené,"DOBRÉ REALITY s.r.o.",Prievidza
+JuIIElHC0cU,house,250,"fully renovated",1596.00,1960,250,260,147,flat,"not available",NULL,well,"okres Žilina",Žilina,"Malá Praha","1. Reality Rent, s.r.o.",Žilina
+JuOwPTDIr94,house,200,"partially renovated",1065.00,1900,200,405,115,NULL,"not available",NULL,NULL,"okres Martin",Martin,Priekopa,"RE/MAX Slovakia",Bratislava
+Jug496eX3Gs,house,240,unrenovated,354.17,1890,240,1881,270,NULL,"not available",NULL,NULL,"okres Turčianske Teplice",Mošovce,Mošovce,"Real Reality Development s.r.o.",Martin
+JuTIxLYmsaK,house,400,"partially renovated",312.50,2025,400,NULL,NULL,flat,"not available","not available",well,"okres Ružomberok",Hubová,Hubová,"Reality Alpia",Martin
+JuOddvSg_iO,house,66,"new construction",NULL,2020,66,462,75,flat,A,NULL,NULL,"okres Čadca",Zákopčie,Zákopčie,"1. Reality Rent, s.r.o.",Žilina
+Ju_f1P774-u,house,100,unrenovated,800.00,1950,100,570,100,"gently sloped","not available",NULL,"public water","okres Žilina",Terchová,Terchová,"ALT REAL, s.r.o.",Martin
+Ju0LSKjfViu,house,150,"fully renovated",2193.33,2019,150,1000,150,flat,NULL,NULL,"public water","okres Dolný Kubín",Párnica,Párnica,"B10 Slovensko, a. s.",Žilina
+JuFJihogKZr,house,134,"new construction",2574.63,2015,134,1598,109,NULL,B,NULL,NULL,"okres Martin","Turčianske Kľačany","Turčianske Kľačany","Reality Turiec s.r o.",Martin
+Juw-GSUdmIG,house,90,unrenovated,NULL,1950,90,NULL,120,flat,"not available",on-site,"public water","okres Žilina",Žilina,Bytčica,"Mgr. Nina Herčková, RSc.",Žilina
+Jucdr_EmdH7,house,365,unrenovated,232.88,1960,365,377,80,flat,"not available",on-site,"public water","okres Žilina","Teplička nad Váhom","Teplička nad Váhom","DRR INVEST, s. r. o.","Horný Hričov"
+Ju5C1H5Abo0,house,134,unrenovated,1231.34,1960,134,1488,134,"gently sloped","not available",on-site,"public water","okres Ružomberok",Ružomberok,Hrboltová,"NajBývanie, s.r.o.",Ružomberok
+Ju-cAw3rC7V,house,40,unrenovated,1225.00,1945,40,297,40,NULL,NULL,NULL,NULL,"okres Martin",Vrícko,Vrícko,"Romantické Chalupy, s.r.o.",Bratislava
+JuRyz27itEW,house,347,unrenovated,596.54,2025,347,NULL,NULL,flat,"not available","not available",well,"okres Liptovský Mikuláš",Vlachy,Vlachy,"Reality Alpia",Martin
+JuPc1_kIcTs,house,100,unrenovated,1290.00,1900,100,800,85,other,"not available",on-site,well,"okres Martin",Turany,Turany,"RE/MAX Slovakia",Bratislava
+JuwEY-XQ--d,house,1141,"fully renovated",NULL,2025,1141,NULL,NULL,flat,A,"not available",well,"okres Liptovský Mikuláš",Vavrišovo,Vavrišovo,"Reality Alpia",Martin
+JuCDqPuA034,house,150,unrenovated,1020.00,1900,150,812,172,flat,"not available",on-site,well,"okres Turčianske Teplice",Mošovce,Mošovce,"RE/MAX Slovakia",Bratislava
+JuhhjX7seSg,house,181,"new construction",1519.84,2023,181,677,161,"gently sloped",A,NULL,well,"okres Žilina",Žilina,Trnové,"Reality IQ, s.r.o.",Žilina
+Ju9MyQ5uKi3,house,173,"new construction",NULL,1991,173,900,173,flat,"not available",NULL,NULL,"okres Žilina","Rajecké Teplice","Rajecké Teplice","AnoReal, s.r.o.",Stráňavy
+JuOzT9FClFp,house,300,unrenovated,276.67,1941,300,1267,314,"mostly flat","not available",on-site,"public water","okres Martin",Záborie,Záborie,"Like Reality s.r.o.","Považská Bystrica"
+Ju1tXdldNyS,house,115,"partially renovated",1521.74,1941,115,433,140,flat,"in preparation",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Staré mesto",liptoreal,"Liptovský Mikuláš"
+JuQ2hrgTY7r,house,100,"fully renovated",1350.00,1995,100,309,203,"mostly flat",NULL,NULL,NULL,"okres Liptovský Mikuláš",Pribylina,Pribylina,"Realitná kancelária RED, s.r.o.",Žilina
+JuqU9D7znCx,house,86,"new construction",2616.28,2010,86,986,136,"gently sloped",F,NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice",Stred,"RIEŠIME BÝVANIE",Bratislava
+Juo6QlN-W6H,house,250,unrenovated,660.00,1970,250,479,125,flat,"not available",NULL,NULL,"okres Žilina",Divinka,Divinka,"1. Reality Rent, s.r.o.",Žilina
+JuXXQno7cBY,house,806,"partially renovated",NULL,1980,806,806,NULL,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Podtureň,Podtureň,"TUreality s.r.o.",Žilina
+Ju3zQ1Nh4jQ,house,102,"new construction",2441.18,2025,102,750,130,flat,A,on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače","Apollo House",Bratislava
+Junzj9FwgBR,house,110,"partially renovated",1044.55,1960,110,NULL,99,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš",Važec,Važec,jabyvam.sk,"Liptovský Mikuláš"
+JukPbMQp4vL,house,55,"new construction",1998.18,2019,55,243,55,"gently sloped",A,on-site,"public water","okres Ružomberok","Liptovské Sliače","Liptovské Sliače","VAŠA REALITKA s.r.o.",Ružomberok
+JurZyKShYtB,house,240,"partially renovated",1204.17,2025,240,240,96,sloped,"not available",NULL,well,"okres Kysucké Nové Mesto","Horný Vadičov","Horný Vadičov","TUreality s.r.o.",Žilina
+JuIgoGx2_v8,house,180,"partially renovated",861.11,1970,180,502,120,flat,"not available",NULL,"public water","okres Čadca",Čadca,Rieka,"SLNOVRAT, s.r.o.",Olešná
+JuwqZ5PtbUb,house,180,"partially renovated",1500.00,1956,180,1300,180,flat,"not available",on-site,well,"okres Martin",Martin,Jahodníky,"RE/MAX Slovakia",Bratislava
+JuxW1O4IZfX,house,100,unrenovated,1200.00,1930,100,NULL,907,flat,"not available",NULL,well,"okres Dolný Kubín",Kraľovany,Kraľovany,"AstonReal s.r.o.","Banská Bystrica"
+JudwE3rIvVz,house,89,"under construction",1449.44,2025,89,510,116,flat,A,NULL,well,"okres Čadca",Oščadnica,Oščadnica,"SLNOVRAT, s.r.o.",Olešná
+JuIGrD00dbC,house,140,"partially renovated",1778.57,2005,140,380,80,flat,"not available",on-site,NULL,"okres Žilina",Žilina,Bytčica,"TUreality s.r.o.",Žilina
+JuFvFbiV3nGH,house,200,"partially renovated",1150.00,1971,200,890,100,NULL,NULL,NULL,NULL,"okres Kysucké Nové Mesto","Kysucký Lieskovec","Kysucký Lieskovec","PRIVAT Reality spol.s.r.o",Bratislava
+JulkobtfeMA,house,140,"fully renovated",2213.57,1930,140,541,103,"gently sloped",A,NULL,"public water","okres Liptovský Mikuláš",Dúbrava,Dúbrava,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JuILcPMYY3I,house,320,unrenovated,NULL,1970,320,2182,126,NULL,"not available",NULL,NULL,"okres Čadca",Svrčinovec,Svrčinovec,"Reality IQ, s.r.o.",Žilina
+JuOXuzHr_5v,house,430,"partially renovated",1186.05,1972,430,643,215,flat,"not available",NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",NULL,"1. Reality Rent, s.r.o.",Žilina
+JugA13oDi48,house,384,"under construction",1947.92,2025,384,1500,237,NULL,A,NULL,NULL,"okres Žilina","Dolný Hričov","Dolný Hričov","Tribeca Group s. r. o",Žilina
+JuboTIFLqNK,house,106,"new construction",NULL,2023,106,600,132,NULL,A,NULL,NULL,"okres Martin",Slovany,Slovany,"Buby reality, s.r.o.",Žilina
+JuDKS0g6D3f,house,125,"new construction",2617.11,2025,125,286,NULL,other,"not available","not available","not available","okres Žilina",Bitarová,Bitarová,"MGM reality",Žilina
+JuJU1QTMNeE,house,500,"partially renovated",350.00,1980,500,948,150,NULL,"not available",NULL,NULL,"okres Turčianske Teplice",Jazernica,Jazernica,"Reality AK, spol. s r.o.",Martin
+Ju4eYX0tWAV,house,150,unrenovated,440.00,1950,150,410,200,"mostly flat","not available",on-site,"public water","okres Kysucké Nové Mesto",Snežnica,Snežnica,"PhDr. Miloš Kocúr - BKM Consulting",Skalité
+Jud5gsaD9sR,house,166,"partially renovated",1355.36,1900,166,608,129,flat,"not available",NULL,well,"okres Žilina",Krasňany,Krasňany,"HALO reality, s.r.o.",Prievidza
+JuYDxLuRjG3,house,328,"fully renovated",1280.49,2000,328,1389,NULL,NULL,"in preparation",NULL,NULL,"okres Martin",Trebostovo,Trebostovo,"VAŠE REALITY s.r.o.",Trenčín
+Juaq4WwW9vx,house,130,"new construction",2307.69,2025,130,514,76,NULL,"in preparation",NULL,NULL,"okres Martin",Slovany,Slovany,"Reality ASTORIA, s.r.o.",Martin
+JuOJxRj9DKw,house,90,"under construction",2332.22,2025,90,307,114,flat,A,NULL,"public water","okres Čadca",Čierne,Čierne,"TARGETreal s. r. o.",Žilina
+JuJ4xyA2Mvr,land,700,"partially renovated",NULL,1970,700,10000,800,"mostly flat","not available",NULL,NULL,"okres Martin",Podhradie,Podhradie,"RE/MAX Slovakia",Bratislava
+JudYTXBsh4Y,house,180,"new construction",NULL,2024,180,305,120,NULL,A,NULL,NULL,"okres Žilina",Divina,Divina,"RES GROUP, s.r.o.",Žilina
+JupYVGV2PGl,house,196,"fully renovated",1224.49,2025,196,NULL,NULL,"gently sloped","not available","not available","not available","okres Martin",Martin,Jahodníky,"Reality Alpia",Martin
+JuDwofoMvZp,house,1000,"partially renovated",399.00,1980,1000,1000,183,flat,"not available",NULL,NULL,"okres Martin",Dražkovce,Dražkovce,"TUreality s.r.o.",Žilina
+JuqvJh14Wgu,house,524,"partially renovated",448.47,2025,524,NULL,NULL,"gently sloped","not available","not available",well,"okres Ružomberok",Ružomberok,"Biely Potok","Reality Alpia",Martin
+JuF72cqi1ME,house,359,unrenovated,348.19,1925,359,NULL,123,"gently sloped","not available",on-site,"public water","okres Žilina",Lietava,Lietava,"RIEŠIME BÝVANIE",Bratislava
+JuT__REr8vI,house,781,"partially renovated",NULL,2025,781,NULL,NULL,flat,"not available","not available",well,"okres Žilina",Žilina,"Staré mesto","Reality Alpia",Martin
+Ju4BYb2OXbI,house,967,"new construction",434.33,2025,967,NULL,NULL,flat,"not available","not available",well,"okres Martin",Necpaly,Necpaly,"Reality Alpia",Martin
+JuWoCIVD5v7,house,163,unrenovated,977.80,2009,163,NULL,163,flat,"not available",NULL,"not available","okres Martin",Vrútky,Mexiko,"LICITOR group, a.s.",Žilina
+JuP68rfpcZn,house,551,"new construction",680.58,2017,551,551,116,NULL,A,NULL,NULL,"okres Martin",Martin,Záturčie,"Buby reality, s.r.o.",Žilina
+JuEM42o9KEz,house,195,"partially renovated",1738.46,1998,195,824,148,"gently sloped","not available",NULL,NULL,"okres Žilina",Žilina,"Mojšová Lúčka","Mamud Reality s. r. o.",Žilina
+JuBBhpjm8uU,house,221,"new construction",NULL,2023,221,939,NULL,other,A,"not available","not available","okres Žilina",Varín,Varín,"MGM reality",Žilina
+JuB-eq5YpsZ,house,280,"partially renovated",1035.71,1992,280,800,120,flat,"not available",on-site,"public water","okres Martin",Martin,Stred,"RIEŠIME BÝVANIE",Bratislava
+JugwkPLjiSd,house,172,"partially renovated",1098.84,1957,172,1337,115,NULL,"not available",NULL,NULL,"okres Čadca",Turzovka,Stred,"KUBALA REALITY, s.r.o.",Čadca
+JuvSq281jGh,house,1969,"new construction",213.31,2017,1969,NULL,NULL,"gently sloped","not available","not available",well,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","Reality Alpia",Martin
+Jui_ZoBED_0,house,150,"partially renovated",1330.00,1900,150,164,85,NULL,"not available",NULL,NULL,"okres Žilina",Višňové,Višňové,"WFG reality, s.r.o.",Žilina
+JuJYdMwBoGD,house,200,unrenovated,NULL,1973,200,NULL,120,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Hrádok",Dovalovo,"GERT , s.r.o.","Liptovský Mikuláš"
+JuRsdZ8Jr2V,house,101,"partially renovated",1336.63,1975,101,1174,116,flat,"not available",NULL,"public water","okres Ružomberok",Ružomberok,"Biely Potok","NajBývanie, s.r.o.",Ružomberok
+JuCaZmfJRdP,house,153,unrenovated,1215.69,1992,153,672,153,flat,"not available",NULL,NULL,"okres Ružomberok",Ludrová,Ludrová,"NajBývanie, s.r.o.",Ružomberok
+JuAxDS1KQP8,house,120,unrenovated,1075.00,1965,120,NULL,102,flat,"not available",on-site,well,"okres Žilina","Lietavská Lúčka","Lietavská Lúčka","Babony TRE s.r.o.",Bratislava
+JuKYmK8mVw6,house,230,"fully renovated",2391.30,2005,230,1250,200,flat,"not available",on-site,"public water","okres Žilina",Stránske,Stránske,"RIEŠIME BÝVANIE",Bratislava
+JunvCN2R0KwV,house,698,unrenovated,141.21,1980,698,698,114,NULL,"not available",NULL,NULL,"okres Bytča",Hvozdnica,Hvozdnica,"TUreality s.r.o.",Žilina
+Jugb1InFMah,house,300,"partially renovated",2330.00,1995,300,NULL,200,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš",Okoličné,jabyvam.sk,"Liptovský Mikuláš"
+JuaFi1HiKe0,house,130,"new construction",2576.92,2025,130,250,NULL,"mostly flat",NULL,NULL,well,"okres Žilina","Rajecké Teplice","Rajecké Teplice","Bosen Group s.r.o.",Bratislava
+JuMFo7ruEBZ,house,186,unrenovated,0.01,1999,186,1285,200,flat,NULL,NULL,well,"okres Martin",Valča,Valča,"B10 Slovensko, a. s.",Žilina
+JuX-ONSG7MW,house,700,unrenovated,NULL,1968,700,700,NULL,flat,"not available",NULL,well,"okres Ružomberok",Ružomberok,NULL,"TUreality s.r.o.",Žilina
+JuOaESnNFiy,house,418,"new construction",NULL,2024,418,1483,266,"gently sloped","not available",NULL,NULL,"okres Žilina",Kunerad,Kunerad,"R2 SK, s.r.o.",Žilina
+JuhLO-Heh52,house,205,"under construction",NULL,2000,205,601,NULL,other,"not available","not available","not available","okres Čadca",NULL,NULL,"MGM reality",Žilina
+JuWoA-3_Vhw,house,1000,"partially renovated",235.00,1980,1000,1000,150,flat,"not available",NULL,well,"okres Žilina",Mojš,Mojš,"TUreality s.r.o.",Žilina
+JuagtPiMN9S,house,400,"fully renovated",0.00,2008,400,2000,400,"gently sloped",NULL,on-site,well,"okres Bytča",Súľov-Hradná,Súľov-Hradná,"B10 Slovensko, a. s.",Žilina
+JuTJoEU1yhL,house,500,"new construction",NULL,2012,500,2003,1200,flat,A,on-site,"public water","okres Žilina",Kľače,Kľače,"OVERENÉ REALITY","Banská Bystrica"
+Jux1LioPBDR,house,161,"fully renovated",1857.14,2015,161,1000,161,flat,NULL,NULL,well,"okres Martin",Valča,Valča,"B10 Slovensko, a. s.",Žilina
+Ju1Zyt94p9m,house,230,unrenovated,1173.91,1965,230,666,NULL,NULL,"not available",NULL,NULL,"okres Tvrdošín",Podbiel,Podbiel,"RIEŠIME BÝVANIE",Bratislava
+JuSFm2ck_qD,house,200,unrenovated,835.00,1955,200,916,NULL,NULL,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,Rybárpole,"NajBývanie, s.r.o.",Ružomberok
+JuR9KTBJMCB,house,291,"partially renovated",326.46,2025,291,291,54,flat,"not available",NULL,"not available","okres Turčianske Teplice",Turček,Turček,"Reality Alpia",Martin
+JuUyJggM4z1,house,110,"new construction",2345.45,2023,110,566,132,NULL,NULL,NULL,NULL,"okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","Realitná kancelária",Bratislava
+JuR4pf3ePqS,house,260,unrenovated,340.38,1940,260,817,168,flat,"not available",NULL,well,"okres Čadca",Makov,Makov,"1. Reality Rent, s.r.o.",Žilina
+Jufy8CKURgq,house,300,unrenovated,813.33,1969,300,1764,140,"gently sloped","not available",NULL,well,"okres Žilina",Terchová,Terchová,"TARGETreal s. r. o.",Žilina
+Jul6ieKbYlp,house,126,"new construction",1875.54,2025,126,240,NULL,other,"not available","not available","not available","okres Žilina",Višňové,Višňové,"MGM reality",Žilina
+Juo6oycVN3c,house,415,"fully renovated",650.60,1937,415,2177,464,flat,"not available",NULL,NULL,"okres Martin",Sučany,Sučany,"R2 SK, s.r.o.",Žilina
+Ju95SyJKFz2,house,415,"fully renovated",650.60,1937,415,2177,464,flat,"not available",NULL,NULL,"okres Martin",Sučany,Sučany,"R2 SK, s.r.o.",Žilina
+JuLzQl1X89Z,house,250,unrenovated,1020.00,1934,250,1812,250,flat,"not available",on-site,"public water","okres Martin",Martin,Priekopa,"ALT REAL, s.r.o.",Martin
+JuKWyVNMM2k,house,443,"partially renovated",NULL,1963,443,1138,473,sloped,"not available",NULL,"public water","okres Martin",Martin,Stráne,"Like Reality s.r.o.","Považská Bystrica"
+JuGmc6FHo9t,house,101,"new construction",2570.97,2021,101,208,76,flat,A,NULL,"public water","okres Bytča",Bytča,"Hliník nad Váhom","Stanislav Motyčík - MK",Žilina
+JuuHc7n3_6p,house,1694,"partially renovated",100.35,2025,1694,1694,NULL,other,"not available","not available",well,"okres Ružomberok",Ružomberok,"Nová Hrboltová","Reality Alpia",Martin
+JuAHK-zDu1n,house,243,"new construction",NULL,2015,243,893,238,sloped,"not available",NULL,"public water","okres Martin",Martin,Stráne,"Like Reality s.r.o.","Považská Bystrica"
+JupJ40WhVz4,house,1,"partially renovated",NULL,1950,1,NULL,75,flat,"not available",on-site,"public water","okres Bytča",Bytča,"Veľká Bytča","TOCA, s.r.o. Realitná činnosť",Bytča
+JuH4UL-NFsu,house,276,"fully renovated",869.57,2008,276,452,138,"gently sloped","not available",on-site,"public water","okres Martin",Podhradie,Podhradie,"Reality ASTORIA, s.r.o.",Martin
+Juk7YsiM63G,house,170,"under construction",1264.71,1960,170,874,107,terraced,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,Baničné,"A-Byt Consult, s.r.o.",Ružomberok
+Ju9WjpqJLA4,house,70,unrenovated,1500.00,1925,70,NULL,100,sloped,"not available","at property line","public water","okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec",jabyvam.sk,"Liptovský Mikuláš"
+Ju7QPzGiQmY,house,131,"new construction",2053.44,2025,131,252,90,"mostly flat",A,NULL,NULL,"okres Žilina",Žilina,Strážov,"Realitná kancelária RED, s.r.o.",Žilina
+Jubs_Rgnyxf,house,153,"partially renovated",1562.09,1965,153,912,249,NULL,"not available",NULL,NULL,"okres Žilina",Kunerad,Kunerad,"AnReal s. r. o.",Mojš
+JukbTdt_vUz,house,105,unrenovated,2095.24,1965,105,1765,200,"gently sloped","not available",NULL,NULL,"okres Ružomberok",Lúčky,Lúčky,"NajBývanie, s.r.o.",Ružomberok
+Jul8ny-uWFg,house,140,"partially renovated",856.43,1960,140,510,140,flat,"not available",NULL,well,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","TUreality s.r.o.",Žilina
+JuzY7TnxlPO,house,160,"fully renovated",NULL,1980,160,NULL,NULL,NULL,"not available",NULL,NULL,"okres Martin",Bystrička,Bystrička,"TUreality s.r.o.",Žilina
+JuHri8JYCPm,house,445,"partially renovated",503.37,1980,445,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Trnovec","Liptovský Trnovec","TUreality s.r.o.",Žilina
+JupIfiIMuTQ,house,425,"fully renovated",463.53,2025,425,NULL,NULL,flat,"not available",NULL,well,"okres Liptovský Mikuláš",Važec,Važec,"Reality Alpia",Martin
+Ju43uV08_mz,house,110,"new construction",NULL,2018,110,500,125,flat,"not available",on-site,well,"okres Žilina",Bitarová,Bitarová,"Gro & Partners",Žilina
+Juulf_xdqDW,house,230,"fully renovated",2391.30,2005,230,1250,250,flat,"not available",NULL,"public water","okres Žilina",Stránske,Stránske,"RIEŠIME BÝVANIE",Bratislava
+Jui5kD-W6hC,house,101,"partially renovated",960.40,1968,101,263,70,NULL,"not available",NULL,NULL,"okres Čadca","Krásno nad Kysucou",Stred,"HOLESTIAK.sk reality s.r.o.",Čadca
+Junzbld49fm,house,92,"new construction",4239.13,2015,92,494,117,flat,"not available",NULL,"public water","okres Žilina",Rosina,Rosina,"WFG reality, s.r.o.",Žilina
+Jurqon-UYJo,house,131,"fully renovated",1564.89,1956,131,1700,150,flat,"not available",NULL,well,"okres Liptovský Mikuláš","Liptovská Porúbka","Liptovská Porúbka","HD reality group s.r.o","Banská Bystrica"
+JuJo8q5h32F,house,209,"new construction",1411.48,2019,209,391,123,flat,A,on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+JuJuIHXfekH,house,80,unrenovated,1662.50,1925,80,933,80,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš",Podtureň,Podtureň,"Romantické Chalupy, s.r.o.",Bratislava
+JulGQ6sAAqR,house,141,unrenovated,460.99,1960,141,NULL,141,"gently sloped","not available",on-site,"public water","okres Ružomberok",Ludrová,Ludrová,"NajBývanie, s.r.o.",Ružomberok
+JuaNEutdar9,house,97,unrenovated,3453.61,1980,97,NULL,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,"Staré mesto","TUreality s.r.o.",Žilina
+Jum9sBowvy-,house,130,unrenovated,2153.85,2012,130,1269,166,NULL,"not available",NULL,NULL,"okres Martin",Daňová,Ďanová,"Reality Center, s.r.o.",Martin
+Ju3IEZxl8sI,house,207,"new construction",2990.34,2024,207,461,143,"gently sloped",A,on-site,"public water","okres Žilina",Hôrky,Hôrky,"CPM Real Estate",Bratislava
+Ju6zOlWlIEn,house,675,"partially renovated",503.69,1980,675,NULL,NULL,NULL,"not available",NULL,NULL,"okres Námestovo",Námestovo,NULL,"TUreality s.r.o.",Žilina
+JumqO7twJWm,house,734,"fully renovated",211.17,2025,734,NULL,NULL,"gently sloped","not available","not available",well,"okres Turčianske Teplice","Slovenské Pravno","Slovenské Pravno","Reality Alpia",Martin
+JuWd2pCrRH_,house,97,"fully renovated",2606.21,2009,97,973,NULL,NULL,B,NULL,NULL,"okres Čadca",Makov,Makov,"Vianema s.r.o.",Bratislava
+JuRSkMGH43Z,house,792,"partially renovated",340.78,1965,792,792,100,flat,"not available",NULL,NULL,"okres Martin",Sučany,Sučany,"AstonReal s.r.o.","Banská Bystrica"
+JuvpwpffhEi,house,100,unrenovated,950.00,1938,100,291,54,flat,"not available",NULL,well,"okres Turčianske Teplice",Turček,Turček,"Reality AK, spol. s r.o.",Martin
+JuPH-vU7UCa,house,168,"new construction",2529.68,2023,168,NULL,168,"mostly flat",A,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",Celiny,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+Ju4t5QuZmxI,house,125,"new construction",2860.15,2025,125,426,NULL,other,"not available","not available","not available","okres Žilina",Bitarová,Bitarová,"MGM reality",Žilina
+JuWqe9aFJtO,house,120,"fully renovated",NULL,1980,120,610,120,NULL,"not available",NULL,NULL,"okres Čadca",Makov,Makov,"SLNOVRAT, s.r.o.",Olešná
+Ju1u_LxXjv_,house,204,unrenovated,681.37,1964,204,550,102,NULL,"not available",NULL,NULL,"okres Námestovo",Hruštín,Hruštín,"RK Dalmia s. r. o.","Dolný Kubín"
+JuZH2c0UQaC,house,120,unrenovated,1500.00,1956,120,NULL,354,"gently sloped","not available",on-site,well,"okres Dolný Kubín",Istebné,Istebné,"AstonReal s.r.o.","Banská Bystrica"
+JuifoQkrLih,house,192,"new construction",1548.81,2023,192,1082,154,NULL,A,NULL,NULL,"okres Kysucké Nové Mesto","Horný Vadičov","Horný Vadičov","TARGETreal s. r. o.",Žilina
+JuT_Z-uedyr,house,312,"new construction",NULL,2015,312,NULL,253,flat,"not available",on-site,"public water","okres Martin","Turčiansky Peter","Turčiansky Peter","Reality ASTORIA, s.r.o.",Martin
+JuVUBQ_BboU,house,415,"partially renovated",795.18,1985,415,805,432,flat,"not available",NULL,"public water","okres Žilina",Varín,Varín,"Mamud Reality s. r. o.",Žilina
+Juc6GgFARDk,house,400,"partially renovated",NULL,1920,400,2038,323,"gently sloped","not available",NULL,NULL,"okres Turčianske Teplice",Mošovce,Mošovce,"Reality AK, spol. s r.o.",Martin
+Ju3g9Tmxsx0,house,240,"partially renovated",691.63,1980,240,770,240,NULL,"not available",NULL,NULL,"okres Tvrdošín",Tvrdošín,NULL,"TUreality s.r.o.",Žilina
+Ju5WlUoNnF_,house,150,unrenovated,NULL,1960,150,938,580,flat,"not available",on-site,"public water","okres Ružomberok","Liptovská Lúžna","Liptovská Lúžna","OVERENÉ REALITY","Banská Bystrica"
+JuD5uzQaJoc,house,164,"under construction",1035.98,2022,164,410,120,NULL,A,NULL,NULL,"okres Čadca",Staškov,Staškov,"SLNOVRAT, s.r.o.",Olešná
+Ju7YL1bOSxr,house,122,"new construction",3024.59,2024,122,279,80,flat,A,NULL,"public water","okres Martin",Martin,Tomčany,"TARGETreal s. r. o.",Žilina
+JuLldceaNDG,house,250,"partially renovated",1076.00,2000,250,861,102,flat,"not available",NULL,NULL,"okres Žilina","Lietavská Lúčka","Lietavská Lúčka","AstonReal s.r.o.","Banská Bystrica"
+JuUtmIZFvND,house,160,unrenovated,1125.00,1975,160,924,110,flat,"not available",NULL,"public water","okres Žilina",Zbyňov,Zbyňov,"StorkReal s. r. o.","Rajecká Lesná"
+Jux8MtDRHBs,house,1272,"fully renovated",187.11,2025,1272,NULL,NULL,"gently sloped","not available","not available",well,"okres Ružomberok",Ludrová,Ludrová,"Reality Alpia",Martin
+JutC-Cu36o8,house,82,unrenovated,853.66,1935,82,768,359,flat,"not available","at property line","public water","okres Ružomberok",Lúčky,Lúčky,donidDevelop,"Dolný Kubín"
+JuDfYgIpdG6,house,140,"partially renovated",621.43,1944,140,1127,150,flat,"not available",NULL,NULL,"okres Turčianske Teplice",Turček,Turček,"REALITY FAIR","Banská Bystrica"
+Jut1FKOGHsr,house,406,unrenovated,173.67,1960,406,500,44,NULL,NULL,NULL,well,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","bezmaklérov, s.r.o.",Žilina
+JuzL3Tg4FHZ,house,142,"new construction",1232.39,2025,142,500,192,NULL,A,NULL,NULL,"okres Žilina",Ovčiarsko,Ovčiarsko,"TARGETreal s. r. o.",Žilina
+JuNjxGvR8-8K,house,400,"new construction",NULL,2002,400,3716,319,flat,A,NULL,"public water","okres Martin",Necpaly,Necpaly,"Reality Center, s.r.o.",Martin
+Ju03oBXaeQc,house,130,"new construction",2453.85,2025,130,250,NULL,"mostly flat",NULL,NULL,well,"okres Žilina","Rajecké Teplice","Rajecké Teplice","Bosen Group s.r.o.",Bratislava
+JufhG56lKjf,house,300,"partially renovated",933.33,1957,300,157,155,flat,"not available",NULL,"public water","okres Žilina",Nededza,Nededza,"DreamReality s.r.o.",Žilina
+JuKqDyif0fX,house,180,"new construction",1272.22,2025,180,481,100,"gently sloped",A,NULL,well,"okres Liptovský Mikuláš",Ižipovce,Ižipovce,"PT-com s. r. o.","Banská Bystrica"
+JuzDr69odLH,house,301,"under construction",NULL,1980,301,NULL,77,NULL,NULL,on-site,well,"okres Liptovský Mikuláš","Liptovský Peter","Liptovský Peter","Realitné kancelárie SR",Bratislava
+JuiqUvi14Ah,house,170,"new construction",1752.94,2010,170,236,85,flat,"not available",on-site,"public water","okres Dolný Kubín","Dolný Kubín",Brezovec,"RK Dalmia s. r. o.","Dolný Kubín"
+Jut7QcdjJY5,house,200,unrenovated,1370.00,1965,200,7880,100,flat,"not available",on-site,"public water","okres Ružomberok","Liptovský Michal","Liptovský Michal","FISCHER & PARTNERS, s.r.o.",Ružomberok
+JuhPLsUvGvt,house,50,"partially renovated",1460.00,1947,50,369,75,flat,"not available",NULL,well,"okres Bytča",Kolárovice,Kolárovice,"Reality IQ, s.r.o.",Žilina
+JutBfnbUyCO,house,224,"partially renovated",754.46,1968,224,1032,90,flat,"not available",NULL,NULL,"okres Čadca",Turzovka,Stred,"SLNOVRAT, s.r.o.",Olešná
+Jui278_mFqV,house,89,"under construction",1617.98,2025,89,NULL,136,flat,"not available","at property line","public water","okres Turčianske Teplice","Turčianske Teplice",Diviaky,"Reality MT s.r.o.",Martin
+Ju7H01GL5VL,house,35,"new construction",3628.57,2019,35,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Ján","Liptovský Ján","TUreality s.r.o.",Žilina
+JuGDOocgqAc,house,536,"partially renovated",NULL,1980,536,NULL,NULL,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",Prekážka,"TUreality s.r.o.",Žilina
+Ju93SZsV6kw,house,347,unrenovated,596.54,2025,347,NULL,NULL,flat,"not available","not available",well,"okres Liptovský Mikuláš",Vlachy,Vlachy,"Reality Alpia",Martin
+Jus8h9w72dE,house,314,unrenovated,NULL,1986,314,878,132,flat,"not available",NULL,"public water","okres Turčianske Teplice",Mošovce,Mošovce,"YNI reality",Žilina
+JumiXs0CTuk,house,240,unrenovated,1625.00,1960,240,708,200,flat,"not available",NULL,NULL,"okres Žilina",Žilina,Bôrik,"RIEŠIME BÝVANIE",Bratislava
+JudhYxOMjs-,house,100,"partially renovated",1665.00,1980,100,1050,135,flat,NULL,on-site,well,"okres Martin","Turčianske Jaseno","Turčianske Jaseno","B10 Slovensko, a. s.",Žilina
+JuBupKbsyvd,house,200,"fully renovated",799.50,1980,200,675,100,flat,"not available",NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice",Diviaky,"AstonReal s.r.o.","Banská Bystrica"
+JuwFC0un5b_,house,115,"under construction",2739.13,2025,115,492,144,NULL,"not available",NULL,NULL,"okres Žilina",Svederník,Svederník,"Realitné kancelárie SR",Bratislava
+JuZdGf3bWpL,house,400,"fully renovated",997.50,1990,400,723,150,flat,NULL,NULL,"public water","okres Martin",Martin,Stráne,"B10 Slovensko, a. s.",Žilina
+JuD3uZlGgpH,house,284,"fully renovated",1073.94,1948,284,999,200,flat,"not available",NULL,NULL,"okres Martin",Blatnica,Blatnica,"Reality Center, s.r.o.",Martin
+JuudsKv8ZzL,house,1280,"under construction",117.19,2025,1280,1280,NULL,flat,"not available",NULL,well,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","Reality Alpia",Martin
+Ju6-QSVU-qk,house,120,unrenovated,1583.33,1968,120,1621,283,flat,"not available",on-site,"public water","okres Martin",Martin,Stred,"ALT REAL, s.r.o.",Martin
+JuHNF3pBoBi,house,100,"under construction",1999.00,2025,100,116,74,flat,"not available",on-site,"public water","okres Bytča",Bytča,"Hliník nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+Jugcs0uLwc2,house,220,"partially renovated",1659.09,1900,220,2581,110,flat,"not available",NULL,NULL,"okres Ružomberok",Ivachnová,Ivachnová,"RE/MAX Slovakia",Bratislava
+JuO9hxI47lb,house,300,"partially renovated",863.33,1961,300,950,180,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš",Vlachy,Vlachy,Limaxreal,"Liptovský Mikuláš"
+Juyo-JecQoZ,house,800,unrenovated,187.50,1985,800,800,100,flat,"not available",on-site,"public water","okres Martin",Trebostovo,Trebostovo,"Reality Simply",Martin
+JuNaVEIvSqO,house,415,"new construction",771.08,2021,415,415,NULL,sloped,"not available",NULL,NULL,"okres Žilina",Žilina,Bytčica,NULL,NULL
+JuC0hqQ5K-3,house,500,"partially renovated",758.00,1946,500,1544,456,NULL,"not available",NULL,NULL,"okres Martin",Belá-Dulice,Belá-Dulice,"Reality Turiec s.r o.",Martin
+JuNWUZoKon_,house,182,"new construction",2961.54,2023,182,1050,250,NULL,NULL,NULL,NULL,"okres Žilina",Žilina,Trnové,"Realitné kancelárie SR",Bratislava
+JuNIAiX-3DT,house,100,"new construction",3490.00,2018,100,850,120,NULL,NULL,on-site,well,"okres Žilina",Zbyňov,Zbyňov,"Realitná kancelária",Bratislava
+JuKdkYrCkFc,house,150,unrenovated,2233.33,1969,150,219,NULL,"mostly flat",NULL,NULL,NULL,"okres Žilina",Žilina,"Staré mesto","Realitná kancelária RED, s.r.o.",Žilina
+Ju1n1rQGodR,house,220,"new construction",NULL,2016,220,586,100,"mostly flat",B,on-site,"public water","okres Turčianske Teplice","Turčianske Teplice","Turčiansky Michal","Reality Simply",Martin
+Juv2G90qWzS,house,400,"new construction",1250.00,2010,400,1478,138,"gently sloped",B,on-site,well,"okres Čadca",Čadca,Rieka,"Reality Kopanice",Krajné
+Ju5rRr5_rO4,house,153,"new construction",1954.25,2025,153,671,184,"gently sloped",A,NULL,NULL,"okres Žilina",Bitarová,Bitarová,"Realitná kancelária RED, s.r.o.",Žilina
+Ju9Ur37Ixsd,house,240,"fully renovated",1395.42,1932,240,434,150,flat,"not available",NULL,NULL,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","RIEŠIME BÝVANIE",Bratislava
+JuQOZ5dK_ne,house,195,"fully renovated",1276.92,1940,195,NULL,250,flat,C,NULL,"public water","okres Martin",Belá-Dulice,Belá-Dulice,"Reality BL, s.r.o.","Kysucké Nové Mesto"
+Ju8hKWbYUWy,house,210,"new construction",1760.92,2024,210,1082,154,"gently sloped",A,on-site,"public water","okres Kysucké Nové Mesto","Horný Vadičov","Horný Vadičov","R2 SK, s.r.o.",Žilina
+Ju7tnCJHH6a,house,479,unrenovated,757.83,1980,479,479,NULL,flat,"not available",on-site,well,"okres Žilina","Lietavská Svinná-Babkov","Lietavská Svinná-Babkov","TUreality s.r.o.",Žilina
+JuqGAjkW2wB,house,168,"under construction",2516.16,2023,168,NULL,168,"mostly flat",A,NULL,NULL,"okres Liptovský Mikuláš","Liptovský Hrádok",Celiny,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JuX-Od8Y1qK,house,250,"fully renovated",1596.70,1950,250,260,110,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,"Malá Praha","ŽILINAREAL, s.r.o.",Žilina
+JuFs-_Bf_af,house,1,unrenovated,NULL,1967,1,632,1,sloped,"not available",on-site,"public water","okres Bytča","Hlboké nad Váhom","Hlboké nad Váhom","TOCA, s.r.o. Realitná činnosť",Bytča
+Ju4PmqrQDXe,house,842,unrenovated,353.92,2025,842,NULL,NULL,flat,"not available",NULL,well,"okres Liptovský Mikuláš","Liptovský Mikuláš",Bodice,"Reality Alpia",Martin
+JumZ3KaibB-,house,250,unrenovated,479.60,1960,250,605,110,flat,"not available",NULL,NULL,"okres Dolný Kubín","Dlhá nad Oravou","Dlhá nad Oravou","OREA, s.r.o.","Dolný Kubín"
+JuNJQwnH7BK,house,190,"under construction",1173.68,2022,190,845,100,sloped,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,Roveň,"NajBývanie, s.r.o.",Ružomberok
+JuOxQMLskud,house,112,"new construction",1741.07,2025,112,400,140,flat,"in preparation",on-site,well,"okres Žilina",Mojš,Mojš,"ETHOS reality, s. r. o.","Krásno nad Kysucou"
+Juo53M0tI-p,house,444,"fully renovated",0.00,2000,444,1128,235,flat,NULL,NULL,well,"okres Martin",Žabokreky,Žabokreky,"B10 Slovensko, a. s.",Žilina
+JuptDHkjOFq,house,792,"partially renovated",340.78,1965,792,792,100,flat,"not available",NULL,NULL,"okres Martin",Sučany,Sučany,"AstonReal s.r.o.","Banská Bystrica"
+Ju3J0qgjHl5,house,55,"new construction",3109.09,1980,55,NULL,NULL,NULL,"not available",NULL,NULL,"okres Námestovo","Oravská Lesná","Oravská Lesná","TUreality s.r.o.",Žilina
+Ju2Gi9KH9b9,house,428,"partially renovated",815.42,2025,428,NULL,NULL,other,"not available",on-site,"not available","okres Žilina",Varín,Varín,"Reality Alpia",Martin
+Juyu3gyyoUE,house,215,"new construction",NULL,2024,215,570,171,"gently sloped",A,NULL,NULL,"okres Žilina",Konská,Konská,"Realitná kancelária RED, s.r.o.",Žilina
+Juci-VafLS1,house,100,"fully renovated",2640.00,1979,100,631,348,flat,NULL,on-site,well,"okres Martin",Martin,Stred,"B10 Slovensko, a. s.",Žilina
+JulGanHAPf5,house,734,"partially renovated",475.48,2025,734,NULL,NULL,"gently sloped","not available","not available",well,"okres Martin",Martin,Stráne,"Reality Alpia",Martin
+JuzJzITWl1v,house,1,"partially renovated",NULL,1975,1,969,1,flat,"not available",on-site,"public water","okres Bytča",Kotešová,Kotešová,"TOCA, s.r.o. Realitná činnosť",Bytča
+JulcRSD3gjg,house,1,unrenovated,NULL,1925,1,342,1,flat,"not available",on-site,"public water","okres Bytča",Predmier,Predmier,"TOCA, s.r.o. Realitná činnosť",Bytča
+JuEGZyoSAd7,house,300,"new construction",1183.33,2018,300,1500,148,flat,A,NULL,well,"okres Liptovský Mikuláš","Liptovský Mikuláš",NULL,"KRUPPKY, s.r.o.","Liptovský Mikuláš"
+JuRPbrRONba,house,168,"under construction",1595.18,2025,168,NULL,210,"gently sloped","not available",on-site,"public water","okres Liptovský Mikuláš","Veterná Poruba","Veterná Poruba",jabyvam.sk,"Liptovský Mikuláš"
+Ju9Oh18pKW-,house,200,"new construction",1095.00,2024,200,805,230,NULL,A,NULL,NULL,"okres Martin",Valča,Valča,"Wealth Group, s.r.o.","Nová Dedinka"
+JuPKcjp9xEd,house,200,"new construction",NULL,2024,200,805,255,NULL,A,NULL,NULL,"okres Martin",Valča,Valča,"Financie a reality od A po Z",Martin
+JunEHVtE89L,house,348,"partially renovated",NULL,1969,348,772,116,NULL,"not available",NULL,NULL,"okres Martin",Martin,Stráne,"Reality ASTORIA, s.r.o.",Martin
+JupOom9u70b,house,592,unrenovated,152.03,2025,592,NULL,NULL,"gently sloped","not available","not available",well,"okres Ružomberok",Lúčky,Lúčky,"Reality Alpia",Martin
+JuYzFawuXq5,house,150,"fully renovated",2232.67,1932,150,434,150,"mostly flat",NULL,NULL,NULL,"okres Žilina","Teplička nad Váhom","Teplička nad Váhom","Realitná kancelária RED, s.r.o.",Žilina
+Ju30Zqi5n0z,house,130,"under construction",2461.54,2025,130,400,75,flat,"in preparation",NULL,NULL,"okres Martin",Slovany,Slovany,"Reality ASTORIA, s.r.o.",Martin
+JuCHMAziUOL,house,80,unrenovated,687.50,1945,80,750,80,NULL,NULL,NULL,NULL,"okres Martin",Krpeľany,Krpeľany,"Romantické Chalupy, s.r.o.",Bratislava
+Ju9q0Byrbad,house,177,"new construction",2372.88,2025,177,3199,NULL,other,"not available",NULL,well,"okres Liptovský Mikuláš",Východná,Východná,"RE/MAX Slovakia",Bratislava
+JudexsMMWLq,house,1,"new construction",NULL,1975,1,969,1,flat,"not available",on-site,"public water","okres Bytča",Kotešová,Kotešová,"TOCA, s.r.o. Realitná činnosť",Bytča
+JupsJLU23Ow,house,80,unrenovated,925.00,1942,80,363,80,"gently sloped","not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovská Kokava","Liptovská Kokava","RE/MAX Slovakia",Bratislava
+JuD0RMwirEa,house,242,"fully renovated",2065.70,1973,242,856,170,NULL,A,NULL,NULL,"okres Ružomberok","Liptovské Revúce","Liptovské Revúce","RK SPIRIT s.r.o.","Liptovský Mikuláš"
+Jui7jyAQtCR,house,80,"new construction",2625.00,2025,80,373,96,flat,"not available",on-site,"public water","okres Liptovský Mikuláš","Liptovská Sielnica","Liptovská Sielnica","Q REAL s.r.o.",Bratislava
+JuU0HWFwzX3,house,180,unrenovated,2333.33,1989,180,402,70,flat,"not available",NULL,"public water","okres Žilina",Žilina,Bytčica,"Gro & Partners",Žilina
+JuVQq2TIIOM,house,131,"new construction",1908.40,2025,131,560,131,flat,"not available",on-site,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","ALT REAL, s.r.o.",Martin
+JuHoYrf0eK_,house,123,"fully renovated",2024.39,1986,123,1375,NULL,NULL,"not available",NULL,NULL,"okres Turčianske Teplice","Horná Štubňa","Horná Štubňa","TARGETreal s. r. o.",Žilina
+JuwkeSmHDEB,house,110,"new construction",2636.36,2014,110,530,124,flat,A,NULL,"public water","okres Martin",Valča,Valča,"Real Reality Development s.r.o.",Martin
+JuK5t-4VCJ4,house,126,"new construction",1875.54,2025,126,240,NULL,other,"not available","not available","not available","okres Žilina",Višňové,Višňové,"MGM reality",Žilina
+Ju6vaHOHcqi,house,152,"fully renovated",888.16,1952,152,152,98,flat,"not available",NULL,well,"okres Žilina",Belá,Belá,"TUreality s.r.o.",Žilina
+JuR54DrWWfx,land,1400,unrenovated,214.29,1950,1400,1800,1800,flat,"not available",NULL,"not available","okres Námestovo",Rabča,Rabča,"RE/MAX Slovakia",Bratislava
+Ju9syh9ycRi,house,100,unrenovated,800.00,1950,100,570,100,"gently sloped","not available",NULL,"public water","okres Žilina",Terchová,Terchová,"ALT REAL, s.r.o.",Martin
+JudspgTQPox,house,60,unrenovated,1483.33,1950,60,219,60,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš",Jakubovany,Jakubovany,"Romantické Chalupy, s.r.o.",Bratislava
+JuWRJBDqxZU,house,86,"new construction",2616.28,2010,86,986,136,"gently sloped",F,NULL,NULL,"okres Martin",Martin,Jahodníky,"RIEŠIME BÝVANIE",Bratislava
+JucU49przXp,house,80,"partially renovated",2062.50,1952,80,473,119,"mostly flat",NULL,NULL,NULL,"okres Žilina",Žilina,Bytčica,"Realitná kancelária RED, s.r.o.",Žilina
+JuHloqFiiMy,house,109,"new construction",2281.65,2025,109,496,59,NULL,A,NULL,NULL,"okres Bytča","Veľké Rovné","Veľké Rovné","IDEÁLNE BÝVANIE, s.r.o.",Žilina
+JuMF2TBH415,house,240,"fully renovated",1458.33,2009,240,1707,164,flat,"not available",NULL,NULL,"okres Čadca",Čadca,Podzávoz,"1. Reality Rent, s.r.o.",Žilina
+Juj5mPJZurA,house,190,"partially renovated",784.21,1953,190,NULL,331,"gently sloped","not available",on-site,"public water","okres Ružomberok",Kalameny,Kalameny,"OVERENÉ REALITY","Banská Bystrica"
+Ju0MEaj2qZ5,house,500,"new construction",NULL,1980,500,NULL,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Svederník,Svederník,"TUreality s.r.o.",Žilina
+JukV9h68kmJ,house,879,"partially renovated",271.90,2024,879,NULL,182,flat,"not available",on-site,well,"okres Žilina",Lietava,Lietava,"TUreality s.r.o.",Žilina
+JurmJUyDt1Y,house,250,unrenovated,1236.00,1970,250,NULL,100,flat,"not available",NULL,"public water","okres Liptovský Mikuláš","Liptovský Mikuláš",Ploštín,"KRUPPKY, s.r.o.","Liptovský Mikuláš"
+JuIUgSVHd_-,house,797,"partially renovated",150.44,1980,797,797,260,NULL,"not available",on-site,NULL,"okres Dolný Kubín",Malatiná,Malatiná,"TUreality s.r.o.",Žilina
+JuNuINWKCa2,house,274,"fully renovated",1551.09,1999,274,137,NULL,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,"Staré mesto","DreamReality s.r.o.",Žilina
+JuElQR6VJXT,house,221,"new construction",NULL,2023,221,939,NULL,other,A,"not available","not available","okres Žilina",Varín,Varín,"MGM reality",Žilina
+JugpfnfthRi,house,180,"fully renovated",1000.00,1970,180,767,180,flat,"not available",on-site,"public water","okres Martin","Kláštor pod Znievom","Kláštor pod Znievom","ALT REAL, s.r.o.",Martin
+JuXgUKUYl2D,house,200,"new construction",1095.00,2024,200,805,230,flat,A,NULL,NULL,"okres Martin",Valča,Valča,"Wealth Group, s.r.o.","Nová Dedinka"
+JuBRCEsLH8a,house,170,"partially renovated",NULL,1969,170,625,327,flat,"not available",NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice",Diviaky,"JMB REALITY s.r.o.",Ľubietová
+JunnoZAS6r4,house,684,"fully renovated",540.94,1980,684,684,409,flat,"not available",on-site,well,"okres Žilina",Šuja,Šuja,"TUreality s.r.o.",Žilina
+JubDt8HjaHe,house,160,unrenovated,561.88,1980,160,2200,10,"gently sloped","not available",NULL,well,"okres Čadca",Turzovka,Turkov,"Safe reality s. r. o.",Žilina
+JuezaaUAQTl,house,700,unrenovated,178.57,1900,700,3425,110,flat,"not available",NULL,NULL,"okres Liptovský Mikuláš","Liptovský Mikuláš","Vrbica - Nábrežie","RE/MAX Slovakia",Bratislava
+JuQDs3mKg8t,house,173,"fully renovated",1358.38,1970,173,173,100,flat,"not available",on-site,"public water","okres Martin","Turčianske Kľačany","Turčianske Kľačany","Reality Center, s.r.o.",Martin
+JuLMYErMTc7,house,232,"fully renovated",NULL,1991,232,270,110,NULL,C,NULL,NULL,"okres Tvrdošín",Nižná,Nižná,"KORIJKOV & AGENTS",Košice
+JucjxVVq04h,house,150,"fully renovated",1586.67,1970,150,1079,198,flat,"not available",NULL,NULL,"okres Turčianske Teplice","Malý Čepčín","Malý Čepčín","OVERENÉ REALITY","Banská Bystrica"
+JumTdoXdYLm,house,556,"new construction",609.71,2024,556,556,140,flat,"not available",NULL,well,"okres Žilina",Svederník,Svederník,"TUreality s.r.o.",Žilina
+JurRSzjWlL8,house,431,"new construction",NULL,2005,431,665,284,flat,B,on-site,"public water","okres Dolný Kubín","Dolný Kubín",Brezovec,"ALT REAL, s.r.o.",Martin
+JuriX67hMEI,house,150,"new construction",3300.00,2024,150,720,200,flat,A,NULL,NULL,"okres Martin",Martin,Tomčany,"TARGETreal s. r. o.",Žilina
+JuO-ay8jwWD,house,200,"new construction",1300.00,2025,200,500,100,"gently sloped","not available",on-site,"public water","okres Martin","Turčiansky Peter","Turčiansky Peter","ALT REAL, s.r.o.",Martin
+JuJID0tPHnq,house,148,"new construction",1078.22,2025,148,366,NULL,flat,B,NULL,NULL,"okres Námestovo","Oravská Polhora","Oravská Polhora","Bosen Group s.r.o.",Bratislava
+JuLBQXVqbdX,house,80,"new construction",3062.50,2024,80,NULL,63,flat,A,on-site,well,"okres Liptovský Mikuláš",Bukovina,Bukovina,"LEGEND realitná spoločnosť  s. r. o.","Nové Mesto nad Váhom"
+Ju7eOmn6zgP,house,260,"fully renovated",1538.08,1980,260,431,NULL,NULL,A,NULL,NULL,"okres Čadca",Oščadnica,Oščadnica,"KING REAL s. r. o.",Prešov
+JuZ8oOwqQdG,house,250,"fully renovated",1400.00,1940,250,557,170,flat,NULL,NULL,NULL,"okres Turčianske Teplice","Turčianske Teplice","Dolná Štubňa","Realitná kancelária",Bratislava
+JuARm8MK_Jy,house,250,unrenovated,519.96,1970,250,3350,130,"gently sloped","not available",on-site,well,"okres Čadca",Olešná,Olešná,"RENOME REAL",Žilina
+Jus9h_TYBDi,house,808,unrenovated,320.54,1965,808,808,203,NULL,"not available",NULL,NULL,"okres Martin",Martin,Ľadoveň,"TUreality s.r.o.",Žilina
+Ju2kIhSkruG,house,310,"partially renovated",722.58,1975,310,704,130,NULL,"not available",NULL,NULL,"okres Kysucké Nové Mesto",Nesluša,Nesluša,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuZWywKzXos,house,105,"fully renovated",3094.29,2006,105,632,105,flat,"not available",NULL,NULL,"okres Kysucké Nové Mesto",Snežnica,Snežnica,"Safe reality s. r. o.",Žilina
+JunnDHXXyHF,house,1557,"partially renovated",266.54,1980,1557,NULL,177,flat,"not available",NULL,NULL,"okres Martin",Martin,"Kolónia Hviezda","TUreality s.r.o.",Žilina
+JuehhqekRE3,house,93,"new construction",2956.99,2025,93,392,120,flat,A,NULL,NULL,"okres Martin",Sučany,Sučany,"TARGETreal s. r. o.",Žilina
+JueF3aQCPcy,house,200,"new construction",1435.00,2017,200,853,200,flat,A,NULL,"public water","okres Dolný Kubín","Oravská Poruba","Oravská Poruba","OREA, s.r.o.","Dolný Kubín"
+Jux6Z04Xzh-,house,409,unrenovated,330.07,1925,409,374,288,NULL,"not available",NULL,NULL,"okres Ružomberok",Ružomberok,"Staré mesto","RIEŠIME BÝVANIE",Bratislava
+JudcWud0S5R,house,429,"new construction",1165.50,2010,429,869,143,"gently sloped","not available",NULL,well,"okres Čadca",Oščadnica,Oščadnica,"RE/MAX Slovakia",Bratislava
+JuWsjVyvGYF,house,515,"fully renovated",NULL,2013,515,1594,NULL,other,"not available","not available","not available","okres Žilina",Žilina,Budatín,"MGM reality",Žilina
+Ju2Af8_9s5q,house,148,"partially renovated",1317.57,1960,148,395,106,flat,"not available",on-site,"public water","okres Žilina","Rajecké Teplice","Rajecké Teplice","StorkReal s. r. o.","Rajecká Lesná"
+JuXODWR0O8-,house,300,unrenovated,260.00,1900,300,383,246,NULL,"not available",NULL,NULL,"okres Liptovský Mikuláš","Malé Borové","Malé Borové","RE/MAX Slovakia",Bratislava
+JuZIWdD4tzb,house,200,"new construction",1095.00,2024,200,805,230,NULL,A,NULL,NULL,"okres Martin",Valča,Valča,"Wealth Group, s.r.o.","Nová Dedinka"
+JueEpOsUCTO,house,100,unrenovated,1025.00,1970,100,1069,100,flat,"not available",NULL,"public water","okres Martin",Nolčovo,Nolčovo,"Reality ASTORIA, s.r.o.",Martin
+JugQaDVNZYB,house,110,unrenovated,681.82,1960,110,952,77,NULL,"not available",NULL,NULL,"okres Čadca",Oščadnica,Oščadnica,"HOLESTIAK.sk reality s.r.o.",Čadca
+Ju6B6hGeR8q,house,200,"partially renovated",900.00,1961,200,NULL,120,flat,"not available",on-site,"public water","okres Žilina",Rajec,Rajec,"StorkReal s. r. o.","Rajecká Lesná"
+JuLCVpKj44A,house,236,"partially renovated",377.12,1922,236,448,236,NULL,"not available",NULL,"public water","okres Turčianske Teplice",Čremošné,Čremošné,"BALAŽI REAL ESTATE s.r.o.",Topoľčany
+JuKaa51rOO4,house,127,"new construction",2354.33,2015,127,434,118,NULL,NULL,NULL,NULL,"okres Žilina",Turie,Turie,"RES GROUP, s.r.o.",Žilina
+JuEn5otkiFX,house,250,unrenovated,860.00,1970,250,600,100,flat,"not available",on-site,"public water","okres Martin",Martin,Stráne,"ALT REAL, s.r.o.",Martin
+JuzvCto22Um,house,211,"partially renovated",1146.45,1990,211,810,110,"mostly flat","not available",NULL,NULL,"okres Kysucké Nové Mesto","Kysucké Nové Mesto",Suľkov,"HOLESTIAK.sk reality s.r.o.",Čadca
+JuTP76BJSu5,house,200,"partially renovated",1025.00,1960,200,1812,200,flat,NULL,on-site,well,"okres Tvrdošín",Vitanová,Vitanová,"B10 Slovensko, a. s.",Žilina
+Juc0qnwekhj,house,75,unrenovated,1733.32,1965,75,565,80,flat,"not available",on-site,"public water","okres Žilina",Žilina,Strážov,"R2 SK, s.r.o.",Žilina
+JuZHoBEOwFW,house,250,"partially renovated",NULL,1970,250,NULL,180,"gently sloped","not available",on-site,well,"okres Bytča",Kolárovice,Kolárovice,"Safe reality s. r. o.",Žilina
+Ju_z9MMC1dy,house,123,"new construction",2157.45,2025,123,NULL,70,flat,A,on-site,"public water","okres Žilina",Žilina,Strážov,"Effecting s.r.o.",Bratislava
+Juqdw7QyPcz,house,141,"fully renovated",1397.16,1935,141,748,110,flat,"not available",on-site,"public water","okres Liptovský Mikuláš",Važec,Važec,"RK SPIRIT s.r.o.","Liptovský Mikuláš"
+JuDgbTTsbUm,house,153,"fully renovated",1922.07,2013,153,491,93,"gently sloped",B,on-site,"public water","okres Čadca",Oščadnica,Oščadnica,"Nestor Capital s.r.o.",Bratislava
+JuN1DWMcWPA,house,90,"new construction",NULL,2015,90,576,118,flat,B,on-site,"public water","okres Martin",Martin,Priekopa,"Like Reality s.r.o.","Považská Bystrica"
+JuFMkd6Ft4u,house,279,"new construction",1322.58,2025,279,279,80,NULL,A,NULL,NULL,"okres Martin",Martin,Tomčany,"Buby reality, s.r.o.",Žilina
+Juq8C9WZ_ld,house,40,"new construction",4499.98,2019,40,1917,60,flat,A,NULL,NULL,"okres Martin",Martin,Stráne,"Vianema s.r.o.",Bratislava
+JuUGbhQf4wL,house,143,"new construction",1951.05,2024,143,594,100,"mostly flat",NULL,NULL,NULL,"okres Žilina","Rajecké Teplice",Poluvsie,"Realitná kancelária RED, s.r.o.",Žilina
+Ju9v343jGsQ,house,80,unrenovated,2237.50,2023,80,1000,80,NULL,NULL,NULL,NULL,"okres Liptovský Mikuláš","Svätý Kríž","Svätý Kríž","Romantické Chalupy, s.r.o.",Bratislava
+JuBLiYfiieE,house,200,"new construction",1795.00,2011,200,378,180,"mostly flat",NULL,NULL,NULL,"okres Žilina",Turie,Turie,"Realitná kancelária RED, s.r.o.",Žilina
+Ju6JqIt-z8V,house,70,unrenovated,2471.43,1969,70,822,NULL,"mostly flat",NULL,NULL,NULL,"okres Žilina","Horný Hričov","Horný Hričov","Realitná kancelária RED, s.r.o.",Žilina
+Jub69pejgUi,house,160,"partially renovated",1075.00,2015,160,933,160,NULL,NULL,NULL,NULL,"okres Bytča","Veľké Rovné","Veľké Rovné","Romantické Chalupy, s.r.o.",Bratislava
+Ju8oUNOWXin,house,180,unrenovated,1555.56,1970,180,1889,105,"gently sloped","not available",on-site,"public water","okres Žilina",Svederník,Svederník,"X-REAL, s. r. o.",Žilina
+JuK4J7tWBLU,house,145,"new construction",1827.59,2025,145,590,172,flat,A,on-site,"public water","okres Martin","Košťany nad Turcom","Košťany nad Turcom","ALT REAL, s.r.o.",Martin
+Ju1OQAznjJC,house,90,unrenovated,1277.78,1941,90,1200,575,flat,"not available",NULL,NULL,"okres Ružomberok",Likavka,Likavka,"AstonReal s.r.o.","Banská Bystrica"
+JuXGC09hAid,house,360,"new construction",888.89,2015,360,874,874,flat,A,on-site,"not available","okres Tvrdošín",Nižná,Nižná,"RE/MAX Slovakia",Bratislava

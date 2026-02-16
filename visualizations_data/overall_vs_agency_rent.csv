@@ -1,0 +1,324 @@
+property_type,condition,location_district,dis_avg_rent,agency,agency_avg_rent,rent_diff
+"2-room apartment","fully renovated","okres Žilina",12.062353,"Renovo Reality",10.000000,-0.1709743530
+"2-room apartment","fully renovated","okres Martin",9.944375,NULL,10.420000,0.0478285463
+"2-room apartment","fully renovated","okres Martin",9.944375,"MTS Reality, s.r.o.",9.640000,-0.0306077556
+"2-room apartment","fully renovated","okres Žilina",12.062353,"RIEŠIME BÝVANIE",17.500000,0.4507948822
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,"GERT , s.r.o.",8.330000,-0.2143626949
+"2-room apartment","fully renovated","okres Čadca",8.800000,"Trioreality, s.r.o.",8.800000,0.0000000000
+"2-room apartment","fully renovated","okres Martin",9.944375,"TUreality s.r.o.",9.190000,-0.0758594683
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality AK, spol. s r.o.",8.910000,-0.1040160895
+"2-room apartment","fully renovated","okres Žilina",12.062353,"ROMDOM, s. r. o",11.860000,-0.0167755827
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,"Reality Alpia",12.070000,0.1383724217
+"2-room apartment","fully renovated","okres Žilina",12.062353,"Safe reality s. r. o.",10.770000,-0.1071393782
+"2-room apartment","fully renovated","okres Martin",9.944375,"RECLOUD Reality a.s.",NULL,NULL
+"2-room apartment","fully renovated","okres Martin",9.944375,"TARGETreal s. r. o.",10.950000,0.1011250079
+"2-room apartment","fully renovated","okres Martin",9.944375,"B10 Slovensko, a. s.",8.110000,-0.1844635787
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality Simply",10.560000,0.0619068569
+"2-room apartment","fully renovated","okres Kysucké Nové Mesto",8.860000,"BeMi realitná kancelária",8.860000,0.0000000000
+"2-room apartment","fully renovated","okres Martin",9.944375,"Like Reality s.r.o.",11.400000,0.1463767205
+"2-room apartment","fully renovated","okres Žilina",12.062353,"EASY centrum bývania, s.r.o.",15.950000,0.3222959069
+"2-room apartment","fully renovated","okres Martin",9.944375,"ALT REAL, s.r.o.",10.145000,0.0201747219
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,"RESIDENCE realitná kancelária",10.945000,0.0322689441
+"2-room apartment","fully renovated","okres Žilina",12.062353,"JKV REAL",12.310000,0.0205305714
+"2-room apartment","fully renovated","okres Martin",9.944375,"Realitné kancelárie SR",11.320000,0.1383319716
+"2-room apartment","fully renovated","okres Žilina",12.062353,"Piata Avenue",11.290000,-0.0640300446
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,NULL,10.000000,-0.0568579771
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,"OVERENÉ REALITY",13.100000,0.2355160501
+"2-room apartment","fully renovated","okres Martin",9.944375,"RE/MAX Slovakia",9.965000,0.0020740368
+"2-room apartment","fully renovated","okres Žilina",12.062353,"bezmaklérov, s.r.o.",13.000000,0.0777333411
+"2-room apartment","fully renovated","okres Žilina",12.062353,"TUreality s.r.o.",12.730000,0.0553496486
+"2-room apartment","fully renovated","okres Martin",9.944375,"FINREA - ak vám záleží na výsledku",9.530000,-0.0416692854
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality MT s.r.o.",13.000000,0.3072716988
+"2-room apartment","fully renovated","okres Námestovo",8.590000,"BeMi realitná kancelária",8.590000,0.0000000000
+"2-room apartment","fully renovated","okres Martin",9.944375,"MAX PROFI REALITY",8.240000,-0.1713908617
+"2-room apartment","fully renovated","okres Martin",9.944375,"Realitná kancelária",8.620000,-0.1331783043
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality ASTORIA, s.r.o.",9.026667,-0.0922841305
+"2-room apartment","fully renovated","okres Žilina",12.062353,"Realitná kancelária RED, s.r.o.",11.605000,-0.0379157367
+"2-room apartment","fully renovated","okres Kysucké Nové Mesto",8.860000,Reality+,NULL,NULL
+"2-room apartment","fully renovated","okres Žilina",12.062353,"DreamReality s.r.o.",11.360000,-0.0582268650
+"2-room apartment","fully renovated","okres Dolný Kubín",11.496000,"OREA, s.r.o.",12.215000,0.0625434934
+"2-room apartment","fully renovated","okres Žilina",12.062353,NULL,11.016000,-0.0867453473
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality Center, s.r.o.",10.125000,0.0181635347
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",10.602857,"Realitná kancelária Peter Hubka",8.830000,-0.1672055937
+"2-room apartment","fully renovated","okres Dolný Kubín",11.496000,"VAŠA REALITKA s.r.o.",8.620000,-0.2501739736
+"2-room apartment","fully renovated","okres Martin",9.944375,"Reality Alpia",10.626000,0.0685437747
+"2-room apartment","fully renovated","okres Bytča",11.395333,"Fortio Popper s.r.o.",11.395333,0.0000000000
+"3-room apartment","new construction","okres Bytča",9.645000,NULL,11.430000,0.1850699844
+"3-room apartment","new construction","okres Martin",10.170000,"ALT REAL, s.r.o.",8.820000,-0.1327433628
+"3-room apartment","new construction","okres Martin",10.170000,"Reality Alpia",9.440000,-0.0717797443
+"3-room apartment","new construction","okres Žilina",9.972000,"KVArent, s.r.o.",12.070000,0.2103890895
+"3-room apartment","new construction","okres Žilina",9.972000,"STAREA, s. r. o.",7.830000,-0.2148014440
+"3-room apartment","new construction","okres Čadca",NULL,"SLNOVRAT, s.r.o.",NULL,NULL
+"3-room apartment","new construction","okres Žilina",9.972000,"AnoReal, s.r.o.",12.590000,0.2625350983
+"3-room apartment","new construction","okres Martin",10.170000,NULL,12.290000,0.2084562439
+"3-room apartment","new construction","okres Martin",10.170000,"Reality ASTORIA, s.r.o.",9.635000,-0.0526057030
+"3-room apartment","new construction","okres Námestovo",5.735000,"OREA, s.r.o.",5.760000,0.0043591979
+"3-room apartment","new construction","okres Liptovský Mikuláš",6.550000,NULL,6.550000,0.0000000000
+"3-room apartment","new construction","okres Kysucké Nové Mesto",12.580000,Reality+,16.440000,0.3068362480
+"3-room apartment","new construction","okres Kysucké Nové Mesto",12.580000,"WFG reality, s.r.o.",8.720000,-0.3068362480
+"3-room apartment","new construction","okres Žilina",9.972000,NULL,8.020000,-0.1957480947
+"3-room apartment","new construction","okres Martin",10.170000,"ML realitný& finančny servis s.r.o. , BrokerSoft s.r.o. , Monika Launerová - SZČO",9.080000,-0.1071779744
+"3-room apartment","new construction","okres Žilina",9.972000,"Realitná kancelária RED, s.r.o.",10.916667,0.0947319495
+"3-room apartment","new construction","okres Bytča",9.645000,"RENOME REAL",7.860000,-0.1850699844
+"3-room apartment","new construction","okres Námestovo",5.735000,"RE/MAX Slovakia",5.710000,-0.0043591979
+"3-room apartment","new construction","okres Žilina",9.972000,"MGM reality",9.220000,-0.0754111512
+"4-room apartment","fully renovated","okres Žilina",9.861250,"PRIMA reality s.r.o.",9.440000,-0.0427177082
+"4-room apartment","fully renovated","okres Bytča",12.430000,"Fortio Popper s.r.o.",12.430000,0.0000000000
+"4-room apartment","fully renovated","okres Martin",9.300000,"AstonReal s.r.o.",9.300000,0.0000000000
+"4-room apartment","fully renovated","okres Dolný Kubín",8.530000,"VAŠA REALITKA s.r.o.",8.530000,0.0000000000
+"4-room apartment","fully renovated","okres Žilina",9.861250,"MGM reality",8.770000,-0.1106604132
+"4-room apartment","fully renovated","okres Liptovský Mikuláš",13.130000,NULL,13.130000,0.0000000000
+"4-room apartment","fully renovated","okres Žilina",9.861250,"Realitné kancelárie SR",8.490000,-0.1390543795
+"4-room apartment","fully renovated","okres Žilina",9.861250,"Realitná kancelária RED, s.r.o.",11.730000,0.1895043732
+"4-room apartment","fully renovated","okres Žilina",9.861250,NULL,10.120000,0.0262390671
+"4-room apartment","fully renovated","okres Dolný Kubín",8.530000,NULL,NULL,NULL
+"2-room apartment","new construction","okres Martin",11.927857,"RE/MAX Slovakia",12.130000,0.0169471348
+"2-room apartment","new construction","okres Martin",11.927857,"AstonReal s.r.o.",12.220000,0.0244924969
+"2-room apartment","new construction","okres Martin",11.927857,"ALT REAL, s.r.o.",11.500000,-0.0358703999
+"2-room apartment","new construction","okres Bytča",8.810000,"ŽILINAREAL, s.r.o.",NULL,NULL
+"2-room apartment","new construction","okres Žilina",12.333889,"DreamReality s.r.o.",10.780000,-0.1259853239
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,"KRUPPKY, s.r.o.",10.000000,-0.2168270044
+"2-room apartment","new construction","okres Martin",11.927857,"DreamReality s.r.o.",8.370000,-0.2982813258
+"2-room apartment","new construction","okres Čadca",11.632000,"JPE. Reality - Jozef Pajer",10.000000,-0.1403026135
+"2-room apartment","new construction","okres Žilina",12.333889,"Realitná kancelária",12.500000,0.0134678527
+"2-room apartment","new construction","okres Žilina",12.333889,"MGM reality",10.730000,-0.1300391953
+"2-room apartment","new construction","okres Martin",11.927857,"Reality Alpia",11.450000,-0.0400622677
+"2-room apartment","new construction","okres Kysucké Nové Mesto",9.480000,NULL,10.160000,0.0717299578
+"2-room apartment","new construction","okres Martin",11.927857,"Buby reality, s.r.o.",NULL,NULL
+"2-room apartment","new construction","okres Martin",11.927857,"BRATISLAVA REAL s.r.o.",12.500000,0.0479669567
+"2-room apartment","new construction","okres Martin",11.927857,"Reality ASTORIA, s.r.o.",11.560000,-0.0308401585
+"2-room apartment","new construction","okres Čadca",11.632000,"ETHOS reality, s. r. o.",12.790000,0.0995529574
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,"Direct Real, spol. s r.o.",11.820000,-0.0742895192
+"2-room apartment","new construction","okres Martin",11.927857,"LEVEL REAL, s.r.o.",17.740000,0.4872747049
+"2-room apartment","new construction","okres Žilina",12.333889,"Safe reality s. r. o.",12.750000,0.0337372097
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,"OVERENÉ REALITY",14.000000,0.0964421939
+"2-room apartment","new construction","okres Kysucké Nové Mesto",9.480000,"Safe reality s. r. o.",9.200000,-0.0295358650
+"2-room apartment","new construction","okres Žilina",12.333889,"Realitné kancelárie SR",12.860000,0.0426557268
+"2-room apartment","new construction","okres Čadca",11.632000,"SLNOVRAT, s.r.o.",10.680000,-0.0818431912
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,"Loviu, s.r.o.",12.310000,-0.0359140424
+"2-room apartment","new construction","okres Kysucké Nové Mesto",9.480000,"Realitné kancelárie SR",9.080000,-0.0421940928
+"2-room apartment","new construction","okres Martin",11.927857,NULL,11.858000,-0.0058566262
+"2-room apartment","new construction","okres Martin",11.927857,"ML realitný& finančny servis s.r.o. , BrokerSoft s.r.o. , Monika Launerová - SZČO",10.230000,-0.1423438427
+"2-room apartment","new construction","okres Žilina",12.333889,"WFG reality, s.r.o.",13.774000,0.1167604962
+"2-room apartment","new construction","okres Námestovo",7.488000,"RE/MAX Slovakia",NULL,NULL
+"2-room apartment","new construction","okres Čadca",11.632000,"MGM reality",10.910000,-0.0620701513
+"2-room apartment","new construction","okres Námestovo",7.488000,"BeMi realitná kancelária",7.488000,0.0000000000
+"2-room apartment","new construction","okres Dolný Kubín",11.945000,"OREA, s.r.o.",10.890000,-0.0883214734
+"2-room apartment","new construction","okres Bytča",8.810000,NULL,8.810000,0.0000000000
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,"RESIDENCE realitná kancelária",13.555714,0.0616469141
+"2-room apartment","new construction","okres Žilina",12.333889,NULL,11.758000,-0.0466915991
+"2-room apartment","new construction","okres Žilina",12.333889,"Reality Alpia",13.170000,0.0677897296
+"2-room apartment","new construction","okres Čadca",11.632000,NULL,13.780000,0.1846629986
+"2-room apartment","new construction","okres Dolný Kubín",11.945000,"FINREA - ak vám záleží na výsledku",13.000000,0.0883214734
+"2-room apartment","new construction","okres Liptovský Mikuláš",12.768571,NULL,11.913333,-0.0669799306
+"3-room apartment","fully renovated","okres Námestovo",6.960000,"BeMi realitná kancelária",6.960000,0.0000000000
+"3-room apartment","fully renovated","okres Žilina",10.215484,"TARGETreal s. r. o.",13.330000,0.3048818832
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",9.955000,"Reality Alpia",8.390000,-0.1572074335
+"3-room apartment","fully renovated","okres Žilina",10.215484,"RIEŠIME BÝVANIE",12.360000,0.2099279877
+"3-room apartment","fully renovated","okres Žilina",10.215484,"Stanislav Motyčík - MK",10.130000,-0.0083680812
+"3-room apartment","fully renovated","okres Žilina",10.215484,"MGM reality",8.490000,-0.1689086880
+"3-room apartment","fully renovated","okres Žilina",10.215484,"Realitná kancelária RED, s.r.o.",9.760000,-0.0445876084
+"3-room apartment","fully renovated","okres Martin",8.372000,"Reality Turiec s.r o.",9.560000,0.1419015767
+"3-room apartment","fully renovated","okres Čadca",9.294000,"1. Reality Rent, s.r.o.",9.310000,0.0017215408
+"3-room apartment","fully renovated","okres Martin",8.372000,"Realitná kancelária",9.530000,0.1383182035
+"3-room apartment","fully renovated","okres Dolný Kubín",9.720000,NULL,9.560000,-0.0164609053
+"3-room apartment","fully renovated","okres Dolný Kubín",9.720000,"FINREA - ak vám záleží na výsledku",8.840000,-0.0905349794
+"3-room apartment","fully renovated","okres Žilina",10.215484,"LAVENTURA s.r.o.",8.630000,-0.1552040021
+"3-room apartment","fully renovated","okres Dolný Kubín",9.720000,"OREA, s.r.o.",10.240000,0.0534979424
+"3-room apartment","fully renovated","okres Čadca",9.294000,"Trioreality, s.r.o.",9.170000,-0.0133419410
+"3-room apartment","fully renovated","okres Žilina",10.215484,"1. Reality Rent, s.r.o.",8.020000,-0.2149172766
+"3-room apartment","fully renovated","okres Martin",8.372000,"Financie a reality od A po Z",9.670000,0.1550406116
+"3-room apartment","fully renovated","okres Ružomberok",6.860000,NULL,6.860000,0.0000000000
+"3-room apartment","fully renovated","okres Kysucké Nové Mesto",11.985000,"Realitné kancelárie SR",11.670000,-0.0262828536
+"3-room apartment","fully renovated","okres Martin",8.372000,"RE/MAX Slovakia",7.860000,-0.0611562351
+"3-room apartment","fully renovated","okres Martin",8.372000,"Reality Center, s.r.o.",9.625000,0.1496655518
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",9.955000,jabyvam.sk,11.100000,0.1150175791
+"3-room apartment","fully renovated","okres Kysucké Nové Mesto",11.985000,"Reality IQ, s.r.o.",11.540000,-0.0371297455
+"3-room apartment","fully renovated","okres Žilina",10.215484,"JKV REAL",9.393333,-0.0804808661
+"3-room apartment","fully renovated","okres Martin",8.372000,"FINREA - ak vám záleží na výsledku",7.955000,-0.0498088868
+"3-room apartment","fully renovated","okres Žilina",10.215484,"ŽILINAREAL, s.r.o.",9.710000,-0.0494821391
+"3-room apartment","fully renovated","okres Žilina",10.215484,"STAREA, s. r. o.",8.330000,-0.1845711863
+"3-room apartment","fully renovated","okres Čadca",9.294000,"KUBALA REALITY, s.r.o.",10.830000,0.1652679148
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",9.955000,liptoreal,10.000000,0.0045203415
+"3-room apartment","fully renovated","okres Žilina",10.215484,"WFG reality, s.r.o.",11.540000,0.1296576844
+"3-room apartment","fully renovated","okres Žilina",10.215484,NULL,10.520000,0.0298092582
+"3-room apartment","fully renovated","okres Žilina",10.215484,"PRIMA reality s.r.o.",10.910000,0.0679865976
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",9.955000,"Direct Real, spol. s r.o.",10.330000,0.0376695128
+"3-room apartment","fully renovated","okres Kysucké Nové Mesto",11.985000,NULL,8.290000,-0.3083020442
+"3-room apartment","fully renovated","okres Martin",8.372000,"Realitná kancelária DR, s.r.o.",8.940000,0.0678451983
+"3-room apartment","fully renovated","okres Martin",8.372000,"ALT REAL, s.r.o.",2.720000,-0.6751075012
+"3-room apartment","fully renovated","okres Kysucké Nové Mesto",11.985000,"Realitná kancelária RED, s.r.o.",16.440000,0.3717146433
+"3-room apartment","fully renovated","okres Žilina",10.215484,"Safe reality s. r. o.",9.170000,-0.1023430706
+"3-room apartment","fully renovated","okres Čadca",9.294000,"SLNOVRAT, s.r.o.",8.580000,-0.0768237573
+"3-room apartment","fully renovated","okres Martin",8.372000,"TUreality s.r.o.",7.060000,-0.1567128524
+"3-room apartment","fully renovated","okres Žilina",10.215484,"Realitné kancelárie SR",11.555000,0.1311260436
+"3-room apartment","fully renovated","okres Žilina",10.215484,"R2 SK, s.r.o.",8.490000,-0.1689086880
+"3-room apartment","fully renovated","okres Bytča",11.140000,"Fortio Popper s.r.o.",11.140000,0.0000000000
+"3-room apartment","fully renovated","okres Martin",8.372000,"Reality Alpia",9.340000,0.1156235069
+"3-room apartment","fully renovated","okres Martin",8.372000,NULL,NULL,NULL
+"studio apartment","fully renovated","okres Žilina",20.910000,"EASY centrum bývania, s.r.o.",20.910000,0.0000000000
+"studio apartment","fully renovated","okres Čadca",13.743333,"JPE. Reality - Jozef Pajer",14.580000,0.0608780272
+"studio apartment","fully renovated","okres Dolný Kubín",18.080000,"FINREA - ak vám záleží na výsledku",16.960000,-0.0619469027
+"studio apartment","fully renovated","okres Čadca",13.743333,"1. Reality Rent, s.r.o.",12.420000,-0.0962890880
+"studio apartment","fully renovated","okres Martin",13.762000,NULL,14.550000,0.0572591193
+"studio apartment","fully renovated","okres Martin",13.762000,"Reality ASTORIA, s.r.o.",14.440000,0.0492660950
+"studio apartment","fully renovated","okres Čadca",13.743333,"KUBALA REALITY, s.r.o.",14.230000,0.0354111335
+"studio apartment","fully renovated","okres Kysucké Nové Mesto",18.000000,"DRR INVEST, s. r. o.",18.000000,0.0000000000
+"studio apartment","fully renovated","okres Martin",13.762000,"Felicita Real s. r. o.",16.000000,0.1626217120
+"studio apartment","fully renovated","okres Liptovský Mikuláš",5.710000,"TUreality s.r.o.",5.710000,0.0000000000
+"studio apartment","fully renovated","okres Dolný Kubín",18.080000,"OREA, s.r.o.",19.200000,0.0619469027
+"studio apartment","fully renovated","okres Martin",13.762000,"FINREA - ak vám záleží na výsledku",11.910000,-0.1345734632
+"2-room apartment","partially renovated","okres Martin",8.878889,"Buby reality, s.r.o.",10.200000,0.1487923771
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",10.155000,"OVERENÉ REALITY",11.220000,0.1048744461
+"2-room apartment","partially renovated","okres Žilina",11.000000,"Buby reality, s.r.o.",8.510000,-0.2263636364
+"2-room apartment","partially renovated","okres Martin",8.878889,"B10 Slovensko, a. s.",9.480000,0.0677011504
+"2-room apartment","partially renovated","okres Žilina",11.000000,"WFG reality, s.r.o.",10.000000,-0.0909090909
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",8.320000,"BR ACADEMY, s. r. o.",NULL,NULL
+"2-room apartment","partially renovated","okres Žilina",11.000000,"Safe reality s. r. o.",7.800000,-0.2909090909
+"2-room apartment","partially renovated","okres Čadca",12.500000,"B10 Slovensko, a. s.",12.500000,0.0000000000
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",10.155000,"Loviu, s.r.o.",9.090000,-0.1048744461
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",8.320000,NULL,9.820000,0.1802884615
+"2-room apartment","partially renovated","okres Martin",8.878889,"Reality ASTORIA, s.r.o.",6.900000,-0.2228757449
+"2-room apartment","partially renovated","okres Martin",8.878889,"Reality Alpia",9.740000,0.0969840934
+"2-room apartment","partially renovated","okres Martin",8.878889,"Realitná kancelária DR, s.r.o.",9.000000,0.0136403327
+"2-room apartment","partially renovated","okres Ružomberok",9.160000,"FINREA - ak vám záleží na výsledku",9.160000,0.0000000000
+"2-room apartment","partially renovated","okres Martin",8.878889,"Like Reality s.r.o.",10.180000,0.1465398430
+"2-room apartment","partially renovated","okres Martin",8.878889,"FINREA - ak vám záleží na výsledku",7.335000,-0.1738831288
+"2-room apartment","partially renovated","okres Žilina",11.000000,"Realitná kancelária",12.350000,0.1227272727
+"2-room apartment","partially renovated","okres Žilina",11.000000,NULL,11.934000,0.0849090909
+"2-room apartment","partially renovated","okres Žilina",11.000000,"Wealth Group, s.r.o.",11.670000,0.0609090909
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",8.320000,"Vianema s.r.o.",6.820000,-0.1802884615
+"3-room apartment","partially renovated","okres Žilina",9.666667,"R2 SK, s.r.o.",6.500000,-0.3275862301
+"3-room apartment","partially renovated","okres Námestovo",6.300000,NULL,6.300000,0.0000000000
+"3-room apartment","partially renovated","okres Martin",8.260000,"FINREA - ak vám záleží na výsledku",7.520000,-0.0895883777
+"3-room apartment","partially renovated","okres Žilina",9.666667,NULL,7.650000,-0.2086207169
+"3-room apartment","partially renovated","okres Čadca",7.622000,"1. Reality Rent, s.r.o.",8.420000,0.1046969299
+"3-room apartment","partially renovated","okres Čadca",7.622000,"Realitné kancelárie SR",6.670000,-0.1249016006
+"3-room apartment","partially renovated","okres Žilina",9.666667,"EASY centrum bývania, s.r.o.",11.750000,0.2155171995
+"3-room apartment","partially renovated","okres Martin",8.260000,"B10 Slovensko, a. s.",8.730000,0.0569007264
+"3-room apartment","partially renovated","okres Martin",8.260000,"Realitná kancelária",8.530000,0.0326876513
+"3-room apartment","partially renovated","okres Žilina",9.666667,"PRIVAT Reality spol.s.r.o",10.430000,0.0789654800
+"3-room apartment","partially renovated","okres Dolný Kubín",8.305000,"FINREA - ak vám záleží na výsledku",8.880000,0.0692354004
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",7.968000,"RESIDENCE realitná kancelária",8.260000,0.0366465863
+"3-room apartment","partially renovated","okres Dolný Kubín",8.305000,NULL,7.730000,-0.0692354004
+"3-room apartment","partially renovated","okres Žilina",9.666667,"Wealth Group, s.r.o.",11.670000,0.2072413377
+"3-room apartment","partially renovated","okres Žilina",9.666667,"WFG reality, s.r.o.",10.000000,0.0344827229
+"3-room apartment","partially renovated","okres Ružomberok",NULL,NULL,NULL,NULL
+"3-room apartment","partially renovated","okres Čadca",7.622000,NULL,7.673333,0.0067348465
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",7.968000,"ŠIRINY, s.r.o.",7.500000,-0.0587349398
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",7.968000,"AstonReal s.r.o.",7.560000,-0.0512048193
+"1-room apartment","partially renovated","okres Dolný Kubín",13.460000,"FINREA - ak vám záleží na výsledku",12.625000,-0.0620356612
+"1-room apartment","partially renovated","okres Dolný Kubín",13.460000,"KES - RV s.r.o.",15.130000,0.1240713224
+"1-room apartment","partially renovated","okres Martin",11.815000,"MGM reality",10.670000,-0.0969107067
+"1-room apartment","partially renovated","okres Liptovský Mikuláš",11.145000,"KA Real",15.200000,0.3638402871
+"1-room apartment","partially renovated","okres Martin",11.815000,"FINREA - ak vám záleží na výsledku",NULL,NULL
+"1-room apartment","partially renovated","okres Liptovský Mikuláš",11.145000,"BEŇO REALITY",7.090000,-0.3638402871
+"1-room apartment","partially renovated","okres Martin",11.815000,"Like Reality s.r.o.",11.795000,-0.0016927634
+"1-room apartment","partially renovated","okres Žilina",11.000000,"WFG reality, s.r.o.",11.000000,0.0000000000
+"1-room apartment","partially renovated","okres Martin",11.815000,"Reality ASTORIA, s.r.o.",13.000000,0.1002962336
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",14.194000,"AstonReal s.r.o.",13.240000,-0.0672114978
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",14.194000,"Direct Real, spol. s r.o.",18.520000,0.3047766662
+"1-room apartment","fully renovated","okres Námestovo",10.230000,"HD reality group s.r.o",10.230000,0.0000000000
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",14.194000,"RESIDENCE realitná kancelária",11.840000,-0.1658447231
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",14.194000,"Reality Alpia",13.440000,-0.0531210371
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",14.194000,"KA Real",13.930000,-0.0185994082
+"1-room apartment","fully renovated","okres Žilina",16.755000,"Realitka pre každého",14.560000,-0.1310056699
+"1-room apartment","fully renovated","okres Dolný Kubín",13.250000,"FINREA - ak vám záleží na výsledku",12.500000,-0.0566037736
+"1-room apartment","fully renovated","okres Martin",13.708889,"Vianema s.r.o.",14.810000,0.0803209509
+"1-room apartment","fully renovated","okres Čadca",11.050000,"JPE. Reality - Jozef Pajer",11.050000,0.0000000000
+"1-room apartment","fully renovated","okres Martin",13.708889,NULL,13.482500,-0.0165140297
+"1-room apartment","fully renovated","okres Martin",13.708889,"Realitná kancelária",14.330000,0.0453071726
+"1-room apartment","fully renovated","okres Martin",13.708889,"Realitné kancelárie SR",15.000000,0.0941805715
+"1-room apartment","fully renovated","okres Žilina",16.755000,NULL,16.230000,-0.0313339302
+"1-room apartment","fully renovated","okres Martin",13.708889,"FINREA - ak vám záleží na výsledku",14.330000,0.0453071726
+"1-room apartment","fully renovated","okres Čadca",11.050000,"HOLESTIAK.sk reality s.r.o.",NULL,NULL
+"1-room apartment","fully renovated","okres Žilina",16.755000,"TARGETreal s. r. o.",20.000000,0.1936735303
+"1-room apartment","fully renovated","okres Martin",13.708889,"B10 Slovensko, a. s.",10.980000,-0.1990598217
+"1-room apartment","fully renovated","okres Dolný Kubín",13.250000,"OREA, s.r.o.",14.000000,0.0566037736
+"holiday apartment","new construction","okres Liptovský Mikuláš",15.480000,liptoreal,NULL,NULL
+"holiday apartment","new construction","okres Tvrdošín",NULL,"Fine Living",NULL,NULL
+"holiday apartment","new construction","okres Liptovský Mikuláš",15.480000,NULL,NULL,NULL
+"holiday apartment","new construction","okres Liptovský Mikuláš",15.480000,"Reality Alpia",15.480000,0.0000000000
+"studio apartment","partially renovated","okres Martin",16.320000,"Realitná kancelária",17.890000,0.0962009804
+"studio apartment","partially renovated","okres Čadca",13.460000,"KUBALA REALITY, s.r.o.",13.460000,0.0000000000
+"studio apartment","partially renovated","okres Martin",16.320000,"Reality Alpia",14.400000,-0.1176470588
+"studio apartment","partially renovated","okres Dolný Kubín",15.390000,"FINREA - ak vám záleží na výsledku",15.390000,0.0000000000
+"studio apartment","partially renovated","okres Martin",16.320000,"RE/MAX Slovakia",16.670000,0.0214460784
+"1-room apartment",unrenovated,"okres Čadca",10.710000,"Realitné kancelárie SR",10.710000,0.0000000000
+"1-room apartment",unrenovated,"okres Žilina",11.400000,"Realitná kancelária SYMPATIA REAL s. r. o.",11.400000,0.0000000000
+"studio apartment","new construction","okres Žilina",20.330000,"Mgr. Nina Herčková, RSc.",18.280000,-0.1008362027
+"studio apartment","new construction","okres Martin",12.700000,NULL,12.700000,0.0000000000
+"studio apartment","new construction","okres Žilina",20.330000,"Reality Alpia",17.330000,-0.1475651746
+"studio apartment","new construction","okres Dolný Kubín",18.180000,"FINREA - ak vám záleží na výsledku",18.180000,0.0000000000
+"studio apartment","new construction","okres Žilina",20.330000,"1. Reality Rent, s.r.o.",25.710000,0.2646335465
+"studio apartment","new construction","okres Kysucké Nové Mesto",16.790000,"Realitné kancelárie SR",16.790000,0.0000000000
+"studio apartment","new construction","okres Žilina",20.330000,NULL,20.000000,-0.0162321692
+"1-room apartment","new construction","okres Kysucké Nové Mesto",9.585000,NULL,8.640000,-0.0985915493
+"1-room apartment","new construction","okres Bytča",14.013333,"Realitná kancelária RED, s.r.o.",16.670000,0.1895813794
+"1-room apartment","new construction","okres Bytča",14.013333,"PRIMA reality s.r.o.",12.685000,-0.0947906540
+"1-room apartment","new construction","okres Martin",12.790000,"Reality Alpia",12.790000,0.0000000000
+"1-room apartment","new construction","okres Kysucké Nové Mesto",9.585000,"Safe reality s. r. o.",10.530000,0.0985915493
+"1-room apartment","new construction","okres Čadca",11.606667,"JPE. Reality - Jozef Pajer",10.250000,-0.1168868720
+"1-room apartment","new construction","okres Žilina",15.858000,NULL,15.858000,0.0000000000
+"1-room apartment","new construction","okres Liptovský Mikuláš",14.140000,NULL,13.240000,-0.0636492221
+"1-room apartment","new construction","okres Liptovský Mikuláš",14.140000,"DVOŘÁK & PARTNERS s. r. o.",15.040000,0.0636492221
+"1-room apartment","new construction","okres Čadca",11.606667,"HOLESTIAK.sk reality s.r.o.",14.320000,0.2337736578
+"2-room apartment",unrenovated,"okres Žilina",11.450000,"MGM reality",14.370000,0.2550218341
+"2-room apartment",unrenovated,"okres Žilina",11.450000,"X-REAL, s. r. o.",8.530000,-0.2550218341
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš",12.200000,NULL,12.200000,0.0000000000
+"2-room apartment",unrenovated,"okres Martin",7.690000,"FINREA - ak vám záleží na výsledku",7.690000,0.0000000000
+"2-room apartment",unrenovated,"okres Kysucké Nové Mesto",8.790000,"Realitné kancelárie SR",8.790000,0.0000000000
+"2-room apartment",unrenovated,"okres Čadca",8.870000,"Realitné kancelárie SR",8.870000,0.0000000000
+"2-room apartment",unrenovated,"okres Námestovo",6.720000,"RIEŠIME BÝVANIE",6.720000,0.0000000000
+"4-room apartment","new construction","okres Žilina",9.275000,"Realitné kancelárie SR",6.540000,-0.2948787062
+"4-room apartment","new construction","okres Žilina",9.275000,"Piata Avenue",10.000000,0.0781671159
+"4-room apartment","new construction","okres Žilina",9.275000,"Realitná kancelária RED, s.r.o.",10.390000,0.1202156334
+"4-room apartment","new construction","okres Žilina",9.275000,"RIEŠIME BÝVANIE",11.960000,0.2894878706
+"4-room apartment","new construction","okres Žilina",9.275000,NULL,6.370000,-0.3132075472
+"3-room apartment",unrenovated,"okres Námestovo",6.020000,"bezmaklérov, s.r.o.",6.020000,0.0000000000
+"3-room apartment",unrenovated,"okres Žilina",8.430000,"B10 Slovensko, a. s.",8.430000,0.0000000000
+"3-room apartment",unrenovated,"okres Dolný Kubín",8.130000,"OREA, s.r.o.",8.130000,0.0000000000
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš",6.880000,"Reality Alpia",6.880000,0.0000000000
+"holiday apartment","fully renovated","okres Žilina",14.400000,"AnoReal, s.r.o.",14.400000,0.0000000000
+"holiday apartment","fully renovated","okres Žilina",14.400000,"MK CAR, s.r.o.",NULL,NULL
+"holiday apartment","fully renovated","okres Liptovský Mikuláš",NULL,liptoreal,NULL,NULL
+"4-room apartment","partially renovated","okres Martin",8.670000,"Reality Alpia",8.670000,0.0000000000
+"4-room apartment","partially renovated","okres Ružomberok",6.360000,"Reality Alpia",6.360000,0.0000000000
+"4-room apartment",unrenovated,"okres Martin",7.000000,"Reality Alpia",7.000000,0.0000000000
+"4-room apartment",unrenovated,"okres Turčianske Teplice",4.040000,"OVERENÉ REALITY",4.040000,0.0000000000
+"4-room apartment",unrenovated,"okres Žilina",8.930000,"Direct Real, spol. s r.o.",8.930000,0.0000000000
+"2-room apartment","development project","okres Žilina",12.670000,"Renovo Reality",12.670000,0.0000000000
+"studio apartment",unrenovated,"okres Martin",13.040000,"Reality ASTORIA, s.r.o.",13.040000,0.0000000000
+"commercial space","new construction","okres Martin",NULL,"iO Partners Slovakia s.r.o.",NULL,NULL
+maisonette,unrenovated,"okres Liptovský Mikuláš",6.000000,"GERT , s.r.o.",6.000000,0.0000000000
+"holiday apartment",unrenovated,"okres Tvrdošín",10.370000,"Realitné kancelárie SR",10.370000,0.0000000000
+house,"partially renovated","okres Žilina",4.503333,NULL,0.030000,-0.9933382675
+house,"partially renovated","okres Liptovský Mikuláš",3.900000,"REALITY TATRY",3.900000,0.0000000000
+house,"partially renovated","okres Žilina",4.503333,"RENOME REAL",5.150000,0.1435974200
+house,"partially renovated","okres Žilina",4.503333,"Realitná kancelária RED, s.r.o.",8.330000,0.8497410696
+house,"fully renovated","okres Žilina",11.356667,"Effecting s.r.o.",5.200000,-0.5421191799
+house,"fully renovated","okres Žilina",11.356667,"Piata Avenue",10.710000,-0.0569416185
+house,"fully renovated","okres Žilina",11.356667,"BeMi realitná kancelária",14.240000,0.2538890151
+house,"fully renovated","okres Ružomberok",6.940000,"Reality Alpia",6.940000,0.0000000000
+house,"fully renovated","okres Martin",0.100000,"Reality ASTORIA, s.r.o.",0.100000,0.0000000000
+house,"fully renovated","okres Žilina",11.356667,"MGM reality",13.940000,0.2274728140
+house,"fully renovated","okres Žilina",11.356667,"Buby reality, s.r.o.",11.110000,-0.0217200170
+house,"fully renovated","okres Žilina",11.356667,"Realitná kancelária RED, s.r.o.",12.940000,0.1394188101
+house,unrenovated,"okres Čadca",3.130000,"Realitné kancelárie SR",3.130000,0.0000000000
+house,unrenovated,"okres Liptovský Mikuláš",2.020000,"Direct Real, spol. s r.o.",2.020000,0.0000000000
+house,"new construction","okres Námestovo",6.215000,NULL,8.670000,0.3950120676
+house,"new construction","okres Námestovo",6.215000,"OREA, s.r.o.",3.760000,-0.3950120676
+house,"new construction","okres Martin",8.106000,NULL,10.780000,0.3298791019
+house,"new construction","okres Žilina",7.391667,"MGM reality",12.500000,0.6910934976
+house,"new construction","okres Žilina",7.391667,"Realitná kancelária RED, s.r.o.",3.515000,-0.5244645085
+house,"new construction","okres Čadca",9.375000,"SLNOVRAT, s.r.o.",8.750000,-0.0666666667
+house,"new construction","okres Žilina",7.391667,"Mamud Reality s. r. o.",10.670000,0.4435174095
+house,"new construction","okres Čadca",9.375000,"BeMi realitná kancelária",10.000000,0.0666666667
+house,"new construction","okres Liptovský Mikuláš",6.270000,"RESIDENCE realitná kancelária",9.370000,0.4944178628
+house,"new construction","okres Martin",8.106000,"Buby reality, s.r.o.",2.990000,-0.6311374291
+house,"new construction","okres Martin",8.106000,"Reality Alpia",12.900000,0.5914137676
+house,"new construction","okres Martin",8.106000,"Reality ASTORIA, s.r.o.",6.930000,-0.1450777202
+house,"new construction","okres Žilina",7.391667,"RIEŠIME BÝVANIE",8.000000,0.0822998385
+house,"new construction","okres Žilina",7.391667,"Realitné kancelárie SR",6.150000,-0.1679819992
+house,"new construction","okres Bytča",9.720000,NULL,9.720000,0.0000000000
+house,"new construction","okres Liptovský Mikuláš",6.270000,"AstonReal s.r.o.",4.720000,-0.2472089314

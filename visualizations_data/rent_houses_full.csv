@@ -1,0 +1,20 @@
+offer_id,property_type,area,condition,monthly_rent_m2,built_in,house_area,land_area,built_up_area,terrain,energy_certificate,electricity,water,location_district,location_city,location_area,agency,office_city
+Ju2mmFeZCca,house,85,"fully renovated",12.94,1995,85,389,244,"mostly flat","not available",NULL,NULL,"okres Žilina",Žilina,Hliny,"Realitná kancelária RED, s.r.o.",Žilina
+Ju419iKir6V,house,160,"new construction",5.00,2023,160,NULL,180,flat,B,on-site,well,"okres Liptovský Mikuláš","Liptovský Mikuláš","Liptovská Ondrašová","AstonReal s.r.o.","Banská Bystrica"
+JuEW0eTR9MG,house,165,"partially renovated",5.15,1975,165,NULL,165,flat,"not available","at property line","public water","okres Žilina",Žilina,"Staré mesto","RENOME REAL",Žilina
+JuuVW7D3CC4,house,180,"new construction",4.44,2023,180,NULL,120,flat,B,on-site,well,"okres Liptovský Mikuláš","Liptovský Mikuláš","Liptovská Ondrašová","AstonReal s.r.o.","Banská Bystrica"
+JuiNBbsX-1P,house,150,"new construction",8.00,2025,150,330,90,flat,"not available",NULL,"public water","okres Žilina",Žilina,Bytčica,"RIEŠIME BÝVANIE",Bratislava
+JuQab_JUcgQ,house,162,"new construction",7.96,2000,162,NULL,100,flat,"not available",on-site,"public water","okres Martin",Vrútky,"Karvaša a Bláhovca","Reality ASTORIA, s.r.o.",Martin
+Ju99F1V9-a5,house,100,"new construction",12.90,2025,100,NULL,100,"gently sloped","not available","not available",well,"okres Martin",Vrútky,"Karvaša a Bláhovca","Reality Alpia",Martin
+Ju6T3Ft89-v,house,551,"new construction",2.99,2018,551,551,116,NULL,A,NULL,NULL,"okres Martin",Martin,Záturčie,"Buby reality, s.r.o.",Žilina
+JuH3sZu4pdG,house,100,"new construction",5.90,2025,100,NULL,100,flat,"not available",on-site,"public water","okres Martin",Martin,"Kolónia Hviezda","Reality ASTORIA, s.r.o.",Martin
+JujgHpJn1F3,house,200,"partially renovated",3.90,1918,200,800,120,"gently sloped","not available",NULL,NULL,"okres Liptovský Mikuláš",Važec,Važec,"REALITY TATRY",Levoča
+JuZCH4Z4GtW,house,125,"fully renovated",0.10,2010,125,NULL,125,flat,"not available",on-site,"public water","okres Martin",Vrútky,"Dolné Vrútky","Reality ASTORIA, s.r.o.",Martin
+JuoVr-cpqoy,house,72,"fully renovated",6.94,2025,72,NULL,NULL,other,"not available","not available",well,"okres Ružomberok",Lúčky,Lúčky,"Reality Alpia",Martin
+Ju87PUjUkTd,house,150,"new construction",10.67,2025,150,830,100,NULL,A,NULL,NULL,"okres Žilina","Nezbudská Lúčka","Nezbudská Lúčka","Mamud Reality s. r. o.",Žilina
+Juesp2zf3lY,house,80,"new construction",8.75,2024,80,NULL,45,flat,"in preparation","at property line","public water","okres Čadca",Čadca,Podzávoz,"SLNOVRAT, s.r.o.",Olešná
+JumYwG9N16J,house,240,"new construction",6.04,2023,240,317,NULL,"mostly flat",NULL,NULL,NULL,"okres Žilina","Dolný Hričov","Dolný Hričov","Realitná kancelária RED, s.r.o.",Žilina
+Ju9bxb0AsZ-,house,360,"partially renovated",0.03,1993,360,420,120,flat,"not available",on-site,NULL,"okres Žilina",Žilina,Bôrik,NULL,NULL
+JudaUInUE_Q,house,263,"new construction",3.76,2013,263,1730,310,flat,A,on-site,"public water","okres Námestovo","Oravská Polhora","Oravská Polhora","OREA, s.r.o.","Dolný Kubín"
+JuSpQ8TslIA,house,1114,"new construction",0.99,2019,1114,NULL,NULL,"mostly flat",NULL,NULL,NULL,"okres Žilina",Lysica,Lysica,"Realitná kancelária RED, s.r.o.",Žilina
+Ju7u3ZsxEKq,house,250,"fully renovated",5.20,2010,250,700,135,NULL,"not available",NULL,NULL,"okres Žilina",Žilina,Závodie,"Effecting s.r.o.",Bratislava

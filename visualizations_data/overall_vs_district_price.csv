@@ -1,0 +1,270 @@
+property_type,condition,location_district,gen_count,gen_avg_price,dis_count,dis_avg_price,price_diff
+"3-room apartment","fully renovated","okres Žilina",90,2484.530476,27,2889.718462,16.3084329178
+"1-room apartment","new construction","okres Liptovský Mikuláš",42,3762.587436,7,4113.190000,9.3181240294
+"3-room apartment",unrenovated,"okres Martin",68,1900.298036,24,1712.116500,-9.9027380145
+"3-room apartment","fully renovated","okres Martin",90,2484.530476,27,2109.253333,-15.1045497982
+"3-room apartment",unrenovated,"okres Dolný Kubín",68,1900.298036,5,2270.982500,19.5066487981
+"3-room apartment","new construction","okres Tvrdošín",110,2940.550842,3,2792.540000,-5.0334393096
+"2-room apartment","partially renovated","okres Kysucké Nové Mesto",67,2358.305690,3,2282.426667,-3.2175227886
+"3-room apartment","new construction","okres Čadca",110,2940.550842,2,1845.970000,-37.2236666126
+"3-room apartment","partially renovated","okres Turčianske Teplice",121,2016.158090,6,1384.925000,-31.3087100228
+"1-room apartment","new construction","okres Kysucké Nové Mesto",42,3762.587436,2,3728.340000,-0.9102097050
+"3-room apartment","new construction","okres Žilina",110,2940.550842,40,3174.402286,7.9526407318
+"4-room apartment","new construction","okres Žilina",38,2797.552667,23,2968.784762,6.1207818183
+"2-room apartment","fully renovated","okres Bytča",99,2597.321264,3,2763.730000,6.4069369587
+"3-room apartment","partially renovated","okres Žilina",121,2016.158090,20,2360.442222,17.0762468334
+"2-room apartment","fully renovated","okres Martin",99,2597.321264,25,2491.667778,-4.0677865871
+"3-room apartment","under construction","okres Ružomberok",24,2895.789524,5,2975.950000,2.7681734234
+"2-room apartment","new construction","okres Liptovský Mikuláš",125,3419.646726,39,3530.526486,3.2424331776
+"2-room apartment","fully renovated","okres Čadca",99,2597.321264,10,1826.004000,-29.6966445657
+"4-room apartment",unrenovated,"okres Martin",12,1876.870000,2,1488.760000,-20.6785765663
+"3-room apartment","partially renovated","okres Martin",121,2016.158090,42,1871.712143,-7.1644157131
+"2-room apartment","new construction","okres Ružomberok",125,3419.646726,9,3005.420000,-12.1131438184
+"3-room apartment",unrenovated,"okres Žilina",68,1900.298036,14,2338.332727,23.0508416418
+"2-room apartment","partially renovated","okres Žilina",67,2358.305690,21,2872.318947,21.7958706193
+"2-room apartment","fully renovated","okres Kysucké Nové Mesto",99,2597.321264,3,2525.256667,-2.7745738657
+"holiday apartment","fully renovated","okres Čadca",18,3390.796875,3,1641.275000,-51.5961863684
+"2-room apartment","new construction","okres Bytča",125,3419.646726,2,3041.110000,-11.0694687589
+"4-room apartment","new construction","okres Čadca",38,2797.552667,2,1570.420000,-43.8645063407
+"holiday apartment","new construction","okres Liptovský Mikuláš",93,4666.350909,68,5121.123393,9.7457840799
+"4-room apartment",unrenovated,"okres Žilina",12,1876.870000,7,2022.186667,7.7425003863
+"1-room apartment","partially renovated","okres Liptovský Mikuláš",20,2834.321111,2,2184.735000,-22.9185785788
+"holiday apartment","under construction","okres Turčianske Teplice",9,8126.663750,1,4459.460000,-45.1255750553
+"2-room apartment","new construction","okres Čadca",125,3419.646726,2,2014.910000,-41.0784165311
+"3-room apartment","under construction","okres Martin",24,2895.789524,6,2645.646667,-8.6381573981
+"1-room apartment","fully renovated","okres Liptovský Mikuláš",20,2915.345556,7,2449.128333,-15.9918340397
+"2-room apartment","under construction","okres Martin",25,3072.047727,11,2719.446667,-11.4777207691
+"3-room apartment","fully renovated","okres Čadca",90,2484.530476,10,1815.651667,-26.9217389548
+"1-room apartment","under construction","okres Kysucké Nové Mesto",8,2954.628571,1,1420.210000,-51.9327060620
+"4-room apartment","partially renovated","okres Martin",27,2030.536667,8,1960.471667,-3.4505656135
+"2-room apartment","new construction","okres Žilina",125,3419.646726,46,3561.193182,4.1392128293
+"2-room apartment","fully renovated","okres Ružomberok",99,2597.321264,8,2533.832500,-2.4443939562
+"2-room apartment","under construction","okres Ružomberok",25,3072.047727,3,3087.710000,0.5098316951
+"4-room apartment","under construction","okres Ružomberok",18,2779.408889,2,2744.840000,-1.2437496741
+"3-room apartment","new construction","okres Námestovo",110,2940.550842,6,1818.456000,-38.1593416435
+"2-room apartment",unrenovated,"okres Martin",35,2167.317353,11,1925.425455,-11.1608896438
+"1-room apartment","partially renovated","okres Žilina",20,2834.321111,2,4218.820000,48.8476370453
+"2-room apartment","partially renovated","okres Tvrdošín",67,2358.305690,6,2048.158000,-13.1512929522
+"2-room apartment",unrenovated,"okres Žilina",35,2167.317353,7,2585.128333,19.2777942474
+"2-room apartment","fully renovated","okres Liptovský Mikuláš",99,2597.321264,19,2689.293333,3.5410355382
+"holiday apartment","fully renovated","okres Ružomberok",18,3390.796875,10,3557.504000,4.9164586127
+"5+ room apartment","partially renovated","okres Žilina",4,2588.316667,3,2588.316667,0.0000000000
+"3-room apartment","new construction","okres Dolný Kubín",110,2940.550842,8,2835.642857,-3.5676303739
+"2-room apartment","new construction","okres Martin",125,3419.646726,15,2847.854545,-16.7207968195
+"2-room apartment",unrenovated,"okres Kysucké Nové Mesto",35,2167.317353,2,2111.785000,-2.5622621866
+"1-room apartment",unrenovated,"okres Tvrdošín",11,2780.075000,2,2632.065000,-5.3239570875
+"2-room apartment",unrenovated,"okres Turčianske Teplice",35,2167.317353,1,1366.670000,-36.9418604937
+"3-room apartment",unrenovated,"okres Liptovský Mikuláš",68,1900.298036,9,1794.306250,-5.5776401381
+"studio apartment","partially renovated","okres Žilina",7,2914.662000,3,4190.105000,43.7595508502
+"3-room apartment","under construction","okres Kysucké Nové Mesto",24,2895.789524,6,2888.855000,-0.2394691998
+"3-room apartment","partially renovated","okres Ružomberok",121,2016.158090,15,1988.912000,-1.3513865870
+"2-room apartment",unrenovated,"okres Ružomberok",35,2167.317353,4,1159.725000,-46.4903006293
+"3-room apartment","new construction","okres Ružomberok",110,2940.550842,6,2586.624000,-12.0360728658
+"4-room apartment","new construction","okres Martin",38,2797.552667,3,1863.000000,-33.4060794645
+"3-room apartment","partially renovated","okres Liptovský Mikuláš",121,2016.158090,16,2084.653077,3.3973023911
+"2-room apartment","partially renovated","okres Ružomberok",67,2358.305690,7,2183.822000,-7.3986884202
+"1-room apartment","partially renovated","okres Martin",20,2834.321111,6,2898.635000,2.2691108904
+"4-room apartment","partially renovated","okres Žilina",27,2030.536667,9,2371.034286,16.7688485775
+"3-room apartment","new construction","okres Martin",110,2940.550842,16,2471.873846,-15.9384081821
+"3-room apartment","fully renovated","okres Liptovský Mikuláš",90,2484.530476,10,2758.873333,11.0420403231
+"3-room apartment","development project","okres Žilina",3,2359.596667,1,3628.760000,53.7872997852
+"4-room apartment","new construction","okres Liptovský Mikuláš",38,2797.552667,5,2746.960000,-1.8084616457
+"1-room apartment","new construction","okres Martin",42,3762.587436,8,3375.320000,-10.2925830319
+"1-room apartment","partially renovated","okres Čadca",20,2834.321111,5,2690.757500,-5.0651851141
+"studio apartment","new construction","okres Dolný Kubín",8,3284.020000,1,3996.000000,21.6801359310
+"holiday apartment","partially renovated","okres Čadca",5,2725.797500,2,3000.000000,10.0595330357
+"3-room apartment",unrenovated,"okres Čadca",68,1900.298036,7,1761.202857,-7.3196507266
+"4-room apartment","partially renovated","okres Dolný Kubín",27,2030.536667,2,1831.830000,-9.7859186800
+"studio apartment","new construction","okres Ružomberok",8,3284.020000,1,1815.800000,-44.7080103044
+"2-room apartment","development project","okres Dolný Kubín",9,3654.186250,2,2716.670000,-25.6559514447
+"2-room apartment","partially renovated","okres Čadca",67,2358.305690,8,1970.446667,-16.4465117752
+"4-room apartment","fully renovated","okres Martin",40,2351.017179,10,2216.265000,-5.7316543751
+"2-room apartment","fully renovated","okres Žilina",99,2597.321264,28,2955.898333,13.8056494578
+"3-room apartment","new construction","okres Liptovský Mikuláš",110,2940.550842,20,3608.368889,22.7106444637
+"1-room apartment","partially renovated","okres Ružomberok",20,2834.321111,3,2825.350000,-0.3165171005
+"2-room apartment",unrenovated,"okres Liptovský Mikuláš",35,2167.317353,6,3059.835000,41.1807548980
+"1-room apartment",unrenovated,"okres Námestovo",11,2780.075000,3,2435.900000,-12.3800616890
+"3-room apartment","fully renovated","okres Tvrdošín",90,2484.530476,2,2216.035000,-10.8066887725
+"2-room apartment","new construction","okres Tvrdošín",125,3419.646726,1,2988.100000,-12.6196288850
+"3-room apartment","new construction","okres Kysucké Nové Mesto",110,2940.550842,6,2572.368000,-12.5208799910
+"3-room apartment","fully renovated","okres Ružomberok",90,2484.530476,5,1972.633333,-20.6033754846
+"2-room apartment","under construction","okres Liptovský Mikuláš",25,3072.047727,6,3457.133333,12.5351439893
+"2-room apartment","new construction","okres Turčianske Teplice",125,3419.646726,4,4070.915000,19.0448992596
+"1-room apartment","fully renovated","okres Žilina",20,2915.345556,1,5000.000000,71.5062555692
+"3-room apartment","partially renovated","okres Bytča",121,2016.158090,4,1752.222500,-13.0910165879
+"2-room apartment","development project","okres Žilina",9,3654.186250,3,5230.550000,43.1385715493
+"4-room apartment","fully renovated","okres Námestovo",40,2351.017179,2,2344.990000,-0.2563647367
+"3-room apartment","fully renovated","okres Dolný Kubín",90,2484.530476,8,2541.287500,2.2844164943
+"4-room apartment","under construction","okres Kysucké Nové Mesto",18,2779.408889,11,2844.571818,2.3444887601
+"holiday apartment","under construction","okres Liptovský Mikuláš",9,8126.663750,8,8650.550000,6.4465107222
+"1-room apartment","new construction","okres Žilina",42,3762.587436,17,4015.358125,6.7180017289
+"other apartment type","new construction","okres Žilina",1,NULL,1,NULL,NULL
+"holiday apartment","fully renovated","okres Martin",18,3390.796875,2,4312.805000,27.1914879891
+"2-room apartment","under construction","okres Žilina",25,3072.047727,2,3414.465000,11.1462224363
+"2-room apartment","partially renovated","okres Martin",67,2358.305690,10,1886.342000,-20.0128292104
+"1-room apartment","new construction","okres Ružomberok",42,3762.587436,6,3237.006000,-13.9686172066
+"holiday apartment","development project","okres Žilina",4,4965.415000,4,4965.415000,0.0000000000
+maisonette,"new construction","okres Liptovský Mikuláš",3,2384.420000,2,2384.420000,0.0000000000
+"2-room apartment","partially renovated","okres Liptovský Mikuláš",67,2358.305690,10,2351.439000,-0.2911704801
+"3-room apartment","partially renovated","okres Kysucké Nové Mesto",121,2016.158090,5,2123.590000,5.3285459376
+"1-room apartment","fully renovated","okres Ružomberok",20,2915.345556,4,2878.750000,-1.2552733560
+"3-room apartment",unrenovated,"okres Tvrdošín",68,1900.298036,1,NULL,NULL
+"3-room apartment","under construction","okres Žilina",24,2895.789524,3,2686.740000,-7.2190855816
+"1-room apartment","fully renovated","okres Martin",20,2915.345556,5,3315.735000,13.7338588620
+"2-room apartment","fully renovated","okres Dolný Kubín",99,2597.321264,2,2629.365000,1.2337224680
+"holiday apartment","new construction","okres Martin",93,4666.350909,4,3112.682500,-33.2951473067
+"1-room apartment","under construction","okres Liptovský Mikuláš",8,2954.628571,1,NULL,NULL
+"holiday apartment","new construction","okres Ružomberok",93,4666.350909,12,3446.845833,-26.1340199180
+"4-room apartment","new construction","okres Turčianske Teplice",38,2797.552667,1,NULL,NULL
+"4-room apartment","fully renovated","okres Žilina",40,2351.017179,18,2466.374706,4.9067071066
+"4-room apartment","fully renovated","okres Ružomberok",40,2351.017179,1,2000.000000,-14.9304387112
+"holiday apartment","partially renovated","okres Tvrdošín",5,2725.797500,1,2888.890000,5.9832947972
+"2-room apartment","new construction","okres Dolný Kubín",125,3419.646726,7,3896.190000,13.9354533431
+"3-room apartment","partially renovated","okres Čadca",121,2016.158090,11,1920.963333,-4.7215918966
+"1-room apartment","partially renovated","okres Turčianske Teplice",20,2834.321111,1,2113.460000,-25.4332901167
+"holiday apartment","partially renovated","okres Ružomberok",5,2725.797500,2,2507.150000,-8.0214139165
+"1-room apartment","under construction","okres Žilina",8,2954.628571,2,3771.195000,27.6368555092
+"4-room apartment","partially renovated","okres Bytča",27,2030.536667,2,1785.055000,-12.0894968798
+"studio apartment",unrenovated,"okres Martin",4,3037.586667,3,3080.000000,1.3962838809
+"3-room apartment",unrenovated,"okres Kysucké Nové Mesto",68,1900.298036,4,1852.865000,-2.4960840406
+"studio apartment","fully renovated","okres Žilina",8,4025.810000,5,4424.838000,9.9117444688
+"1-room apartment","new construction","okres Tvrdošín",42,3762.587436,1,2918.750000,-22.4270518720
+"studio apartment",unrenovated,"okres Liptovský Mikuláš",4,3037.586667,1,2952.760000,-2.7925677947
+"4-room apartment","development project","okres Žilina",5,3955.702000,4,4174.330000,5.5269077398
+"other apartment type",unrenovated,"okres Žilina",2,2888.370000,1,726.740000,-74.8390960992
+"2-room apartment","development project","okres Ružomberok",9,3654.186250,4,2706.292500,-25.9399408008
+"3-room apartment","development project","okres Ružomberok",3,2359.596667,2,1725.015000,-26.8936499138
+"2-room apartment","under construction","okres Kysucké Nové Mesto",25,3072.047727,3,3120.960000,1.5921716505
+"5+ room apartment",unrenovated,"okres Žilina",2,1509.125000,1,1611.110000,6.7578895055
+"5+ room apartment",unrenovated,"okres Martin",2,1509.125000,1,1407.140000,-6.7578895055
+"3-room apartment","partially renovated","okres Tvrdošín",121,2016.158090,1,2149.100000,6.5938237016
+"4-room apartment","partially renovated","okres Kysucké Nové Mesto",27,2030.536667,2,1735.425000,-14.5336783027
+"2-room apartment","partially renovated","okres Dolný Kubín",67,2358.305690,1,NULL,NULL
+"4-room apartment",unrenovated,"okres Tvrdošín",12,1876.870000,1,1752.940000,-6.6030145934
+"4-room apartment","fully renovated","okres Dolný Kubín",40,2351.017179,2,2287.120000,-2.7178524926
+"studio apartment","new construction","okres Liptovský Mikuláš",8,3284.020000,3,3370.863333,2.6444215626
+"studio apartment","partially renovated","okres Ružomberok",7,2914.662000,1,1003.710000,-65.5634169588
+"3-room apartment",unrenovated,"okres Ružomberok",68,1900.298036,3,1637.220000,-13.8440408302
+"1-room apartment",unrenovated,"okres Martin",11,2780.075000,2,2633.330000,-5.2784547179
+"holiday apartment","fully renovated","okres Liptovský Mikuláš",18,3390.796875,3,3384.775000,-0.1775946841
+"2-room apartment","fully renovated","okres Námestovo",99,2597.321264,1,2111.700000,-18.6970041300
+"holiday apartment",unrenovated,"okres Ružomberok",6,3556.341667,3,3371.286667,-5.2035214085
+"4-room apartment","fully renovated","okres Kysucké Nové Mesto",40,2351.017179,2,1693.190000,-27.9805347607
+"1-room apartment",unrenovated,"okres Žilina",11,2780.075000,4,3173.545000,14.1532152910
+"1-room apartment","under construction","okres Martin",8,2954.628571,1,2892.360000,-2.1074923465
+"4-room apartment","new construction","okres Ružomberok",38,2797.552667,2,2482.890000,-11.2477834899
+"4-room apartment","partially renovated","okres Ružomberok",27,2030.536667,2,1890.550000,-6.8940723541
+"4-room apartment","fully renovated","okres Liptovský Mikuláš",40,2351.017179,4,2814.925000,19.7322174055
+"4-room apartment","under construction","okres Martin",18,2779.408889,1,2542.520000,-8.5229953008
+"4-room apartment",unrenovated,"okres Čadca",12,1876.870000,1,1517.010000,-19.1734110514
+"studio apartment","partially renovated","okres Martin",7,2914.662000,1,3750.000000,28.6598583301
+"1-room apartment","fully renovated","okres Čadca",20,2915.345556,1,2796.610000,-4.0727781225
+"4-room apartment","partially renovated","okres Liptovský Mikuláš",27,2030.536667,2,1758.930000,-13.3761025553
+"studio apartment","new construction","okres Žilina",8,3284.020000,2,4720.000000,43.7262866852
+maisonette,"new construction","okres Žilina",3,2384.420000,1,NULL,NULL
+"3-room apartment","under construction","okres Liptovský Mikuláš",24,2895.789524,4,3442.430000,18.8770789959
+"studio apartment","partially renovated","okres Čadca",7,2914.662000,1,NULL,NULL
+"1-room apartment","partially renovated","okres Dolný Kubín",20,2834.321111,1,2291.670000,-19.1457174310
+"holiday apartment","new construction","okres Žilina",93,4666.350909,2,3809.015000,-18.3727269063
+"2-room apartment",unrenovated,"okres Dolný Kubín",35,2167.317353,3,2106.426667,-2.8094956152
+"4-room apartment","under construction","okres Žilina",18,2779.408889,3,2200.266667,-20.8368845725
+"studio apartment","new construction","okres Bytča",8,3284.020000,1,2343.750000,-28.6316770300
+maisonette,"fully renovated","okres Čadca",1,NULL,1,NULL,NULL
+"1-room apartment","development project","okres Žilina",1,4008.410000,1,4008.410000,0.0000000000
+"1-room apartment","under construction","okres Bytča",8,2954.628571,1,2101.580000,-28.8716009644
+"holiday apartment","new construction","okres Námestovo",93,4666.350909,3,3491.395000,-25.1793303143
+"3-room apartment",unrenovated,"okres Turčianske Teplice",68,1900.298036,1,NULL,NULL
+"holiday apartment","new construction","okres Bytča",93,4666.350909,1,NULL,NULL
+"4-room apartment","development project","okres Liptovský Mikuláš",5,3955.702000,1,3081.190000,-22.1076309591
+"other apartment type",unrenovated,"okres Martin",2,2888.370000,1,5050.000000,74.8390960992
+"holiday apartment","new construction","okres Dolný Kubín",93,4666.350909,2,4112.410000,-11.8709655532
+"studio apartment","partially renovated","okres Liptovský Mikuláš",7,2914.662000,1,1439.390000,-50.6155430715
+"3-room apartment","fully renovated","okres Turčianske Teplice",90,2484.530476,1,1791.670000,-27.8869783524
+loft,"partially renovated","okres Žilina",1,4184.120000,1,4184.120000,0.0000000000
+"4-room apartment","new construction","okres Dolný Kubín",38,2797.552667,1,2046.670000,-26.8406981523
+loft,"under construction","okres Liptovský Mikuláš",1,3374.090000,1,3374.090000,0.0000000000
+"holiday apartment","new construction","okres Turčianske Teplice",93,4666.350909,1,NULL,NULL
+"3-room apartment","new construction","okres Turčianske Teplice",110,2940.550842,1,2186.490000,-25.6435233572
+"3-room apartment","new construction","okres Bytča",110,2940.550842,2,2170.460000,-26.1886593151
+"studio apartment","fully renovated","okres Dolný Kubín",8,4025.810000,1,4820.710000,19.7450947760
+"4-room apartment","new construction","okres Bytča",38,2797.552667,1,2895.350000,3.4958174033
+"2-room apartment",unrenovated,"okres Námestovo",35,2167.317353,1,2090.910000,-3.5254344683
+"studio apartment","fully renovated","okres Martin",8,4025.810000,1,3131.580000,-22.2124243320
+"4-room apartment","fully renovated","okres Bytča",40,2351.017179,1,1688.350000,-28.1864030990
+"4-room apartment","under construction","okres Liptovský Mikuláš",18,2779.408889,1,4106.070000,47.7317718976
+"holiday apartment",unrenovated,"okres Čadca",6,3556.341667,1,2151.160000,-39.5119985247
+"1-room apartment","under construction","okres Ružomberok",8,2954.628571,2,3362.930000,13.8190442280
+"3-room apartment","partially renovated","okres Dolný Kubín",121,2016.158090,1,1965.280000,-2.5235168935
+"1-room apartment","fully renovated","okres Tvrdošín",20,2915.345556,1,2000.000000,-31.3974977723
+"1-room apartment","new construction","okres Dolný Kubín",42,3762.587436,1,3515.150000,-6.5762574348
+"holiday apartment",unrenovated,"okres Liptovský Mikuláš",6,3556.341667,2,4536.515000,27.5612813610
+"4-room apartment",unrenovated,"okres Liptovský Mikuláš",12,1876.870000,1,NULL,NULL
+"studio apartment","fully renovated","okres Čadca",8,4025.810000,1,2130.000000,-47.0913927880
+"5+ room apartment","partially renovated","okres Martin",4,2588.316667,1,NULL,NULL
+"1-room apartment","fully renovated","okres Kysucké Nové Mesto",20,2915.345556,1,3206.900000,10.0006821970
+"2-room apartment","partially renovated","okres Námestovo",67,2358.305690,1,NULL,NULL
+house,"fully renovated","okres Martin",198,1549.545062,52,1320.420000,-14.7866020562
+house,"new construction","okres Čadca",340,2114.287185,28,1790.622381,-15.3084598108
+house,"new construction","okres Bytča",340,2114.287185,18,2378.940667,12.5173857117
+house,unrenovated,"okres Kysucké Nové Mesto",364,1025.187980,17,1029.978000,0.4672333361
+house,"partially renovated","okres Čadca",331,1370.453684,44,836.619189,-38.9531219648
+house,unrenovated,"okres Čadca",364,1025.187980,57,750.752353,-26.7692981535
+house,unrenovated,"okres Žilina",364,1025.187980,80,1436.461290,40.1168681279
+house,"under construction","okres Martin",51,1843.917727,7,2180.154286,18.2349002928
+house,"fully renovated","okres Žilina",198,1549.545062,48,1807.076250,16.6197934036
+house,unrenovated,"okres Martin",364,1025.187980,58,1027.747959,0.2497082535
+house,unrenovated,"okres Turčianske Teplice",364,1025.187980,26,789.431429,-22.9964216904
+house,"partially renovated","okres Ružomberok",331,1370.453684,32,925.285769,-32.4832513639
+house,"partially renovated","okres Žilina",331,1370.453684,66,1231.615439,-10.1308235821
+house,"fully renovated","okres Liptovský Mikuláš",198,1549.545062,21,1755.859333,13.3145060482
+house,"new construction","okres Martin",340,2114.287185,66,1933.798889,-8.5366026565
+house,"fully renovated","okres Ružomberok",198,1549.545062,17,1785.110000,15.2021999087
+house,unrenovated,"okres Liptovský Mikuláš",364,1025.187980,55,989.996667,-3.4326692945
+house,unrenovated,"okres Námestovo",364,1025.187980,7,764.443333,-25.4338377046
+house,"partially renovated","okres Kysucké Nové Mesto",331,1370.453684,15,1213.922000,-11.4218879359
+house,"fully renovated","okres Dolný Kubín",198,1549.545062,6,1207.650000,-22.0642219697
+house,"new construction","okres Liptovský Mikuláš",340,2114.287185,34,2309.902500,9.2520692736
+house,"under construction","okres Liptovský Mikuláš",51,1843.917727,11,2001.688571,8.5562843553
+house,"new construction","okres Žilina",340,2114.287185,118,2252.985000,6.5600272273
+house,"partially renovated","okres Liptovský Mikuláš",331,1370.453684,53,1117.708500,-18.4424462461
+house,"partially renovated","okres Martin",331,1370.453684,53,3258.443158,137.7638293101
+house,unrenovated,"okres Ružomberok",364,1025.187980,36,895.767500,-12.6240730993
+house,"new construction","okres Ružomberok",340,2114.287185,27,2037.406667,-3.6362381868
+house,"partially renovated","okres Bytča",331,1370.453684,15,1037.315556,-24.3086017345
+house,"partially renovated","okres Turčianske Teplice",331,1370.453684,34,962.295556,-29.7827013613
+house,"under construction","okres Žilina",51,1843.917727,8,2196.031250,19.0959454342
+house,"partially renovated","okres Tvrdošín",331,1370.453684,7,1040.391667,-24.0841424160
+house,"new construction","okres Dolný Kubín",340,2114.287185,13,2267.838750,7.2625689684
+house,"new construction","okres Námestovo",340,2114.287185,11,1769.402222,-16.3121152815
+house,"under construction","okres Turčianske Teplice",51,1843.917727,5,1400.592000,-24.0425980242
+house,"new construction","okres Turčianske Teplice",340,2114.287185,13,2047.482000,-3.1597024980
+house,"fully renovated","okres Čadca",198,1549.545062,27,1546.860870,-0.1732245203
+house,"new construction","okres Kysucké Nové Mesto",340,2114.287185,9,2071.862857,-2.0065546583
+house,"partially renovated","okres Dolný Kubín",331,1370.453684,6,1205.085000,-12.0667108951
+house,"under construction","okres Kysucké Nové Mesto",51,1843.917727,2,2111.365000,14.5042953427
+house,"development project","okres Žilina",3,2344.770000,2,2070.200000,-11.7098905223
+house,"fully renovated","okres Kysucké Nové Mesto",198,1549.545062,7,2019.985000,30.3598746198
+house,"new construction","okres Tvrdošín",340,2114.287185,3,1625.190000,-23.1329588747
+house,"fully renovated","okres Bytča",198,1549.545062,5,1029.108000,-33.5864425477
+house,"under construction","okres Čadca",51,1843.917727,9,1555.091667,-15.6637172999
+house,"under construction","okres Ružomberok",51,1843.917727,4,1021.690000,-44.5913456420
+house,unrenovated,"okres Tvrdošín",364,1025.187980,3,914.510000,-10.7958717971
+house,unrenovated,"okres Dolný Kubín",364,1025.187980,10,988.354444,-3.5928567949
+house,"fully renovated","okres Turčianske Teplice",198,1549.545062,14,1178.806154,-23.9256616082
+house,unrenovated,"okres Bytča",364,1025.187980,15,1158.958889,13.0484273723
+house,"under construction","okres Bytča",51,1843.917727,3,2425.196667,31.5241255881
+house,"partially renovated","okres Námestovo",331,1370.453684,6,759.514000,-44.5793747817
+house,"under construction","okres Dolný Kubín",51,1843.917727,1,1493.530000,-19.0023514536
+house,"development project","okres Liptovský Mikuláš",3,2344.770000,1,2893.910000,23.4197810446
+house,"fully renovated","okres Tvrdošín",198,1549.545062,1,NULL,NULL
+land,n/a,"okres Martin",923,102.133312,160,96.368293,-5.6446020276
+land,n/a,"okres Námestovo",923,102.133312,26,91.429600,-10.4801379593
+land,n/a,"okres Žilina",923,102.133312,248,153.974641,50.7584919992
+land,n/a,"okres Liptovský Mikuláš",923,102.133312,126,103.077103,0.9240775429
+land,n/a,"okres Kysucké Nové Mesto",923,102.133312,43,66.231250,-35.1521568203
+land,n/a,"okres Bytča",923,102.133312,53,97.174444,-4.8552895259
+land,n/a,"okres Ružomberok",923,102.133312,36,80.746667,-20.9399309405
+land,n/a,"okres Turčianske Teplice",923,102.133312,38,48.560571,-52.4537390896
+land,n/a,"okres Čadca",923,102.133312,131,58.442222,-42.7784913114
+land,n/a,"okres Dolný Kubín",923,102.133312,59,96.996522,-5.0294951759
+land,n/a,"okres Tvrdošín",923,102.133312,3,81.190000,-20.5058580691
