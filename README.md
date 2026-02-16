@@ -1250,3 +1250,119 @@ Najviac sa okres Liptovský Mikuláš **odlišuje** od ostatných okresov **ponu
 Okres Liptovský Mikuláš taktiež ponúka **viacero výhodných kombinácií pre investičné nehnuteľnosti**. V tomto ohľade majú zaujímavú návratnosť investície prostredníctvom prenájmu **jedno-až-trojizbové byty, najmä zrekonštruované, v centre Liptovského Mikuláša alebo na jeho sídliskách**: Vrbica-Nábrežie , Palúdzka, Podbreziny.
 <br> <br>
 Ďalej vidíme relatívne **priaznivé podmienky pre nové realitné kancelárie** – **pomerne veľká ponuka nehnuteľností a len stredná trhová koncentrácia**, t. j. päť najväčších realitných kancelárií spravuje 36% ponúk, čo robí okres Liptovský Mikuláš **tretím najperspektívnejším okresom pre vstup novej realitnej kancelárie na trh**. O triedu perspektívnejšími sú však okresy Martin a Žilina, čo potvrdzuje aj skutočnosť, že najväčšie **miestne realitné kancelárie sa úzko špecializujú na okres Liptovský Mikuláš**, čo môže sťažovať novej realitnej kancelárii úspešný vstup na trh.
+### 22.1 Prehľad
+  - **Druhý najvyšší počet ponúk v kraji** (87 na 10-tisíc obyvateľov)
+  - **Druhý najvyšší podiel novostavieb** (48%)
+  - **Najvyšší počet novostavieb** (33 na 10-tisíc obyvateľov)
+  - **Stredne staré nehnuteľnosti** (v priemere 31 rokov)
+  - **Druhý najdrahší okres z pohľadu predaja** (cenový index 4%)
+  - **Stredne drahý okres z pohľadu nájmu** (nájomný index -5%)
+### 22.2 Byty podľa typu
+  - **Ponuka bytov je trochu vychýlené smerom k dvojizbovým bytom**, ktorých podiel je o 10% väčší než na celokrajskej úrovni.
+  - Naopak trochu **menší podiel majú trojizbové a štvorizbové byty**.
+  - **Apartmány tvoria 28% celkovej bytovej ponuke** a je ich tu suverénne najviac v celom kraji.
+  - **Okres je očividne silne orientovaný na predaj** – len 17% bytovej ponuky tvoria nájomné byty.
+  - **Najväčšiu tendenciu byť nájomnými bytmi majú menšie byty**, a to najmä jednoizbové a dvojizbové.
+  - Z početného množstva apartmánov sa ponúka na prenájom len 5%.
+### 22.3 Počet ponúk podľa stavu nehnuteľnosti
+  - V okrese Liptovský Mikuláš je oproti celému kraju výrazne **vyšší podiel novostavieb a nehnuteľností vo výstavbe** (47%; kraj 36%) a naopak **nižší podiel rekonštrukcie a pôvodného stavu** (52%; kraj 64%).
+  - **Najvyšší podiel nájomných ponúk** majú **kompletne zrekonštruované nehnuteľnosti** (23%) **a novostavby** (13%).
+### 22.4 Počet ponúk podľa kategórie
+  - Oproti celému kraju je v okrese Liptovský Mikuláš **vyšší podiel bytov** (51% ; kraj 42) a naopak **nižší podiel domov** (29%; kraj 34%) **a pozemkov** (20%; kraj 24%).
+### 22.5 Pomer ceny a nájomného (PTR)
+  - Okres Liptovský Mikuláš ponúka **viacero atraktívnych kombinácií s výhodným návratom investície** pri kúpe investičnej nehnuteľnosti s cieľom jej následného prenajímania.
+  - Tieto kombinácie ponúkajú investorom PTR nižšie ako 15:
+
+| nehnuteľnosť | stav                    | lokalita          | výhodné do    |
+| ------------ | ----------------------- | ----------------- | --------------|
+| 3-izbový byt | čiastočná rekonštrukcia | Palúdzka          | 1 863 € na m² |
+| 2-izbový byt | kompletná rekonštrukcia | Staré mesto       | 2 380 € na m² |
+| 1-izbový byt | kompletná rekonštrukcia | Staré mesto       | 2 285 € na m² |
+| dom          | čiastočná rekonštrukcia | Važec             | 575 € na m²   |
+| 2-izbový byt | pôvodný stav            | Vrbica - Nábrežie | všetky ponuky |
+| 2-izbový byt | čiastočná rekonštrukcia | Vrbica - Nábrežie | 2 000 € na m² |
+
+  - Stredne výhodnú návratnosť investície (PTR < 20) poskytujú ešte tieto kombinácie:
+
+| nehnuteľnosť | stav                    | lokalita          | výhodné do    |
+| ------------ | ----------------------- | ----------------- | --------------|
+| 2-izbový byt | novostavba              | Palúdzka          | 3 210 € na m² |
+| 3-izbový byt | kompletná rekonštrukcia | Podbreziny        | všetky ponuky |
+| 2-izbový byt | čiastočná rekonštrukcia | Staré mesto       | 2 104 € na m² |
+| 3-izbový byt | čiastočná rekonštrukcia | Staré mesto       | 2 308 € na m² |
+| 1-izbový byt | novostavba              | Staré mesto       | 2 717 € na m² |
+| 1-izbový byt | novostavba              | Stošice           | všetky ponuky |
+
+<br> <br>
+
+<img width="1148" height="645" alt="52" src="https://github.com/user-attachments/assets/56e6f2b5-1dba-4aa2-9949-38ee90be892a" /> <br>
+### 22.6 Cenový index
+  - **Druhé najdrahšie byty** v kraji (4%)
+  - **Stredne drahé domy** (5%)
+  - **Druhé najdrahšie pozemky** v kraji (1%), avšak výrazne lacnejšie ako v okrese Žilina (51%)
+### 22.7 Nájomný index
+  - **Cena nájmu je v prípade bytov** (-3%) **aj v prípade domov** (-17%) **na strednej úrovni** v porovnaní s inými okresmi.
+### 22.8 Ponuka bytov na predaj
+  - Pre okres Liptovský Mikuláš je charakterná **nízka variability cien obytných bytov naprieč bytmi rôznych veľkostí**. To znamená, že malé byty nie sú výrazne drahšie na m² oproti veľkým bytom.
+  - **Najdrahším typom bytu sú samozrejme apartmány** (v priemere 5 421 € na m²). Zároveň je to **najpočetnejší typ predajného bytu v okrese**, čo **svedčí o vysokom turistickom potenciáli okresu**. **Najviac apartmánov** sa nachádza v **Demänovskej doline** (46 ponúk, 6 150 €/m²), **Demänovej** (16 ponúk, 4 460 €/m²), **Liptovskom Jáne** (5 ponúk; 3 810€/m²) a pri **Liptovskej Mare v blízkosti Tatralandie** (4 ponuky, 4 070 €/m²).
+### 22.9 Ponuka bytov na prenájom
+  - **Pri nájomných bytoch vidíme vysokú variabilitu cien**. Trendu sa vymykajú najmä ceny garsónok a štvorizbových bytov, čo je však zrejme výsledkom nízkeho počtu ponúk.
+  - **Pri jednoizbových , dvojizbových a triibových bytoch je vidieť výrazný pokles v cene s každou dodatočnou izbou**, ktorý je vidieť aj v iných atraktívnych okresoch z pohľadu bývania – Žilina či Martin.
+  - **Dramatický rozdiel v cene medzi obytnými bytmi a apartmánmi**, ktorý bolo vidieť pri predajných ponukách, **nie je pri nájomných ponúk prítomný**.
+### 22.10 Najvychytenejšie lokality podľa cenového indexu bytov
+  - **Najdrahšími lokalitami sú vyhľadávané turistické oblasti** – Demänovská Dolina (94%), Demänová (49%), Pavčina Lehota (35%), Liptovská Mara - Tatralandia (19%) či Liptovská Ondrašová (7%), ktorá sa taktiež nachádza na brehu Liptovskej Mary neďaleko od Tatralandie.
+  - **Najviac ponúk je v Starom meste Liptovského Mikuláša** (45 ponúk), ktoré tiež patrí medzi nadštandardné lokality z pohľadu ceny (11%).
+  - **Sídliská Liptovského Mikuláša sa pohybujú okolo krajského cenového priemeru:** Vrbica - Nábrežie (1%), Podbreziny (-1%), Palúdzka (-3%).
+  - **Sídliská Liptovského Hrádku sú o čosi lacnejšie:** Prekážka (-4%), Belánska (-13%).
+  - **Vysoký rozvoj zaznamenáva** bývalá obec a v súčasnosti mestská časť Liptovského Hrádku – **Dovalovo** (12%).
+  - **Pokiaľ hovoríme o bytoch, obce sa spravidla nachádzajú pod krajským cenovým priemerom**, a to až do -56% (Vlachy). **To sa však samozrejme netýka obcí v Demänovskej doline**, ktorých cenový index je nadštandardne vysoký.
+### 22.11 Lokality podľa nájomného indexu
+  - **Najdrahšie nájomné byty sú na sídlisku Vrbica - Nábrežie** (6%), za ktorým **nasleduje Palúdzka** (4%). Obe uvedené lokality majú dobrú dostupnosť do centra mesta.
+  - O niečo vzdialenejšie sídlisko **Podbreziny sa nachádza pod krajským priemerom** (-2%).
+  - **Staré mesto v Liptovskom Mikuláš má jemne nadpriemernú cenu nájmu** (2%).
+  - **Liptovská Ondrašová** má na rozdiel od vysokého cenového indexu bytov (7%) **výrazne podpriemerný nájomný index** (-20%).
+### 22.12 Najvychytenejšie lokality podľa cenového indexu domov
+  - **Najviac ponúk domov sa nachádza v obci Liptovský Trnovec** (14 ponúk), ktorý sa nachádza na brehu Liptovskej Mary. V obci sa nachádza rekreačná domová zástavba. **Cenový index je tu na úrovni 24%**, čo je síce výrazne nad krajským priemerom, avšak v okrese Liptovský Mikuláš má od toho vyšší cenový index ďalších desať lokalít. 
+  - **Najdrahšou lokalitou z pohľadu domov je opäť Demänovská Dolina** (141%), čo predstavuje **najvyššiu cenovú úroveň v celom Žilinskom kraji**.
+  - **Obcami s vysokým cenovým indexom domov sú:** Svätý Kríž (62%), Podtureň (62%), Jakubovany (45%), Prosiek (33%).
+  - **Vysoký cenový index majú aj tieto mestské časti Liptovského Mikuláša:** Palúdzka (39%), Bodice (37%), Okoličné (36%), Demänová (33%).
+  - **Záporný cenový index domov majú najmä obce vo východnej časti okresu:** Hybe (-66%), Nižná Boca (-60%), Važec (-36%), Pribylina (-35%), Liptovská Porúbka (-35%), Vavrišovo (-30%), Východná (-25%), Liptovská Kokava (-23%), Jamník (-11%).
+  - **Nižší cenový index majú aj obce na západ od Liptovskej Mary:** Ižipovce (-46%), Vlachy (-23%).
+  - Rozdiel medzi západnou časťou a východnou časťou Liptovskej Mary je vidieteľný najmä pri pohľade na lokality podľa kombinovaného cenového indexu, ktorý ukazuje, že p**rémiové bývanie sa koncentruje na severovýchodnom pobreží priehrady**.
+  - **Záporný cenový index domov má aj Staré mesto** Liptovského Mikuláša (-10%).
+<br> <br>
+
+<img width="1150" height="644" alt="53" src="https://github.com/user-attachments/assets/ce6de002-bda1-4fba-aa1c-c06c264785eb" /> <br>
+### 22.13 Popredné realitné kancelárie podľa počtu ponúk
+  - **Suverénne najvyšší počet ponúk** v okrese Liptovský Mikuláš má **RESIDENCE realitná kancelária** (67 ponúk). Ide približne o **12% zo všetkých ponúk v okrese**.
+  - **Nasledujú realitné kancelárie Direct Real** (37 ponúk), **RK SPIRIT** (36 ponúk), H**ALO reality** (36 ponúk) a **TUreality** (32 ponúk).
+  - V okrese pôsobia aj **ďalšie významné realitné kancelárie** – **Reality Alpia** (24 ponúk), **RE/MAX Slovakia** (22 ponúk) či **AstonReal** (22 ponúk).
+  - **RESIDENCE realitná kancelária** má v okrese Liptovský Mikuláš **silné zameranie na bytové ponuky** (70%). Naopak menší podiel majú domy a pozemky.
+  - **Direct Real sa orientujú vo väčšej miere na domy** (32%) **a pozemky** (32%). Ak si odmyslíme reálny výskyt nehnuteľností jednotlivých kategórií v okrese, ide o veľmi vyrovnanú ponuku, kde každá kategória nehnuteľností má tretinový podiel.
+  - **RK SPIRIT sa** v okrese Liptovský Mikuláš **zameriava na bytové ponuky** (61%) **a skôr sa vyhýba pozemkom** (11%). Ide o širšiu stratégiu, avšak v okrese Liptovský Mikuláš sa im nedarí získavať taký nadpriemerný podiel bytových ponúk ako v okrese Ružomberok (71%).
+  - **HALO reality, TUreality, Reality Alpia a RE/MAX Slovakia** majú v rôznej miere **nižší podiel bytových ponúk než je ich reálny podiel v okrese**. 
+  - **TUreality má vo väčšine okresov nadpriemerný podiel bytových ponúk, v oboch liptovských okresoch však za priemerom zaostáva**. **Reality Alpia taktiež najviac zaostávajú za priemerných podielom bytových ponúk práve v okrese Liptovský Mikuláš**, okrem toho však aj v okrese Žilina. 
+  - **Najväčší podiel apartmánových ponúk** v okrese spravujú realitné kancelárie **RESIDENCE** (13%), **Reality Alpia** (11%) a **RK SPIRIT** (8%).
+### 20.14 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - Pri realitnej kancelárii **RESIDENCE** vidíme **silné zameranie na novostavby** (63%).
+  - **RK SPIRIT sa taktiež orientuje na novostavby** (50%) (+13% vo výstavbe). **Nehnuteľnosti v horšom stave pokrývajú málo**. Podobne silné zameranie na novostavby je vidieť aj v okrese Ružomberok.
+  - Na druhú stranu **HALO reality sa orientujú najmä na čiastočnú rekonštrukciu** (48%) **a pôvodný stav** (21%), čo môžeme pozorovať aj v iných okresoch. V okrese Liptovský Mikuláš spravujú aj nejaké ponuky v lepšom stave, zatiaľ čo v iných okresoch ide takmer výhradne o čiastočnú rekonštrukciu a pôvodný stav.
+  - Podobne **silnú orientáciu na čiastočnú rekonštrukciu majú aj TUreality** (54%), avšak spravujú **aj nezanedbateľné množstvo novostavieb** (35%). V ostatných okresoch majú výrazne vyšší podiel čiastočne a kompletne zrekonštruovaných ponúk oproti ich celkovému podielu v jednotlivých okresoch.
+  - **Direct Real sa najviac orientuje na nehnuteľnosti v pôvodnom stave** (52%), čo do veľkej miery platí aj o iných okresoch, kde pôsobí (Čadca, Žilina).
+  - Okrem toho vidíme v okrese Liptovský Mikuláš **viacero realitných kancelári s menším počtom ponúk, ktoré ponúkajú takmer výhradne novostavby či nehnuteľnosti vo výstavbe:** G-REAL, TATRA CITY RESIDENCE, KRUPPKY, MK-CORP, Bosen Group, Tatra mountain resorts či Tatra Invest. Dá sa predpokladať, že ide zväčša o samotných zhotoviteľov týchto nehnuteľností, prípadne realitné kancelária v silnom obchodnom vzťahu so zhotoviteľmi. 
+  - Zdá sa, že **kvôli silnej orientácii niektorých realitných kancelárií na novostavby, zostávajú príležitosti pre zvyšok konkurencie len v segmente starších nehnuteľností, vďaka čomu sa na trhu dobre etablovali realitné kancelárie, ktoré sa na staršie nehnuteľnosti užšie špecializujú** (HALO reality, TUreality, Direct Real, Reality Alpia).
+### 22.15 Ponuky spravované top 5 realitnými kanceláriami podľa typu
+  - **Jediná realitná kancelária s výraznejším podielom nájomných ponúk je RESIDENCE** (21%). Prevažne ide o **dvojizbové a trojizbový byty v Palúdzke a Starom meste**.
+  - Ostatné realitné kancelárie spravujú pomenší počet nájomných ponúk a sú to konkrétne Direct Real, Reality Alpia, AstonReal, OVERENÉ REALITY a liptoreal.
+### 22.16  Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **Realitná kancelária RESIDENCE má 94% ponúk v okrese Liptovský Mikuláš**, kde sa najviac orientuje na **mesto Liptovský Mikuláš** (55%) a **Demänovskú Dolinu** (27%), kde sa koncentrujú ich **apartmánové ponuky**. **V Liptovskom Mikuláši** ide najmä o lokality **Staré mesto, Palúdzka či Vrbicu-Nádražie**. Okrem uvedených lokalít má RESIDENCE **dominantné podstavenie aj v iných menších lokalitách mesta Liptovský Mikuláš a jeho bezprostredného okolia** (Liptovská Ondrašová, Svätý kríž, Jamník, Vitálišovce, Andice, Bodice), **ktoré majú spravidla vyšší cenový index**.
+  - **Direct Real taktiež pôsobí dominantne v okrese Liptovský Mikuláš** (73%). Druhým najpočetnejším okresom z pohľadu ponúk je pre nich okres Žilina (14%). **V okrese Liptovský Mikuláš majú rozloženú ponuku po celom okrese**, pričom žiadna lokalita výrazne nedominuje.
+  - **Dominantnú orientáciu na okres Liptovský Mikuláš je vidieť aj u RK SPIRIT** (75%). Okrem toho pôsobia ešte v okresoch Ružomberok, Tvrdošín a Dolný Kubín. V okrese Liptovský Mikuláš môžeme pozorovať silnú orientáciu na **konkrétne lokality v Liptovskom Hrádku** (Celiny – 22%) **a Liptovskom Mikuláši** (Demänová 19%, Liptovská Mara-Tatralandia  14%, Staré mesto 8%). Zvyšok ponúk sa nachádza prevažne v obciach. **Orientácia na turisticky atraktívne lokality ide ruka v ruku s ich ponukou apartmánov-novostavieb**.
+  - **HALO reality majú taktiež najväčší podiel ponúk v okrese Liptovský Mikuláš** (73%). Okrem toho pôsobia ojedinele v ďalších siedmich okresoch Žilinského kraja. Podobne ako v prípade Direct Real **nie je vidieť silnú koncentráciu ponúk v jednej lokalite**. **Výraznejšie pôsobia v Liptovskom Hrádku** a zároveň sa im darí získavať ponuky **vo vzdialenejších obciach od Liptovského Mikuláš**, ktoré majú spravidla **nižší cenový index** – Važec, Nižná Boca, Malužiná, Malatíny, Partizánska Lupča či Huty.
+  - **TUreality je jediná** z pätice najväčších realitných kancelárií v okrese, **ktorá sa dominante nesústredí na okres Liptovský Mikuláš** (22%), hoci ten spolu s okresmi Žilina (27%) a Martin (19%) patrí k okresom, v ktorých majú najväčšie zastúpenie ponúk. **Najväčšiu koncentráciu ponúk** v okrese Liptovský Mikuláš majú **v Liptovskom Hrádku a jeho okolí** (Dovalovo 17%, Liptovský Ján 10%, Podtureň 10%, Prekážka 7%) **a taktiež v obciach severozápadne od Liptovskej Mary** – Liptovský Trnovec (13%), Ižipovce (7%), Liptovské Beharovce (3%), Liptovská Sielnica (3%), Bukovina (3%).
+  - V okrese Liptovský Mikuláš je potrebné sa pozrieť oddelene aj na apartmánové ponuky, ktoré sa koncentrujú v Demänovskej Doline a Demänovej. **Najviac apartmánových ponúk v Demänovskej Doline má RESIDENCE** (15 ponúk – 33%), **MK-CORP** (5 ponúk – 11%) a **Tatra mountain resorts** (5 ponúk – 11%). **Najviac apartmánových ponúk v Demänovej má RK SPIRIT** (4 ponuky – 21%), **Reality Alpia** (4 ponuky – 21%) a **liptoreal** (3 ponuky – 16%).
+### 22.17 Popredné realitné kancelárie podľa trhového podielu
+  - **Najdominantnejšie postavenie na trhu** s nezanedbateľným odstupom má **realitná kancelária RESIDENCE** (12% ponúk). 
+  - **Päť najväčších realitných kancelárií v okrese spoločne spravuje 36% ponúk**, čo je zhruba **stredne veľká koncentrácia trhu** z pohľadu všetkých okresov v kraji.
+  - V priemere pripadá **na jednu realitnú kanceláriu 7 ponúk**, čo je tretí najväčší počet v kraji (po okresoch Žilina a Martin). **Vypovedá to o relatívne veľkom množstve realitných príležitostí**.
+  - Pri kombinovanom pohľade na tieto dva ukazovatele nám vyjde, že **okres Liptovský Mikuláš je tretím najvhodnejším okresom pre vstup novej firmy na realitný trh** (73 bodov). Okresy Martin (94 bodov) a Žilina (96 bodov) sa však javia ako o triedu perspektívnejšie.
