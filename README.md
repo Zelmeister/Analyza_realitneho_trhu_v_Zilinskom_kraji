@@ -1106,3 +1106,147 @@ Z hľadiska ceny však patrí okres Tvrdošín skôr medzi **stredne drahé okre
 <br> <br>
 
 <img width="1149" height="647" alt="46" src="https://github.com/user-attachments/assets/58d15a4d-921a-4478-b959-9dc7cd602c63" /> <br>
+### 20.5 Cenový index
+  - **Stredne drahé byty** (-10%)
+  - **Tretie najlacnejšie domy** v kraji (-19%)
+  - **Stredne drahé pozemky** (-21%)
+### 20.6 Nájomný index
+  - **Cena nájmu bytov reprezentuje priemer Žilinského kraja** (0%), čo v praxi znamená, že Tvrdošín patrí medzi drahšie okresy z hľadiska prenájmu bytov. 
+  - To však nie je úplne presný záver, pretože **obytné byty sa v okrese Tvrdošín neprenajímajú vôbec, len apartmány**, a hoci apartmány technicky radíme medzi byty, ich cena je ovplyvňovaná inými faktormi než cena obytných bytov, a teda netreba výslednú hodnotu brať ako záväznú.
+### 20.7 Ponuka obytných bytov na predaj
+  - **Cenová krivka** naprieč jednotlivými typmi bytov je **pomerne neštandardná** – trojizbové byty sú v priemere rovnako drahé ako jednoizbové, čo môže byť spôsobené malým množstvom údajov.
+  - Ak porovnáme cenovú krivku bytov s cenovými krivkami iných okresov, vyjde nám, že **ceny bytov v okrese Tvrdošín patria skôr k tým nižším** v rámci kraja **s výnimkou trojizbových bytov**, pri ktorých ide o trochu vyššiu cenovú úroveň.
+  - **Domy sa v okrese Tvrdošín neprenajímajú**.
+### 20.8 Lokality podľa cenového indexu bytov
+  - **Bytové ponuky nájdeme len v štyroch lokalitách** – Medvedzie (Tvrdošín), Trstená, Nižná a Zuberec.
+  - **Cenovo sa jednotlivé lokality od seba veľmi nelíšia**. Zrejme preto, že ide v zásade o buď malé mestá, alebo veľké obce s podobnou občianskou vybavenosťou.
+### 20.9 Lokality podľa cenového indexu domov
+  - **Z pohľadu domov sa jednotlivé lokality cenovo odlišujú viac**, hoci nie je zrejmé, že by cenový index jednotlivých lokalít nasledoval nejaký konkrétny vzorec, ako napríklad relatívna vzdialenosť od okresného centra.
+  - Lokality s pozitívnym cenovým indexom domov sú Podbiel (5%) a Habovka (12%). Obe však majú nízky počet ponúk na to, aby sme sa na výslednú hodnotu mohli plne spoľahnúť.
+  - Najlacnejšími lokalitami sú Nižná (-44%) a Vitanová (-29%).
+<br> <br>
+
+<img width="1147" height="642" alt="47" src="https://github.com/user-attachments/assets/02140451-005f-466a-ae02-1e102d4a2c11" /> <br>
+### 20.10 Popredné realitné kancelárie podľa počtu ponúk
+  - Na základe počtu ponúk sa zdajú byť **najväčšími realitnými kanceláriami** v okrese **TUreality** (7 ponúk), **OREA** (3 ponuky), **Realitné kancelárie SR** (3 ponuky), **RK SPIRIT** (3 ponuky) a **Vianema** (3 ponuky).
+  - Kvôli všeobecne nízkemu počtu ponúk sa však zdá byť ako-tak **dôveryhodnou len pozícia spoločnosti TUreality**, ktorá má od ostatných realitných kancelárií výraznejší náskok.
+### 20.11 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - TUreality **sa silne orientuje na čiastočne zrekonštruované nehnuteľnosti** (71% ponuky). **Ide o širšiu stratégiu**, ktorú je možné pozorovať aj v iných okresoch.
+  - Hoci **RK SPIRIT** má v okrese Tvrdošín len tri ponuky, všetky z nich sú **novostavby**. Podobne silnú orientáciu na novostavby je u RK SPIRIT vidieť aj v iných okresoch – Dolný Kubín (100%), Ružomberok (50%), Liptovský Mikuláš (50%).
+### 20.12 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **TUreality pôsobia po celom kraji**, najviac však v okresoch Žilina (27%), Liptovský Mikuláš (22%) a Martin (20%). Najmenej pôsobia na Kysuciach. **V okrese Tvrdošín majú 5% aktivít**, ktoré sa koncentrujú prevažne **v Medvedzom**, mestskej časti Tvrdošína.
+  - Realitná kancelária **OREA sa špecializuje na Oravu**, a to najmä **na okres Dolný Kubín** (70% ponúk). **V okrese Tvrdošín má 5% ponúk**, ktoré sa konkrétne nachádzajú v Zuberci a Vitanovej.
+  - **Realitné kancelárie SR pôsobia** podobne ako TUreality **po celom kraji**. Najviac ponúk majú v okresoch Žilina (46%), Martin (17%) a Liptovský Mikuláš (11%). **Okres Tvrdošín je v kontexte ich celkovej ponuky len okrajovou záležitosťou** (2%).
+  - **RK SPIRIT pôsobí primárne na Liptove a sekundárne na Orave**. Najviac ponúk majú v okresoch Liptovský Mikuláš (75%) a Ružomberok (15%). **V okrese Tvrdošín dominujú v meste Trstená**.
+  - **Vienama** je realitná kancelária sídlom v Bratislave, ktorá má pobočku v Žiline. **Z pohľadu geografického rozloženia ide o pomerne rozmanitú ponuku**, avšak chýbajú ponuky na Liptove a Orave s výnimkou okresu Tvrdošín, kde majú ponuky v Medvedzom a Nižnej.
+  - Z uvedeného vyplýva, že **chýbajú realitné kancelárie, ktoré by sa úzko špecializovali na okres Tvrdošín**, čo zrejme súvisí s jeho rozmerom a skromnou ponukou nehnuteľností.
+### 20.13 Popredné realitné kancelárie podľa trhového podielu
+  - **Päť najväčších realitných kancelárií spravuje 54% všetkých ponúk**, čo je tretí najväčší podiel v kraji. Je potrebné to však chápať v kontexte nízkeho počtu ponúk, čo znamená, že sa súčasný stav môže veľmi rýchlo zmeniť. **Silne skonsolidované trhy však vidíme aj v iných oravských okresoc**h (Námestovo 68%, Dolný Kubín 71%), čo naznačuje, že ide o trend.
+  - Ďalším ukazovateľom, ktorý hovorí v neprospech vstupu nových realitných kancelárií na tento trh, je počet ponúk pripadajúcich na jednu realitnú kanceláriu. **Dve ponuky na realitnú kanceláriu** je totiž **najnižší v celom kraji**, čo **svedčí o veľmi slabých príležitostiach**.
+<br> <br>
+
+<img width="1147" height="644" alt="48" src="https://github.com/user-attachments/assets/430f42c4-4299-475b-8243-e969da4ff7f0" /> <br>
+## 21. Okres Ružomberok
+Ide o **stredne veľký okres** v rámci Žilinského kraja, ktorý je **vo viacerých ohľadoch priemerný** – **stredná úroveň rozvoja nehnuteľností, štandardná ponuka bytov, stredne drahé nehnuteľnosti**. V čom sa však okres Ružomberok vyníma je **počet apartmánových ponúk**, ktoré sa koncentrujú **v obľúbených rekreačných oblastiach – Bešeňová a Hrabovo**. Ide o **druhý najvyšší počet apartmánov v kraji** po okrese Liptovský Mikuláš, v ktorom je však cena apartmánov viac než o polovicu vyššia.
+<br> <br>
+**Z hľadiska investičných bytov** je v okrese Ružomberok **príležitostí málo kvôli takmer neexistujúcemu prenájmu** nehnuteľností. Ak však už o to ide, **najlepšiu perspektívu návratu investície ponúka dvojizbový čiastočne zrekonštruovaný byt**.
+<br> <br>
+**Najlukratívnejšími lokalitami z pohľadu ceny sú rekreačné oblasti** – Bešeňová, Hrabovo a taktiež kúpeľná obec Lúčky. **Byty majú podobnú cenovú úroveň naprieč celým okresom** s výnimkou Liptovskej Teplej, ktorá je výrazne lacnejšia. Cenovo sa však **byty nachádzajú pod krajským priemerom**. Najdrahšie domy sú opäť v turistických strediskách, v centre Ružomberka a vo vybraných obciach v jeho blízkosti.
+<br> <br>
+Z hľadiska konkurencie predstavuje okres Ružomberok **štvrtý najvhodnejší trh v kraji pre vstup novej realitnej kancelárie**. To však stále neznamená, že by tu na to boli ideálne podmienky. Na základe analýzy sa zdá, že zhotovitelia novostavieb si realitnú činnosť zastávajú samostatne a na staršie nehnuteľnosti sa orientujú väčší hráči.
+### 21.1 Prehľad
+  - **Priemerný počet ponúk** (50 na 10-tisíc obyvateľov)
+  - **Priemerný podiel novostavieb** (35%)
+  - **Priemerný počet novostavieb** (15 na 10-tisíc obyvateľov)
+  - **Stredne staré nehnuteľnosti** (priemerný vek 30 rokov)
+  - **Štvrtý najlacnejší okres z pohľadu predaja** (cenový index -14%)
+  - **Tretí najlacnejší okres z pohľadu nájmu** (nájomný index -20%)
+### 21.2 Byty podľa typu
+  - **Štandardná distribúcia bytov podľa typu** – žiadny typ obytného bytu nie je výrazne menej alebo viac zastúpený v porovnaní s celým krajom.
+  - **Vysoký podiel apartmánov** (27% zo všetkých bytov). Viac apartmánovej je len v okrese Liptovský Mikuláš. Vypovedá to o tom, že **liptovský región má najvyšší turistický potenciál v kraji**. Okres **Liptovský Mikuláš je však atraktívnejší než Ružomberok**.
+  - Veľmi **nízky podiel nájomných bytov** (4%) – **trh je silne orientovaný na predaj**. Prenájom je v okrese takmer neexistujúci, čo ho robí zároveň **neperspektívnym z pohľadu investičných bytov**.
+### 21.3 Počet ponúk podľa stavu nehnuteľnosti
+  - Jemne **vyšší podiel nehnuteľností v horšom stave** (pôvodný stav alebo čiastočná rekonštrukcia → kraj: 40%, Ružomberok: 46%) a naopak jemne **nižší podiel nehnuteľností v dobrom stave** (novostavba alebo kompletná rekonštrukcia → kraj: 55%, Ružomberok: 46%).
+  - **Nehnuteľností vo výstavbe a developerských projektov je o čosi viac oproti krajskému priemeru** (kraj: 6%, Ružomberok: 9%).
+  - V zásade však **ide o vyrovnanú ponuku**.
+### 21.4 Počet ponúk podľa kategórie
+  - **Byty:** +3% oproti krajskému priemeru
+  - **Domy:** +8% oproti krajskému priemeru
+  - **Pozemky:** -11% oproti krajskému priemeru. Ide o **druhý najnižší podiel pozemkov v kraji** (po okrese Tvrdošín).
+### 21.5 Štruktúra terénu
+  - Zvýšený podiel svahovitého terénu (23%).
+### 21.6 Pomer ceny a nájomného (PTR)
+  - Pre väčšinu kombináciu **sa hodnota PTR stanoviť nedá kvôli prakticky neexistujúcej nájomnej ponuke**. 
+  - Avšak aj pre tie kombinácie, pre ktoré sa PTR stanoviť dá, je **výsledné PTR privysoké** na to, aby sa dali dané kombinácie považovať za perspektívne z pohľadu investície.
+  - **V prípade nutnosti** by však investor mal najrýchlejšiu návratnosť investície pri **dvojizbovom čiastočne zrekonštruovanom byte**.
+<br> <br>
+
+<img width="1149" height="645" alt="49" src="https://github.com/user-attachments/assets/7e061e59-45f7-4c0d-9430-7c290db80fa3" /> <br>
+### 21.7 Cenový index
+  - **Pri všetkých kategóriách** nehnuteľností **sa okres Ružomberok nachádza na 7. / 8. mieste spomedzi okresov podľa cenového indexu** (byty -13%, domy -16%, pozemky -21%).
+### 21.8 Nájomný index
+  - **Podľa nájomného indexu bytov** (-18%) sa okres Ružomberok nachádza **na 9. mieste**.
+  - **Podľa nájomného indexu domov** (-26%) sa okres Ružomberok nachádza **na 6. mieste**. V štyroch okresoch sa však domy neprenajímajú vôbec a aj v Ružomberku je nájomný index domov stanovený len na základe jednej ponuky, čo môže skresľovať výsledok.
+### 21.9 Ponuka bytov na predaj
+  - **Úroveň klesania ceny s každou dodatočnou izbou je relatívne štandardná**. Jednoizbové, dvojizbové a trojizbové byty si držia pozíciu stredne drahých bytov v rámci kraja. 
+  - Výnimkou sú **garsónky**, ktoré sa **mimoriadne lacné** (1 410 € na m²) – najnižšia cena v kraji. Výsledok však zrejme skresľuje ich nízky počet.
+  - Druhou výnimkou sú **štvorizbové byty**, ktoré sú **o takmer 200 € na m² drahšie než trojizbové byty**. Dôvodom môže byť taktiež nižší počet ponúk, ktorý skresľuje výsledok, prípadne vyšší dopyt spôsobený pravé ich nižšou dostupnosťou.
+  - **Najdrahším typom bytu sú apartmány** (3 410 € na m²), ktorých je v okrese Ružomberok hojne. Avšak **oproti apartmánom v okrese Liptovský Mikuláš sú o viac než 2 000 € na m² lacnejšie**.
+### 21.10 Ponuka bytov na prenájom
+  - **Ponuka nájomných bytov je veľmi skromná** (celkovo 5 ponúk). 
+  - Pre všetky typy bytov v ponuke platí, že **patria medzi najlacnejšie nájomné byty v kraji**.
+### 21.11 Lokality podľa cenového indexu bytov
+  - **Najdrahšími lokalitami sú Bešeňová** (15%) **a Hrabovo** (11%). V oboch prípadoch ide o **atraktívne lokality z pohľadu rekreácie**, čiže nie je prekvapením, že sa tu koncentrujú všetky apartmánové ponuky v okrese.
+  - V ďalšej cenovej kategórií sú **ružomberské sídliská** – Roveň (-10%), Baničné (-16%), Klačno (-18%) a Polík (-20%). Tie sa však cenovo nachádzajú **pod krajským priemerom**.
+  - **Staré mesto nepatrí medzi najdrahšie bytové lokality** (-19%). Sídliská sú poväčšine cenené viac.
+  - Výrazne **najlacnejšou lokalitou Ružomberka je Rybárpole** (-47%), ktoré sa nachádza za železničnou stanicou a má slabšiu občiansku vybavenosť.
+  - **Byty v okolitých obciach sa cenovo pohybujú na podobnej úrovni ako lacnejšie ružomberské sídliská** – Ľubochňa (-18%), Liptovská Teplá (-19%). Výnimkou je Liptovská Lúžna (-55%), ktorá je mimoriadne lacná zrejme kvôli svojej odľahlej polohe.
+### 21.12 Lokality podľa nájomného indexu
+  - **Nájomných ponúk** je v okrese Ružomberok **veľmi málo** a ešte pri menej z nich je uvedená výška nájomného. Vo všetkých lokalitách navyše ide len o jednu ponuku, čo v zásade robí **výsledok neinterpretovateľným**.
+### 21.13 Lokality podľa cenového indexu domov
+  - **Najdrahšou lokalitou z pohľadu cenového indexu domov je opäť Bešeňová** (60%), v ktorej sa nachádza turistami vyhľadávaný akvapark. Nasleduje susedná **Ivachnová** (26%) a kúpeľná obec **Lúčky** (5%).
+  - Potom nasleduje **centrum Ružomberka** (-3%), v ktorom sa okrem Starého mesta ponúkajú domy len v Baničnom, sú však výrazne lacnejšie (-25%).
+  - Medzi **drahšie obce z pohľadu domov** patria Likavka (13%), Liptovská Štiavnica (4%) a Liptovské Sliače (-6%), ktoré sa nachádzajú **v blízkosti Ružomberka**. 
+  - **Naopak nižší cenový index majú vzdialenejšie obce** – Stankovany (-43%) či Komjatná (-45%).
+  - **Nízky cenový index majú aj obce v Revúckej Doline** – Liptovská Lúžna (-38%), Liptovské Revúce (-43), Biely potok (-43%).
+  - **Vzdialenosť od Ružomberka však nevysvetľuje všetku variabilitu cien**, pretože **aj relatívne blízke obce môžu mať nízky cenový index** – Lisková (-20%), Ludrová (-44%).
+<br> <br>
+
+<img width="1149" height="644" alt="50" src="https://github.com/user-attachments/assets/174f8949-7fa4-4f0b-955e-ba67416f24cd" /> <br>
+### 21.14 Popredné realitné kancelárie podľa počtu ponúk
+  - **Najväčšími realitnými kanceláriami** v okrese sú podľa počtu ponúk **Reality Alpia** (33 ponúk), **NajBývanie** (24 ponúk), **AstonReal** (17 ponúk), **ODEKO manažment** (16 ponúk) a **OVERENÉ REALITY** (14 ponúk). 
+  - **Reality Alpia má ponuku zameranú na byty** (45%) **a domy** (42%), čo zodpovedá ich celokrajskej stratégii.
+  - **NajBývanie sa orientuje vo väčšej miere na domy** (67%) **a v menšej miere na byty** (29%), pričom rovnakú stratégiu majú v okrese Liptovský Mikuláš.
+  - **AstonReal sa v okrese Ružomberok sústredí najmä na byty** (45%). V iných okresoch majú podiel jednotlivých kategórií nehnuteľností rôzny.
+  - **ODEKO manažment sa orientuje výhradne na byty**. Rovnako to platí aj v okrese Žilina, v ktorom taktiež pôsobia.
+  - **OVERENÉ REALITY sa v okrese Ružomberok sústredia najmä na domy** (57%). Nejde však o stratégiu, ktorá by platila vo všetkých okresoch.
+  - **Pri menších realitných kancelárií je vidieť buď silnejšie zameranie na byty** (A-Byt Consult, OREA či RK SPIRIT) **alebo na domy** (Romantické Chalupy, REALITY SPOLU či RE/MAX Slovakia). Na pozemky sa významnejšie orientuje Apollo House.
+### 21.15 Stav ponúk spravovaných top 5 realitnými kanceláriami
+  - **Reality Alpia najviac orientujú na kompletnú rekonštrukciu** (39%), **čiastočnú rekonštrukciu** (29%) **a pôvodný stav** (19%), čo približne zodpovedá ich celokrajskej stratégii.
+  - **Podobnú stratégiu má aj realitná kancelária NajBývanie** – **pôvodný stav** (35%), **čiastočná rekonštrukcia** (35%), **kompletná rekonštrukcia** (17%).
+  - **ODEKO sa orientuje výhradne na nehnuteľnosti vo výstavbe** (62%) **a developerské projekty** (38%). V okrese Žilina ponúkajú ešte niekoľko novostavieb.
+  - **AstonReal má relatívne vyrovnanú ponuku podľa stavu nehnuteľností** a platí to aj na celokrajskej úrovni.
+  - **Záštitu nad novostavbami**, ktorých v okrese Ružomberok nie je málo, **na seba berú najmä menšie realitné kancelárie** ako donidDevelop, ALT REAL, Apollo House či FISCHER & PARTNERS. Dá sa predpokladať, že v týchto prípadoch úlohu zhotoviteľa aj sprostredkovateľa vykonáva ten istý subjekt.
+### 21.16 Lokality, v ktorých popredné kancelárie patria medzi prvé tri
+  - **Reality Alpia pôsobia najviac v okresoch Martin** (31%), **Ružomberok** (24%), **Žilina** (18%) a **Liptovský Mikuláš** (18%). **V okrese Ružomberok majú 55% ponúk priamo v Ružomberku**, kde sa aj takmer polovice všetkých ponúk v okrese nachádza. Je vidieť **silnú orientáciu na rekreačné strediská Hrabovo** (18%) **a Bešeňová** (15%) ako aj na **centrum Ružomberka** (15%). Zvyšok ponúk je roztrúsených po okrese.
+  - **NajBývanie** je miestnou realitnou kancelárie, takže prirodzene **má väčšinu svojej ponuke práve v okrese Ružomberok** (71%). V menšej miere pôsobí ešte v okresoch Martin (18%), Liptovský Mikuláš (9%) a Žilina (3%). Takmer **60% ponúk má priamo v Ružomberku**. Najviac sa sústredí na **sídlisko Roveň** (21% ponúk). 
+  - **AstonReal** pôsobí v rámci Žilinského kraja **najviac na Liptove** – okres Liptovský Mikuláš (36%) a **okres Ružomberok** (31%). Na rozdiel od predchádzajúcich dvoch realitných kancelárií má v okrese Ružomberok **väčšinu ponúk mimo Ružomberka** (65%).
+  - **ODEKO manažment pôsobí na 62% v okrese Ružomberok** a na 38% v okrese Žilina. Výstavbu všetkých bytov realizuje **pri sídlisku Roveň** (63%) **a v Baničnom** (38%).
+  - **OVERENÉ REALITY pôsobia** podobne ako AstonReal **najviac na Liptove** – okres Liptovský Mikuláš (48%) a **okres Ružomberok** (35%). Rovnako ako v prípade AstonReal až **64% ponuky sa nachádza mimo Ružomberka**.
+### 21.17 Popredné realitné kancelárie podľa trhového podielu
+  - **Päť najväčších realitných kancelárií spravuje 41% všetkých ponúk**, čo robí okres Ružomberok **stredne fragmentovaným trhom** v rámci Žilinského kraja.
+  - **Na jednu realitnú kanceláriu tu pripadá približne 5 ponúk**, čo je taktiež **stredová hodnota** v rámci Žilinského kraja.
+  - **Z perspektívy vstupu novej realitnej kancelárie** vychádza teda okres Ružomberok ako **štvrtá najlepšia možnosť**.
+<br> <br>
+
+<img width="1148" height="644" alt="51" src="https://github.com/user-attachments/assets/0a3812c9-5b08-43f2-a43b-aaf91fbbff3a" /> <br>
+## 22. Okres Liptovský Mikuláš
+Okres Liptovský Mikuláš je **štvrtým najväčším okresom** v kraji podľa počtu obyvateľov. Charakterizuje ho **vysoká úroveň realitného rozvoja** – **vysoký počet ponúk, a to najmä novostavieb a nehnuteľností v dobrom stave**.
+<br> <br>
+Zároveň je **jedným z najdrahších okresov** v kraji. **Týka sa to najmä bytov a pozemkov**, čo svedčí o atraktívnosti okresu z pohľadu výstavby. Zaujímavosťou je, že **jednotlivé typy bytov podľa veľkosti sa cenou na m² medzi sebou výrazne nelíšia**. **Okres sa na prenájom orientuje málo** a na rozdiel od nehnuteľností na predaj **pri nájomných nehnuteľnostiach nadštandardnú cenu neevidujeme**.
+<br> <br>
+Najviac sa okres Liptovský Mikuláš **odlišuje** od ostatných okresov **ponukou apartmánov**, ktorá tu je **najpočetnejšia v kraji**, čo svedčí o tom, že okres Liptovský Mikuláš je **najatraktívnejším okresom z pohľadu turizmu**. **Apartmánového ponuky sa koncentrujú** predovšetkým **v Demänovskej Doline, Demänovej a pri Liptovskej Mare v okolí Tatralandie**, pričom priemerná cena apartmánu v Demänovskej doline je až 6 150 € na m².
+<br> <br>
+Okres Liptovský Mikuláš taktiež ponúka **viacero výhodných kombinácií pre investičné nehnuteľnosti**. V tomto ohľade majú zaujímavú návratnosť investície prostredníctvom prenájmu **jedno-až-trojizbové byty, najmä zrekonštruované, v centre Liptovského Mikuláša alebo na jeho sídliskách**: Vrbica-Nábrežie , Palúdzka, Podbreziny.
+<br> <br>
+Ďalej vidíme relatívne **priaznivé podmienky pre nové realitné kancelárie** – **pomerne veľká ponuka nehnuteľností a len stredná trhová koncentrácia**, t. j. päť najväčších realitných kancelárií spravuje 36% ponúk, čo robí okres Liptovský Mikuláš **tretím najperspektívnejším okresom pre vstup novej realitnej kancelárie na trh**. O triedu perspektívnejšími sú však okresy Martin a Žilina, čo potvrdzuje aj skutočnosť, že najväčšie **miestne realitné kancelárie sa úzko špecializujú na okres Liptovský Mikuláš**, čo môže sťažovať novej realitnej kancelárii úspešný vstup na trh.
