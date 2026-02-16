@@ -39,7 +39,32 @@ Analýza bola spracovaná **na základe dát z 3 872 inzerátov**, ktoré boli z
   - Investičné aktivity je vhodné smerovať na **dvojizbové kompletne zrekonštruované byty v Žiline** (Bôrik, Hliny, Staré mesto), **Martine** (Ľadoveň, Sever) alebo v **Liptovskom Mikuláši** (Staré mesto, Vrbica-Nábrežie). Cenová úroveň, do ktorej sú jednotlivé kombinácie výhodné, je uvedená v príslušnej časti analýzy.
 
 ## Limitácie a ďalšie kroky
-Limitáciou analýzy je skutočnosť, že ide o časový snímok ponúk z jedného konkrétneho dňa. V záujme lepšieho pochopenia pohybov na trhu by bolo vhodné **zachytiť dlhšie časové obdobie**. Pre realitnú kanceláriu Fatra Reality by takýto typ analýzy mal zmysel najmä pri užšom pohľade na konkrétne trhové segmenty, v ktorých sa chystá pôsobiť. Okrem toho by bolo užitočné preskúmať, **čomu okrem cenovej politiky vďačia popredné realitné kancelárie** v rámci jednotlivých segmentov **za svoje vedúce postavenie**. <br> <br> <br> <br> <br>
+Limitáciou analýzy je skutočnosť, že ide o časový snímok ponúk z jedného konkrétneho dňa. V záujme lepšieho pochopenia pohybov na trhu by bolo vhodné **zachytiť dlhšie časové obdobie**. Pre realitnú kanceláriu Fatra Reality by takýto typ analýzy mal zmysel najmä pri užšom pohľade na konkrétne trhové segmenty, v ktorých sa chystá pôsobiť. Okrem toho by bolo užitočné preskúmať, **čomu okrem cenovej politiky vďačia popredné realitné kancelárie** v rámci jednotlivých segmentov **za svoje vedúce postavenie**. 
+
+## Hĺbková analýza – obsah
+1.	Cenový index
+2.	Nájomný index
+3.	Rozvojové ukazovatele
+4.	Pomer ceny voči výške ročného nájomného (PTR)
+5.	Hedonický model: Faktory ceny bytov
+6.	Hedonický model: Faktory ceny domov
+7.	Hedonický model: Faktory ceny pozemkov
+8.	Hedonický model: Faktory ceny nájmu bytov
+9.	Analýza konkurencie
+10.	Vplyv cenovej politika na počet ponúk
+11.	Príležitosti vstupu do trhových segmentov
+12.	Okres Bytča
+13.	Okres Žilina
+14.	Okres Kysucké Nové Mesto
+15.	Okres Čadca
+16.	Okres Martin
+17.	Okres Turčianske Teplice
+18.	Okres Dolný Kubín
+19.	Okres Námestovo
+20.	Okres Tvrdošín
+21.	Okres Ružomberok
+22.	Okres Liptovský Mikuláš
+<br> <br>
 
 <img width="1149" height="644" alt="02" src="https://github.com/user-attachments/assets/f2b54100-01de-4768-ba1c-f0a551549b79" /> <br>
 ## 1. Cenový index
@@ -114,7 +139,7 @@ Limitáciou analýzy je skutočnosť, že ide o časový snímok ponúk z jedné
 <img width="1148" height="643" alt="05" src="https://github.com/user-attachments/assets/ad39f708-6a6f-4d9e-8c84-154636410e76" /> <br>
 ## 4. Pomer ceny voči výške ročného nájomného 
 **Pomer ceny voči výške ročného nájomného** (*price-to-rent ratio – PTR*) je štandardný porovnávací ukazovateľ, ktorý poukazuje na to, či je výhodnejšie si nehnuteľnosť prenajať alebo vlastniť. Hodnota PTR sa dá voľne interpretovať ako počet rokov potrebný na to, aby súhrnný príjem z prenájmu nehnuteľnosti splatil počiatočnú kúpnu investíciu. Vo všeobecnosti platí, že ak je hodnota PTR nižšia než 15, je z pohľadu záujemcu výhodnejšie si nehnuteľnosť kúpiť než prenajať. Hodnota medzi 16 až 20 naznačuje orientáciu na prenájom a hodnota PTR nad 20 naznačuje silnú orientáciu na prenájom. Z pohľadu investora je výhodné, pokiaľ je hodnota PTR čo najnižšia, pretože je potrebných menej ročných nájmov na dosiahnutie zisku.  
-<br> <br>
+<br>
 Cieľom tejto analýzy bolo identifikovať v prvom rade kombinácie vlastností nehnuteľností vykazujúce PTR nižšie ako 15, prípadne nižšie ako 20. Cena a nájomné boli porovnávané len pre nehnuteľnosti rovnakého typu, v rovnakom stave a v rovnakej lokalite. V prípade nejednoznačných záverov bola odvodená cenová úroveň na základe jestvujúcich ponúk, pri ktorej by bola investičná kúpa stále ešte výhodná (PTR < 15, resp. PTR < 20). Je potrebné ešte dodať, že v záujme dosiahnutia dobre prenajímateľnosti boli zahrnuté len lokality s priaznivým podielom nájomných ponúk (20% – 40%).
 ### 4.1 Pre PTR nižšie ako 15 (výhodná investícia)
   - Typ nehnuteľnosti s najlepším predpokladom na dosiahnutie PTR nižšieho ako 15 je **dvojizbový byt**.
@@ -205,7 +230,7 @@ Tento model bol vytvorený s cieľom určiť, aký dopad majú jednotlivé vlast
 | developerský projekt    | 53%                 | 47%              |
 
   - Z uvedenej tabuľky vidno **dva faktory, ktoré ovplyvňujú pomer hodnoty pozemku a domu** – **stav nehnuteľnosti** a **jej dostupnosť v reálnom čase**. Čím je dom v lepšom stave, tým väčšiu hodnotu voči pozemku bude mať. Ak však dom nie je ešte k dispozícií kvôli výstavbe, hoci v budúcnosti pôjde o novostavbu, jeho hodnota voči pozemku bude nižšia.
-### 6.4
+### 6.4 Stav
   - Ak sa pozrieme na cenu celej nehnuteľnosti, t. j. domu a pozemku, rovnako môžeme pozorovať, že čím je dom v lepšom stave, tým je jeho cena vyššia (pokiaľ nejde o dom vo výstavbe).
   -	**Dom, ktorý nie je ešte dostavaný, je na rovnakej cenovej úrovni ako dom s kompletnou rekonštrukciou**.
   - **Ide o iný trend ako v prípade bytov**. To, že je byt v príprave, má dvojnásobne taký priaznivý dopad na cenu v porovnaní s tým, ak ide o byt-novostavbu. Inými slovami to, že bude byt k dispozícii až v budúcnosti zvyšuje jeho cenu. Na druhej strane ak bude dom k dispozícii až v budúcnosti, jeho cena bude v porovnaní s novostavbou, ktorá je k dispozícii už dnes, nižšia.
@@ -457,7 +482,6 @@ Z hľadiska pôsobenia realitných kancelárii ide o **okres s výraznou konkure
   - **Tretí najnižší priemerný vek nehnuteľností** (26 rokov)
   - **Najdrahší okres z pohľadu cien** (cenový index 13%)
   - **Najdrahší okres z pohľadu nájmu** (nájomný index 10%)
-<br> <br>
 ### 13.2 Byty podľa typu
   - Drvivo **prevažujú stredne veľké byty** (dvojizbové a trojizbové) – takmer 70% celkovej ponuky. Malé byty (garsónky a jednoizbový byty) tvoria približne 10% ponuky a veľké byty (4+ izbové byty) tvoria takmer 20% ponuky. Ide o viac-menej bežnú distribúciu bytov v rámci Slovenska.
   - V okrese Žilina sa nájde **aj niekoľko apartmánov** (8), čo naznačuje určitý rekreačný potenciál.
